@@ -14,7 +14,7 @@ Overzicht van gebruikte gegevens:
 | ZHO | G01/01-...-12   |G01/01-...-12    |
 | Enschede-Gronau | G01/01-...-12   |G01/11-12    |
 | Arriva|||
-| Gelderland-Trein|O10/11|HB/01-…-12|
+| Gelderland-Trein|HB/01-…-12|HB/01-…-12|
 | Nijmegen-Roermond|-|-|
 |Vechtdallijnen|HB/01-…-12|HB/01-…-12|
 |Arnhem-Düsseldorf|Bij Gelderland Trein|Bij Gelderland Trein|
