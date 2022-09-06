@@ -1,27 +1,29 @@
 # OV_Oost_reizigers
 
-•	XX = Jaartotaal
-•	YY = Jaargemiddelde
-•	01, 02, …., = maand(en)
+- 	XX = Jaartotaal
+- 	YY = Jaargemiddelde
+- 	01, 02, …., = maand(en)
 
-##Bus
-| Concessie  | 2019 | 2020 | 2021| Opmerking
-| IJsselmond Overijssel|HB_log XX | HB_log XX | HB_log XX
-| IJsselmond Flevoland|HB_log XX | HB_log XX | HB_log XX
-| Veluwe |G01/01-...-12 | G01/01-...-12  | n.v.t.
-| Midden-Overijssel |G01/01-...-12 | G01/01-...-12  | n.v.t.
-| Ijssel-Vecht | n.v.t.  | n.v.t. | G01/01-...-12
-| Twente |G01/01-...-12 | G01/01-...-12  | G01/01-...-12
-| Breng-bus |HB_log XX (ZA/ZO) / 01-…-12 (WERK) | HB_log XX (ZA/ZO) / 01-…-12 (WERK) | HB_log XX (ZA/ZO) / 01-…-12 (WERK)
-| Achterhoek-Rivierenland | |  |
-| Limburg| |  |
-| Friesland| |  |
-| Brabant| |  |
+## Bus
 
-##Trein
+| Concessie  | 2019 | 2020 | 2021| Opmerking |
+| ------------ | ------------ | ------------ | ------------ |------------ |
+| IJsselmond Overijssel|HB_log XX | HB_log XX | HB_log XX|
+| IJsselmond Flevoland|HB_log XX | HB_log XX | HB_log XX| 
+| Veluwe |G01/01-...-12 | G01/01-...-12  | n.v.t.| 
+| Midden-Overijssel |G01/01-...-12 | G01/01-...-12  | n.v.t.|
+| Ijssel-Vecht | n.v.t.  | n.v.t. | G01/01-...-12|
+| Twente |G01/01-...-12 | G01/01-...-12  | G01/01-...-12|
+| Breng-bus |HB_log XX (ZA/ZO) / 01-…-12 (WERK) | HB_log XX (ZA/ZO) / 01-…-12 (WERK) | HB_log XX (ZA/ZO) / 01-…-12 (WERK)|
+| Achterhoek-Rivierenland | |  ||
+| Limburg| |  ||
+| Friesland| |  ||
+| Brabant| |  ||
 
-| Concessie  | 2019 | 2020 | 2021| Opmerking
-|---|---|---|
+## Trein
+
+| Concessie  | 2019 | 2020 | 2021| Opmerking|
+| ------------ | ------------ | ------------ | ------------ |------------ |
 | Keolis  |   |   |
 | Zwolle-Kampen  |G01/01-...-12 |G01/01-...-12    |G01/01-...-12
 | Zwolle-Enschede  | G01/01-...-12   |G01/01-...-12    | G01/01-...-12
