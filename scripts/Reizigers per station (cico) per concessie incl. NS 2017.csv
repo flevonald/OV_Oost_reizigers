@@ -1,0 +1,77 @@
+STATION,CONCESSIE,INSTAP_WERK,UITSTAP_WERK,INSTAP_ZA,UITSTAP_ZA,INSTAP_ZO,UITSTAP_ZO
+Almelo,NS,5430,5430,0,0,0,0
+Almelo de Riet,NS,622,622,0,0,0,0
+Almere Buiten,NS,3657,3657,0,0,0,0
+Almere Centrum,NS,12944,12944,0,0,0,0
+Almere Muziekwijk,NS,3200,3200,0,0,0,0
+Almere Oostvaarders,NS,2164,2164,0,0,0,0
+Almere Parkwijk,NS,1554,1554,0,0,0,0
+Almere Poort,NS,2220,2220,0,0,0,0
+Amersfoort Centraal,NS,21302,21302,0,0,0,0
+Amersfoort Centraal,Valleilijn,3526,3143,1804,1398,1293,995
+Apeldoorn,NS,7517,7517,0,0,0,0
+Apeldoorn Osseveld,NS,599,599,0,0,0,0
+Arnhem Centraal,NS,21494,21494,0,0,0,0
+Arnhem Presikhaaf,NS,1384,1384,0,0,0,0
+Arnhem Velperpoort,NS,1000,1000,0,0,0,0
+Arnhem Zuid,NS,1458,1458,0,0,0,0
+Assen,NS,4162,4162,0,0,0,0
+Barneveld Centrum,Valleilijn,1503,1438,665,559,370,312
+Barneveld Noord,Valleilijn,452,435,138,124,99,73
+Barneveld Zuid,Valleilijn,330,318,114,108,61,56
+Beilen,NS,1036,1036,0,0,0,0
+Borne,NS,1096,1096,0,0,0,0
+Brummen,NS,530,530,0,0,0,0
+Culemborg,NS,4352,4352,0,0,0,0
+Delden,TZUHO,226,94,138,58,74,34
+Deventer,NS,10392,10392,0,0,0,0
+Deventer Colmschate,NS,691,691,0,0,0,0
+Dieren,NS,1852,1852,0,0,0,0
+Dronten,NS,1726,1726,0,0,0,0
+Ede Centrum,Valleilijn,525,488,420,403,207,189
+Ede-Wageningen,NS,8946,8946,0,0,0,0
+Ede-Wageningen,Valleilijn,1362,1229,779,635,502,532
+Elst,NS,1970,1970,0,0,0,0
+Enschede,NS,8779,8779,0,0,0,0
+Enschede Kennispark,NS,1126,1126,0,0,0,0
+Ermelo,NS,1484,1484,0,0,0,0
+Geldermalsen,NS,3160,3160,0,0,0,0
+Goor,TZUHO,563,239,227,115,129,75
+Harderwijk,NS,2940,2940,0,0,0,0
+Hengelo,NS,6460,6460,0,0,0,0
+Hengelo,TZUHO,798,1300,306,573,230,522
+Hengelo Gezondheidspark,TZUHO,107,75,37,28,20,22
+Hengelo Oost,TZUHO,48,117,32,71,19,52
+Hoevelaken,Valleilijn,575,561,204,209,141,119
+Holten,NS,646,646,0,0,0,0
+Hoogeveen,NS,2337,2337,0,0,0,0
+Kampen Zuid,NS,867,867,0,0,0,0
+Lelystad Centrum,NS,7076,7076,0,0,0,0
+Lochem,TZUHO,168,326,74,165,64,116
+Lunteren,Valleilijn,402,380,324,256,161,122
+Meppel,NS,2994,2994,0,0,0,0
+Nijkerk,NS,1816,1816,0,0,0,0
+Nijmegen,NS,22352,22352,0,0,0,0
+Nijmegen Dukenburg,NS,1091,1091,0,0,0,0
+Nijmegen Goffert,NS,618,618,0,0,0,0
+Nijmegen Lent,NS,626,626,0,0,0,0
+Nunspeet,NS,1412,1412,0,0,0,0
+Oldenzaal,TZUHO,950,860,427,338,413,235
+Olst,NS,613,613,0,0,0,0
+Putten,NS,958,958,0,0,0,0
+Rheden,NS,416,416,0,0,0,0
+Rijssen,NS,1214,1214,0,0,0,0
+Steenwijk,NS,1823,1823,0,0,0,0
+Tiel,NS,1818,1818,0,0,0,0
+Tiel Passewaaij,NS,778,778,0,0,0,0
+Twello,NS,738,738,0,0,0,0
+Velp,NS,736,736,0,0,0,0
+Wezep,NS,542,542,0,0,0,0
+Wierden,NS,903,903,0,0,0,0
+Wijchen,NS,2140,2140,0,0,0,0
+Wijhe,NS,607,607,0,0,0,0
+Wolfheze,NS,279,279,0,0,0,0
+Zaltbommel,NS,1868,1868,0,0,0,0
+Zutphen,NS,5968,5968,0,0,0,0
+Zutphen,TZUHO,1291,1224,805,720,696,750
+Zwolle,NS,22754,22754,0,0,0,0
