@@ -1,5 +1,22 @@
 # OV_Oost_reizigers
 
+NS levert alleen voor werkdagen gegevens.
+Het zijn alleen cico gegevens.
+Het zijn daggemiddelde per dagtype.
+
+## De beschrijving:
+-	Reizigers per station inclusief NS: Alle concessies bij elkaar opgeteld.
+-	Reizigers per station per concessie: voor de OV-Oost concessies
+-	Reizigers per station: alleen voor de OV-Oost concessies.
+	
+## Downloaden
+1.	Ga naar de map met daarin het bestand. 
+2.	Klik op het bestand.
+3.	Op de bestandspagina, klik rechtsboven in het frame op de knop 'Raw'.
+4.	Rechtsklik op de pagina en selecteerd 'Pagina opslaan als...' en kies de locatie om het op te slaan.
+
+
+##
 - 	XX = Jaartotaal
 - 	YY = Jaargemiddelde
 - 	01, 02, …., = maand(en)
