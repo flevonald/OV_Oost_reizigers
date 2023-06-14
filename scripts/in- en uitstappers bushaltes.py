@@ -16,6 +16,7 @@ YY = jaargemiddelde
 import pandas as pd
 import os
 import calendar
+import timeit
 from folders import G01_folder, CHB_folder, HB_folder
 #%% 
 def O10_to_G01(df):    
@@ -69,6 +70,8 @@ def leading_zero(a):
         return '0'+a
     else:
         return a
+#%% Input
+filter_jaar = '2022'
 #%%
 
 dtype_g01 = {'HNR':str, 'JAAR':str, 'MAAND':str, 'LN_ID_OV_MIJ':str, 'NR_CONS_GEB':str}
@@ -97,15 +100,15 @@ feestzaterdagen = {'2019':['27-4-2019'], #bevrijdingsdag op zondag
 
 
 #laad CHB gegevens
-df_chb = pd.read_csv(os.path.join(CHB_folder,'CHB_transformed.csv'), sep=';',
+df_chb = pd.read_csv(os.path.join(CHB_folder,f'CHB_quays_{int(filter_jaar ) + 1}-01-01.csv'), sep=';',
                      usecols=['stopplacecode','quaycode', 'name','town','rd-x', 'rd-y'])
 df_chb.columns = [x.upper() for x in df_chb.columns]
 
 PSA_tabel = pd.read_csv(os.path.join('C:\\','data','CHB','PSA_tabel.csv'), sep=',')
 PSA_tabel.columns = [x.upper() for x in PSA_tabel.columns]
 
-#%% Input
-filter_jaar = '2022'
+
+
 #%% KEOLIS / SYNTUS
 busconcessies = ['17','18','19','21','300']
 
@@ -143,17 +146,60 @@ for maandfolder in os.listdir(os.path.join(G01_folder,'KEOLIS')):
 # df_keolis.loc['LIJN'] = df_keolis['LN_ID_OV_MIJ'].replace(lijn)
   
 df_keolis = df_keolis.rename(columns={'HNR':'HALTECODE','NR_CONS_GEB':'CONCESSIE'})
+df_keolis.loc[df_keolis['CONCESSIE'].isin(['17','301','302','303']),'CONCESSIE'] =  '300'
 df_keolis['DATAOWNERCODE'] = 'KEOLIS'
 df_keolis['MAAND'] = df_keolis['MAAND'].astype(str).apply(leading_zero)
 
 print("Klaar met Keolis")
+#%% EBS
+PSA_tabel_ebs = PSA_tabel.loc[PSA_tabel['DATAOWNERCODE'] == 'EBS'].set_index('USERSTOPCODE')['QUAYCODE'].to_dict()
+chb_ebs_dict = df_chb.loc[df_chb['QUAYCODE'].isin(PSA_tabel_ebs.values())].set_index('QUAYCODE')['STOPPLACECODE'].to_dict()
+#maak een los dataframe om de gegevens van EBS in te plaatsen
+df_ebs = pd.DataFrame()
+
+# de bestanden voor KEOLIS zitten in een map per maand
+for concessiefile in os.listdir(os.path.join(G01_folder,'EBS')):
+    if not concessiefile.split('_')[1] == filter_jaar:
+        continue
+    print(concessiefile)
+    #per modaliteit
+    # in de tabel staat een rij met de totalen per uurblok per lijn voor een maand
+    df_concessie = pd.read_csv(os.path.join(G01_folder, 'EBS', concessiefile),
+                               encoding='latin-1',sep=";", dtype = dtype_g01)
+    df_concessie['HNR'] = df_concessie['HNR'].str.strip()
+    df_concessie['LN_ID_OV_MIJ'] = df_concessie['LN_ID_OV_MIJ'].str.strip()
+    df_concessie = tel_vakantie_en_niet_vakantie_op(df_concessie)
+    df_concessie.loc[df_concessie['HNR'].map(PSA_tabel_ebs).notna(),'QUAYCODE'] = df_concessie['HNR'].map(PSA_tabel_ebs)
+    df_concessie['STOPPLACECODE'] = df_concessie['QUAYCODE'].map(chb_ebs_dict)
+    
+    df_ebs = pd.concat([df_ebs,df_concessie])
+
+# om later ook bestanden op publiekslijn mogelijk te maken voen
+# lijn = pd.concat([pd.read_csv("C:\data\kv1\{}\LINEXXXXXX.TMI".format(x), sep = '|',dtype={'[LinePlanningNumber]':str}) for x in ['KEOLIS','SYNTUS']]) 
+# lijn = lijn.set_index('[LinePlanningNumber]')['[LinePublicNumber]'].to_dict()
+
+# df_keolis.loc['LIJN'] = df_keolis['LN_ID_OV_MIJ'].replace(lijn)
+  
+df_ebs = df_ebs.rename(columns={'HNR':'HALTECODE','NR_CONS_GEB':'CONCESSIE'})
+df_ebs.loc[df_ebs['CONCESSIE'].isin(['17','301','302','303']),'CONCESSIE'] =  '300'
+df_ebs['DATAOWNERCODE'] = 'EBS'
+df_ebs['MAAND'] = df_ebs['MAAND'].astype(str).apply(leading_zero)
+
+print("Klaar met EBS")
 #%% ARRIVA LLS
+PSA_tabel_arriva = PSA_tabel.loc[PSA_tabel['DATAOWNERCODE'] == 'ARR'].set_index('USERSTOPCODE')['QUAYCODE'].to_dict()
+PSA_tabel_arriva['62571270'] = 'NL:Q:62571270'
+chb_arriva_dict = df_chb.loc[df_chb['QUAYCODE'].isin(PSA_tabel_arriva.values())].set_index('QUAYCODE')['STOPPLACECODE'].to_dict()
+
 df_arr_lls = pd.DataFrame()
 for g01_file in os.listdir(os.path.join(G01_folder,'lelystad')):
     if g01_file.split('_')[1] == filter_jaar:
         print(g01_file)       
         df_arr_lls_file = pd.read_excel(os.path.join(G01_folder,'lelystad',g01_file), dtype = dtype_g01)
-        df_arr_lls_file = df_arr_lls_file.rename(columns={'HNR':'STOPPLACECODE'})
+
+        df_arr_lls_file['QUAYCODE'] = df_arr_lls_file['HNR'].replace(PSA_tabel_arriva)
+        df_arr_lls_file['STOPPLACECODE'] = df_arr_lls_file['QUAYCODE'].replace(chb_arriva_dict)
+        
         df_arr_lls_file = tel_vakantie_en_niet_vakantie_op(df_arr_lls_file)
         
         #data aanvulling en correctie
@@ -163,9 +209,15 @@ for g01_file in os.listdir(os.path.join(G01_folder,'lelystad')):
         df_arr_lls_file['STOPPLACECODE'] = df_arr_lls_file['STOPPLACECODE'].replace({'5309':'NL:S:49005400','5330':'NL:S:49001210',
                             '5362':'NL:S:49000570','17070':'NL:S:49000630','17069': 'NL:S:49000620'})
         df_arr_lls_file = df_arr_lls_file.loc[df_arr_lls_file['STOPPLACECODE']!='-1']
-        df_arr_lls = df_arr_lls.append(df_arr_lls_file)
+        df_arr_lls = pd.concat([df_arr_lls,df_arr_lls_file])
+        
 if df_arr_lls.empty:
     df_arr_lls = pd.DataFrame(columns= g01_kolommen)
+else:
+    koppeling_arriva = pd.read_excel(r"C:\data\O10\Arriva Koppeling.xlsx",
+                dtype= {'HNR':str}, usecols=['HNR', 'stopplacecode']).dropna().set_index('HNR')['stopplacecode'].to_dict()
+
+    df_arr_lls['STOPPLACECODE'] = df_arr_lls['STOPPLACECODE'].astype(str).replace(koppeling_arriva)
 print("Klaar met Arriva Lelystad")
 #%% ARRIVA AR 2019 heeft O10 formaat
 # def read_arriva_o10(concessie):
@@ -212,24 +264,45 @@ def arr_to_G01(df_arriva):
     df_arriva_jaar = df_arriva_jaar.reset_index()
     return df_arriva_jaar     
 
-dtype_arr = {'Jaar':str,'Maand':str}
+dtype_arr = {'Jaar':str,'Maand':str, 'MAAND':str, 'JAAR':str, 'HNR':str}
+
 try:                  
+    tic=timeit.default_timer()
+
     df_arr = pd.read_excel(os.path.join(G01_folder,'Arriva',r'in-_en_uitstappers_per_halte_{} (G01) bus.xlsx'.format(
                 filter_jaar)),dtype=dtype_arr, sheet_name='G01_ovc')
+    toc=timeit.default_timer()
+
+
+    print(f'Arriva gelezen in {toc - tic}')
+    
     df_arr = df_arr.rename(columns={"Subconcessie":'CONCESSIE'})
     df_arr.columns = df_arr.columns.str.upper()
-    df_arr['DAGTYPE'] = df_arr['KALENDERDAG'].map({'Ma':'WERK','Di':'WERK', 'Wo':'WERK', 'Do':'WERK', 'Vr':'WERK', 'Za':'ZA', 'Zo':'ZO'})
-    df_arr.loc[df_arr['DATUM'].isin(feestzondagen[filter_jaar]),'DAGTYPE'] = 'ZO'
-    df_arr.loc[df_arr['DATUM'].isin(feestzaterdagen[filter_jaar]),'DAGTYPE'] = 'ZA'
-    df_arr_g01 = arr_to_G01(df_arr)
+    if filter_jaar == '2022':
+        df_arr_g01 = tel_vakantie_en_niet_vakantie_op(df_arr)
+    else: 
+        df_arr['DAGTYPE'] = df_arr['KALENDERDAG'].map({'Ma':'WERK','Di':'WERK', 'Wo':'WERK', 'Do':'WERK', 'Vr':'WERK', 'Za':'ZA', 'Zo':'ZO'})    
+        df_arr.loc[df_arr['DATUM'].isin(feestzondagen[filter_jaar]),'DAGTYPE'] = 'ZO'
+        df_arr.loc[df_arr['DATUM'].isin(feestzaterdagen[filter_jaar]),'DAGTYPE'] = 'ZA'
+        df_arr_g01 = arr_to_G01(df_arr)
     
-    koppeling_arriva = pd.read_excel(r"C:\data\O19\Arriva Koppeling.xlsx").set_index('code_lang')['stopplacecode'].to_dict()
-    df_arr_g01['STOPPLACECODE'] = df_arr_g01['HALTE'].replace(koppeling_arriva)
+    if filter_jaar == '2022':
+        df_arr_g01['QUAYCODE'] = df_arr_g01['HNR'].replace(PSA_tabel_arriva)
+        df_arr_g01['STOPPLACECODE'] = df_arr_g01['QUAYCODE'].replace(chb_arriva_dict)
+        koppeling_arriva = pd.read_excel(r"C:\data\O10\Arriva Koppeling.xlsx",
+                dtype= dtype_arr, usecols=['HNR', 'stopplacecode']).dropna().set_index('HNR')['stopplacecode'].to_dict()
+        df_arr_g01['STOPPLACECODE'] = df_arr_g01['STOPPLACECODE'].astype(str).replace(koppeling_arriva)
+    else: 
+        df_arr_g01['STOPPLACECODE'] = df_arr_g01['HALTE'].replace(koppeling_arriva)
     df_arr_g01['DATAOWNERCODE'] = 'ARR'
+    df_arr_g01['CONCESSIE'] = 'ACH-RIV'
     # in plaats van '1' '01' als maandnummer
     df_arr_g01['MAAND'] = df_arr_g01['MAAND'].apply(leading_zero)
     # een paar aparte haltes in de data die we niet meenemen.
-    df_arr_g01 = df_arr_g01.loc[~df_arr_g01['HALTE'].isin(['Mp Leonard','Kdl Europarcs','Kdl de Zandmeren'])]
+    df_arr_g01 = df_arr_g01.loc[~df_arr_g01['HALTE'].isin(['Concessiegrens Twente - Achterhoek, Concessiegrens'
+                    'Mp Leonard','Kdl Europarcs','Kdl de Zandmeren', 'Unknown'])]
+    df_arr_g01 = df_arr_g01.loc[~df_arr_g01['HNR'].isin(['44310020'])]
+    
 except FileNotFoundError:
     df_arr_g01 = pd.DataFrame(columns= g01_kolommen)
     print(f'Gegevens voor {filter_jaar} niet beschikbaar bij Arriva')
@@ -289,6 +362,7 @@ print("Klaar met Connexxion")
 #%% totaal tabel
 
 df_totaal = pd.concat([df_keolis[g01_kolommen],
+                       df_ebs[g01_kolommen],
                        df_arr_g01[g01_kolommen],
                         df_arr_g01[g01_kolommen],
                         df_arr_lls[g01_kolommen],
@@ -323,8 +397,8 @@ def bepaling_per_halte(level):
     
         # jaargemiddelde is nog niet aanwezig bij bushaltes
         if 'YY' in df_tot_conc['MAAND'].to_list():
-            df_halte_c = df_tot_conc.loc[df_group['MAAND']=='YY'].groupby([level])[reizigerskolommen].sum()
-            # return df_group_o
+            df_group_o = df_tot_conc.loc[df_group['MAAND']=='YY'].groupby([level])[reizigerskolommen].sum()
+            return df_group_o
         
         # jaartotaal
         if 'XX' in df_tot_conc['MAAND'].to_list():
@@ -366,12 +440,12 @@ def bepaling_per_halte(level):
     #VOEG NAAM EN PLAATS VAN STOPPLACE TOE op basis van chb
     df_per_halte_chb = df_per_halte.merge(df_chb[[level,'NAME','TOWN']].drop_duplicates(level), on=[level], how='left')
     
-    df_per_halte_chb[[level,'NAME','TOWN']+reizigerskolommen].to_csv(f'..\instappers per halte {filter_jaar}.csv',sep=';', decimal=',', index=False)
+    df_per_halte_chb[[level,'NAME','TOWN']+reizigerskolommen].to_csv(f'../instappers per halte/instappers per halte {filter_jaar}.csv',sep=';', decimal=',', index=False)
     # voeg coördinaten toe (gemiddelde van quays per stopplace, afgerond op 1 decimaal (0.1m))
     stopplace_coordinates = df_chb.groupby(level)[['RD-X','RD-Y']].mean().round(1).reset_index()
     df_per_halte_coord = df_per_halte_chb.merge(stopplace_coordinates, on=level)
-    df_per_halte_coord.to_csv(f'..\instappers per halte {filter_jaar} met coordinaten.csv', sep=';', index=False)
-
+    # df_per_halte_coord.to_csv(f'../instappers per halte/instappers per halte {filter_jaar} met coordinaten.csv', sep=';', index=False)
+    return df_per_halte_chb
     print('Reizigers per halte en per concessie bepaald')
 
-bepaling_per_halte('STOPPLACECODE') 
+df_instappers = bepaling_per_halte('STOPPLACECODE') 

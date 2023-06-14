@@ -107,7 +107,7 @@ dagen_per_subtype = {'2015': {'NIETVAK': {'WERK': 130, 'ZA': 28,'ZO': 31},
                             }
                    }
 #%% Input
-filter_jaar = '2020'
+filter_jaar = '2022'
 #%% KEOLIS / SYNTUS
 
 dtype_keolis = {'HNR':str,'JAAR':str, 'MAAND':str}
@@ -319,7 +319,7 @@ for concessie, df_group in df_totaal.groupby(['CONCESSIE']):
 
 if not len(factoren.values()) == 0:
     maandfactoren = pd.concat(factoren.values()).groupby(level=0).mean()
-    maandfactoren.to_csv(f'..maandfactoren/maandfactoren {filter_jaar}.csv')
+    maandfactoren.to_csv(f'../maandfactoren/maandfactoren {filter_jaar}.csv')
 else:
     print('Geen maandfactoren te bepalen')
     pass
