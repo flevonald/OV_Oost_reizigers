@@ -3,15 +3,15 @@ Aalten,GT,379,379,150,150,133,133
 Almelo,TZWEN,1275,1454,389,480,319,317
 Almelo,VD,402,402,200,200,118,118
 Almelo de Riet,TZWEN,276,251,111,100,76,71
-Amersfoort Centraal,Valleilijn,425208,376120,50758,41390,39868,31439
+Amersfoort Centraal,Valleilijn,1661,1469,976,796,699,552
 Apeldoorn,GT,423,423,429,429,309,309
 Apeldoorn De Maten,GT,147,147,66,66,50,50
 Arnhem,BRENG,62,62,37,37,27,27
 Arnhem,GT,2919,2919,1727,1727,1153,1153
 Arnhem Velperpoort,GT,867,867,451,451,288,288
-Barneveld Centrum,Valleilijn,203056,199798,16764,16886,11651,10320
-Barneveld Noord,Valleilijn,67035,65643,5428,5866,4787,3592
-Barneveld Zuid,Valleilijn,52302,50389,4152,4220,2947,2552
+Barneveld Centrum,Valleilijn,793,780,322,325,204,181
+Barneveld Noord,Valleilijn,262,256,104,113,84,63
+Barneveld Zuid,Valleilijn,204,197,80,81,52,45
 Borne,TZWEN,459,456,249,264,223,155
 Coevorden,VD,459,459,208,208,166,166
 Daarlerveen,VD,43,43,15,15,8,8
@@ -22,8 +22,8 @@ Didam,GT,525,525,262,262,198,198
 Doetinchem,GT,1269,1269,515,515,395,395
 Doetinchem De Huet,GT,415,415,182,182,155,155
 Duiven,GT,676,676,409,409,282,282
-Ede Centrum,Valleilijn,69261,69488,12216,12049,6389,6563
-Ede-Wageningen,Valleilijn,190815,178645,24898,21936,16126,20305
+Ede Centrum,Valleilijn,271,271,235,232,112,115
+Ede-Wageningen,Valleilijn,745,698,479,422,283,356
 Elst,GT,370,370,146,146,101,101
 Emmen,VD,586,586,352,352,284,284
 Emmen Zuid,VD,185,185,94,94,94,94
@@ -43,14 +43,14 @@ Hengelo,TZUHO,1496,1512,703,667,437,615
 Hengelo,TZWEN,1912,1908,782,872,712,518
 Hengelo Gezondheidspark,TZUHO,125,125,48,51,34,32
 Hengelo Oost,TZUHO,133,116,85,76,49,48
-Hoevelaken,Valleilijn,70537,68124,6785,7567,5487,4734
+Hoevelaken,Valleilijn,276,266,130,146,96,83
 Kampen,TZWKA,1124,1100,532,530,364,296
 Kesteren,GT,192,192,57,57,38,38
 Klarenbeek,GT,49,49,26,26,24,24
 Lichtenvoorde-Groenlo,GT,281,281,151,151,200,200
 Lichtenvoorde-Groenlo,Onbekend,7,7,7,7,5,5
 Lochem,TZUHO,302,304,143,165,150,94
-Lunteren,Valleilijn,54529,54169,7645,7850,5295,4687
+Lunteren,Valleilijn,213,212,147,151,93,82
 Mariënberg,GT,1,1,0,0,0,0
 Mariënberg,VD,351,351,198,198,156,156
 Nieuw Amsterdam,VD,167,167,78,78,78,78

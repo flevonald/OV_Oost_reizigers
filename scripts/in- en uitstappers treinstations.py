@@ -18,7 +18,6 @@ YY = jaargemiddelde
 import pandas as pd
 import os
 import calendar
-import geopandas as gpd
 
 from folders import G01_folder, PMR_folder, HB_folder
 #%% 
@@ -36,7 +35,10 @@ def tel_vakantie_en_niet_vakantie_op(df):
 def tel_vakantie_en_niet_vakantie_op_yy(df,dagen_per_subtype, filter_jaar):
     for plek in ['INSTAP', 'UITSTAP']:        
         for dagtype in ['WERK', 'ZA', 'ZO']:
-            df[f'{plek}_{dagtype}'] = df[f'{plek}_{dagtype}_NIETVAK'] * dagen_per_subtype[filter_jaar]['NIETVAK'][dagtype] + df[f'{plek}_{dagtype}_VAK'] * dagen_per_subtype[filter_jaar]['VAK'][dagtype]
+            df[f'{plek}_{dagtype}'] = ((df[f'{plek}_{dagtype}_NIETVAK'] * dagen_per_subtype[filter_jaar]['NIETVAK'][dagtype] + 
+                                       df[f'{plek}_{dagtype}_VAK'] * dagen_per_subtype[filter_jaar]['VAK'][dagtype]) / (
+                                           dagen_per_subtype[filter_jaar]['NIETVAK'][dagtype] + 
+                                           dagen_per_subtype[filter_jaar]['VAK'][dagtype]))
     return df 
 
 def per_dagtype(dagtype, jaar, maand, ritten):
@@ -107,7 +109,7 @@ dagen_per_subtype = {'2015': {'NIETVAK': {'WERK': 130, 'ZA': 28,'ZO': 31},
                             }
                    }
 #%% Input
-filter_jaar = '2022'
+filter_jaar = '2021'
 #%% KEOLIS / SYNTUS
 
 dtype_keolis = {'HNR':str,'JAAR':str, 'MAAND':str}
@@ -298,7 +300,7 @@ print("Klaar met Connexxion")
 reizigerskolommen = ['INSTAP_WERK', 'UITSTAP_WERK', 'INSTAP_ZA', 'UITSTAP_ZA',
                                'INSTAP_ZO', 'UITSTAP_ZO']
 df_totaal = pd.DataFrame()
-df_totaal = pd.concat([df_keolis, df_arriva, df_connexxion])
+df_totaal = pd.concat([df_keolis, df_arriva, df_connexxion]) # 
 df_totaal = df_totaal.sort_values(['STATION','JAAR','MAAND'])
 
 df_totaal_incl_ns = pd.concat([df_totaal,ns_instappers])
@@ -325,24 +327,27 @@ else:
     pass
 
 def jaargemiddeld_per_concessie(df_totaal):
+#%%
     df_jaargemiddelde_per_station_concessie = pd.DataFrame()
     
     for concessie, df_group in df_totaal.groupby(['STATION','CONCESSIE']):  
         maandset = {'01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'}
         df_group_x = None
-    
         if 'YY' in df_group['MAAND'].to_list():
             df_group_o = df_group.groupby(['STATION','CONCESSIE'])[reizigerskolommen].sum()
+            
             # return df_group_o
         
-        if 'XX' in df_group['MAAND'].to_list():
+        elif 'XX' in df_group['MAAND'].to_list():
+            
             df_group_x = df_group.loc[df_group['MAAND']=='XX']
             df_group_x = df_group_x.groupby(['STATION','CONCESSIE'])[reizigerskolommen].sum()
             df_group_x = jaar_totaal_naar_gemiddelde(df_group_x)
             
             df_group_o = df_group_x
             
-        if maandset.issubset(set(df_group['MAAND'].to_list())):
+        elif maandset.issubset(set(df_group['MAAND'].to_list())):
+            
             df_group_m = df_group.loc[df_group['MAAND'].isin(maandset)]
             df_group_m = df_group_m.groupby(['STATION','CONCESSIE'])[['INSTAP_WERK', 'UITSTAP_WERK', 'INSTAP_ZA', 'UITSTAP_ZA',
                                     'INSTAP_ZO', 'UITSTAP_ZO']].sum()
@@ -352,6 +357,7 @@ def jaargemiddeld_per_concessie(df_totaal):
             else:
                 df_group_o = df_group_m 
         elif ('YY' not in df_group['MAAND'].to_list()) & ('XX' not in df_group['MAAND'].to_list()):
+            
             df_group_o = df_group.set_index('MAAND')
             df_group_o[reizigerskolommen] = df_group_o[reizigerskolommen]/maandfactoren.loc[df_group_o.index]
             df_group_o = df_group_o.groupby(['STATION','CONCESSIE'])[reizigerskolommen].mean().fillna(0)
@@ -363,6 +369,7 @@ def jaargemiddeld_per_concessie(df_totaal):
         
         df_jaargemiddelde_per_station_concessie = pd.concat([df_jaargemiddelde_per_station_concessie, df_group_o.reset_index()])
     df_jaargemiddelde_per_station = df_jaargemiddelde_per_station_concessie.groupby(['STATION'])[reizigerskolommen].sum().reset_index()             
+#%%
     return df_jaargemiddelde_per_station_concessie, df_jaargemiddelde_per_station
 #%%
 gem_per_station_concessie, gem_per_station = jaargemiddeld_per_concessie(df_totaal)
@@ -374,7 +381,7 @@ gem_per_station.to_csv(f'../Reizigers per station/Reizigers per station (cico) {
 # gem_per_station.to_excel(f'Reizigers per station (cico) {filter_jaar}.xlsx', index=False)
 
 df_per_station_concessie_ns, df_per_station_ns = jaargemiddeld_per_concessie(df_totaal_incl_ns)
-df_per_station_concessie_ns.to_csv(f'../Reizigers per station (cico) per concessie incl. NS {filter_jaar}.csv', sep=',', decimal = '.', index=False)
+df_per_station_concessie_ns.to_csv(f'../Reizigers per station per concessie inclusief NS/Reizigers per station (cico) per concessie incl. NS {filter_jaar}.csv', sep=',', decimal = '.', index=False)
 # df_per_station_ns.to_csv(f'../Reizigers per station inclusief NS/Reizigers per station inclusief NS (cico) {filter_jaar}.csv', sep=',', decimal = '.', index=False)
 # df_per_station_ns.to_excel(f'Reizigers per station incl. NS (cico) incl. NS {filter_jaar}.xlsx', index=False)
 

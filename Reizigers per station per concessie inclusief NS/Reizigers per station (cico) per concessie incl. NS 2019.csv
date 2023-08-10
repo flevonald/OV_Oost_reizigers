@@ -1,4 +1,5 @@
 STATION,CONCESSIE,INSTAP_WERK,UITSTAP_WERK,INSTAP_ZA,UITSTAP_ZA,INSTAP_ZO,UITSTAP_ZO
+'t Harde,NS,730,730,0,0,0,0
 Aalten,GT,538,538,223,223,201,201
 Almelo,NS,4052,4052,0,0,0,0
 Almelo,TZWEN,2228,2354,577,678,510,495
@@ -12,7 +13,7 @@ Almere Oostvaarders,NS,2266,2266,0,0,0,0
 Almere Parkwijk,NS,1800,1800,0,0,0,0
 Almere Poort,NS,2845,2845,0,0,0,0
 Amersfoort Centraal,NS,22416,22416,0,0,0,0
-Amersfoort Centraal,Valleilijn,853625,771417,79303,69011,60785,50997
+Amersfoort Centraal,Valleilijn,3348,3025,1525,1327,1048,879
 Apeldoorn,GT,523,523,543,543,398,398
 Apeldoorn,NS,7756,7756,0,0,0,0
 Apeldoorn De Maten,GT,267,267,164,164,123,123
@@ -27,9 +28,9 @@ Arnhem Velperpoort,NS,1061,1061,0,0,0,0
 Arnhem Velperpoort,Onbekend,46,46,0,0,0,0
 Arnhem Zuid,NS,1755,1755,0,0,0,0
 Assen,NS,4464,4464,0,0,0,0
-Barneveld Centrum,Valleilijn,373549,370407,30028,29025,19443,17461
-Barneveld Noord,Valleilijn,109247,108584,7450,7661,6189,4432
-Barneveld Zuid,Valleilijn,95440,92540,7485,7136,4262,4094
+Barneveld Centrum,Valleilijn,1465,1453,577,558,335,301
+Barneveld Noord,Valleilijn,428,426,143,147,107,76
+Barneveld Zuid,Valleilijn,374,363,144,137,73,71
 Beilen,NS,1081,1081,0,0,0,0
 Borne,NS,167,167,0,0,0,0
 Borne,TZWEN,844,841,430,422,378,275
@@ -49,9 +50,9 @@ Doetinchem De Huet,GT,651,651,277,277,232,232
 Dronten,NS,1772,1772,0,0,0,0
 Duiven,GT,1104,1104,843,843,528,528
 Duiven,Onbekend,76,76,0,0,0,0
-Ede Centrum,Valleilijn,131155,124434,21432,22078,11582,11729
+Ede Centrum,Valleilijn,514,488,412,425,200,202
 Ede-Wageningen,NS,9838,9838,0,0,0,0
-Ede-Wageningen,Valleilijn,351734,325427,38284,32180,26226,30214
+Ede-Wageningen,Valleilijn,1379,1276,736,619,452,521
 Elst,GT,607,607,197,197,130,130
 Elst,NS,2254,2254,0,0,0,0
 Emmen,VD,910,910,476,476,420,420
@@ -77,7 +78,7 @@ Hengelo,TZUHO,2416,2515,1022,1021,714,989
 Hengelo,TZWEN,3028,3111,1135,1307,1086,841
 Hengelo Gezondheidspark,TZUHO,286,212,97,71,77,49
 Hengelo Oost,TZUHO,180,151,115,99,75,67
-Hoevelaken,Valleilijn,155417,148163,11832,12018,9085,7562
+Hoevelaken,Valleilijn,609,581,228,231,157,130
 Holten,NS,714,714,0,0,0,0
 Hoogeveen,NS,2312,2312,0,0,0,0
 Kampen,TZWKA,1974,1922,788,743,533,434
@@ -87,7 +88,7 @@ Klarenbeek,GT,110,110,59,59,44,44
 Lelystad Centrum,NS,7220,7220,0,0,0,0
 Lichtenvoorde-Groenlo,GT,403,403,209,209,294,294
 Lochem,TZUHO,498,501,221,239,233,150
-Lunteren,Valleilijn,101423,101019,14366,13519,8348,7571
+Lunteren,Valleilijn,398,396,276,260,144,131
 Mariënberg,VD,547,547,276,276,231,231
 Meppel,NS,3196,3196,0,0,0,0
 Nieuw Amsterdam,VD,283,283,120,120,120,120

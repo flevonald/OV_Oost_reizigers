@@ -440,12 +440,12 @@ def bepaling_per_halte(level):
     #VOEG NAAM EN PLAATS VAN STOPPLACE TOE op basis van chb
     df_per_halte_chb = df_per_halte.merge(df_chb[[level,'NAME','TOWN']].drop_duplicates(level), on=[level], how='left')
     
-    df_per_halte_chb[[level,'NAME','TOWN']+reizigerskolommen].to_csv(f'../instappers per halte/instappers per halte {filter_jaar}.csv',sep=';', decimal=',', index=False)
+    df_per_halte_chb[[level,'NAME','TOWN']+reizigerskolommen].to_csv(f'../instappers per halte/instappers per halte Keolis {filter_jaar}.csv',sep=';', decimal=',', index=False)
     # voeg coördinaten toe (gemiddelde van quays per stopplace, afgerond op 1 decimaal (0.1m))
-    stopplace_coordinates = df_chb.groupby(level)[['RD-X','RD-Y']].mean().round(1).reset_index()
-    df_per_halte_coord = df_per_halte_chb.merge(stopplace_coordinates, on=level)
+    # stopplace_coordinates = df_chb.groupby(level)[['RD-X','RD-Y']].mean().round(1).reset_index()
+    # df_per_halte_coord = df_per_halte_chb.merge(stopplace_coordinates, on=level)
     # df_per_halte_coord.to_csv(f'../instappers per halte/instappers per halte {filter_jaar} met coordinaten.csv', sep=';', index=False)
     return df_per_halte_chb
     print('Reizigers per halte en per concessie bepaald')
 
-df_instappers = bepaling_per_halte('STOPPLACECODE') 
+df_instappers = bepaling_per_halte('QUAYCODE') 
