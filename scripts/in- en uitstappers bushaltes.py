@@ -377,11 +377,15 @@ if filter_jaar == '2022':
     
 #%%
 if filter_jaar in ['2023']: 
-    df_arriva = pd.read_csv(r"C:/data/G01/Arriva/20240328_G01_ARRIVA_AHRV_G01_2023.csv", dtype=dtype_g01, sep=';')
+    df_arriva = pd.read_csv(r"C:\data\G01\Arriva\20240328_G01_ARRIVA_AHRV_G01_2023.csv", dtype=dtype_g01, sep=';')
+    
     #filter op treinconcessie
     df_arriva = df_arriva.loc[df_arriva['NR_CONS_GEB'].isin(['20','23'])]
-    df_arriva['DATAOWNERCODE'] = 'ARR' 
-
+    df_arriva = df_arriva.loc[df_arriva['MAAND']!='0']
+    df_arriva['DATAOWNERCODE'] = 'ARR'
+    df_arriva = df_arriva.rename(columns={'NR_CONS_GEB':'CONCESSIE'})
+    
+df_arriva = tel_vakantie_en_niet_vakantie_op(df_arriva)
 df_arriva['QUAYCODE'] = df_arriva['HNR'].replace(PSA_tabel_arriva)
 df_arriva['STOPPLACECODE'] = df_arriva['QUAYCODE'].replace(chb_arriva_dict)
       
@@ -440,7 +444,7 @@ if filter_jaar == '2022':
 print("Klaar met Connexxion")
 
 #%% totaal tabel
-df_lijst = [df_keolis, df_ebs, df_arr_g01, df_arr_22, df_arr_lls, connexxion]
+df_lijst = [df_keolis, df_ebs, df_arriva, df_arr_g01, df_arr_22, df_arr_lls, connexxion]
 dflijst_samenvoegen = [x[g01_kolommen] for x in df_lijst if not x.empty]
 df_totaal = pd.concat(dflijst_samenvoegen)
 
@@ -516,7 +520,7 @@ def bepaling_per_halte(level):
     #VOEG NAAM EN PLAATS VAN STOPPLACE TOE op basis van chb
     df_per_halte_chb = df_per_halte.merge(df_chb[[level,'NAME','TOWN']].drop_duplicates(level), on=[level], how='left')
     
-    df_per_halte_chb[[level,'NAME','TOWN']+reizigerskolommen].to_csv(f'../instappers per {level.lower()} {filter_jaar}.csv',sep=';', decimal=',', index=False)
+    df_per_halte_chb[[level,'NAME','TOWN']+reizigerskolommen].to_csv(f'../instappers per {level.lower()}/instappers per {level.lower()} {filter_jaar}.csv',sep=';', decimal=',', index=False)
     # voeg coördinaten toe (gemiddelde van quays per stopplace, afgerond op 1 decimaal (0.1m))
     # stopplace_coordinates = df_chb.groupby(level)[['RD-X','RD-Y']].mean().round(1).reset_index()
     # df_per_halte_coord = df_per_halte_chb.merge(stopplace_coordinates, on=level)
