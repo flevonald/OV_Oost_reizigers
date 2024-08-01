@@ -1,0 +1,109 @@
+STATION,CONCESSIE,INSTAP_WERK,UITSTAP_WERK,INSTAP_ZA,UITSTAP_ZA,INSTAP_ZO,UITSTAP_ZO
+'t Harde,NS,602,602,0,0,0,0
+-,TAMEW,0,0,0,0,0,0
+Aalten,GT,554,544,249,259,193,136
+Almelo,NS,3209,3209,0,0,0,0
+Almelo de Riet,NS,91,91,0,0,0,0
+Almere Buiten,NS,2500,2500,0,0,0,0
+Almere Centrum,NS,10600,10600,0,0,0,0
+Almere Muziekwijk,NS,2292,2292,0,0,0,0
+Almere Oostvaarders,NS,1924,1924,0,0,0,0
+Almere Parkwijk,NS,1104,1104,0,0,0,0
+Almere Poort,NS,2770,2770,0,0,0,0
+Amersfoort Centraal,NS,18002,18002,0,0,0,0
+Amersfoort Centraal,TAMEW,1815,1828,1088,1107,735,712
+Apeldoorn,GT,1085,1055,726,625,580,592
+Apeldoorn,NS,5928,5928,0,0,0,0
+Apeldoorn De Maten,GT,213,204,101,96,82,66
+Apeldoorn Osseveld,GT,0,0,0,0,0,0
+Apeldoorn Osseveld,NS,546,546,0,0,0,0
+Arnhem Centraal,GT,4954,4724,3078,3060,1958,2367
+Arnhem Centraal,NS,18638,18638,0,0,0,0
+Arnhem Presikhaaf,NS,1124,1124,0,0,0,0
+Arnhem Velperpoort,GT,1173,1373,675,682,453,454
+Arnhem Velperpoort,NS,1050,1050,0,0,0,0
+Arnhem Zuid,GT,0,0,0,0,0,0
+Arnhem Zuid,NS,1594,1594,0,0,0,0
+Assen,GT,0,0,0,0,0,0
+Assen,NS,3662,3662,0,0,0,0
+Barneveld Centrum,TAMEW,787,816,352,350,194,177
+Barneveld Noord,TAMEW,266,265,112,113,76,57
+Barneveld Zuid,TAMEW,204,204,96,94,48,47
+Beilen,NS,898,898,0,0,0,0
+Borne,NS,143,143,0,0,0,0
+Brummen,NS,410,410,0,0,0,0
+Culemborg,NS,3936,3936,0,0,0,0
+Deventer,GT,0,0,0,0,0,0
+Deventer,NS,8752,8752,0,0,0,0
+Deventer Colmschate,NS,569,569,0,0,0,0
+Didam,GT,755,734,392,372,261,225
+Dieren,GT,0,0,0,0,0,0
+Dieren,NS,1658,1658,0,0,0,0
+Doetinchem,GT,1826,1880,853,906,597,520
+Doetinchem De Huet,GT,597,589,296,298,222,182
+Dronten,NS,14050,14050,0,0,0,0
+Duiven,GT,1076,1030,718,662,438,398
+Ede Centrum,TAMEW,272,279,223,236,104,109
+Ede-Wageningen,GT,0,0,0,0,0,0
+Ede-Wageningen,NS,7380,7380,0,0,0,0
+Ede-Wageningen,TAMEW,693,640,383,352,234,304
+Elst,GT,555,707,238,295,153,206
+Elst,NS,1828,1828,0,0,0,0
+Enschede,NS,4152,4152,0,0,0,0
+Enschede Kennispark,NS,172,172,0,0,0,0
+Ermelo,NS,1150,1150,0,0,0,0
+Gaanderen,GT,205,199,156,148,106,90
+Geldermalsen,NS,2796,2796,0,0,0,0
+Harderwijk,NS,2496,2496,0,0,0,0
+Hemmen-Dodewaard,GT,53,51,24,21,16,15
+Hengelo,NS,2972,2972,0,0,0,0
+Hoevelaken,TAMEW,320,317,140,144,89,83
+Holten,NS,578,578,0,0,0,0
+Hoogeveen,NS,1847,1847,0,0,0,0
+Kampen Zuid,NS,806,806,0,0,0,0
+Kesteren,GT,278,272,111,108,65,82
+Klarenbeek,GT,67,67,41,41,40,33
+Lelystad Centrum,NS,5285,5285,0,0,0,0
+Lichtenvoorde-Groenlo,GT,396,416,232,288,289,201
+Lunteren,TAMEW,193,200,142,140,81,71
+Meppel,NS,2781,2781,0,0,0,0
+Nijkerk,NS,1453,1453,0,0,0,0
+Nijmegen,GT,0,15,0,18,0,10
+Nijmegen,NS,19682,19682,0,0,0,0
+Nijmegen Dukenburg,NS,1148,1148,0,0,0,0
+Nijmegen Goffert,NS,818,818,0,0,0,0
+Nijmegen Lent,NS,673,673,0,0,0,0
+Nunspeet,NS,1148,1148,0,0,0,0
+Olst,NS,554,554,0,0,0,0
+Oosterbeek,GT,0,0,0,0,0,0
+Oosterbeek,NS,263,263,0,0,0,0
+Opheusden,GT,132,130,56,50,33,29
+Putten,NS,808,808,0,0,0,0
+Rheden,NS,402,402,0,0,0,0
+Rijssen,NS,1050,1050,0,0,0,0
+Ruurlo,GT,381,377,220,232,225,150
+Steenwijk,NS,1545,1545,0,0,0,0
+Terborg,GT,309,300,176,183,138,106
+Tiel,GT,472,491,254,270,186,153
+Tiel,NS,1432,1432,0,0,0,0
+Tiel Passewaaij,NS,604,604,0,0,0,0
+Twello,NS,574,574,0,0,0,0
+Varsseveld,GT,329,324,184,192,133,108
+Velp,NS,677,677,0,0,0,0
+Voorst-Empe,GT,103,103,39,40,35,32
+Vorden,GT,380,398,203,233,193,166
+Wehl,GT,316,313,174,173,125,99
+Westervoort,GT,514,481,314,283,205,193
+Wezep,NS,464,464,0,0,0,0
+Wierden,NS,538,538,0,0,0,0
+Wijchen,NS,1936,1936,0,0,0,0
+Wijhe,NS,492,492,0,0,0,0
+Winterswijk,GT,912,898,509,526,400,338
+Winterswijk West,GT,135,142,61,73,72,54
+Wolfheze,NS,286,286,0,0,0,0
+Zaltbommel,NS,1636,1636,0,0,0,0
+Zetten-Andelst,GT,274,260,163,150,106,96
+Zevenaar,GT,1383,1337,765,735,505,451
+Zutphen,GT,2356,2361,1126,1109,851,1104
+Zutphen,NS,4992,4992,0,0,0,0
+Zwolle,NS,17413,17413,0,0,0,0

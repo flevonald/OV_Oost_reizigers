@@ -71,7 +71,7 @@ def leading_zero(a):
     else:
         return a
 #%% Input
-filter_jaar = '2022'
+filter_jaar = '2023'
 #%%
 
 dtype_g01 = {'HNR':str, 'JAAR':str, 'MAAND':str, 'LN_ID_OV_MIJ':str, 'NR_CONS_GEB':str}
@@ -83,7 +83,8 @@ g01_kolommen = ['DATAOWNERCODE','CONCESSIE','JAAR','MAAND','STOPPLACECODE','QUAY
 dagen_per_type = {'2019':{'WERK':255,'ZA':52,'ZO':58},
                   '2020':{'WERK':255,'ZA':51,'ZO':60},
                   '2021':{'WERK':256,'ZA':52,'ZO':57},
-                  '2022':{'WERK':255,'ZA':53,'ZO':57}}
+                  '2022':{'WERK':255,'ZA':53,'ZO':57},
+                  '2023':{'WERK': 254, 'ZA': 53,'ZO':58}}
 
 #Feestdagen
 #Nieuwjaarsdag, Tweede Paasdag,  Hemelvaartsdag, Tweede Pinksterdag, 1e en 2e kerstdag
@@ -95,13 +96,21 @@ feestzondagen = {'2019':['1-1-2019','22-4-2019','30-5-2019','10-6-2019','25-12-2
 feestzaterdagen = {'2019':['27-4-2019'], #bevrijdingsdag op zondag
                   '2020':['27-4-2020','5-5-2020'],
                   '2021':['27-4-2021','5-5-2021'],
-                  '2022':['27-4-2022','5-5-2022']}
+                  '2022':['27-4-2022','5-5-2022'],
+                  }
 
 
 
 #laad CHB gegevens
-df_chb = pd.read_csv(os.path.join(CHB_folder,f'CHB_quays_{int(filter_jaar ) + 1}-01-01.csv'), sep=';',
+if filter_jaar in ['2018','2019','2020','2021','2022']:
+    df_chb = pd.read_csv(os.path.join(CHB_folder,f'CHB_quays_{int(filter_jaar ) + 1}-01-01.csv'), sep=';',
                      usecols=['stopplacecode','quaycode', 'name','town','rd-x', 'rd-y'])
+elif filter_jaar in ['2023']:
+    df_chb = pd.read_csv(os.path.join(CHB_folder,f'CHB_quays_{int(filter_jaar ) + 1}-01-01.csv'), sep=',',
+                     usecols=['stopplacecode','quaycode', 'quayname','town','rd-x', 'rd-y'])
+    df_chb = df_chb.rename(columns={'quayname':'name'})
+else:
+    raise 'Onbekend jaar'
 df_chb.columns = [x.upper() for x in df_chb.columns]
 
 PSA_tabel = pd.read_csv(os.path.join('C:\\','data','CHB','PSA_tabel.csv'), sep=',')
@@ -195,10 +204,10 @@ if filter_jaar != '2022':
     chb_arriva_dict = df_chb.loc[df_chb['QUAYCODE'].isin(PSA_tabel_arriva.values())].set_index('QUAYCODE')['STOPPLACECODE'].to_dict()
     
 
-    for g01_file in os.listdir(os.path.join(G01_folder,'lelystad')):
+    for g01_file in os.listdir(os.path.join(G01_folder,'Lelystad')):
         if g01_file.split('_')[1] == filter_jaar:
             print(g01_file)       
-            df_arr_lls_file = pd.read_excel(os.path.join(G01_folder,'lelystad',g01_file), dtype = dtype_g01)
+            df_arr_lls_file = pd.read_csv(os.path.join(G01_folder,'Lelystad',g01_file), sep=';', dtype = dtype_g01)
     
             df_arr_lls_file['QUAYCODE'] = df_arr_lls_file['HNR'].replace(PSA_tabel_arriva)
             df_arr_lls_file['STOPPLACECODE'] = df_arr_lls_file['QUAYCODE'].replace(chb_arriva_dict)
@@ -272,7 +281,7 @@ dtype_arr = {'Jaar':str,'Maand':str, 'MAAND':str, 'JAAR':str, 'HNR':str}
 
 df_arr_g01 = pd.DataFrame()
 
-if filter_jaar !='2022':
+if filter_jaar in ['2019','2020','2021']:
     try:                  
         tic=timeit.default_timer()
     
@@ -313,6 +322,8 @@ if filter_jaar !='2022':
     except FileNotFoundError:
         df_arr_g01 = pd.DataFrame(columns= g01_kolommen)
         print(f'Gegevens voor {filter_jaar} niet beschikbaar bij Arriva')
+
+
 
 #%% Arriva per quaycode
 koppeling_arriva = pd.read_excel(r"C:\data\O10\Arriva Koppeling.xlsx",
@@ -362,11 +373,23 @@ if filter_jaar == '2022':
             df_conc_s[kolom] = df_conc_s[kolom]/ df_conc_s['AANTAL_QUAYS']
         
         df_arr_22 = pd.concat([df_arr_22, df_conc_s, df_conc_q])
-        
+    df_arriva = df_arr_22
+    
+#%%
+if filter_jaar in ['2023']: 
+    df_arriva = pd.read_csv(r"C:/data/G01/Arriva/20240328_G01_ARRIVA_AHRV_G01_2023.csv", dtype=dtype_g01, sep=';')
+    #filter op treinconcessie
+    df_arriva = df_arriva.loc[df_arriva['NR_CONS_GEB'].isin(['20','23'])]
+    df_arriva['DATAOWNERCODE'] = 'ARR' 
+
+df_arriva['QUAYCODE'] = df_arriva['HNR'].replace(PSA_tabel_arriva)
+df_arriva['STOPPLACECODE'] = df_arriva['QUAYCODE'].replace(chb_arriva_dict)
+      
+
 # df_conc_s.loc[df_conc_s_v].loc[~df_conc_s['HALTE'].isin(koppeling_arriva.keys()), 'HALTE'].to_csv('haltes lls.csv')
 #%% CXX
 
-concessie_selectie = ['SAN','FL_IJM','OV_IJM','VZ']
+concessie_selectie = ['FL_IJM','OV_IJM'] #,'SAN','VZ'
 dtype_cxx = {'Halte herkomst':str, 'Halte bestemming':str, 'Postcode herkomst':str,
        'Postcode bestemming':str, 'Haltecode herkomst':str, 'Haltecode bestemming':str,
        'Lijn':str, 'Uurblok':str, 'Ritten':float, 'Transactiewaarde (inc. btw)':str,
@@ -390,8 +413,9 @@ for concessiefile in os.listdir(os.path.join(HB_folder,'CXX')):
         continue
     print(concessiefile)
     maand = concessiefile.split('.')[0].split(' ')[-2].split('-')[1]
-    df = pd.read_csv(os.path.join(HB_folder, 'CXX', concessiefile), dtype=dtype_cxx,
-                     encoding='latin-1', sep=';', decimal=',')
+    df = pd.read_csv(os.path.join(HB_folder, 'CXX', concessiefile),
+                     encoding='latin-1', sep=';', decimal=',') #dtype=dtype_cxx,
+    df['Ritten'] = df['Ritten'].astype(float)
     
     #NAAR O10    
     df = df.rename(columns={'Haltecode herkomst':'HALTECODE_HERKOMST',
@@ -431,7 +455,7 @@ def jaar_totaal_naar_gemiddelde(df):
 
 #maandfactoren, voor het berekenen van jaargemiddelden voor concessies waarbij niet alle maanden aanwezig zijn
 factoren = {}
-for concessie, df_group in df_totaal.groupby(['CONCESSIE']):
+for concessie, df_group in df_totaal.groupby('CONCESSIE'):
     if {'01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'
      }.issubset(set(df_group['MAAND'].to_list())):
         df_group = df_group.groupby('MAAND').sum()
@@ -492,7 +516,7 @@ def bepaling_per_halte(level):
     #VOEG NAAM EN PLAATS VAN STOPPLACE TOE op basis van chb
     df_per_halte_chb = df_per_halte.merge(df_chb[[level,'NAME','TOWN']].drop_duplicates(level), on=[level], how='left')
     
-    df_per_halte_chb[[level,'NAME','TOWN']+reizigerskolommen].to_csv(f'../instappers per halte/instappers per {level.lower()} {filter_jaar}.csv',sep=';', decimal=',', index=False)
+    df_per_halte_chb[[level,'NAME','TOWN']+reizigerskolommen].to_csv(f'../instappers per {level.lower()} {filter_jaar}.csv',sep=';', decimal=',', index=False)
     # voeg coördinaten toe (gemiddelde van quays per stopplace, afgerond op 1 decimaal (0.1m))
     # stopplace_coordinates = df_chb.groupby(level)[['RD-X','RD-Y']].mean().round(1).reset_index()
     # df_per_halte_coord = df_per_halte_chb.merge(stopplace_coordinates, on=level)
@@ -502,3 +526,4 @@ def bepaling_per_halte(level):
     
 
 df_instappers = bepaling_per_halte('STOPPLACECODE') 
+df_instappers = bepaling_per_halte('QUAYCODE') 
