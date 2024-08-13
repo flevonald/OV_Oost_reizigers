@@ -113,7 +113,7 @@ else:
     raise 'Onbekend jaar'
 df_chb.columns = [x.upper() for x in df_chb.columns]
 
-PSA_tabel = pd.read_csv(os.path.join('C:\\','data','CHB','PSA_tabel.csv'), sep=',')
+PSA_tabel = pd.read_csv(os.path.join('C:\\','data','CHB','PSA_tabel.csv'), sep=';')
 PSA_tabel.columns = [x.upper() for x in PSA_tabel.columns]
 
 
@@ -393,7 +393,7 @@ df_arriva['STOPPLACECODE'] = df_arriva['QUAYCODE'].replace(chb_arriva_dict)
 # df_conc_s.loc[df_conc_s_v].loc[~df_conc_s['HALTE'].isin(koppeling_arriva.keys()), 'HALTE'].to_csv('haltes lls.csv')
 #%% CXX
 
-concessie_selectie = ['FL_IJM','OV_IJM'] #,'SAN','VZ'
+concessie_selectie = ['FL_IJM','OV_IJM','SAN','VZ'] #,'FL_IJM','OV_IJM','SAN',
 dtype_cxx = {'Halte herkomst':str, 'Halte bestemming':str, 'Postcode herkomst':str,
        'Postcode bestemming':str, 'Haltecode herkomst':str, 'Haltecode bestemming':str,
        'Lijn':str, 'Uurblok':str, 'Ritten':float, 'Transactiewaarde (inc. btw)':str,
@@ -418,7 +418,7 @@ for concessiefile in os.listdir(os.path.join(HB_folder,'CXX')):
     print(concessiefile)
     maand = concessiefile.split('.')[0].split(' ')[-2].split('-')[1]
     df = pd.read_csv(os.path.join(HB_folder, 'CXX', concessiefile),
-                     encoding='latin-1', sep=';', decimal=',') #dtype=dtype_cxx,
+                     encoding='latin-1', sep=';', decimal=',', thousands='.') #dtype=dtype_cxx,
     df['Ritten'] = df['Ritten'].astype(float)
     
     #NAAR O10    
@@ -432,7 +432,7 @@ for concessiefile in os.listdir(os.path.join(HB_folder,'CXX')):
     
     #omzetten naar G01
     df = O10_to_G01(df).reset_index()
-    
+
     df['QUAYCODE'] = df['HALTECODE'].map(PSA_tabel_CXX)
     df['STOPPLACECODE'] = df['QUAYCODE'].map(chb_CXX_dict)
     connexxion = pd.concat([connexxion, df])
