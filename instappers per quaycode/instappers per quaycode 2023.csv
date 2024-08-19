@@ -1,106 +1,6 @@
 QUAYCODE;NAME;TOWN;INSTAP_WERK;UITSTAP_WERK;INSTAP_ZA;UITSTAP_ZA;INSTAP_ZO;UITSTAP_ZO
-10503;;;4,7;7,0;2,2;2,6;1,2;3,4
-10543;;;33,2;24,8;17,7;14,4;6,8;7,4
-10544;;;3,0;3,1;0,0;0,0;0,0;0,0
-10550;;;21,4;21,6;15,3;15,3;5,8;5,7
-16433;;;1,7;1,8;0,7;0,5;0,0;0,0
-16434;;;0,6;0,1;0,3;0,2;0,0;0,0
-16435;;;0,3;0,3;0,1;0,0;0,0;0,0
-16436;;;0,5;0,2;0,1;0,1;0,0;0,0
-16437;;;1,1;0,7;0,2;0,2;0,0;0,0
-16438;;;5,2;1,5;0,3;0,1;0,0;0,0
-16493;;;0,5;0,5;0,2;0,7;0,0;0,0
-16972;;;16,1;17,9;7,7;7,5;2,9;3,4
-16973;;;23,8;21,8;12,4;11,4;5,9;6,7
-16974;;;8,3;9,5;3,9;3,8;1,4;2,0
-17067;;;21,6;69,5;13,5;42,9;8,8;16,4
-17291;;;0,8;0,1;0,3;0,0;0,0;0,0
-17292;;;0,4;0,6;0,2;0,4;0,0;0,0
-17344;;;0,5;0,6;0,0;0,0;0,0;0,0
-40405010;;;3,6;0,0;2,2;0,0;1,7;0,0
-5307;;;1620,8;1513,4;1115,7;1040,2;581,7;482,6
-5308;;;98,7;43,7;56,8;27,5;20,0;9,7
-5309;;;0,5;0,7;0,1;0,2;0,0;0,0
-5315;;;33,4;60,8;17,7;23,3;14,5;15,2
-5316;;;2,0;1,8;0,8;0,9;0,0;0,0
-5318;;;5,6;6,3;2,9;1,7;2,7;1,1
-5319;;;4,3;7,0;8,9;13,0;4,1;7,6
-5320;;;16,2;17,8;15,4;13,2;9,5;6,7
-5321;;;12,4;11,6;5,5;5,2;2,1;2,8
-5322;;;142,6;173,0;266,2;297,9;179,6;199,6
-5323;;;22,1;22,4;8,6;9,6;4,1;4,4
-5324;;;34,8;36,7;24,6;22,3;13,7;16,1
-5325;;;10,2;12,7;2,9;3,3;0,8;0,8
-5327;;;2,1;4,8;1,3;1,2;0,0;0,0
-5328;;;22,1;32,4;18,2;23,2;16,6;20,4
-5329;;;16,6;17,5;6,3;5,0;0,3;1,9
-5330;;;1,9;0,4;0,1;0,0;0,0;0,0
-5331;;;11,3;15,5;5,8;6,3;1,7;2,9
-5332;;;27,2;28,0;3,4;3,8;1,4;2,1
-5333;;;61,6;59,2;19,5;21,2;9,2;11,5
-5334;;;0,9;0,7;0,3;0,5;0,0;0,0
-5335;;;5,4;8,8;2,3;3,9;1,4;2,4
-5336;;;7,3;2,4;3,5;1,6;1,0;0,4
-5337;;;4,9;5,9;1,6;2,4;0,3;0,7
-5338;;;0,2;0,3;0,0;0,3;0,0;0,0
-5339;;;22,9;18,4;11,0;9,8;3,8;4,1
-5340;;;10,5;5,5;3,9;2,0;1,3;1,3
-5341;;;24,8;22,5;15,2;14,7;4,5;5,3
-5343;;;28,0;23,1;16,0;15,3;4,2;6,8
-5345;;;13,3;10,6;9,2;8,8;3,1;3,6
-5346;;;2,7;3,3;1,8;2,2;0,8;1,1
-5347;;;14,9;16,8;11,2;13,7;9,9;11,0
-5348;;;22,7;25,9;12,4;18,9;10,8;15,0
-5349;;;13,7;16,4;12,9;11,5;0,0;0,0
-5352;;;8,1;8,0;7,7;8,5;3,0;3,1
-5353;;;15,1;13,2;7,2;8,0;3,0;3,3
-5354;;;14,7;12,1;2,5;4,9;2,3;3,8
-5355;;;32,1;33,8;18,6;19,5;7,6;11,1
-5356;;;3,2;5,5;0,6;0,6;0,5;0,6
-5357;;;21,4;17,7;11,4;9,9;3,8;2,8
-5359;;;160,7;146,3;109,2;98,8;40,4;48,4
-5360;;;22,3;19,6;14,5;10,9;5,3;4,7
-5361;;;7,3;13,7;3,7;7,0;6,5;5,6
-5362;;;1,5;1,4;0,2;0,2;0,0;0,0
-5363;;;4,4;8,5;0,4;0,6;0,1;0,0
-5364;;;10,2;4,2;3,7;0,7;1,8;0,2
-5365;;;23,7;15,9;13,3;8,3;5,2;3,8
-5366;;;17,9;20,8;8,6;9,8;5,2;6,3
-5367;;;33,3;22,1;20,1;14,6;8,5;5,7
-5368;;;1,2;13,2;0,4;6,8;0,3;4,2
-5369;;;22,0;8,3;20,5;9,5;14,1;5,6
-5370;;;22,8;21,7;17,0;18,2;10,0;13,6
-5371;;;8,2;9,6;3,6;4,8;1,2;3,1
-5372;;;2,9;5,2;1,2;2,6;0,7;0,8
-5373;;;58,7;49,1;36,3;29,2;13,7;14,5
-5374;;;6,3;9,3;3,3;6,2;1,2;2,8
-5376;;;19,1;21,7;4,7;5,1;2,1;2,8
-5378;;;12,3;13,3;4,3;5,8;1,3;2,0
-5379;;;24,3;27,5;7,7;7,7;1,6;2,0
-5380;;;37,2;37,8;24,4;22,8;10,5;11,6
-5381;;;29,4;31,9;17,6;17,9;6,6;7,2
-5382;;;14,3;13,9;6,5;5,2;1,8;2,2
-5383;;;9,5;9,4;3,7;3,6;1,5;2,0
-5384;;;27,3;25,9;14,2;16,4;9,2;10,9
-5385;;;22,9;22,8;14,4;14,2;5,6;4,8
-5387;;;8,8;16,0;5,6;8,7;2,7;4,4
-5388;;;3,7;4,7;1,1;2,2;0,4;0,6
-5389;;;54,3;47,5;34,0;31,4;14,7;13,2
-5390;;;58,5;59,6;34,7;36,5;13,7;17,8
-5391;;;12,5;16,0;9,2;7,9;0,0;0,0
-5392;;;22,6;20,9;15,1;13,6;5,1;7,4
-5394;;;23,4;31,2;11,7;13,3;6,6;5,7
-5395;;;57,8;54,3;30,2;29,1;12,0;15,3
-5397;;;29,4;16,6;18,5;9,2;8,9;4,8
-5398;;;31,4;32,9;14,9;17,8;5,7;8,6
-5399;;;69,5;58,0;45,5;39,8;15,3;14,0
+40405010;;;3,5;0,0;2,1;0,0;1,6;0,0
 61360190;;;0,4;0,0;0,0;0,0;0,0;0,0
-8040;;;5,1;21,9;3,3;10,6;1,1;5,6
-8041;;;1,6;3,6;0,6;2,6;0,7;1,4
-8043;;;24,9;27,9;7,0;9,5;6,1;9,0
-8057;;;20,3;19,8;6,9;6,7;2,2;3,1
-8058;;;26,8;26,6;13,2;13,0;4,8;5,6
-8067;;;0,3;0,3;0,2;0,4;0,0;0,0
 DE:Q:80000060;Hulsmann;Wyler;0,0;0,0;0,1;0,0;0,0;0,0
 DE:Q:80000080;Vogelsang;Wyler;0,0;0,0;0,0;0,0;0,0;0,0
 DE:Q:80000090;Hulsmann;Wyler;0,0;0,0;0,0;0,0;0,0;0,0
@@ -239,8 +139,8 @@ NL:Q:16300030;Vendelweg;Steenwijk;1,5;12,799999999999999;0,2;3,0;0,1;1,5
 NL:Q:16300040;Vendelweg;Steenwijk;13,0;1,6;3,7;0,3;2,4;0,2
 NL:Q:16300050;Matthijs Kiersstraat;Steenwijk;3,8;10,7;0,8;7,2;0,9;3,2
 NL:Q:16300070;Matthijs Kiersstraat;Steenwijk;5,6000000000000005;0,7;4,2;0,4;2,1;0,1
-NL:Q:16301010;Station;Steenwijk;1,1;0,7;0,6;0,4;0,4;0,3
-NL:Q:16301020;Station;Steenwijk;27,7;35,3;0,0;0,1;0,0;0,0
+NL:Q:16301010;Station;Steenwijk;1,0;0,6;0,6;0,4;0,4;0,3
+NL:Q:16301020;Station;Steenwijk;27,6;35,3;0,0;0,1;0,0;0,0
 NL:Q:16380100;Haersterbroekweg;Zwolle;0,4;1,0;0,0;0,1;0,0;0,0
 NL:Q:16380110;Haersterbroekweg;Zwolle;0,4;0,7;0,0;0,0;0,0;0,0
 NL:Q:16380120;Steenwetering;Lichtmis;0,1;0,2;0,0;0,1;0,0;0,0
@@ -483,7 +383,7 @@ NL:Q:24510080;Kruisstraat;Oldemarkt;4,4;3,6;0,0;0,0;0,0;0,0
 NL:Q:24510090;De Boterberg;Oldemarkt;0,6;0,5;0,0;0,0;0,0;0,0
 NL:Q:24510100;De Boterberg;Oldemarkt;0,6;0,8;0,0;0,0;0,0;0,0
 NL:Q:24550030;Zuidveen;Zuidveen;1,8;1,8;0,5;5,5;0,4;5,3
-NL:Q:24550040;Zuidveen;Zuidveen;2,8;1,7;1,2;0,3;1,1;0,1
+NL:Q:24550040;Zuidveen;Zuidveen;2,6999999999999997;1,7;1,2;0,3;1,1;0,1
 NL:Q:24550050;Groot Verlaat;Steenwijk;2,6;1,8;0,3;0,2;0,4;0,1
 NL:Q:24550060;Groot Verlaat;Steenwijk;1,3;2,4;0,3;0,2;0,1;0,4
 NL:Q:24550160;Dolderbrug;Steenwijk;0,5;1,3;0,0;0,0;0,0;0,0
@@ -630,7 +530,7 @@ NL:Q:25170260;Netl;Kraggenburg;1,3;1,3;2,5;1,4;4,2;0,4
 NL:Q:25180010;Busstation;Blokzijl;23,6;18,799999999999997;0,0;0,0;0,0;0,0
 NL:Q:25180020;Busstation;Blokzijl;37,3;10,700000000000001;0,0;0,0;0,0;0,0
 NL:Q:25180030;Uiterdijkenweg;Marknesse;1,8000000000000003;1,6;0,0;0,0;0,0;0,0
-NL:Q:25180040;Uiterdijkenweg;Marknesse;2,5;1,6;0,0;0,0;0,0;0,0
+NL:Q:25180040;Uiterdijkenweg;Marknesse;2,4;1,6;0,0;0,0;0,0;0,0
 NL:Q:25180050;Steenwijkerdwarsweg;Marknesse;1,2;0,7999999999999999;0,0;0,0;0,0;0,0
 NL:Q:25180060;Steenwijkerdwarsweg;Marknesse;0,8999999999999999;1,4;0,0;0,0;0,0;0,0
 NL:Q:25230030;Ens;Ens;42,6;67,9;13,5;22,9;5,7;11,2
@@ -668,7 +568,7 @@ NL:Q:25251540;Griend;Urk;3,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:25251570;Keteldiep;Urk;0,0;0,5;0,0;0,0;0,0;0,0
 NL:Q:25251580;Keteldiep;Urk;0,4;0,0;0,0;0,0;0,0;0,0
 NL:Q:25270010;Clarenberglaan;Vollenhove;78,0;70,4;23,1;14,899999999999999;8,8;10,2
-NL:Q:25270020;Clarenberglaan;Vollenhove;115,6;36,4;29,200000000000003;8,7;22,8;3,9
+NL:Q:25270020;Clarenberglaan;Vollenhove;115,6;36,3;29,200000000000003;8,7;22,8;3,9
 NL:Q:25270030;Kraggenburg;Kraggenburg;39,1;37,9;15,8;16,1;7,5;8,3
 NL:Q:25270110;Vollenhoverweg/NOP;Marknesse;0,1;0,4;0,1;0,4;0,1;0,2
 NL:Q:25270120;Vollenhoverweg/NOP;Marknesse;0,2;0,2;0,2;0,1;0,2;0,39999999999999997
@@ -725,7 +625,7 @@ NL:Q:25450830;Venebosweg;Ossenzijl;0,9;1,2;0,0;0,0;0,0;0,0
 NL:Q:25470010;De Velde;De Velde;0,1;2,0;0,2;0,5;0,0;0,9
 NL:Q:25470020;De Velde;De Velde;1,8;0,1;0,7;0,30000000000000004;0,6;0,0
 NL:Q:25470030;Busstation;Zwartsluis;54,9;118,4;32,6;53,400000000000006;18,4;37,4
-NL:Q:25470040;Busstation;Zwartsluis;133,9;65,8;53,5;24,900000000000002;35,7;11,9
+NL:Q:25470040;Busstation;Zwartsluis;133,8;65,8;53,5;24,900000000000002;35,7;11,9
 NL:Q:25470050;Bejaardencentrum;Zwartsluis;1,5;2,0;0,4;0,1;0,3;0,1
 NL:Q:25470060;Bejaardencentrum;Zwartsluis;1,9;1,4000000000000001;0,0;0,3;0,0;0,2
 NL:Q:25470070;De Krieger;De Krieger;0,0;5,6;0,0;1,3;0,0;0,3
@@ -749,8 +649,8 @@ NL:Q:25630110;R.K. Kerk;IJsselmuiden;0,5;1,2;0,0;0,0;0,0;0,0
 NL:Q:25630120;R.K. Kerk;IJsselmuiden;1,1;0,5;0,0;0,0;0,0;0,0
 NL:Q:25670010;H. van Viandenplein;Hasselt;0,4;8,3;0,0;0,0;0,0;0,0
 NL:Q:25670020;H. van Viandenplein;Hasselt;8,2;0,4;0,0;0,0;0,0;0,0
-NL:Q:25670030;Centrum;Hasselt;42,400000000000006;195,0;9,5;84,7;4,3;35,800000000000004
-NL:Q:25670040;Centrum;Hasselt;251,8;105,7;105,5;33,4;33,8;4,6000000000000005
+NL:Q:25670030;Centrum;Hasselt;42,400000000000006;194,9;9,5;84,60000000000001;4,3;35,800000000000004
+NL:Q:25670040;Centrum;Hasselt;251,70000000000002;105,7;105,5;33,4;33,8;4,6000000000000005
 NL:Q:25680010;Sluis;Beukers;0,1;0,1;0,1;0,0;0,0;0,1
 NL:Q:25680020;Sluis;Beukers;0,0;0,1;0,0;0,1;0,0;0,0
 NL:Q:25680030;Blauwe Hand;Blauwe Hand;1,8;3,5;0,6;3,8;0,4;3,5
@@ -770,12 +670,12 @@ NL:Q:25770115;Fioringras;Zwolle;3,0;22,4;1,6;16,4;1,1;9,9
 NL:Q:25770230;Bandijklaan;Zwolle;4,0;22,9;0,9;11,8;0,5;5,3
 NL:Q:25770240;Bandijklaan;Zwolle;25,7;2,8;15,2;0,6;6,5;0,4
 NL:Q:25780010;Dominee Hylkemaweg;Giethoorn;51,5;10,6;120,0;16,1;96,69999999999999;13,299999999999999
-NL:Q:25780020;Dominee Hylkemaweg;Giethoorn;9,5;45,300000000000004;12,399999999999999;122,7;8,9;94,0
+NL:Q:25780020;Dominee Hylkemaweg;Giethoorn;9,5;45,2;12,299999999999999;122,6;8,9;94,0
 NL:Q:25780030;Kerkweg;Giethoorn;4,4;1,5;5,3;0,8;2,8;0,4
 NL:Q:25780040;Kerkweg;Giethoorn;1,8;6,5;1,5;12,0;0,8;7,9
 NL:Q:25780050;Hotel Harmonie;Giethoorn;1,5;0,4;1,5;0,6;1,4;0,3
 NL:Q:25780060;Hotel Harmonie;Giethoorn;0,5;1,0;0,8;1,5;1,5;1,2
-NL:Q:25830110;Oranjesingel;Kampen;4,8;4,3;0,3;0,2;0,0;0,0
+NL:Q:25830110;Oranjesingel;Kampen;4,8;4,2;0,3;0,2;0,0;0,0
 NL:Q:25830170;Station Zuid;Kampen;40,9;35,2;0,0;0,0;0,0;0,0
 NL:Q:25830190;Station Zuid;Kampen;16,8;15,8;5,0;4,6;0,0;0,0
 NL:Q:25830290;Amandelboom;Kampen;5,2;5,4;0,7;0,5;0,0;0,0
@@ -787,22 +687,22 @@ NL:Q:25830490;Bovenbroeksweg;Kampen;1,4;0,3;0,7999999999999999;0,1;0,0;0,0
 NL:Q:25830550;Kwekerije;Kampen;0,2;1,0;0,2;0,3;0,0;0,0
 NL:Q:25830560;Europa Allee;Kampen;1,4;0,8;0,2;0,0;0,0;0,0
 NL:Q:25830570;Symfonielaan;Kampen;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:25830580;Lovinkstraat;Kampen;12,100000000000001;16,5;2,6;3,2;0,0;0,0
+NL:Q:25830580;Lovinkstraat;Kampen;12,100000000000001;16,4;2,6;3,2;0,0;0,0
 NL:Q:25830590;Lange Akker;Kampen;0,9;1,4000000000000001;0,1;0,2;0,0;0,0
 NL:Q:25830600;Begraafplaats Bovenbroek;Kampen;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:25830610;Jan van Arkelstraat;Kampen;0,0;0,6;0,0;0,1;0,0;0,0
-NL:Q:40000090;Station Velperpoort;Arnhem;1,9;1,4;247,10000000000002;210,70000000000002;165,70000000000002;158,1
+NL:Q:40000090;Station Velperpoort;Arnhem;1,8;1,3;247,10000000000002;210,6;165,70000000000002;158,0
 NL:Q:40000100;Station Velperpoort;Arnhem;0,0;0,0;221,4;205,8;143,9;140,7
-NL:Q:40000110;Hoflaan;Arnhem;1,0;1,1;37,4;198,2;27,6;162,3
+NL:Q:40000110;Hoflaan;Arnhem;1,0;1,1;37,300000000000004;198,2;27,6;162,3
 NL:Q:40000120;Hoflaan;Arnhem;0,0;0,0;192,8;22,6;122,9;18,2
-NL:Q:40000130;Raapopseweg;Arnhem;1,5;1,5;13,200000000000001;49,0;9,5;35,900000000000006
+NL:Q:40000130;Raapopseweg;Arnhem;1,5;1,5;13,200000000000001;48,9;9,5;35,900000000000006
 NL:Q:40000140;Raapopseweg;Arnhem;0,0;0,0;154,0;34,1;97,6;20,8
 NL:Q:40000150;Huyghenslaan;Arnhem;0,2;0,2;3,9000000000000004;43,2;3,1;34,9
 NL:Q:40000160;Huyghenslaan;Arnhem;0,0;0,0;44,2;3,8;33,5;2,7
 NL:Q:40000170;Esperantolaan;Arnhem;0,0;0,0;4,8;37,0;2,9;27,4
 NL:Q:40000180;Esperantolaan;Arnhem;0,0;0,0;28,0;6,0;19,6;1,9
 NL:Q:40000190;Vondellaan;Arnhem;0,6;1,6;6,0;43,9;2,3;28,2
-NL:Q:40000200;Vondellaan;Arnhem;1,3;0,7;53,5;7,2;33,2;2,6
+NL:Q:40000200;Vondellaan;Arnhem;1,2;0,6;53,5;7,2;33,2;2,6
 NL:Q:40000220;Bronbeek;Arnhem;0,0;0,0;22,1;3,6;15,3;1,6
 NL:Q:40000310;Dedelstraat;Arnhem;0,0;0,0;0,5;14,2;0,6;9,9
 NL:Q:40000320;van Speykstraat;Arnhem;0,0;0,0;14,8;0,2;7,7;0,2
@@ -918,19 +818,19 @@ NL:Q:40004003;Centraal Station;Arnhem;0,1;1,9;425,6;274,1;340,4;192,600000000000
 NL:Q:40004004;Centraal Station;Arnhem;0,0;0,3;378,2;377,3;278,3;215,8
 NL:Q:40004005;Centraal Station;Arnhem;0,1;2,4;440,2;207,4;360,9;227,9
 NL:Q:40004006;Centraal Station;Arnhem;2,0;0,1;1366,9;1456,7;1198,6;746,4
-NL:Q:40004007;Centraal Station;Arnhem;11,3;0,4;71,69999999999999;44,300000000000004;144,29999999999998;81,3
+NL:Q:40004007;Centraal Station;Arnhem;11,100000000000001;0,4;71,3;44,300000000000004;144,2;81,3
 NL:Q:40004008;Centraal Station;Arnhem;0,0;0,0;335,7;292,6;217,4;158,6
 NL:Q:40004009;Centraal Station;Arnhem;720,5;423,4;544,9;337,4;390,9;264,3
 NL:Q:40004010;Centraal Station;Arnhem;1,7;0,8;733,6;419,20000000000005;505,3;281,0
 NL:Q:40004015;Willemsplein;Arnhem;0,0;0,0;422,7;19,6;242,7;9,9
 NL:Q:40004016;Willemsplein;Arnhem;2,5;0,0;453,9;24,4;283,40000000000003;16,2
-NL:Q:40004017;Willemsplein;Arnhem;3,3;0,2;268,7;28,5;189,10000000000002;13,0
+NL:Q:40004017;Willemsplein;Arnhem;3,1999999999999997;0,2;268,6;28,5;189,10000000000002;13,0
 NL:Q:40004018;Willemsplein;Arnhem;236,1;4,8;272,4;9,8;194,0;6,0
 NL:Q:40004019;Willemsplein;Arnhem;0,1;4,6;169,7;926,4;99,89999999999999;519,5999999999999
-NL:Q:40004020;Willemsplein;Arnhem;10,6;337,0;82,6;965,6;44,0;531,0999999999999
+NL:Q:40004020;Willemsplein;Arnhem;10,6;337,0;82,6;965,4;44,0;531,0999999999999
 NL:Q:40004021;Velperplein;Arnhem;0,0;0,0;1086,5;163,8;722,3;118,1
-NL:Q:40004022;Velperplein;Arnhem;3,2;0,3;472,9;130,0;322,09999999999997;86,60000000000001
-NL:Q:40004023;Velperplein;Arnhem;0,6;3,0;211,2;524,6;139,2;331,40000000000003
+NL:Q:40004022;Velperplein;Arnhem;3,1;0,3;472,6;130,0;322,0;86,60000000000001
+NL:Q:40004023;Velperplein;Arnhem;0,6;2,9;211,2;524,3000000000001;139,1;331,40000000000003
 NL:Q:40004024;Velperplein;Arnhem;0,0;0,0;285,3;1463,0;148,1;901,0
 NL:Q:40004030;Rijnstraat;Arnhem;0,0;0,0;632,6;18,8;399,8;10,0
 NL:Q:40004040;Rijnstraat;Arnhem;0,0;0,0;31,5;1091,9;17,1;572,4
@@ -949,7 +849,7 @@ NL:Q:40004412;Centraal Station;Arnhem;0,0;0,0;516,4;303,0;357,6;211,3
 NL:Q:40004413;Centraal Station;Arnhem;0,0;0,0;307,0;381,7;245,6;230,4
 NL:Q:40004414;Centraal Station;Arnhem;0,0;0,0;428,5;203,3;343,9;151,7
 NL:Q:40004415;Centraal Station;Arnhem;0,0;0,0;503,5;739,9;357,1;488,2
-NL:Q:40004416;Centraal Station;Arnhem;0,0;6,2;0,0;6,2;0,0;4,2
+NL:Q:40004416;Centraal Station;Arnhem;0,0;6,0;0,0;5,9;0,0;4,1
 NL:Q:40004590;Rietgrachtstraat;Arnhem;0,0;0,0;48,6;54,2;26,3;39,9
 NL:Q:40004600;Rietgrachtstraat;Arnhem;0,0;0,0;73,0;64,9;35,8;35,4
 NL:Q:40004610;Gr. van Prinstererstraat;Arnhem;0,0;0,0;37,9;109,4;24,0;80,4
@@ -961,14 +861,14 @@ NL:Q:40004660;Maaslaan;Arnhem;0,0;0,0;45,2;6,3;30,7;3,6
 NL:Q:40004680;Waalstraat;Arnhem;0,0;0,0;93,2;8,7;59,3;4,2
 NL:Q:40004685;Waalstraat;Arnhem;0,0;0,0;4,7;94,0;1,9;64,6
 NL:Q:40004690;MFC Presikhaven;Arnhem;0,0;0,0;0,7;14,4;0,3;11,4
-NL:Q:40004700;Lange Wal;Arnhem;1,2;0,2;194,8;7,4;112,1;4,6
-NL:Q:40004730;Keulse Slag;Arnhem;14,0;4,1;66,8;307,90000000000003;43,7;258,5
-NL:Q:40004740;Keulse Slag;Arnhem;10,3;17,6;465,4;70,10000000000001;313,2;43,300000000000004
+NL:Q:40004700;Lange Wal;Arnhem;1,1;0,2;194,7;7,4;112,0;4,6
+NL:Q:40004730;Keulse Slag;Arnhem;14,0;4,0;66,7;307,70000000000005;43,7;258,40000000000003
+NL:Q:40004740;Keulse Slag;Arnhem;10,200000000000001;17,6;465,2;70,10000000000001;313,2;43,300000000000004
 NL:Q:40004860;MFC Presikhaven;Arnhem;0,0;0,0;9,8;0,7;2,6;0,3
-NL:Q:40005330;Station Presikhaaf;Arnhem;0,4;0,9;2,1;7,4;3,0999999999999996;13,2
-NL:Q:40005340;Station Presikhaaf;Arnhem;1,0;0,2;8,799999999999999;2,2;16,1;2,4
+NL:Q:40005330;Station Presikhaaf;Arnhem;0,3;0,9;2,1;7,4;3,0999999999999996;13,2
+NL:Q:40005340;Station Presikhaaf;Arnhem;0,9;0,2;8,7;2,2;16,1;2,4
 NL:Q:40005350;Dongestraat;Arnhem;0,1;0,2;0,6;3,7;0,8;6,199999999999999
-NL:Q:40005360;Dongestraat;Arnhem;0,3;0,1;3,1;1,2;4,1;0,8
+NL:Q:40005360;Dongestraat;Arnhem;0,2;0,1;3,1;1,2;4,1;0,8
 NL:Q:40005370;Kinderkamp;Arnhem;0,0;0,0;0,7;32,5;0,8;21,5
 NL:Q:40005380;Kinderkamp;Arnhem;0,0;0,0;45,3;1,3;24,7;0,7
 NL:Q:40005390;Malsenlaan;Arnhem;0,0;0,0;0,7;60,5;0,7;42,4
@@ -993,7 +893,7 @@ NL:Q:40006750;P. Calandweg;Arnhem;1,8;0,7;3,4;6,3;3,5999999999999996;5,899999999
 NL:Q:40006760;P. Calandweg;Arnhem;0,7;2,2;6,8;3,8;4,2;4,0
 NL:Q:40006770;Slaakweg;Arnhem;1,4;0,5;4,1;11,2;1,4;11,0
 NL:Q:40006780;Slaakweg;Arnhem;0,7;2,7;11,1;6,5;7,5;4,6
-NL:Q:40006790;Lange Wal;Arnhem;2,8;2,5;20,1;260,0;11,7;166,20000000000002
+NL:Q:40006790;Lange Wal;Arnhem;2,8;2,5;20,1;259,90000000000003;11,7;166,20000000000002
 NL:Q:40007090;Fonteinkruidstraat;Arnhem;0,0;0,0;71,8;74,9;48,8;58,3
 NL:Q:40007100;Fonteinkruidstraat;Arnhem;0,0;0,0;82,4;75,6;63,2;49,6
 NL:Q:40007530;St. Laurentiuslaan;Arnhem;0,0;0,0;49,9;83,0;32,5;41,1
@@ -1248,10 +1148,10 @@ NL:Q:40105790;Beeklaan;Heveadorp;0,0;0,0;2,4;8,5;2,2;5,4
 NL:Q:40105800;Beeklaan;Heveadorp;0,0;0,0;9,8;1,9;4,7;0,9
 NL:Q:40105810;Wilhelmilaan;Heveadorp;0,0;0,0;1,4;3,3;0,6;2,4
 NL:Q:40105820;Wilhelmilaan;Heveadorp;0,0;0,0;5,0;7,3;2,5;0,6
-NL:Q:40120010;Aansluiting A12;Duiven;0,8;0,2;14,7;2,6;22,7;4,2
+NL:Q:40120010;Aansluiting A12;Duiven;0,8;0,2;14,600000000000001;2,5;22,7;4,2
 NL:Q:40120030;Hotel De Roskam;Rheden;2,0;7,6;8,6;1,7;5,9;1,4
 NL:Q:40120050;Beekhuizenseweg;Velp;0,8;18,4;29,099999999999998;38,7;21,099999999999998;25,3
-NL:Q:40120060;Beekhuizenseweg;Velp;10,4;0,8999999999999999;11,1;2,2;7,5;3,1
+NL:Q:40120060;Beekhuizenseweg;Velp;10,4;0,8;11,1;2,2;7,5;3,1
 NL:Q:40120070;A.G. Hofkeslaan;Velp;0,2;2,3;1,7;3,8;2,3000000000000003;4,3
 NL:Q:40120080;A.G. Hofkeslaan;Velp;1,6;0,2;3,5;1,7000000000000002;2,9000000000000004;2,0
 NL:Q:40120090;Oosterwolde;Velp;0,1;0,5;1,5;1,0;1,5;0,8
@@ -1263,12 +1163,12 @@ NL:Q:40120160;Gruttostraat;Velp;11,3;1,3;3,8;9,5;1,7999999999999998;7,4
 NL:Q:40120210;Bronbeek;Arnhem;0,0;0,0;3,2;25,5;1,6;18,0
 NL:Q:40120230;Rozenhagelaan;Velp;0,0;0,0;1,1;39,3;0,6;33,9
 NL:Q:40120240;Rozenhagelaan;Velp;0,0;0,0;32,7;1,3;23,1;1,1
-NL:Q:40120250;Nordlaan;Velp;0,2;5,9;1,5;80,1;1,1;53,0
-NL:Q:40120260;Nordlaan;Velp;3,4;0,2;84,3;1,6;45,1;0,8
+NL:Q:40120250;Nordlaan;Velp;0,2;5,7;1,5;80,1;1,1;53,0
+NL:Q:40120260;Nordlaan;Velp;3,2;0,2;84,3;1,6;45,1;0,8
 NL:Q:40120270;Wilhelminastraat;Velp;0,0;0,0;5,8;181,9;2,5;110,5
 NL:Q:40120280;Wilhelminastraat;Velp;0,0;0,0;170,8;5,0;96,5;2,3
-NL:Q:40120290;Emmastraat;Velp;0,5;2,9;2,5;109,5;1,3;73,7
-NL:Q:40120300;Emmastraat;Velp;1,7;0,4;106,7;2,1;64,2;1,1
+NL:Q:40120290;Emmastraat;Velp;0,5;2,8;2,5;109,5;1,3;73,7
+NL:Q:40120300;Emmastraat;Velp;1,6;0,4;106,7;2,1;64,2;1,1
 NL:Q:40120310;Hogeweg;Velp;0,0;0,0;0,4;37,1;0,3;31,6
 NL:Q:40120320;Hogeweg;Velp;0,0;0,0;35,1;0,6;26,0;0,1
 NL:Q:40120330;Heemskerklaan;Velp;0,0;0,0;0,8;11,6;0,8;7,9
@@ -1284,17 +1184,17 @@ NL:Q:40123920;Den Heuvel;Velp;0,0;0,0;0,3;0,1;0,0;0,0
 NL:Q:40123930;Kerkstraat;Velp;0,0;0,0;0,0;0,2;0,0;0,0
 NL:Q:40123940;Kerkstraat;Velp;0,0;0,0;0,5;0,0;0,0;0,0
 NL:Q:40123950;Velperbroek;Velp;0,3;0,2;1,7;3,5999999999999996;2,5;6,3
-NL:Q:40123960;Velperbroek;Velp;0,3;1,2;6,5;2,1;6,9;3,7
+NL:Q:40123960;Velperbroek;Velp;0,3;1,1;6,5;2,1;6,9;3,7
 NL:Q:40123980;Parking President Kennedylaan;Velp;0,0;0,0;0,1;0,1;0,0;0,0
-NL:Q:40123990;Waterstraat;Velp;4,1;1,9;8,0;21,2;6,6;21,5
-NL:Q:40124000;Waterstraat;Velp;2,2;3,8000000000000003;24,900000000000002;5,4;18,3;4,800000000000001
-NL:Q:40124030;Haverland;Velp;1,4;1,6;3,2;17,400000000000002;2,7;19,4
+NL:Q:40123990;Waterstraat;Velp;4,1;1,9;8,0;21,099999999999998;6,6;21,5
+NL:Q:40124000;Waterstraat;Velp;2,2;3,8000000000000003;24,8;5,4;18,3;4,800000000000001
+NL:Q:40124030;Haverland;Velp;1,4;1,5;3,2;17,400000000000002;2,7;19,4
 NL:Q:40124040;Haverland;Velp;1,5;2,0;17,700000000000003;3,5;15,1;4,8
-NL:Q:40124050;Graaf Ottostraat;Velp;2,5;1,5;4,4;16,9;5,2;20,999999999999996
-NL:Q:40124060;Graaf Ottostraat;Velp;2,4;3,1;20,7;3,9000000000000004;18,0;5,4
+NL:Q:40124050;Graaf Ottostraat;Velp;2,5;1,5;4,4;16,9;5,2;20,9
+NL:Q:40124060;Graaf Ottostraat;Velp;2,4;3,1;20,6;3,9000000000000004;18,0;5,4
 NL:Q:40124070;Graaf Gerhardstraat;Velp;2,7;1,7;3,8000000000000003;7,5;2,5;12,0
 NL:Q:40124080;Graaf Gerhardstraat;Velp;2,4;4,0;9,7;4,3;9,899999999999999;3,3000000000000003
-NL:Q:40124090;Brekelenkampstraat;Arnhem;3,4;0,7;4,1;8,600000000000001;3,3000000000000003;12,1
+NL:Q:40124090;Brekelenkampstraat;Arnhem;3,4;0,7;4,1;8,5;3,3000000000000003;12,1
 NL:Q:40124820;Rozendaalselaan;Velp;0,0;0,0;0,1;0,0;0,0;0,0
 NL:Q:40124830;Rozendaalselaan;Velp;0,0;0,0;0,0;0,1;0,0;0,0
 NL:Q:40124840;Biesdelselaan;Velp;0,0;0,0;0,0;0,0;0,0;0,0
@@ -1387,7 +1287,7 @@ NL:Q:40300280;Doelum;Renkum;0,0;0,0;3,8;12,6;1,5;8,1
 NL:Q:40300300;Melkdam;Renkum;0,0;0,0;84,5;23,2;50,3;15,1
 NL:Q:40300310;Melkdam;Renkum;0,0;0,0;0,6;78,6;0,3;59,5
 NL:Q:40320040;Liefkenshoek;Heteren;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:40320130;Nachtegaalstraat;Heteren;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:40320130;Nachtegaalstraat;Heteren;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:40320131;Nachtegaalstraat;Heteren;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:40320160;Elzenpas;Heteren;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:40320170;Elzenpas;Heteren;0,1;0,0;6,0;10,2;3,9;7,3
@@ -1432,8 +1332,8 @@ NL:Q:40374011;Hoenderloo Groep;Hoenderloo;4,0;7,4;3,3;4,3;2,8;4,0
 NL:Q:40374012;Hoenderloo Groep;Hoenderloo;8,3;3,7;4,4;2,6;3,1;3,6
 NL:Q:40374013;Miggelenbergweg;Hoenderloo;6,8;19,8;3,6;11,4;3,8;8,7
 NL:Q:40374014;Miggelenbergweg;Hoenderloo;18,6;7,4;10,2;4,2;9,1;3,2
-NL:Q:40400060;Costerweg;Wageningen;0,0;1,5;0,1;0,2;0,0;0,5
-NL:Q:40400070;Costerweg;Wageningen;1,9;0,2;0,9;0,1;0,4;0,8
+NL:Q:40400060;Costerweg;Wageningen;0,0;1,4;0,1;0,2;0,0;0,4
+NL:Q:40400070;Costerweg;Wageningen;1,8;0,2;0,9;0,1;0,4;0,8
 NL:Q:40400080;Arboretumlaan;Wageningen;0,1;2,8;4,4;41,900000000000006;2,4;43,2
 NL:Q:40400085;Arboretumlaan;Wageningen;2,3;0,7;3,1;0,2;1,4;0,2
 NL:Q:40400090;Arboretumlaan;Wageningen;0,0;0,0;40,8;2,3;22,0;2,1
@@ -1444,7 +1344,7 @@ NL:Q:40400440;Wageningse Berg;Wageningen;0,0;0,0;22,0;33,7;16,2;31,6
 NL:Q:40400530;van Uvenweg;Wageningen;22,2;2,6;21,2;1,2;14,2;0,9
 NL:Q:40400540;van Uvenweg;Wageningen;3,0;23,0;3,1;19,2;0,9;17,1
 NL:Q:40402017;Bosweg;Bennekom;0,3;0,1;0,1;0,1;0,2;0,1
-NL:Q:40405000;Busstation;Wageningen;119,7;111,3;178,2;115,60000000000001;78,4;98,9
+NL:Q:40405000;Busstation;Wageningen;119,7;111,2;178,2;115,60000000000001;78,4;98,9
 NL:Q:40405012;Busstation;Wageningen;0,0;0,0;100,4;270,8;54,0;251,5
 NL:Q:40405013;Busstation;Wageningen;0,0;0,0;591,1;260,0;280,8;345,3
 NL:Q:40406007;Dolderstraat;Wageningen;3,2;1,2;4,2;0,8;2,9;0,6
@@ -1594,7 +1494,7 @@ NL:Q:40482004;Bezoekerscentrum;De Hoge Veluwe;0,9;2,2;1,6;3,4;0,5;3,1
 NL:Q:40482005;Kroller Muller Museum;De Hoge Veluwe;7,3;0,6;14,0;0,9;9,8;0,4
 NL:Q:40482006;Kroller Muller Museum;De Hoge Veluwe;0,6;7,0;0,4;11,9;0,6;10,6
 NL:Q:40482007;Ingang Otterlo;De Hoge Veluwe;1,1;0,4;0,9;1,1;0,9;0,7
-NL:Q:40500010;Militaire Begraafplaats;Rhenen;0,0;0,0;0,1;0,1;0,0;0,0
+NL:Q:40500010;Militaire Begraafplaats;Rhenen;0,0;0,0;0,0;0,1;0,0;0,0
 NL:Q:40500020;Grebbesluis;Rhenen;0,2;0,1;0,0;0,1;0,0;0,0
 NL:Q:40500030;Grebbesluis;Rhenen;0,1;0,1;0,1;0,0;0,0;0,0
 NL:Q:40500060;Huppelpad;Wageningen;0,1;0,0;0,0;0,1;0,1;0,1
@@ -1757,7 +1657,7 @@ NL:Q:40551081;Welgelegenbrug;Apeldoorn;35,8;27,9;2,3;5,4;1,1;2,7
 NL:Q:40551082;Welgelegenbrug;Apeldoorn;35,5;9,799999999999999;7,8;1,7;3,7;0,9
 NL:Q:40551084;Station;Apeldoorn;386,0;69,7;173,2;18,3;140,29999999999998;34,2
 NL:Q:40551087;Apenheul;Apeldoorn;18,5;12,2;21,5;13,1;10,8;7,7
-NL:Q:40551089;J. Fruytierschool;Apeldoorn;73,7;17,6;13,0;5,4;3,3;1,2
+NL:Q:40551089;J. Fruytierschool;Apeldoorn;73,5;17,6;13,0;5,4;3,3;1,2
 NL:Q:40551090;J. Fruytierschool;Apeldoorn;33,1;31,3;1,1;4,6;0,1;1,6
 NL:Q:40551091;Wagenmakershoek;Apeldoorn;9,1;7,0;4,2;0,9;1,8;0,4
 NL:Q:40551092;Wagenmakershoek;Apeldoorn;9,4;10,3;2,7;4,6;1,2;4,0
@@ -1914,7 +1814,7 @@ NL:Q:40563016;Majoor Mulder Kazerne;Stroe;0,8;0,8999999999999999;0,0;0,0;0,0;0,1
 NL:Q:40563017;Ravenweg;Stroe;1,0;0,6;0,0;0,0;0,0;0,0
 NL:Q:40563018;Ravenweg;Stroe;0,5;2,7;0,4;0,8;0,2;0,3
 NL:Q:40569008;Militair tehuis;Wittenberg;0,30000000000000004;0,6000000000000001;0,0;0,0;0,0;0,1
-NL:Q:40600100;Station/Tuinlaan;Rhenen;1,5;2,0;0,4;1,3;0,5;0,5
+NL:Q:40600100;Station/Tuinlaan;Rhenen;1,5;1,9;0,4;1,2;0,5;0,5
 NL:Q:40600120;Ouwehands Dierenpark;Rhenen;0,2;0,4;0,2;0,3;0,1;0,2
 NL:Q:40600130;Ouwehands Dierenpark;Rhenen;0,2;0,2;0,1;0,3;0,1;0,2
 NL:Q:40600140;Militaire Begraafplaats;Rhenen;0,0;0,2;0,1;0,0;0,1;0,0
@@ -2409,11 +2309,11 @@ NL:Q:41220590;v. Heerdtplein;Rheden;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41220600;v. Heerdtplein;Rheden;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41220650;Overweg;Rheden;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41230010;Groenestraat;Giesbeek;0,5;0,1;2,9000000000000004;1,0;4,199999999999999;0,4
-NL:Q:41230030;Kerkstraat;Lathum;0,4;0,1;3,5;0,9;4,5;1,9
-NL:Q:41230040;Kerkstraat;Lathum;0,2;0,2;0,5;2,6;0,7999999999999999;4,0
+NL:Q:41230030;Kerkstraat;Lathum;0,4;0,1;3,5;0,9;4,4;1,9
+NL:Q:41230040;Kerkstraat;Lathum;0,2;0,2;0,5;2,5;0,7999999999999999;4,0
 NL:Q:41230050;Rijderbosweg;Lathum;0,0;0,1;0,1;0,1;0,1;0,1
 NL:Q:41230060;Rijderbosweg;Lathum;0,0;0,0;0,0;0,2;0,0;0,2
-NL:Q:41230080;Aansluiting A12;Duiven;0,1;0,6;2,6;15,1;3,2;23,200000000000003
+NL:Q:41230080;Aansluiting A12;Duiven;0,1;0,5;2,5;15,0;3,2;23,200000000000003
 NL:Q:41250010;Helhoek;Duiven;0,0;0,0;0,1;0,0;0,0;0,0
 NL:Q:41250030;De Plak;Duiven;0,0;0,0;0,0;0,1;0,0;0,0
 NL:Q:41250040;De Plak;Duiven;0,0;0,0;0,1;0,2;0,0;0,0
@@ -2484,7 +2384,7 @@ NL:Q:41310050;De Horsterkamp Zuid;Vorden;0,2;0,4;0,0;0,1;0,1;0,1
 NL:Q:41310060;De Horsterkamp Zuid;Vorden;0,4;0,2;0,1;0,1;0,0;0,1
 NL:Q:41310070;Mispelkampdijk;Vorden;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41310080;Mispelkampdijk;Vorden;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:41310290;Station Vorden;Vorden;4,8;4,0;1,8;1,2;1,8;1,4
+NL:Q:41310290;Station Vorden;Vorden;4,6;3,9;1,7;1,1;1,8;1,4
 NL:Q:41310293;Station Vorden;Vorden;0,3;0,2;0,1;0,1;0,0;0,1
 NL:Q:41310330;De Bleek;Vorden;0,0;0,9;0,0;0,5;0,0;0,2
 NL:Q:41310340;De Bleek;Vorden;0,6;0,0;0,4;0,1;0,2;0,1
@@ -2544,15 +2444,15 @@ NL:Q:41327009;Crematorium;Dieren;7,5;2,1;5,2;0,8;3,5999999999999996;0,9
 NL:Q:41327010;Crematorium;Dieren;2,3;7,3;1,2;6,300000000000001;1,1;4,300000000000001
 NL:Q:41327011;Cederlaan;Dieren;14,8;3,9;11,6;1,9;8,7;1,1
 NL:Q:41327012;Cederlaan;Dieren;3,9;13,3;2,4000000000000004;13,7;1,5;11,3
-NL:Q:41330030;Wielbergen;Angerlo;0,1;0,0;0,1;0,2;0,1;0,0
+NL:Q:41330030;Wielbergen;Angerlo;0,0;0,0;0,1;0,2;0,1;0,0
 NL:Q:41330040;Wielbergen;Angerlo;0,0;0,1;0,0;0,5;0,1;0,4
 NL:Q:41330050;Bingerdenseweg;Angerlo;0,0;0,0;0,2;0,2;0,1;0,0
 NL:Q:41330060;Bingerdenseweg;Angerlo;0,1;0,0;0,2;0,2;0,1;0,1
-NL:Q:41330070;Tutenburgsestraat;Giesbeek;0,1;0,0;0,30000000000000004;0,2;0,7;0,1
+NL:Q:41330070;Tutenburgsestraat;Giesbeek;0,0;0,0;0,30000000000000004;0,2;0,7;0,1
 NL:Q:41330080;Tutenburgsestraat;Giesbeek;0,0;0,1;0,2;0,4;0,1;0,3
-NL:Q:41330090;Zwalmstraat;Giesbeek;1,0;0,8;10,6;10,3;14,6;12,4
+NL:Q:41330090;Zwalmstraat;Giesbeek;0,9;0,8;10,6;10,3;14,6;12,4
 NL:Q:41330120;Groenestraat;Giesbeek;0,1;0,3;0,5;3,0;0,7999999999999999;3,8000000000000003
-NL:Q:41330170;Beumerskamp;Doesburg;0,1;0,0;7,6;1,9000000000000001;10,6;2,7
+NL:Q:41330170;Beumerskamp;Doesburg;0,1;0,0;7,5;1,9000000000000001;10,6;2,7
 NL:Q:41350090;Oranjelaan;Zevenaar;0,0;0,0;0,4;3,2;0,0;0,0
 NL:Q:41350100;Oranjelaan;Zevenaar;0,0;0,0;1,2;0,4;0,0;0,0
 NL:Q:41350115;Station Uitstaphalte;Zevenaar;0,0;0,0;1,1;4,4;0,0;0,0
@@ -2601,41 +2501,41 @@ NL:Q:41360510;Dwarsakker;Gendt;0,0;0,0;15,1;15,6;6,8;8,9
 NL:Q:41360520;Dwarsakker;Gendt;0,0;0,0;14,1;12,4;8,3;6,8
 NL:Q:41400110;Kasteel Hackfort;Vorden;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41400120;Kasteel Hackfort;Vorden;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:41410030;Gemeentehuis;Hengelo;1,4;2,3;0,4;0,6;0,4;0,7
-NL:Q:41410040;Gemeentehuis;Hengelo;2,0;1,3;0,9;0,3;0,7;0,2
-NL:Q:41410150;Van Neck;Hengelo;0,1;2,3;0,0;0,1;0,0;0,1
+NL:Q:41410030;Gemeentehuis;Hengelo;1,4;2,2;0,3;0,6;0,4;0,7
+NL:Q:41410040;Gemeentehuis;Hengelo;1,9;1,3;0,9;0,3;0,7;0,2
+NL:Q:41410150;Van Neck;Hengelo;0,1;2,2;0,0;0,1;0,0;0,1
 NL:Q:41410160;Van Neck;Hengelo;0,4;0,1;0,1;0,1;0,1;0,1
-NL:Q:41410190;Vordenseweg;Hengelo;1,3;1,0;0,4;0,4;0,5;0,2
-NL:Q:41410210;Banninkstraat;Hengelo;1,4;2,0;0,6;1,0;0,7;1,0
-NL:Q:41410230;Vordenseweg;Hengelo;1,1;1,2;0,2;0,4;0,2;0,4
-NL:Q:41410250;Banninkstraat;Hengelo;2,0;1,5;1,1;0,9;0,8;0,8
+NL:Q:41410190;Vordenseweg;Hengelo;1,2;0,9;0,4;0,4;0,5;0,2
+NL:Q:41410210;Banninkstraat;Hengelo;1,4;1,9;0,5;0,9;0,6;1,0
+NL:Q:41410230;Vordenseweg;Hengelo;1,0;1,1;0,2;0,4;0,2;0,4
+NL:Q:41410250;Banninkstraat;Hengelo;1,9;1,4;1,0;0,8;0,7;0,8
 NL:Q:41420010;NH Kerk;Drempt;0,1;0,0;0,2;0,1;0,3;0,1
-NL:Q:41420110;Beinum;Doesburg;1,1;1,2;2,7;1,1;3,1;1,4000000000000001
-NL:Q:41420120;Beinum;Doesburg;1,5;0,6;1,2;1,5;1,9;2,5
+NL:Q:41420110;Beinum;Doesburg;1,1;1,2;2,5999999999999996;1,1;3,1;1,4000000000000001
+NL:Q:41420120;Beinum;Doesburg;1,4;0,6;1,2;1,5;1,9;2,5
 NL:Q:41420130;Potsmaat;Doesburg;0,3;0,0;1,3;0,4;1,5;0,6000000000000001
 NL:Q:41420140;Potsmaat;Doesburg;0,0;0,3;0,30000000000000004;1,4000000000000001;0,5;1,5
-NL:Q:41420150;tunnel Angerlo;Doesburg;0,1;0,1;3,0999999999999996;1,3;4,5;1,1
+NL:Q:41420150;tunnel Angerlo;Doesburg;0,1;0,1;3,0;1,3;4,5;1,1
 NL:Q:41420160;tunnel Angerlo;Doesburg;0,1;0,0;1,5;1,9;1,4;3,2
-NL:Q:41420180;Beumerskamp;Doesburg;0,0;0,1;1,8;6,6000000000000005;2,6;9,700000000000001
-NL:Q:41420210;Kraakselaan;Doesburg;1,8;0,5;9,3;25,4;10,7;21,5
-NL:Q:41420220;Kraakselaan;Doesburg;0,6;2,4;26,900000000000002;3,5;22,8;2,2
-NL:Q:41420230;Meipoort;Doesburg;0,7;0,6;26,0;2,8;19,3;2,4000000000000004
-NL:Q:41420240;Meipoort;Doesburg;0,9;0,4;4,5;26,200000000000003;4,8;19,4
+NL:Q:41420180;Beumerskamp;Doesburg;0,0;0,1;1,8;6,5;2,6;9,700000000000001
+NL:Q:41420210;Kraakselaan;Doesburg;1,7;0,5;9,2;25,3;10,7;21,5
+NL:Q:41420220;Kraakselaan;Doesburg;0,6;2,3;26,900000000000002;3,4;22,8;2,2
+NL:Q:41420230;Meipoort;Doesburg;0,6;0,6;26,0;2,8;19,3;2,4000000000000004
+NL:Q:41420240;Meipoort;Doesburg;0,8;0,4;4,5;26,200000000000003;4,8;19,4
 NL:Q:41420250;Karel Doormansingel;Doesburg;0,4;0,8;19,7;0,4;13,3;0,3
 NL:Q:41420260;Karel Doormansingel;Doesburg;0,7;0,5;0,3;21,9;0,4;15,2
 NL:Q:41420270;Koepoortwal;Doesburg;0,6;0,5;17,9;0,2;12,2;0,3
 NL:Q:41420280;Koepoortwal;Doesburg;0,0;0,0;0,2;17,8;0,2;10,5
 NL:Q:41420290;Haven;Doesburg;0,2;0,2;4,5;0,6000000000000001;4,6;0,6
-NL:Q:41420300;Haven;Doesburg;0,1;0,4;0,4;4,7;0,4;5,0
-NL:Q:41430070;Cafe Den Bremer;Toldijk;0,1;0,2;0,1;0,1;0,1;0,1
+NL:Q:41420300;Haven;Doesburg;0,1;0,4;0,4;4,6;0,4;5,0
+NL:Q:41430070;Cafe Den Bremer;Toldijk;0,1;0,1;0,1;0,1;0,1;0,1
 NL:Q:41430110;Zuivelfabriek;Steenderen;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:41430120;Zuivelfabriek;Steenderen;0,1;0,0;0,1;0,0;0,0;0,1
 NL:Q:41430130;Gemeentehuis;Steenderen;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:41430140;Gemeentehuis;Steenderen;0,0;0,1;0,0;0,1;0,0;0,1
-NL:Q:41430150;Dorp;Steenderen;0,8;1,0;0,9;0,4;0,9;0,4
-NL:Q:41430160;Dorp;Steenderen;1,0;0,9;0,8;0,6;0,6;0,8
-NL:Q:41430170;Aviko;Steenderen;0,9;0,3;0,6;0,0;0,4;0,1
-NL:Q:41430180;Aviko;Steenderen;0,4;1,0;0,1;0,4;0,1;0,7
+NL:Q:41430140;Gemeentehuis;Steenderen;0,0;0,1;0,0;0,0;0,0;0,1
+NL:Q:41430150;Dorp;Steenderen;0,8;0,9;0,8;0,4;0,8;0,4
+NL:Q:41430160;Dorp;Steenderen;1,0;0,8;0,8;0,6;0,6;0,8
+NL:Q:41430170;Aviko;Steenderen;0,8;0,3;0,5;0,0;0,4;0,1
+NL:Q:41430180;Aviko;Steenderen;0,3;0,9;0,1;0,3;0,1;0,7
 NL:Q:41448023;Hazenberg;Brummen;0,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:41448024;Hazenberg;Brummen;0,4;0,1;0,0;0,0;0,0;0,0
 NL:Q:41448027;Arnhemsestraat;Leuvenheim;0,3;0,1;0,0;0,1;0,0;0,0
@@ -2683,12 +2583,12 @@ NL:Q:41450140;Dorpstraat;Babberich;0,0;0,0;0,1;0,8;0,0;0,0
 NL:Q:41450150;Schutterstent St. Anna;Oud-Zevenaar;0,0;0,0;0,3;0,1;0,0;0,0
 NL:Q:41450160;Schutterstent St. Anna;Oud-Zevenaar;0,0;0,0;0,0;0,3;0,0;0,0
 NL:Q:41470010;Station;Didam;0,3;0,2;0,0;0,0;0,0;0,0
-NL:Q:41470050;Raadhuisstraat;Didam;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:41470050;Raadhuisstraat;Didam;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41470060;Raadhuisstraat;Didam;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41470070;De Hoevert;Didam;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:41470080;De Hoevert;Didam;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41470130;De Linde;Didam;0,2;0,2;0,0;0,0;0,0;0,0
-NL:Q:41470140;De Linde;Didam;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:41470140;De Linde;Didam;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:41470210;Kapelstraat;Loil;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:41470220;Kapelstraat;Loil;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41471130;Kerk;Didam;0,2;0,1;0,0;0,0;0,0;0,0
@@ -2700,74 +2600,74 @@ NL:Q:41490040;Centrum;Wehl;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:41490050;Station;Wehl;0,5;0,7;0,0;0,0;0,0;0,0
 NL:Q:41490070;Brandweerkazerne;Wehl;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41490080;Brandweerkazerne;Wehl;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:41500010;Gelre ziekenhuizen;Zutphen;0,8;0,7;0,1;0,1;0,1;0,1
-NL:Q:41500020;Gelre ziekenhuizen;Zutphen;0,9;0,7;0,1;0,0;0,2;0,1
-NL:Q:41500030;Bieshorstlaan;Warnsveld;0,4;0,5;0,2;0,4;0,2;0,2
-NL:Q:41500050;'t Horseler;Warnsveld;2,7;2,9;1,0;1,6;1,0;1,6
+NL:Q:41500010;Gelre ziekenhuizen;Zutphen;0,7;0,7;0,1;0,1;0,1;0,1
+NL:Q:41500020;Gelre ziekenhuizen;Zutphen;0,8;0,7;0,1;0,0;0,2;0,1
+NL:Q:41500030;Bieshorstlaan;Warnsveld;0,4;0,5;0,2;0,3;0,2;0,2
+NL:Q:41500050;'t Horseler;Warnsveld;2,6;2,8;1,0;1,5;1,0;1,5
 NL:Q:41500060;'t Horseler;Warnsveld;1,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:41500090;Winkelcentrum Dreiumme;Warnsveld;0,9;0,2;0,5;0,1;0,5;0,1
-NL:Q:41500151;Havepad;Warnsveld;0,7;0,9;0,3;0,7;0,2;0,4
-NL:Q:41500160;Overkamp;Warnsveld;4,9;5,1;2,0;2,6;2,1;2,1
+NL:Q:41500151;Havepad;Warnsveld;0,7;0,8;0,3;0,7;0,2;0,4
+NL:Q:41500160;Overkamp;Warnsveld;4,7;4,9;1,9;2,5;2,1;2,1
 NL:Q:41500170;Overkamp;Warnsveld;0,5;0,0;0,0;0,0;0,0;0,0
-NL:Q:41500180;Oude Begraafplaats;Zutphen;0,2;0,4;0,1;0,3;0,3;0,5
-NL:Q:41500190;Ooyerhoekseweg;Warnsveld;0,1;0,4;0,0;0,2;0,0;0,3
+NL:Q:41500180;Oude Begraafplaats;Zutphen;0,2;0,3;0,1;0,3;0,3;0,4
+NL:Q:41500190;Ooyerhoekseweg;Warnsveld;0,1;0,3;0,0;0,2;0,0;0,3
 NL:Q:41500200;Ooyerhoekseweg;Warnsveld;0,4;0,1;0,0;0,0;0,2;0,0
 NL:Q:41500251;Rhienderinklaan;Warnsveld;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:41500261;Rhienderinklaan;Warnsveld;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:41500261;Rhienderinklaan;Warnsveld;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:41500270;Den Bouw;Warnsveld;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:41500280;Den Bouw;Warnsveld;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:41500310;Martinuskerk;Warnsveld;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41500320;Martinuskerk;Warnsveld;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:41500450;Winkelcentrum Dreiumme;Warnsveld;0,2;3,1;0,1;1,5;0,2;1,9
-NL:Q:41500470;Welgelegen;Warnsveld;0,8;0,1;0,3;0,0;0,3;0,0
-NL:Q:41500480;Welgelegen;Warnsveld;0,2;0,9;0,0;0,5;0,0;0,4
-NL:Q:41500550;Kerkpad;Warnsveld;0,2;0,5;0,0;0,0;0,1;0,0
+NL:Q:41500450;Winkelcentrum Dreiumme;Warnsveld;0,2;3,0;0,1;1,4;0,1;1,9
+NL:Q:41500470;Welgelegen;Warnsveld;0,7;0,1;0,3;0,0;0,3;0,0
+NL:Q:41500480;Welgelegen;Warnsveld;0,2;0,8;0,0;0,5;0,0;0,4
+NL:Q:41500550;Kerkpad;Warnsveld;0,2;0,4;0,0;0,0;0,1;0,0
 NL:Q:41500560;Kerkpad;Warnsveld;0,3;0,1;0,2;0,0;0,2;0,0
 NL:Q:41501010;De Groene Jager;Wichmond;0,1;0,0;0,2;0,0;0,1;0,0
 NL:Q:41501100;De Vlieg;Vierakker;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41501430;Winkelcentrum Dreiumme;Warnsveld;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:41501440;Winkelcentrum Dreiumme;Warnsveld;0,9;0,8;0,3;0,2;0,5;0,1
-NL:Q:41501450;Klooster;Warnsveld;0,7;0,6;0,5;0,4;0,5;0,6
+NL:Q:41501440;Winkelcentrum Dreiumme;Warnsveld;0,9;0,7;0,3;0,2;0,5;0,1
+NL:Q:41501450;Klooster;Warnsveld;0,6;0,6;0,5;0,4;0,5;0,6
 NL:Q:41501460;Klooster;Warnsveld;0,5;0,2;0,2;0,0;0,3;0,1
 NL:Q:41501470;Leesten;Warnsveld;0,6;0,9;0,2;0,4;0,1;0,6
-NL:Q:41501480;Leesten;Warnsveld;1,1;0,5;0,5;0,1;0,5;0,1
-NL:Q:41503001;Gelderhorst;Zutphen;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:41501480;Leesten;Warnsveld;1,0;0,5;0,4;0,1;0,5;0,1
+NL:Q:41503001;Gelderhorst;Zutphen;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:41503010;Den Elter;Zutphen;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41504001;Gelderhorst;Zutphen;0,0;0,3;0,0;0,0;0,0;0,0
 NL:Q:41504060;Den Elter;Zutphen;0,1;0,0;0,0;0,1;0,0;0,0
 NL:Q:41504070;Bronsbergen;Zutphen;0,1;0,1;0,0;0,1;0,0;0,0
 NL:Q:41504080;Bronsbergen;Zutphen;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:41504090;Revelhorst;Zutphen;0,0;0,5;0,0;0,3;0,0;0,2
+NL:Q:41504090;Revelhorst;Zutphen;0,0;0,4;0,0;0,3;0,0;0,2
 NL:Q:41504100;Revelhorst;Zutphen;0,2;0,1;0,1;0,0;0,1;0,0
 NL:Q:41509030;Prins Bernhardlaan;Zutphen;0,5;0,0;0,0;0,0;0,0;0,0
 NL:Q:41509040;Prins Bernhardlaan;Zutphen;0,0;0,7;0,0;0,0;0,0;0,0
 NL:Q:41510180;Keijenborg;Bronckhorst;0,8;1,0;0,3;0,3;0,3;0,4
 NL:Q:41510190;Keijenborg;Bronckhorst;0,9;0,6;0,3;0,3;0,2;0,3
 NL:Q:41520010;Manege;Laag-Keppel;0,0;0,0;0,0;0,0;0,2;0,1
-NL:Q:41520030;Gouden Leeuw;Laag-Keppel;0,2;0,1;0,7;0,2;1,1;0,0
+NL:Q:41520030;Gouden Leeuw;Laag-Keppel;0,2;0,1;0,6;0,2;1,1;0,0
 NL:Q:41520040;Gouden Leeuw;Laag-Keppel;0,1;0,2;0,0;0,7;0,1;1,0
 NL:Q:41520050;Brede school;Hummelo;0,2;0,0;0,1;0,1;0,1;0,0
-NL:Q:41520060;Brede school;Hummelo;0,0;0,2;0,1;0,2;0,0;0,3
-NL:Q:41520110;Zelhemseweg;Hummelo;0,6;0,2;0,4;0,2;0,4;0,2
-NL:Q:41520120;Zelhemseweg;Hummelo;0,2;0,7;0,1;0,3;0,2;0,3
+NL:Q:41520060;Brede school;Hummelo;0,0;0,2;0,1;0,1;0,0;0,3
+NL:Q:41520110;Zelhemseweg;Hummelo;0,6;0,2;0,4;0,1;0,4;0,2
+NL:Q:41520120;Zelhemseweg;Hummelo;0,2;0,6;0,1;0,3;0,2;0,3
 NL:Q:41520210;'t Smaaleke;Laag-Keppel;0,0;0,0;0,30000000000000004;0,0;0,2;0,0
 NL:Q:41520220;'t Smaaleke;Laag-Keppel;0,0;0,1;0,0;0,4;0,0;0,6
 NL:Q:41520230;Weg naar Hoog-Keppel;Hoog Keppel;0,1;0,1;0,1;0,0;0,3;0,1
 NL:Q:41520240;Weg naar Hoog-Keppel;Hoog Keppel;0,1;0,0;0,0;0,1;0,1;0,1
 NL:Q:41520250;Burg. Vrijlandweg;Hoog Keppel;0,1;0,0;0,4;0,1;0,2;0,0
 NL:Q:41520260;Burg. Vrijlandweg;Hoog Keppel;0,1;0,1;0,0;0,2;0,1;0,3
-NL:Q:41520270;De Braamberg;Drempt;0,2;0,4;1,2;0,6000000000000001;1,2000000000000002;0,4
-NL:Q:41520280;De Braamberg;Drempt;0,5;0,2;0,7;1,0;0,4;1,3
+NL:Q:41520270;De Braamberg;Drempt;0,1;0,4;1,2;0,6000000000000001;1,2000000000000002;0,4
+NL:Q:41520280;De Braamberg;Drempt;0,5;0,2;0,6000000000000001;1,0;0,4;1,3
 NL:Q:41520300;NH Kerk;Drempt;0,0;0,0;0,0;0,5;0,1;0,6
 NL:Q:41530030;Covik;Baak;0,2;0,1;0,0;0,0;0,1;0,0
 NL:Q:41530040;Covik;Baak;0,1;0,2;0,0;0,1;0,0;0,2
 NL:Q:41530070;Dorp;Baak;1,1;0,3;0,3;0,2;0,5;0,1
-NL:Q:41530080;Dorp;Baak;0,3;1,0;0,1;0,4;0,2;0,5
+NL:Q:41530080;Dorp;Baak;0,3;0,9;0,1;0,4;0,2;0,5
 NL:Q:41530120;De Groene Jager;Wichmond;0,0;0,1;0,0;0,3;0,0;0,1
 NL:Q:41530150;Hackforterweg;Wichmond;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:41530160;Hackforterweg;Wichmond;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:41530170;De Vlieg;Vierakker;0,2;0,0;0,0;0,0;0,0;0,0
-NL:Q:41530180;Van den Brink;Wichmond;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:41530180;Van den Brink;Wichmond;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:41530200;Dorpsstraat;Wichmond;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:41530210;Dorpsstraat;Wichmond;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:41580001;Pater Smitsstraat;Didam;0,1;0,0;0,0;0,0;0,0;0,0
@@ -2781,9 +2681,9 @@ NL:Q:41607003;De Wacht;Teuge;1,6;3,6;0,1;0,5;0,1;0,3
 NL:Q:41607004;De Wacht;Teuge;3,5;1,8;0,1;0,1;0,1;0,0
 NL:Q:41607013;Rijksstraatweg;Teuge;2,5;0,5;0,2;0,0;0,2;0,0
 NL:Q:41607014;Rijksstraatweg;Teuge;0,4;2,7;0,0;0,3;0,1;0,2
-NL:Q:41610070;Waarlo;Zelhem;0,6;0,3;0,1;0,1;0,1;0,1
-NL:Q:41610080;Waarlo;Zelhem;0,2;0,9;0,1;0,1;0,0;0,1
-NL:Q:41610090;Suselbeek;Velswijk;0,4;0,4;0,2;0,2;0,2;0,2
+NL:Q:41610070;Waarlo;Zelhem;0,5;0,3;0,1;0,1;0,1;0,1
+NL:Q:41610080;Waarlo;Zelhem;0,2;0,8;0,1;0,1;0,0;0,1
+NL:Q:41610090;Suselbeek;Velswijk;0,4;0,4;0,2;0,1;0,2;0,2
 NL:Q:41610100;Suselbeek;Velswijk;0,4;0,3;0,1;0,3;0,2;0,2
 NL:Q:41620010;Den Ooiman;Doetinchem;0,2;0,8;0,2;0,2;0,4;0,1
 NL:Q:41620030;IJzergieterij;Langerak;0,1;0,1;0,1;0,0;0,1;0,0
@@ -2794,8 +2694,8 @@ NL:Q:41635004;Broekstraat;Klarenbeek;0,4;0,4;0,0;0,5;0,0;0,0
 NL:Q:41635011;Elsbosweg;Klarenbeek;0,3;0,1;0,2;0,1;0,0;0,0
 NL:Q:41635012;Elsbosweg;Klarenbeek;0,0;0,2;0,0;0,3;0,0;0,0
 NL:Q:41640030;Van der Capellenlaan;Zutphen;0,6;0,8;0,2;0,5;0,3;0,4
-NL:Q:41640040;Van der Capellenlaan;Zutphen;0,5;0,4;0,3;0,2;0,2;0,2
-NL:Q:41640050;Weg naar Laren;Zutphen;0,3;0,2;0,3;0,1;0,2;0,2
+NL:Q:41640040;Van der Capellenlaan;Zutphen;0,5;0,4;0,2;0,2;0,2;0,2
+NL:Q:41640050;Weg naar Laren;Zutphen;0,2;0,2;0,3;0,1;0,2;0,2
 NL:Q:41640060;Weg naar Laren;Zutphen;0,3;0,4;0,1;0,2;0,2;0,3
 NL:Q:41640070;Coehoornsingel;Zutphen;0,1;0,2;0,0;0,1;0,0;0,0
 NL:Q:41640080;Coehoornsingel;Zutphen;0,1;0,1;0,0;0,0;0,0;0,1
@@ -2803,25 +2703,25 @@ NL:Q:41640090;'s-Heerensteen;Zutphen;0,2;0,1;0,1;0,1;0,0;0,1
 NL:Q:41640091;'s-Heerensteen;Zutphen;0,1;0,2;0,1;0,0;0,0;0,0
 NL:Q:41640110;Berkelsingel;Zutphen;0,0;0,4;0,0;0,2;0,0;0,3
 NL:Q:41640120;Berkelsingel;Zutphen;0,2;0,0;0,1;0,0;0,1;0,0
-NL:Q:41640130;Rijkenhage;Zutphen;0,0;1,4;0,0;1,4;0,0;1,0
-NL:Q:41640140;Rijkenhage;Zutphen;1,1;0,1;0,8;0,0;0,7;0,0
-NL:Q:41640170;Busstation;Zutphen;26,0;18,3;11,899999999999999;7,7;6,2;0,0
-NL:Q:41640171;Busstation;Zutphen;6,1;0,0;1,9;0,0;2,3;0,0
-NL:Q:41640172;Busstation;Zutphen;6,8;0,0;2,0;0,0;2,6;0,0
-NL:Q:41640173;Busstation;Zutphen;1,8;0,0;0,0;0,0;0,0;0,0
-NL:Q:41640174;Busstation;Zutphen;0,5;5,2;0,5;1,7;0,5;2,1
-NL:Q:41640176;Busstation;Zutphen;13,7;0,0;6,1;0,0;6,0;0,0
-NL:Q:41640200;Dr. Bosstraat;Zutphen;2,8;0,1;1,2;0,1;1,1;0,1
-NL:Q:41640210;Dr. Bosstraat;Zutphen;0,3;3,7;0,1;1,4;0,2;1,9
-NL:Q:41640231;Thorbeckesingel;Zutphen;1,8;1,4;1,0;1,1;1,1;0,9
-NL:Q:41640330;IJsselflat;Zutphen;3,1;2,9;0,1;0,2;0,1;0,2
-NL:Q:41640350;De Waarden;Zutphen;0,8;0,8;0,6;0,7;0,6;0,5
-NL:Q:41640370;Weerdslag 100-193;Zutphen;1,5;1,6;1,0;0,9;1,0;1,3
-NL:Q:41640390;De Brink;Zutphen;1,1;1,4;0,9;1,0;0,6;1,3
-NL:Q:41640410;Braamkamp;Zutphen;1,1;1,3;0,5;0,7;0,9;1,1
-NL:Q:41640430;Tichelkuilen;Zutphen;1,7;2,0;1,4;2,1;1,3;1,8
-NL:Q:41640570;Arnold Kaldenbachstraat;Zutphen;0,3;2,1;0,0;1,1;0,1;1,4
-NL:Q:41640580;Arnold Kaldenbachstraat;Zutphen;2,0;0,2;0,5;0,0;0,5;0,2
+NL:Q:41640130;Rijkenhage;Zutphen;0,0;1,3;0,0;1,3;0,0;1,0
+NL:Q:41640140;Rijkenhage;Zutphen;1,0;0,1;0,8;0,0;0,7;0,0
+NL:Q:41640170;Busstation;Zutphen;25,700000000000003;18,3;11,7;7,7;6,1;0,0
+NL:Q:41640171;Busstation;Zutphen;5,9;0,0;1,8;0,0;2,3;0,0
+NL:Q:41640172;Busstation;Zutphen;6,5;0,0;1,9;0,0;2,6;0,0
+NL:Q:41640173;Busstation;Zutphen;1,7;0,0;0,0;0,0;0,0;0,0
+NL:Q:41640174;Busstation;Zutphen;0,4;5,0;0,5;1,6;0,5;2,1
+NL:Q:41640176;Busstation;Zutphen;13,2;0,0;5,8;0,0;5,9;0,0
+NL:Q:41640200;Dr. Bosstraat;Zutphen;2,7;0,1;1,2;0,1;1,1;0,1
+NL:Q:41640210;Dr. Bosstraat;Zutphen;0,3;3,6;0,1;1,4;0,2;1,8
+NL:Q:41640231;Thorbeckesingel;Zutphen;1,7;1,3;1,0;1,0;1,1;0,9
+NL:Q:41640330;IJsselflat;Zutphen;3,0;2,8;0,1;0,1;0,1;0,2
+NL:Q:41640350;De Waarden;Zutphen;0,8;0,8;0,6;0,6;0,6;0,5
+NL:Q:41640370;Weerdslag 100-193;Zutphen;1,4;1,5;0,9;0,9;1,0;1,3
+NL:Q:41640390;De Brink;Zutphen;1,0;1,3;0,9;1,0;0,6;1,2
+NL:Q:41640410;Braamkamp;Zutphen;1,1;1,3;0,5;0,6;0,9;1,1
+NL:Q:41640430;Tichelkuilen;Zutphen;1,7;1,9;1,4;2,0;1,3;1,8
+NL:Q:41640570;Arnold Kaldenbachstraat;Zutphen;0,3;2,0;0,0;1,1;0,1;1,4
+NL:Q:41640580;Arnold Kaldenbachstraat;Zutphen;1,9;0,2;0,5;0,0;0,5;0,2
 NL:Q:41642010;Oude Begraafplaats;Zutphen;0,3;0,2;0,3;0,0;0,3;0,2
 NL:Q:41642030;Watertoren;Zutphen;0,4;0,2;0,2;0,1;0,3;0,1
 NL:Q:41642040;Watertoren;Zutphen;0,1;0,3;0,1;0,2;0,1;0,3
@@ -2895,18 +2795,18 @@ NL:Q:41718001;Bussloselaan;Bussloo;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:41718002;De Nieuwenhof;Gietelo;0,3;0,5;0,1;0,1;0,0;0,0
 NL:Q:41718022;Bussloselaan;Bussloo;0,2;0,3;0,0;0,2;0,0;0,0
 NL:Q:41720030;Zelhemseweg;Doetinchem;0,4;1,6;0,2;1,0;0,2;1,0
-NL:Q:41720040;Zelhemseweg;Doetinchem;2,1;0,5;1,3;0,2;1,2;0,2
+NL:Q:41720040;Zelhemseweg;Doetinchem;2,1;0,5;1,2;0,2;1,2;0,2
 NL:Q:41720070;Karel Doormanstraat;Doetinchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41720090;Van Starkenborghstraat;Doetinchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41720110;Churchillstraat;Doetinchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41720150;Sportcentrum Rozengaarde;Doetinchem;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:41720190;Rozengaardseweg;Doetinchem;3,5;5,7;0,6;0,5;0,3;0,6
-NL:Q:41720200;Rozengaardseweg;Doetinchem;5,8;3,7;0,2;0,5;0,3;0,5
-NL:Q:41720210;Raadhuisstraat;Doetinchem;1,9;0,9;0,6;0,1;0,7;0,1
-NL:Q:41720220;Raadhuisstraat;Doetinchem;0,7;1,5;0,1;0,8;0,0;0,8
-NL:Q:41720230;Centrum;Doetinchem;2,0;0,4;5,6000000000000005;0,2;6,8;0,3
-NL:Q:41720240;Centrum;Doetinchem;0,4;2,0;0,30000000000000004;10,600000000000001;0,30000000000000004;12,200000000000001
-NL:Q:41720252;Station;Doetinchem;0,1;10,3;0,0;2,4;0,0;2,3
+NL:Q:41720190;Rozengaardseweg;Doetinchem;3,3;5,5;0,5;0,5;0,3;0,6
+NL:Q:41720200;Rozengaardseweg;Doetinchem;5,6;3,6;0,2;0,5;0,3;0,5
+NL:Q:41720210;Raadhuisstraat;Doetinchem;1,9;0,8;0,5;0,1;0,7;0,1
+NL:Q:41720220;Raadhuisstraat;Doetinchem;0,7;1,4;0,1;0,8;0,0;0,7
+NL:Q:41720230;Centrum;Doetinchem;1,9;0,4;5,6000000000000005;0,2;6,8;0,3
+NL:Q:41720240;Centrum;Doetinchem;0,4;2,0;0,30000000000000004;10,600000000000001;0,30000000000000004;12,1
+NL:Q:41720252;Station;Doetinchem;0,1;9,9;0,0;2,3;0,0;2,3
 NL:Q:41720280;Gruitpoort;Doetinchem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41720290;Het Weerdje;Doetinchem;0,0;0,4;0,0;0,0;0,0;0,0
 NL:Q:41720310;Wolborgenmate;Doetinchem;0,0;0,3;0,0;0,0;0,0;0,0
@@ -2914,69 +2814,69 @@ NL:Q:41720360;Boekweitdreef;Doetinchem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41720390;Wannedreef;Doetinchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41720400;Roggedreef;Doetinchem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41720410;Eduard Schilderinkstraat;Doetinchem;1,3;0,2;0,7;0,1;0,9;0,1
-NL:Q:41720420;Eduard Schilderinkstraat;Doetinchem;0,2;1,4;0,1;0,6;0,1;0,5
-NL:Q:41720430;Burg. Kehrerstraat;Doetinchem;0,6;0,4;0,1;0,2;0,1;0,1
-NL:Q:41720440;Burg. Kehrerstraat;Doetinchem;0,4;0,6;0,1;0,2;0,1;0,0
-NL:Q:41720450;Klompenfabriek;Doetinchem;0,4;0,6;0,1;0,1;0,1;0,1
-NL:Q:41720460;Klompenfabriek;Doetinchem;0,4;0,4;0,1;0,1;0,1;0,1
-NL:Q:41720470;Graafschap College;Doetinchem;5,9;6,6;0,2;0,1;0,2;0,0
-NL:Q:41720480;Graafschap College;Doetinchem;5,7;7,9;0,0;0,2;0,0;0,1
+NL:Q:41720420;Eduard Schilderinkstraat;Doetinchem;0,2;1,3;0,1;0,6;0,1;0,5
+NL:Q:41720430;Burg. Kehrerstraat;Doetinchem;0,6;0,4;0,1;0,1;0,1;0,1
+NL:Q:41720440;Burg. Kehrerstraat;Doetinchem;0,4;0,5;0,1;0,2;0,1;0,0
+NL:Q:41720450;Klompenfabriek;Doetinchem;0,4;0,5;0,1;0,1;0,1;0,1
+NL:Q:41720460;Klompenfabriek;Doetinchem;0,4;0,3;0,1;0,1;0,1;0,1
+NL:Q:41720470;Graafschap College;Doetinchem;5,7;6,4;0,1;0,0;0,2;0,0
+NL:Q:41720480;Graafschap College;Doetinchem;5,5;7,6;0,0;0,2;0,0;0,1
 NL:Q:41720490;Hof van Oxford;Doetinchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41720500;Alfred Mozerplein;Doetinchem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41720520;Willy Brandtplein;Doetinchem;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:41720580;Wijnbergsebrug;Doetinchem;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:41720590;Wijnbergsebrug;Doetinchem;0,3;0,3;0,0;0,0;0,1;0,0
-NL:Q:41720650;Sportpark Zuid;Doetinchem;5,3;3,5;0,0;0,0;0,0;0,0
+NL:Q:41720650;Sportpark Zuid;Doetinchem;5,1;3,3;0,0;0,0;0,0;0,0
 NL:Q:41720670;Zuivelweg;Doetinchem;0,7;0,3;0,0;0,0;0,0;0,0
 NL:Q:41720680;Zuivelweg;Doetinchem;0,2;0,8;0,0;0,0;0,0;0,0
 NL:Q:41720690;Slotlaan;Doetinchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41720850;Jindo;Doetinchem;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:41721050;Watertoren;Doetinchem;0,7;0,3;0,1;0,1;0,2;0,2
-NL:Q:41721060;Watertoren;Doetinchem;0,5;1,5;0,0;0,0;0,0;0,0
-NL:Q:41721100;Station;Doetinchem;9,2;0,0;2,3;0,0;2,2;0,0
-NL:Q:41721101;Station;Doetinchem;16,7;0,0;2,0;0,0;2,0;0,0
-NL:Q:41721102;Station;Doetinchem;19,7;0,5;2,9;0,0;3,0;0,0
-NL:Q:41721103;Station;Doetinchem;12,2;0,0;0,0;0,0;0,0;0,0
-NL:Q:41721104;Station;Doetinchem;4,2;0,0;13,8;4,7;15,5;8,6
+NL:Q:41721060;Watertoren;Doetinchem;0,5;1,4;0,0;0,0;0,0;0,0
+NL:Q:41721100;Station;Doetinchem;8,9;0,0;2,2;0,0;2,2;0,0
+NL:Q:41721101;Station;Doetinchem;16,1;0,0;2,0;0,0;1,9;0,0
+NL:Q:41721102;Station;Doetinchem;19,0;0,5;2,8;0,0;2,9;0,0
+NL:Q:41721103;Station;Doetinchem;11,8;0,0;0,0;0,0;0,0;0,0
+NL:Q:41721104;Station;Doetinchem;4,1;0,0;13,4;4,7;15,299999999999999;8,6
 NL:Q:41721110;Gemeentehuis;Doetinchem;1,7;0,4;1,5;0,2;1,3;0,2
-NL:Q:41721120;Gemeentehuis;Doetinchem;0,4;1,5;0,2;2,7;0,1;1,7999999999999998
-NL:Q:41721130;2e Loolaan;Doetinchem;1,7;3,3;1,0;0,1;1,2;0,0
-NL:Q:41721140;2e Loolaan;Doetinchem;2,4;2,3;0,2;1,5;0,0;2,0
+NL:Q:41721120;Gemeentehuis;Doetinchem;0,4;1,4;0,2;2,7;0,1;1,7999999999999998
+NL:Q:41721130;2e Loolaan;Doetinchem;1,6;3,2;1,0;0,1;1,2;0,0
+NL:Q:41721140;2e Loolaan;Doetinchem;2,3;2,3;0,2;1,5;0,0;2,0
 NL:Q:41721160;Den Ooiman;Doetinchem;0,6;0,2;0,2;0,6;0,2;1,3
-NL:Q:41723030;Loolaan;Doetinchem;1,2;0,8;0,2;0,2;0,2;0,2
-NL:Q:41723040;Loolaan;Doetinchem;1,1;1,7;0,1;0,2;0,1;0,3
-NL:Q:41723050;Slingeland Ziekenhuis;Doetinchem;1,6;2,7;0,3;0,8;0,4;0,5
-NL:Q:41723060;Slingeland Ziekenhuis;Doetinchem;2,3;1,4;0,8;0,3;0,6;0,3
+NL:Q:41723030;Loolaan;Doetinchem;1,2;0,8;0,2;0,1;0,2;0,2
+NL:Q:41723040;Loolaan;Doetinchem;1,1;1,6;0,1;0,2;0,1;0,3
+NL:Q:41723050;Slingeland Ziekenhuis;Doetinchem;1,6;2,6;0,3;0,8;0,4;0,5
+NL:Q:41723060;Slingeland Ziekenhuis;Doetinchem;2,2;1,3;0,8;0,3;0,6;0,3
 NL:Q:41723070;Slingeland Zkh. Hoofdingang;Doetinchem;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:41723080;'t Anker;Doetinchem;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:41723110;Kruisberg;Doetinchem;2,4;0,8;0,4;0,3;0,5;0,3
-NL:Q:41723120;Kruisberg;Doetinchem;0,7;2,1;0,3;0,5;0,2;0,5
+NL:Q:41723110;Kruisberg;Doetinchem;2,3;0,8;0,4;0,3;0,5;0,3
+NL:Q:41723120;Kruisberg;Doetinchem;0,7;2,0;0,2;0,5;0,2;0,5
 NL:Q:41723160;Bunderhorst;Doetinchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41723530;Station De Huet;Doetinchem;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:41723570;Kersenbloesem;Doetinchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41723590;Kruidenlaan;Doetinchem;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:41723630;Bedrijventerrein;Doetinchem;0,2;1,6;0,0;0,2;0,1;0,1
+NL:Q:41723630;Bedrijventerrein;Doetinchem;0,2;1,5;0,0;0,2;0,1;0,1
 NL:Q:41723640;Bedrijventerrein;Doetinchem;0,9;0,3;0,1;0,0;0,0;0,0
-NL:Q:41723650;Woonboulevard;Doetinchem;0,3;1,2;0,2;0,1;0,1;0,1
+NL:Q:41723650;Woonboulevard;Doetinchem;0,2;1,1;0,2;0,1;0,1;0,1
 NL:Q:41723660;Woonboulevard;Doetinchem;0,8;0,2;0,1;0,2;0,1;0,1
 NL:Q:41730030;Tolbrug;Toldijk;0,1;0,1;0,1;0,1;0,0;0,0
 NL:Q:41730040;Tolbrug;Toldijk;0,1;0,1;0,1;0,1;0,0;0,1
 NL:Q:41730050;Lamstraat;Toldijk;0,2;0,1;0,0;0,0;0,1;0,0
-NL:Q:41730060;Lamstraat;Toldijk;0,1;0,2;0,0;0,1;0,0;0,0
+NL:Q:41730060;Lamstraat;Toldijk;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:41730070;Zonnebrug;Toldijk;0,1;0,1;0,1;0,0;0,0;0,0
 NL:Q:41730080;Zonnebrug;Toldijk;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:41730100;Cafe Den Bremer;Toldijk;0,2;0,2;0,3;0,1;0,0;0,1
-NL:Q:41740010;Rustoordlaan;Eefde;0,7;0,6;0,3;0,3;0,3;0,2
-NL:Q:41740020;Rustoordlaan;Eefde;0,4;0,5;0,3;0,4;0,2;0,5
-NL:Q:41740030;Het Spijk;Eefde;0,4;0,3;0,4;0,3;0,3;0,4
-NL:Q:41740031;Het Spijk;Eefde;0,6;0,6;0,5;0,6;0,2;0,5
-NL:Q:41740050;Het Hart;Eefde;1,7;1,2;0,6;0,7;1,1;1,0
-NL:Q:41740060;Het Hart;Eefde;0,8;1,2;0,5;0,5;0,5;0,8
+NL:Q:41730100;Cafe Den Bremer;Toldijk;0,2;0,2;0,2;0,1;0,0;0,1
+NL:Q:41740010;Rustoordlaan;Eefde;0,7;0,6;0,2;0,3;0,3;0,2
+NL:Q:41740020;Rustoordlaan;Eefde;0,4;0,5;0,3;0,3;0,2;0,5
+NL:Q:41740030;Het Spijk;Eefde;0,3;0,3;0,4;0,3;0,3;0,4
+NL:Q:41740031;Het Spijk;Eefde;0,6;0,6;0,4;0,6;0,2;0,5
+NL:Q:41740050;Het Hart;Eefde;1,7;1,1;0,6;0,6;1,1;1,0
+NL:Q:41740060;Het Hart;Eefde;0,8;1,1;0,5;0,5;0,5;0,8
 NL:Q:41740070;Teenkweg;Eefde;0,6;0,5;0,2;0,3;0,1;0,4
 NL:Q:41740080;Teenkweg;Eefde;0,3;0,5;0,2;0,1;0,2;0,1
-NL:Q:41740110;Vredenhof;Eefde;0,1;0,1;0,1;0,1;0,1;0,3
+NL:Q:41740110;Vredenhof;Eefde;0,0;0,1;0,1;0,1;0,1;0,3
 NL:Q:41740120;Vredenhof;Eefde;0,0;0,1;0,1;0,1;0,2;0,1
-NL:Q:41740130;Quatre Bras;Eefde;0,2;0,3;0,1;0,2;0,2;0,3
+NL:Q:41740130;Quatre Bras;Eefde;0,2;0,2;0,0;0,2;0,1;0,3
 NL:Q:41740140;Quatre Bras;Eefde;0,2;0,2;0,1;0,1;0,2;0,1
 NL:Q:41740150;Kerkhof;Gorssel;0,1;0,2;0,0;0,2;0,1;0,2
 NL:Q:41750180;Mariahoeve;Babberich;0,0;0,0;0,0;0,1;0,0;0,0
@@ -2993,8 +2893,8 @@ NL:Q:41761006;Huize de Beele;Voorst;0,4;0,8;0,0;0,1;0,0;0,0
 NL:Q:41761007;Station Voorst-Empe;Voorst;8,9;6,6;1,6;0,9;0,2;0,2
 NL:Q:41768001;De Nieuwenhof;Gietelo;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:41770010;Vunderingweg;Almen;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:41770030;Almense Brug;Almen;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:41770040;Almense Brug;Almen;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:41770030;Almense Brug;Almen;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:41770040;Almense Brug;Almen;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:41770070;Het Mastler;Eefde;0,3;0,0;0,1;0,0;0,0;0,0
 NL:Q:41770080;Het Mastler;Eefde;0,0;0,4;0,0;0,0;0,0;0,0
 NL:Q:41770090;De Uitrusting;Eefde;0,1;0,0;0,0;0,0;0,0;0,0
@@ -3003,16 +2903,16 @@ NL:Q:41780010;Hoofdstraat;Kilder;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41780020;Hoofdstraat;Kilder;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41780030;Dorp;Kilder;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:41780040;Dorp;Kilder;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:41790030;Busstation;'s-Heerenberg;2,3;2,3;1,1;0,6;0,8;0,7
+NL:Q:41790030;Busstation;'s-Heerenberg;2,3;2,2;1,1;0,6;0,8;0,7
 NL:Q:41790070;Busstation;'s-Heerenberg;0,5;0,0;0,0;0,0;0,0;0,0
-NL:Q:41790100;Hangaarts;'s-Heerenberg;0,9;5,6;0,2;1,9;0,3;2,5
-NL:Q:41790110;Hangaarts;'s-Heerenberg;4,6;0,1;1,4;0,0;1,7;0,1
-NL:Q:41790130;Tolhuis;Zeddam;0,1;0,3;0,1;0,2;0,2;0,2
+NL:Q:41790100;Hangaarts;'s-Heerenberg;0,9;5,4;0,2;1,8;0,3;2,4
+NL:Q:41790110;Hangaarts;'s-Heerenberg;4,5;0,1;1,3;0,0;1,6;0,0
+NL:Q:41790130;Tolhuis;Zeddam;0,1;0,3;0,1;0,1;0,2;0,2
 NL:Q:41790140;Tolhuis;Zeddam;0,3;0,2;0,2;0,3;0,3;0,1
-NL:Q:41790150;Hertenkamp;Zeddam;0,2;1,8;0,4;1,7;0,2;1,0
-NL:Q:41790160;Hertenkamp;Zeddam;1,5;0,3;1,1;0,6;0,8;0,4
-NL:Q:41790190;Kilderseweg;Zeddam;0,0;0,5;0,1;0,6;0,1;0,6
-NL:Q:41790200;Kilderseweg;Zeddam;0,3;0,1;0,4;0,4;0,2;0,2
+NL:Q:41790150;Hertenkamp;Zeddam;0,2;1,7;0,3;1,6;0,2;1,0
+NL:Q:41790160;Hertenkamp;Zeddam;1,5;0,3;1,0;0,5;0,8;0,4
+NL:Q:41790190;Kilderseweg;Zeddam;0,0;0,5;0,1;0,5;0,1;0,6
+NL:Q:41790200;Kilderseweg;Zeddam;0,3;0,1;0,4;0,3;0,2;0,2
 NL:Q:41796010;Dorp;Stokkum;0,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:41796020;Dorp;Stokkum;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:41796030;Slotlaan;'s-Heerenberg;0,2;0,0;0,0;0,0;0,0;0,0
@@ -3024,7 +2924,7 @@ NL:Q:41796080;De Kapelhoek;'s-Heerenberg;0,0;0,3;0,0;0,0;0,0;0,0
 NL:Q:41796110;Lange Heg;Stokkum;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41796120;Lange Heg;Stokkum;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41800070;Kasteel Slangenburg;Slangenburg;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:41800080;Kasteel Slangenburg;Slangenburg;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:41800080;Kasteel Slangenburg;Slangenburg;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41820010;De Hamaker;Terborg;0,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:41820030;Cafe Hartjes;Gaanderen;0,1;0,7;0,0;0,0;0,0;0,0
 NL:Q:41820040;Cafe Hartjes;Gaanderen;0,4;0,1;0,0;0,0;0,0;0,0
@@ -3035,7 +2935,7 @@ NL:Q:41820080;Slakweg;Gaanderen;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:41820090;De Pol;Doetinchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41820100;De Pol;Doetinchem;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:41820130;McDonald's;Doetinchem;0,6;0,3;0,1;0,2;0,2;0,1
-NL:Q:41820140;McDonald's;Doetinchem;0,5;0,9;0,2;0,2;0,2;0,2
+NL:Q:41820140;McDonald's;Doetinchem;0,5;0,8;0,2;0,2;0,2;0,2
 NL:Q:41870030;Hogenkampsweg;Almen;0,0;0,0;0,3;0,2;0,2;0,4
 NL:Q:41870070;Groot Have;Almen;0,0;0,1;0,0;0,1;0,0;0,1
 NL:Q:41870080;Groot Have;Almen;0,0;0,1;0,0;0,0;0,0;0,0
@@ -3049,21 +2949,21 @@ NL:Q:41880020;Laakweg;Azewijn;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:41890050;Buiting;Braamt;0,1;0,6;0,0;0,5;0,0;0,4
 NL:Q:41890060;Buiting;Braamt;0,7;0,1;0,5;0,1;0,4;0,0
 NL:Q:41890090;Stroombroek;Wijnbergen;0,0;0,4;0,0;0,2;0,1;0,3
-NL:Q:41890100;Stroombroek;Wijnbergen;0,3;0,0;0,2;0,0;0,2;0,1
-NL:Q:41900050;Boesvelderdijk;Westendorp;0,6;0,5;0,0;0,0;0,0;0,0
+NL:Q:41890100;Stroombroek;Wijnbergen;0,3;0,0;0,1;0,0;0,1;0,1
+NL:Q:41900050;Boesvelderdijk;Westendorp;0,5;0,5;0,0;0,0;0,0;0,0
 NL:Q:41900060;Boesvelderdijk;Westendorp;0,5;0,5;0,0;0,0;0,0;0,0
-NL:Q:41910070;Markt;Zelhem;2,3;0,7;1,4;0,3;1,2;0,2
-NL:Q:41910080;Markt;Zelhem;0,6;2,1;0,3;1,1;0,4;1,1
-NL:Q:41910110;Stikkenweg;Zelhem;0,3;1,5;0,1;0,7;0,1;0,5
-NL:Q:41910120;Stikkenweg;Zelhem;1,8;0,4;0,8;0,2;0,7;0,1
+NL:Q:41910070;Markt;Zelhem;2,2;0,6;1,3;0,2;1,2;0,2
+NL:Q:41910080;Markt;Zelhem;0,6;2,1;0,3;1,0;0,4;1,1
+NL:Q:41910110;Stikkenweg;Zelhem;0,3;1,4;0,1;0,7;0,1;0,5
+NL:Q:41910120;Stikkenweg;Zelhem;1,7;0,4;0,7;0,2;0,6;0,1
 NL:Q:41910150;Schildersoord;Zelhem;0,4;0,8;0,1;0,4;0,1;0,4
-NL:Q:41910160;Schildersoord;Zelhem;1,1;0,3;0,3;0,1;0,3;0,2
+NL:Q:41910160;Schildersoord;Zelhem;1,0;0,3;0,3;0,1;0,3;0,2
 NL:Q:41911010;Kerkwijk;Zelhem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41911020;Kerkwijk;Zelhem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41911090;Dennenhoeve;Zelhem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41911100;Dennenhoeve;Zelhem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41920050;Slingerparallel;Etten;0,6;0,2;0,1;0,1;0,1;0,0
-NL:Q:41920060;Slingerparallel;Etten;0,2;0,7;0,0;0,2;0,1;0,2
+NL:Q:41920060;Slingerparallel;Etten;0,1;0,6;0,0;0,2;0,1;0,2
 NL:Q:41920090;Ulftsestraat;Terborg/Silvolde;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41920210;De Schuylenburgh;Silvolde;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:41920250;Galgenberg;Silvolde;0,0;0,0;0,0;0,0;0,0;0,0
@@ -3076,58 +2976,58 @@ NL:Q:41920310;De Lovink;Terborg;0,4;0,4;0,0;0,0;0,0;0,0
 NL:Q:41920320;De Lovink;Terborg;0,3;0,3;0,0;0,0;0,0;0,0
 NL:Q:41920330;Politiebureau;Terborg;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:41920340;Politiebureau;Terborg;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:41920350;Station Terborg;Terborg;0,3;1,5;0,0;0,0;0,0;0,0
+NL:Q:41920350;Station Terborg;Terborg;0,3;1,4;0,0;0,0;0,0;0,0
 NL:Q:41920352;Station Terborg;Terborg;1,4;0,4;0,0;0,0;0,0;0,0
 NL:Q:41920360;Kerk;Terborg;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41920370;Kerk;Terborg;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:41920380;Antonia;Terborg;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:41920410;De Kameleon;Terborg;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:41920420;De Hamaker;Terborg;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:41920470;De Belterman;Silvolde;0,1;2,8;0,0;0,0;0,0;0,0
-NL:Q:41920480;De Belterman;Silvolde;2,2;0,2;0,0;0,0;0,0;0,0
+NL:Q:41920470;De Belterman;Silvolde;0,1;2,7;0,0;0,0;0,0;0,0
+NL:Q:41920480;De Belterman;Silvolde;2,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:41920500;Doctor Dreesstraat;Silvolde;0,5;0,2;0,0;0,0;0,0;0,0
-NL:Q:41920520;Doctor Dreesstraat;Silvolde;0,1;0,7;0,0;0,0;0,0;0,0
+NL:Q:41920520;Doctor Dreesstraat;Silvolde;0,1;0,6;0,0;0,0;0,0;0,0
 NL:Q:41920600;Terborgseveld;Silvolde;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:41970050;Dorpsstraat;Laren;1,7;0,4;0,0;0,0;0,0;0,0
 NL:Q:41970060;Dorpsstraat;Laren;0,2;0,6;0,1;0,1;0,2;0,2
 NL:Q:41970090;Maalderij Jansen;Laren;0,4;0,0;0,0;0,0;0,0;0,0
-NL:Q:41970100;Maalderij Jansen;Laren;0,0;0,4;0,1;0,1;0,0;0,0
+NL:Q:41970100;Maalderij Jansen;Laren;0,0;0,4;0,1;0,0;0,0;0,0
 NL:Q:41970150;Rossweg;Laren;0,2;0,0;0,0;0,0;0,0;0,0
-NL:Q:42020050;Berghseweg;Ulft;2,0;0,0;0,5;0,1;0,5;0,1
-NL:Q:42020060;Berghseweg;Ulft;0,0;2,2;0,0;0,5;0,1;0,7
-NL:Q:42020070;Debbeshoek;Ulft;1,6;0,2;0,6;0,2;0,6;0,2
-NL:Q:42020080;Debbeshoek;Ulft;0,2;1,7;0,2;0,7;0,2;0,6
-NL:Q:42020090;DRU Industriepark;Ulft;0,1;1,4;0,5;0,4;0,2;0,5
-NL:Q:42020100;DRU Industriepark;Ulft;3,3;0,1;0,0;0,0;0,0;0,0
+NL:Q:42020050;Berghseweg;Ulft;1,9;0,0;0,5;0,1;0,5;0,1
+NL:Q:42020060;Berghseweg;Ulft;0,0;2,1;0,0;0,5;0,1;0,7
+NL:Q:42020070;Debbeshoek;Ulft;1,5;0,2;0,6;0,2;0,6;0,2
+NL:Q:42020080;Debbeshoek;Ulft;0,2;1,6;0,2;0,7;0,2;0,6
+NL:Q:42020090;DRU Industriepark;Ulft;0,1;1,3;0,5;0,4;0,2;0,5
+NL:Q:42020100;DRU Industriepark;Ulft;3,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:42020110;Thorbeckestraat;Ulft;0,6;0,1;0,1;0,0;0,3;0,0
 NL:Q:42020120;Thorbeckestraat;Ulft;0,0;0,8;0,0;0,3;0,0;0,2
 NL:Q:42020130;Kerk Ulft Noord;Ulft;0,9;0,0;0,3;0,0;0,3;0,0
 NL:Q:42020140;Kerk Ulft Noord;Ulft;0,0;1,0;0,0;0,3;0,0;0,2
 NL:Q:42020160;Riezenweg;Ulft;0,0;0,3;0,0;0,0;0,0;0,0
 NL:Q:42020190;Keurkamer;Ulft;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:42020210;Riezenweg;Ulft;0,6;0,1;0,0;0,0;0,0;0,0
+NL:Q:42020210;Riezenweg;Ulft;0,5;0,1;0,0;0,0;0,0;0,0
 NL:Q:42020220;Ulftseweg;Bontebrug;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:42020230;Ulftseweg;Bontebrug;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:42021010;Rijnweg;Gendringen;0,9;0,4;0,2;0,0;0,3;0,0
-NL:Q:42021020;Rijnweg;Gendringen;0,0;1,2;0,0;0,2;0,0;0,4
+NL:Q:42021020;Rijnweg;Gendringen;0,0;1,1;0,0;0,1;0,0;0,4
 NL:Q:42021030;Wesenthorstlaan;Ulft;1,1;0,0;0,2;0,0;0,1;0,0
 NL:Q:42021040;Wesenthorstlaan;Ulft;0,0;1,1;0,0;0,3;0,0;0,1
 NL:Q:42021120;Weg achter de Blenk;Ulft;0,2;0,1;0,0;0,0;0,0;0,0
-NL:Q:42021150;Weg achter de Blenk;Ulft;0,3;0,1;0,0;0,0;0,0;0,0
+NL:Q:42021150;Weg achter de Blenk;Ulft;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:42026030;Dorp;Varsselder;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:42026040;Dorp;Varsselder;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:42026050;Ter Voert;Megchelen;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:42026070;Kerkplein;Gendringen;1,7;1,3;0,5;0,5;0,5;0,5
+NL:Q:42026070;Kerkplein;Gendringen;1,6;1,2;0,4;0,5;0,5;0,5
 NL:Q:42210010;Brokkenstraat;Breedenbroek;0,1;0,0;0,1;0,0;0,0;0,0
 NL:Q:42210030;Hebinck;Breedenbroek;0,5;0,0;0,1;0,0;0,1;0,0
 NL:Q:42210040;Hebinck;Breedenbroek;0,0;0,6;0,0;0,1;0,0;0,0
 NL:Q:42210050;Weg naar De Heurne;Dinxperlo;0,7;0,0;0,1;0,0;0,1;0,0
 NL:Q:42210051;Weg naar De Heurne;Dinxperlo;0,0;0,7;0,0;0,1;0,0;0,1
 NL:Q:42210060;Weg naar De Heurne;Dinxperlo;0,2;0,0;0,0;0,0;0,0;0,0
-NL:Q:42210070;Groene Kruis;Dinxperlo;1,0;0,2;0,3;0,1;0,2;0,0
-NL:Q:42210071;Groene Kruis;Dinxperlo;0,1;1,0;0,0;0,3;0,0;0,3
-NL:Q:42210090;Willem van Oranjeplein;Dinxperlo;0,2;0,0;2,4;0,0;2,1;0,0
-NL:Q:42210091;Willem van Oranjeplein;Dinxperlo;1,9;1,5;0,0;0,4;0,0;0,4
+NL:Q:42210070;Groene Kruis;Dinxperlo;1,0;0,2;0,2;0,1;0,2;0,0
+NL:Q:42210071;Groene Kruis;Dinxperlo;0,1;1,0;0,0;0,2;0,0;0,3
+NL:Q:42210090;Willem van Oranjeplein;Dinxperlo;0,2;0,0;2,3;0,0;2,1;0,0
+NL:Q:42210091;Willem van Oranjeplein;Dinxperlo;1,8;1,4;0,0;0,4;0,0;0,4
 NL:Q:42210290;De Prins;Breedenbroek;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:42210300;De Prins;Breedenbroek;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:42211310;De Kroeze;Breedenbroek;0,0;0,1;0,0;0,0;0,0;0,0
@@ -3158,21 +3058,21 @@ NL:Q:42340010;Domme Aanleg;Barlo;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:42340020;Domme Aanleg;Barlo;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:42340050;Barlo;Barlo;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:42340060;Barlo;Barlo;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:42400090;De Harmonie;Winterswijk;3,4;0,7;0,1;0,0;0,2;0,0
-NL:Q:42400100;De Harmonie;Winterswijk;0,6;3,4;0,1;0,1;0,1;0,2
-NL:Q:42400110;De Peperbus;Winterswijk;0,2;2,0;0,0;0,4;0,0;0,3
-NL:Q:42400120;De Peperbus;Winterswijk;1,7;0,1;0,3;0,0;0,4;0,0
+NL:Q:42400090;De Harmonie;Winterswijk;3,3;0,7;0,1;0,0;0,2;0,0
+NL:Q:42400100;De Harmonie;Winterswijk;0,6;3,3;0,0;0,1;0,1;0,2
+NL:Q:42400110;De Peperbus;Winterswijk;0,2;1,9;0,0;0,4;0,0;0,3
+NL:Q:42400120;De Peperbus;Winterswijk;1,6;0,1;0,2;0,0;0,4;0,0
 NL:Q:42400130;Ziekenhuis;Winterswijk;1,4;0,7;0,1;0,0;0,3;0,1
-NL:Q:42400140;Ziekenhuis;Winterswijk;0,6;1,8;0,0;0,2;0,1;0,3
-NL:Q:42400190;Busstation Winterswijk;Winterswijk;8,5;0,0;0,7;0,0;1,2;0,0
+NL:Q:42400140;Ziekenhuis;Winterswijk;0,6;1,7;0,0;0,2;0,1;0,3
+NL:Q:42400190;Busstation Winterswijk;Winterswijk;8,2;0,0;0,7;0,0;1,2;0,0
 NL:Q:42400470;De Driemark;Winterswijk;0,9;0,1;0,1;0,0;0,1;0,0
 NL:Q:42400480;De Driemark;Winterswijk;0,2;0,9;0,0;0,1;0,0;0,1
 NL:Q:42400590;Pelkwijk;Winterswijk;0,7;0,4;0,1;0,0;0,1;0,0
 NL:Q:42400600;Pelkwijk;Winterswijk;0,4;0,6;0,1;0,1;0,0;0,1
-NL:Q:42400630;Kloetenseweg;Winterswijk;1,1;0,6;0,1;0,1;0,1;0,0
+NL:Q:42400630;Kloetenseweg;Winterswijk;1,1;0,5;0,0;0,1;0,1;0,0
 NL:Q:42400640;Kloetenseweg;Winterswijk;0,5;0,8;0,1;0,0;0,1;0,1
 NL:Q:42400650;Vredensehof;Winterswijk;1,4;0,7;0,1;0,0;0,3;0,1
-NL:Q:42400660;Vredensehof;Winterswijk;0,9;1,4;0,1;0,2;0,1;0,4
+NL:Q:42400660;Vredensehof;Winterswijk;0,8;1,4;0,1;0,1;0,1;0,4
 NL:Q:42400692;Jaspersweg;Winterswijk;0,2;0,6;0,0;0,1;0,0;0,2
 NL:Q:42400693;Jaspersweg;Winterswijk;0,5;0,2;0,1;0,0;0,1;0,0
 NL:Q:42500070;Weg naar Meddo;Meddo;0,0;0,4;0,0;0,0;0,0;0,0
@@ -3190,8 +3090,8 @@ NL:Q:42510280;Luimesweg;Sinderen;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:42510310;Klok;Sinderen;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:42510320;Klok;Sinderen;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:42610060;Kroezenhoek;Kroezenhoek;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:43000010;Centraal Station;Enschede;403,6;427,5;310,3;152,20000000000002;209,2;94,5
-NL:Q:43000011;Centraal Station;Enschede;694,2;415,5;189,2;140,5;113,39999999999999;78,4
+NL:Q:43000010;Centraal Station;Enschede;403,3;427,20000000000005;310,3;152,10000000000002;209,2;94,5
+NL:Q:43000011;Centraal Station;Enschede;693,7;415,5;189,1;140,5;113,3;78,4
 NL:Q:43000012;Centraal Station;Enschede;460,2;433,6;169,3;320,1;125,5;163,0
 NL:Q:43000014;Centraal Station;Enschede;352,5;227,6;163,6;104,0;106,3;57,1
 NL:Q:43000015;Centraal Station;Enschede;409,1;666,8;165,0;231,3;114,1;127,4
@@ -3289,9 +3189,9 @@ NL:Q:43001800;Het Oosterveld;Enschede;64,6;3,7;40,9;1,0;18,6;1,0
 NL:Q:43001810;Saasveldbrink;Enschede;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:43001820;Herikebrink;Enschede;32,0;2,3;16,4;0,2;7,5;0,2
 NL:Q:43001830;Rabobank;Enschede;10,5;25,9;4,8;11,799999999999999;2,9;10,4
-NL:Q:43001840;Rabobank;Enschede;21,900000000000002;12,0;10,6;6,199999999999999;7,8999999999999995;2,5
+NL:Q:43001840;Rabobank;Enschede;21,900000000000002;12,0;10,6;6,1;7,8999999999999995;2,5
 NL:Q:43001850;P+R Zuiderval;Enschede;22,599999999999998;34,8;7,3;24,3;3,8000000000000003;11,2
-NL:Q:43001860;P+R Zuiderval;Enschede;28,900000000000002;23,4;24,1;8,9;13,6;4,4
+NL:Q:43001860;P+R Zuiderval;Enschede;28,900000000000002;23,3;24,1;8,9;13,6;4,4
 NL:Q:43001870;Het Leunenberg;Enschede;0,9;39,4;0,9;28,8;0,3;12,5
 NL:Q:43001880;Het Leunenberg;Enschede;38,0;1,0;29,4;0,8;13,1;0,3
 NL:Q:43001900;De Posten;Enschede;73,6;57,6;32,9;24,6;18,7;14,8
@@ -3478,7 +3378,7 @@ NL:Q:43110330;UT/Bastille;Enschede;1,9;52,1;0,0;0,0;0,0;0,0
 NL:Q:43110340;UT/Bastille;Enschede;41,0;0,4;0,0;0,0;0,0;0,0
 NL:Q:43111290;UT/De Zul;Enschede;1,4;46,4;0,0;0,0;0,0;0,0
 NL:Q:43111300;UT/De Zul;Enschede;46,1;1,4;0,0;0,0;0,0;0,0
-NL:Q:43130010;Platinastraat;Hengelo;5,6;26,7;1,5;6,7;0,6;1,5
+NL:Q:43130010;Platinastraat;Hengelo;5,6;26,6;1,5;6,7;0,6;1,5
 NL:Q:43130030;Bellersweg;Beckum;0,1;1,2000000000000002;0,1;0,5;0,0;0,2
 NL:Q:43130040;Bellersweg;Beckum;1,4000000000000001;0,1;0,4;0,0;0,1;0,0
 NL:Q:43130050;Sluitersdijk;Beckum;0,0;0,6;0,1;0,3;0,1;0,1
@@ -3583,9 +3483,9 @@ NL:Q:43211012;Centraal Station;Hengelo;40,7;27,5;20,4;1,4;10,2;0,4
 NL:Q:43211013;Centraal Station;Hengelo;135,5;3,9;19,3;0,2;0,0;0,0
 NL:Q:43211016;Centraal Station;Hengelo;47,2;113,7;30,1;66,4;12,8;26,8
 NL:Q:43211017;Centraal Station;Hengelo;63,2;2,5;24,2;2,3;6,8;0,2
-NL:Q:43211019;Centraal Station;Hengelo;302,5;2,7;138,8;3,2;90,2;4,0
+NL:Q:43211019;Centraal Station;Hengelo;302,3;2,7;138,8;3,2;90,2;4,0
 NL:Q:43211020;Centraal Station;Hengelo;757,3;623,9;207,2;184,1;188,6;96,4
-NL:Q:43211021;Centraal Station;Hengelo;0,0;4,0;0,0;0,0;0,0;0,0
+NL:Q:43211021;Centraal Station;Hengelo;0,0;3,9;0,0;0,0;0,0;0,0
 NL:Q:43211022;Centraal Station;Hengelo;130,1;1,8;47,9;0,9;31,1;0,5
 NL:Q:43211023;Centraal Station;Hengelo;0,2;22,4;0,0;0,0;0,0;0,0
 NL:Q:43211024;Centraal Station;Hengelo;79,9;969,5;48,8;448,0;17,2;221,1
@@ -3675,13 +3575,13 @@ NL:Q:43212750;Europalaan;Hengelo;1,9;0,7;0,0;0,0;0,0;0,0
 NL:Q:43212760;Europalaan;Hengelo;0,0;2,5;0,0;0,0;0,0;0,0
 NL:Q:43212810;Buitenweg;Hengelo;2,4;4,8;1,4;2,3;0,7;1,1
 NL:Q:43212820;Buitenweg;Hengelo;3,3;2,7;1,4;1,1;0,4;0,9
-NL:Q:43212830;Geerdinksweg;Hengelo;3,1;12,0;3,1;7,5;1,6;3,3
-NL:Q:43212840;Geerdinksweg;Hengelo;10,799999999999999;2,3000000000000003;5,9;1,4;2,3;0,9
+NL:Q:43212830;Geerdinksweg;Hengelo;3,0;12,0;3,1;7,5;1,6;3,3
+NL:Q:43212840;Geerdinksweg;Hengelo;10,799999999999999;2,2;5,9;1,4;2,3;0,9
 NL:Q:43212850;IJsselstraat;Hengelo;2,5;4,8;1,5;2,0;0,6;0,6
 NL:Q:43212860;IJsselstraat;Hengelo;4,699999999999999;2,2;2,8;1,8;0,7;0,9
 NL:Q:43212870;Vockersweg;Hengelo;1,6;27,400000000000002;0,3;3,2;0,5;1,3
-NL:Q:43212880;Vockersweg;Hengelo;23,9;1,8;2,7;0,6;1,2;0,3
-NL:Q:43212900;Platinastraat;Hengelo;16,8;4,199999999999999;5,1;1,6;1,6;0,5
+NL:Q:43212880;Vockersweg;Hengelo;23,8;1,8;2,7;0,6;1,2;0,3
+NL:Q:43212900;Platinastraat;Hengelo;16,7;4,199999999999999;5,1;1,6;1,6;0,5
 NL:Q:43212910;Dieselstraat;Hengelo;8,5;1,2;7,1;0,9;2,3;0,8
 NL:Q:43212920;Dieselstraat;Hengelo;1,1;5,6000000000000005;0,6;4,3;0,4;2,3
 NL:Q:43213010;M.A. de Ruyterstraat;Hengelo;1,6;4,4;0,1;0,8;0,0;0,0
@@ -4706,19 +4606,19 @@ NL:Q:43992006;Camping De Zandstuve;Rheeze;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:43992007;Familiecamping De Belten;Rheeze;0,0;0,0;0,0;0,1;0,0;0,0
 NL:Q:43992008;Familiecamping De Belten;Rheeze;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:44010050;Wolfersveen;Zelhem;0,2;0,3;0,0;0,1;0,0;0,2
-NL:Q:44010060;Wolfersveen;Zelhem;0,5;0,2;0,1;0,1;0,2;0,0
+NL:Q:44010060;Wolfersveen;Zelhem;0,4;0,2;0,1;0,1;0,2;0,0
 NL:Q:44010090;Het Zonnetje;Wolfersveen;0,0;0,2;0,1;0,1;0,0;0,0
 NL:Q:44010100;Het Zonnetje;Wolfersveen;0,1;0,1;0,0;0,0;0,0;0,1
 NL:Q:44020110;Aaltenseweg;Varsseveld;0,4;0,5;0,0;0,1;0,0;0,1
 NL:Q:44020120;Aaltenseweg;Varsseveld;0,3;0,6;0,1;0,0;0,0;0,0
-NL:Q:44020130;Den Es;Varsseveld;0,6;1,8;0,0;0,0;0,0;0,0
-NL:Q:44020141;Den Es;Varsseveld;3,6;1,0;0,0;0,0;0,0;0,0
+NL:Q:44020130;Den Es;Varsseveld;0,6;1,7;0,0;0,0;0,0;0,0
+NL:Q:44020141;Den Es;Varsseveld;3,4;1,0;0,0;0,0;0,0;0,0
 NL:Q:44020151;Prinsenhof;Varsseveld;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:44020161;Prinsenhof;Varsseveld;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:44020310;Duthler;Varsseveld;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:44020320;Duthler;Varsseveld;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:44021050;Station Varsseveld;Varsseveld;0,8;3,4;0,0;1,2;0,0;1,1
-NL:Q:44021060;Station Varsseveld;Varsseveld;3,3;0,7;1,2;0,0;1,8;0,0
+NL:Q:44021050;Station Varsseveld;Varsseveld;0,7;3,3;0,0;1,2;0,0;1,1
+NL:Q:44021060;Station Varsseveld;Varsseveld;3,2;0,7;1,1;0,0;1,7;0,0
 NL:Q:44022030;Twenteroute;Varsseveld;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:44030010;Sluiskes;Lintelo;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:44030020;Sluiskes;Lintelo;0,0;0,1;0,0;0,0;0,0;0,0
@@ -4753,13 +4653,13 @@ NL:Q:44300030;Oude Kampweg;Haaksbergen;0,1;3,1;0,0;1,2;0,0;0,8
 NL:Q:44300040;Oude Kampweg;Haaksbergen;0,8;0,1;1,1;0,1;0,4;0,1
 NL:Q:44300050;Weg naar Veldmaat;Haaksbergen;1,2;8,0;0,5;4,9;0,5;2,8
 NL:Q:44300060;Weg naar Veldmaat;Haaksbergen;7,9;1,1;5,3;0,6;2,6;0,1
-NL:Q:44300070;Blanckenborgh;Haaksbergen;1,2000000000000002;8,2;0,5;4,3;0,2;2,4
+NL:Q:44300070;Blanckenborgh;Haaksbergen;1,1;8,2;0,5;4,3;0,2;2,4
 NL:Q:44300080;Blanckenborgh;Haaksbergen;7,7;1,7;3,8;0,5;2,0;0,5
 NL:Q:44300090;Fazantstraat;Haaksbergen;0,8;7,2;0,2;4,4;0,0;2,4
 NL:Q:44300100;Fazantstraat;Haaksbergen;7,1;1,2;4,4;0,2;2,5;0,2
 NL:Q:44300110;Busstation;Haaksbergen;21,5;21,2;6,7;5,6;0,4;0,0
 NL:Q:44300111;Busstation;Haaksbergen;16,1;85,4;0,2;40,1;0,0;26,6
-NL:Q:44300112;Busstation;Haaksbergen;141,6;68,8;112,5;28,599999999999998;72,9;13,5
+NL:Q:44300112;Busstation;Haaksbergen;141,6;68,8;112,5;28,5;72,9;13,5
 NL:Q:44300114;Busstation;Haaksbergen;90,4;14,5;69,5;7,8;37,6;5,8
 NL:Q:44300115;Busstation;Haaksbergen;73,6;129,5;22,7;102,9;15,2;48,8
 NL:Q:44300130;Lansinkstraat;Haaksbergen;8,4;6,8999999999999995;2,1;2,6;1,6;1,7
@@ -4795,7 +4695,7 @@ NL:Q:44330020;Haarweg;Bentelo;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:44330030;Platenkampsweg;Bentelo;0,0;0,4;0,0;0,0;0,0;0,0
 NL:Q:44330040;Platenkampsweg;Bentelo;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:44340030;Staring College;Lochem;0,6;0,8;0,0;0,0;0,0;0,0
-NL:Q:44340040;Staring College;Lochem;0,7;0,5;0,0;0,0;0,0;0,0
+NL:Q:44340040;Staring College;Lochem;0,6;0,5;0,0;0,0;0,0;0,0
 NL:Q:44340090;Dwarsweg;Lochem;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:44350010;Groothuis;Hengevelde;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:44350020;Groothuis;Hengevelde;0,0;0,0;0,0;0,0;0,0;0,0
@@ -4834,7 +4734,7 @@ NL:Q:44500150;Wheemergaarden;Neede;3,2;12,3;0,4;4,4;0,2;2,7
 NL:Q:44500160;Wheemergaarden;Neede;12,6;2,3;5,5;0,4;2,5;0,3
 NL:Q:44500173;Parallelweg;Neede;7,6;22,1;0,5;2,7;0,0;1,7
 NL:Q:44500174;Parallelweg;Neede;22,1;8,6;2,2;0,5;1,5;0,1
-NL:Q:44500177;Busstation;Neede;0,0;1,5;0,0;0,3;0,0;0,1
+NL:Q:44500177;Busstation;Neede;0,0;1,4;0,0;0,3;0,0;0,1
 NL:Q:44500210;De Valkhof;Neede;9,4;12,5;3,4;5,3;1,3;2,7
 NL:Q:44500220;De Valkhof;Neede;12,3;13,4;3,8;4,0;1,8;1,5
 NL:Q:44500230;De Huikert;Neede;8,0;13,9;2,6;3,7;1,3;2,5
@@ -4842,18 +4742,18 @@ NL:Q:44500240;De Huikert;Neede;14,6;6,8999999999999995;3,8;2,6;2,5;1,1
 NL:Q:44500250;Kisveld;Neede;6,4;14,6;2,7;3,8;0,9;2,6
 NL:Q:44500260;Kisveld;Neede;16,8;5,699999999999999;4,8;2,2;1,7;0,9
 NL:Q:44500310;Diekmaatschool;Neede;7,3999999999999995;2,4;3,6;0,5;1,7000000000000002;0,0
-NL:Q:44500320;Diekmaatschool;Neede;2,7;5,1000000000000005;0,6;2,6;0,1;1,3
+NL:Q:44500320;Diekmaatschool;Neede;2,7;5,0;0,6;2,6;0,1;1,3
 NL:Q:44500330;Rozenboom;Neede;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44500340;Rozenboom;Neede;0,4;0,0;0,0;0,0;0,0;0,0
 NL:Q:44500350;Hulshof;Eibergen;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:44500360;Hulshof;Eibergen;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:44500390;Peppeldijk;Eibergen;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:44500400;Peppeldijk;Eibergen;0,0;0,1;0,0;0,0;0,0;0,1
-NL:Q:44500430;Garage Grooters;Eibergen;1,1;25,8;0,3;0,6;0,2;0,5
+NL:Q:44500430;Garage Grooters;Eibergen;1,1;25,7;0,3;0,6;0,2;0,5
 NL:Q:44500440;Garage Grooters;Eibergen;25,2;0,9;0,4;0,3;0,5;0,3
 NL:Q:44500450;Viersprong;Eibergen;27,4;1,0;0,1;0,2;0,2;0,2
-NL:Q:44500460;Viersprong;Eibergen;1,3;22,3;0,2;0,2;0,2;0,3
-NL:Q:44500510;De Kiefte;Eibergen;0,2;0,3;0,0;0,1;0,0;0,0
+NL:Q:44500460;Viersprong;Eibergen;1,3;22,2;0,2;0,2;0,2;0,3
+NL:Q:44500510;De Kiefte;Eibergen;0,2;0,2;0,0;0,1;0,0;0,0
 NL:Q:44500520;De Kiefte;Eibergen;0,2;0,2;0,0;0,1;0,0;0,0
 NL:Q:44500530;Industrieweg;Neede;1,7;2,0;0,3;0,5;0,1;1,0
 NL:Q:44500540;Industrieweg;Neede;1,6;2,2;0,5;0,4;0,5;0,1
@@ -4866,49 +4766,49 @@ NL:Q:44500620;Lochuizen;Neede;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:44500630;'t Roodland;Neede;0,0;1,0;0,0;0,0;0,0;0,0
 NL:Q:44500640;'t Roodland;Neede;1,6;0,1;0,0;0,0;0,0;0,0
 NL:Q:44501210;Busstation;Neede;39,5;52,1;9,5;20,5;3,3;12,9
-NL:Q:44501220;Busstation;Neede;46,599999999999994;23,1;29,0;7,4;15,1;2,0
+NL:Q:44501220;Busstation;Neede;46,5;23,1;29,0;7,4;15,1;2,0
 NL:Q:44509010;Lolotte;Neede;0,5;0,0;0,0;0,0;0,0;0,0
 NL:Q:44509020;Lolotte;Neede;0,0;0,5;0,0;0,0;0,0;0,0
 NL:Q:44600090;Den Sliem;Groenlo;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:44600100;Den Sliem;Groenlo;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:44600131;Busstation;Groenlo;4,0;6,0;0,4;0,6;0,5;0,7
+NL:Q:44600131;Busstation;Groenlo;3,9;5,7;0,4;0,5;0,5;0,7
 NL:Q:44600132;Busstation;Groenlo;1,0;0,8;0,2;0,2;0,2;0,1
-NL:Q:44600133;Busstation;Groenlo;8,4;4,6;0,6;0,5;1,0;0,7
-NL:Q:44600134;Busstation;Groenlo;7,5;5,5;0,8;0,6;1,1;0,7
-NL:Q:44600135;Busstation;Groenlo;0,7;1,5;0,2;0,3;0,1;0,1
+NL:Q:44600133;Busstation;Groenlo;8,1;4,4;0,6;0,5;1,0;0,7
+NL:Q:44600134;Busstation;Groenlo;7,2;5,3;0,8;0,6;1,1;0,7
+NL:Q:44600135;Busstation;Groenlo;0,6;1,5;0,2;0,3;0,1;0,1
 NL:Q:44600136;Busstation;Groenlo;1,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:44600200;Het Blik;Groenlo;0,2;0,0;0,0;0,0;0,0;0,0
-NL:Q:44600210;Het Blik;Groenlo;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:44600210;Het Blik;Groenlo;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:44600220;De Molenberg;Groenlo;0,0;0,3;0,0;0,0;0,0;0,0
 NL:Q:44600230;De Molenberg;Groenlo;0,3;0,1;0,0;0,0;0,0;0,0
 NL:Q:44600240;Gezondheidscentrum;Groenlo;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:44600390;Hartreize;Groenlo;1,0;0,0;0,4;0,0;0,4;0,1
+NL:Q:44600390;Hartreize;Groenlo;0,9;0,0;0,4;0,0;0,4;0,1
 NL:Q:44600400;Hartreize;Groenlo;0,0;1,0;0,0;0,5;0,0;0,5
-NL:Q:44600440;West;Groenlo;0,1;0,5;0,0;0,2;0,0;0,1
+NL:Q:44600440;West;Groenlo;0,1;0,4;0,0;0,2;0,0;0,1
 NL:Q:44600450;West;Groenlo;0,6;0,2;0,2;0,1;0,1;0,0
-NL:Q:44600460;Centrum;Groenlo;0,4;1,4;0,1;0,5;0,0;0,1
-NL:Q:44600470;Centrum;Groenlo;1,9;0,7;0,6;0,1;0,2;0,0
+NL:Q:44600460;Centrum;Groenlo;0,4;1,3;0,1;0,5;0,0;0,1
+NL:Q:44600470;Centrum;Groenlo;1,8;0,7;0,5;0,1;0,2;0,0
 NL:Q:44600480;Barkenkamp;Groenlo;0,1;1,4;0,0;0,2;0,0;0,1
-NL:Q:44600490;Barkenkamp;Groenlo;1,8;0,1;0,2;0,0;0,1;0,0
-NL:Q:44600500;Batterij;Groenlo;0,3;1,8;0,0;0,0;0,0;0,0
+NL:Q:44600490;Barkenkamp;Groenlo;1,7;0,1;0,2;0,0;0,1;0,0
+NL:Q:44600500;Batterij;Groenlo;0,3;1,7;0,0;0,0;0,0;0,0
 NL:Q:44600510;Batterij;Groenlo;2,0;0,5;0,0;0,0;0,0;0,0
 NL:Q:44610010;Ellenkamp;Haarlo;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:44610020;Ellenkamp;Haarlo;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:44610030;Haarloseweg;Neede;0,8;1,9;0,3;0,3;0,1;0,3
 NL:Q:44610040;Haarloseweg;Neede;1,8;0,9;0,3;0,2;0,1;0,1
-NL:Q:44700070;Station Lichtenvoorde-Groenlo;Lievelde;3,1;2,3;1,3;0,7;0,9;0,9
-NL:Q:44710050;Busstation;Borculo;137,5;134,4;41,7;44,699999999999996;24,400000000000002;19,5
+NL:Q:44700070;Station Lichtenvoorde-Groenlo;Lievelde;3,0;2,2;1,3;0,6;0,8;0,9
+NL:Q:44710050;Busstation;Borculo;137,4;134,3;41,6;44,699999999999996;24,400000000000002;19,5
 NL:Q:44710051;Busstation;Borculo;11,8;10,6;4,0;3,8;0,0;0,9
-NL:Q:44710052;Busstation;Borculo;0,0;1,9;0,0;0,0;0,0;0,0
-NL:Q:44710070;Cycloonpark;Borculo;0,0;1,5;0,0;0,6;0,1;0,5
-NL:Q:44710080;Cycloonpark;Borculo;1,8;0,1;0,6;0,0;0,6;0,0
-NL:Q:44710110;Snofhutte;Borculo;0,2;1,0;0,1;0,4;0,0;0,2
+NL:Q:44710052;Busstation;Borculo;0,0;1,8;0,0;0,0;0,0;0,0
+NL:Q:44710070;Cycloonpark;Borculo;0,0;1,5;0,0;0,5;0,1;0,5
+NL:Q:44710080;Cycloonpark;Borculo;1,7;0,1;0,6;0,0;0,6;0,0
+NL:Q:44710110;Snofhutte;Borculo;0,2;0,9;0,1;0,3;0,0;0,1
 NL:Q:44710120;Snofhutte;Borculo;1,2;0,3;0,3;0,0;0,2;0,1
 NL:Q:44710160;Leostichting;Borculo;1,7;1,5;0,0;0,0;0,0;0,0
 NL:Q:44710210;'t Hof;Borculo;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:44710220;'t Hof;Borculo;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:44710410;Graaf Wichmanstraat;Borculo;0,7;0,2;0,0;0,0;0,0;0,0
-NL:Q:44710420;Graaf Wichmanstraat;Borculo;0,2;0,7;0,0;0,1;0,0;0,2
+NL:Q:44710410;Graaf Wichmanstraat;Borculo;0,6;0,2;0,0;0,0;0,0;0,0
+NL:Q:44710420;Graaf Wichmanstraat;Borculo;0,2;0,6;0,0;0,1;0,0;0,2
 NL:Q:44710450;Koppeldijk;Borculo;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:44710460;Koppeldijk;Borculo;0,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:44710470;Berkellaan;Borculo;0,6;0,2;0,0;0,0;0,0;0,0
@@ -4920,51 +4820,51 @@ NL:Q:44710531;Keizer Ottostraat;Borculo;0,0;1,3;0,0;0,6;0,0;0,0
 NL:Q:44710533;Keizer Ottostraat;Borculo;1,4;0,1;0,6;0,0;0,0;0,0
 NL:Q:44710541;Nettelhorsterweg;Borculo;2,6;1,2;0,7;1,5;0,5;0,1
 NL:Q:44710542;Nettelhorsterweg;Borculo;1,2;3,5;0,3;0,8;0,1;0,5
-NL:Q:44710550;Kamerlingh Onnesstraat;Borculo;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:44710550;Kamerlingh Onnesstraat;Borculo;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:44710560;Kamerlingh Onnesstraat;Borculo;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:44730010;Dute;Beltrum;0,6;0,1;0,0;0,0;0,0;0,0
-NL:Q:44730020;Dute;Beltrum;0,1;0,4;0,0;0,0;0,0;0,0
-NL:Q:44740041;De Pessink;Epse;0,9;0,8;0,3;1,0;0,1;0,7
+NL:Q:44730020;Dute;Beltrum;0,1;0,3;0,0;0,0;0,0;0,0
+NL:Q:44740041;De Pessink;Epse;0,9;0,8;0,3;0,9;0,1;0,7
 NL:Q:44740042;De Pessink;Epse;0,1;0,3;0,0;0,0;0,0;0,0
-NL:Q:44800024;Driehoek;Lichtenvoorde;0,5;0,8;0,2;0,3;0,1;0,1
+NL:Q:44800024;Driehoek;Lichtenvoorde;0,5;0,7;0,2;0,3;0,1;0,1
 NL:Q:44800030;Mercatorstraat;Lichtenvoorde;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:44800040;Mercatorstraat;Lichtenvoorde;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:44800050;Richterslaan;Lichtenvoorde;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:44800060;Richterslaan;Lichtenvoorde;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:44800060;Richterslaan;Lichtenvoorde;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:44800070;Galileïstraat;Lichtenvoorde;0,3;0,1;0,0;0,0;0,0;0,0
 NL:Q:44800075;Koningslinde;Lichtenvoorde;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:44800076;Koningslinde;Lichtenvoorde;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:44800080;Galileïstraat;Lichtenvoorde;0,5;1,1;0,0;0,0;0,0;0,0
+NL:Q:44800080;Galileïstraat;Lichtenvoorde;0,4;1,1;0,0;0,0;0,0;0,0
 NL:Q:44800090;Gemeentehuis;Lichtenvoorde;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44800100;Gemeentehuis;Lichtenvoorde;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44800110;Edisonstraat;Lichtenvoorde;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:44800120;Edisonstraat;Lichtenvoorde;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:44800120;Edisonstraat;Lichtenvoorde;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:44800130;Hagenstraat;Lichtenvoorde;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:44800140;Hagenstraat;Lichtenvoorde;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:44800150;De Swite;Lichtenvoorde;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44800160;De Swite;Lichtenvoorde;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:44800170;Twenteroute;Lichtenvoorde;2,7;2,5;0,5;0,6;0,6;0,7
-NL:Q:44800250;Zuid;Lichtenvoorde;2,0;1,3;0,1;0,1;0,2;0,4
-NL:Q:44800260;Zuid;Lichtenvoorde;1,2;1,6;0,1;0,2;0,2;0,2
+NL:Q:44800170;Twenteroute;Lichtenvoorde;2,6;2,4;0,5;0,6;0,6;0,7
+NL:Q:44800250;Zuid;Lichtenvoorde;1,9;1,3;0,1;0,1;0,2;0,4
+NL:Q:44800260;Zuid;Lichtenvoorde;1,1;1,5;0,1;0,2;0,2;0,2
 NL:Q:44800270;Hamalandhal;Lichtenvoorde;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44800280;Hamalandhal;Lichtenvoorde;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44802210;Wentholtpark;Lichtenvoorde;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44802220;Wentholtpark;Lichtenvoorde;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:44802230;Wentholtpark;Lichtenvoorde;1,2;1,1;0,3;0,3;0,1;0,2
-NL:Q:44802270;Het Brook;Lichtenvoorde;2,4;2,3;0,1;0,1;0,0;0,0
+NL:Q:44802230;Wentholtpark;Lichtenvoorde;1,1;1,1;0,3;0,2;0,1;0,2
+NL:Q:44802270;Het Brook;Lichtenvoorde;2,3;2,2;0,1;0,1;0,0;0,0
 NL:Q:44810050;Weg naar Vosheuvel;Ruurlo;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:44810060;Weg naar Vosheuvel;Ruurlo;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:44810090;Haarskamp;Ruurlo;0,6;0,6;0,1;0,1;0,1;0,1
 NL:Q:44810100;Haarskamp;Ruurlo;0,0;0,4;0,0;0,1;0,1;0,3
-NL:Q:44810170;Station;Ruurlo;2,6;2,0;1,1;0,5;0,9;0,9
-NL:Q:44810180;Station;Ruurlo;2,3;3,4;0,7;1,3;0,7;1,0
-NL:Q:44811070;Leostichting;Borculo;2,0;2,2;0,0;0,0;0,0;0,0
-NL:Q:44811110;'t Rikkelder;Ruurlo;0,8;0,7;0,2;0,1;0,2;0,1
+NL:Q:44810170;Station;Ruurlo;2,5;1,9;1,0;0,5;0,9;0,9
+NL:Q:44810180;Station;Ruurlo;2,2;3,3;0,6;1,3;0,7;1,0
+NL:Q:44811070;Leostichting;Borculo;1,9;2,1;0,0;0,0;0,0;0,0
+NL:Q:44811110;'t Rikkelder;Ruurlo;0,7;0,7;0,2;0,1;0,2;0,1
 NL:Q:44811120;'t Rikkelder;Ruurlo;1,0;1,0;0,0;0,4;0,1;0,3
 NL:Q:44811140;Nijenhuis;Ruurlo;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:44811150;Nijenhuis;Ruurlo;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44813100;De Bundeling;Ruurlo;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:44850010;Beekvliet;Barchem;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:44850010;Beekvliet;Barchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:44850030;Viersprong;Barchem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44850040;Viersprong;Barchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:44850070;Centrum;Barchem;0,3;0,3;0,0;0,0;0,0;0,0
@@ -4974,7 +4874,7 @@ NL:Q:44850090;Woodbrookers;Barchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:44850100;Woodbrookers;Barchem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44850130;Dollehoedsdijk;Barchem;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:44850140;Dollehoedsdijk;Barchem;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:44900050;Harreveld;Harreveld;0,7;0,8;0,1;0,1;0,2;0,1
+NL:Q:44900050;Harreveld;Harreveld;0,6;0,8;0,1;0,1;0,1;0,1
 NL:Q:44900060;Harreveld;Harreveld;0,9;0,7;0,2;0,2;0,1;0,2
 NL:Q:44900090;Radstake;Heelweg;0,0;0,2;0,0;0,0;0,0;0,2
 NL:Q:44900100;Radstake;Heelweg;0,2;0,1;0,0;0,0;0,0;0,4
@@ -4999,7 +4899,7 @@ NL:Q:44940530;Dorpsstraat;Halle;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44950030;Hoog Langen;Lochem;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:44950040;Hoog Langen;Lochem;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:44950050;Hotel Hof van Gelre;Lochem;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:44950070;St. Jozef Rusthuis;Lochem;0,3;0,3;0,0;0,0;0,0;0,0
+NL:Q:44950070;St. Jozef Rusthuis;Lochem;0,2;0,3;0,0;0,0;0,0;0,0
 NL:Q:44950080;St. Jozef Rusthuis;Lochem;0,2;0,2;0,0;0,0;0,0;0,0
 NL:Q:44950090;de Hoge weide;Lochem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44950130;De Graafschap;Lochem;0,0;0,1;0,0;0,0;0,0;0,0
@@ -5009,10 +4909,10 @@ NL:Q:44950180;Centrum Zuid;Lochem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44950190;Hotel De Scheperskamp;Lochem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44950200;Gemeentehuis;Lochem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44950210;Exel Tol;Lochem;0,2;0,1;0,0;0,0;0,0;0,0
-NL:Q:44950220;Exel Tol;Lochem;0,2;0,4;0,0;0,0;0,0;0,0
+NL:Q:44950220;Exel Tol;Lochem;0,2;0,3;0,0;0,0;0,0;0,0
 NL:Q:44950230;Aalsvoort 81;Lochem;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:44950330;Greutink;Lochem;1,0;0,6;0,1;0,0;0,1;0,1
-NL:Q:44950340;Greutink;Lochem;0,7;1,0;0,1;0,0;0,1;0,0
+NL:Q:44950330;Greutink;Lochem;0,9;0,6;0,1;0,0;0,1;0,1
+NL:Q:44950340;Greutink;Lochem;0,7;0,9;0,1;0,0;0,1;0,0
 NL:Q:44950370;De Luchte;Lochem;1,5;0,4;0,0;0,0;0,0;0,0
 NL:Q:44950380;De Luchte;Lochem;0,5;1,1;0,0;0,0;0,0;0,0
 NL:Q:44950385;Hessenweg;Lochem;0,0;0,0;0,1;0,2;0,3;0,2
@@ -5022,7 +4922,7 @@ NL:Q:44950410;Station;Lochem;0,6;0,3;0,1;0,0;0,0;0,1
 NL:Q:44950480;Tramstraat;Lochem;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:44950490;Graaf Hendriklaan;Lochem;0,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:44950500;Graaf Hendriklaan;Lochem;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:44950510;Albert Hahnweg;Lochem;0,2;0,4;0,0;0,0;0,0;0,0
+NL:Q:44950510;Albert Hahnweg;Lochem;0,2;0,3;0,0;0,0;0,0;0,0
 NL:Q:44950520;Albert Hahnweg;Lochem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:44951600;Noorderwal;Lochem;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:45110010;Iepweg;Hengelo;0,7;1,8;0,4;0,7;0,0;0,6
@@ -5451,7 +5351,7 @@ NL:Q:46302060;Kerspel;Hasselt;6,8;0,1;0,0;0,0;0,0;0,0
 NL:Q:46302070;Sportvelden;Hasselt;0,4;1,0;0,0;0,0;0,0;0,0
 NL:Q:46302080;Sportvelden;Hasselt;1,6;0,3;0,0;0,0;0,0;0,0
 NL:Q:46302090;Stadsweg;Hasselt;0,5;2,8000000000000003;0,4;2,0;0,1;1,6
-NL:Q:46302100;Stadsweg;Hasselt;3,7;0,6;2,3;0,30000000000000004;1,7000000000000002;0,1
+NL:Q:46302100;Stadsweg;Hasselt;3,5999999999999996;0,6;2,3;0,30000000000000004;1,7000000000000002;0,1
 NL:Q:46302110;Industrieweg;Hasselt;3,7;5,6000000000000005;0,5;3,9;0,3;2,8000000000000003
 NL:Q:46302120;Ter Wee;Hasselt;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:46302130;Ter Wee;Hasselt;0,0;0,0;0,0;0,0;0,0;0,0
@@ -5561,7 +5461,7 @@ NL:Q:46511020;De Noorde;Zwartsluis;0,8;2,6;1,9;1,5;2,3;1,1
 NL:Q:46511030;Zieltje;Zwartsluis;0,1;0,1;0,0;0,1;0,0;0,0
 NL:Q:46511040;Zieltje;Zwartsluis;0,1;0,0;0,1;0,0;0,1;0,0
 NL:Q:46520010;Flevoweg;Sint Jansklooster;15,0;7,9;2,3;2,8;1,4;1,2999999999999998
-NL:Q:46520020;Flevoweg;Sint Jansklooster;6,5;14,4;2,7;2,6;0,7;1,0
+NL:Q:46520020;Flevoweg;Sint Jansklooster;6,4;14,4;2,7;2,6;0,7;1,0
 NL:Q:46520030;Veneweg;Sint Jansklooster;17,400000000000002;5,8;3,9000000000000004;1,7000000000000002;3,6;0,9
 NL:Q:46520040;Veneweg;Sint Jansklooster;6,1;17,400000000000002;2,2;3,6;1,0;3,2
 NL:Q:46522010;Barsbeek;Heetveld;0,5;1,7000000000000002;0,0;0,5;0,1;0,2
@@ -5579,10 +5479,10 @@ NL:Q:46522160;Halleweg;Sint Jansklooster;0,30000000000000004;0,0;0,0;0,0;0,0;0,0
 NL:Q:46522170;Zuurbeek;Sint Jansklooster;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:46522180;Zuurbeek;Sint Jansklooster;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:46531010;Verlengde Duinweg;Sint Jansklooster;1,1;1,6;0,4;0,4;0,30000000000000004;0,2
-NL:Q:46531020;Verlengde Duinweg;Sint Jansklooster;1,5;1,2999999999999998;0,1;0,5;0,3;0,4
+NL:Q:46531020;Verlengde Duinweg;Sint Jansklooster;1,4;1,2999999999999998;0,1;0,5;0,3;0,4
 NL:Q:46531030;Weyert;Vollenhove;5,2;12,4;0,6000000000000001;3,4;0,2;2,5
 NL:Q:46531040;Weyert;Vollenhove;11,5;5,4;2,3;1,0;1,3;0,2
-NL:Q:46531050;Zwembad;Vollenhove;11,2;13,600000000000001;2,8;7,5;2,3000000000000003;4,9
+NL:Q:46531050;Zwembad;Vollenhove;11,099999999999998;13,600000000000001;2,8;7,5;2,3000000000000003;4,9
 NL:Q:46531060;Zwembad;Vollenhove;17,3;13,5;8,8;3,8000000000000003;7,7;2,2
 NL:Q:46540050;Pleegsterhalte;Pleegste;0,1;0,1;0,2;0,0;0,0;0,0
 NL:Q:46540100;De Heuvel;Pleegste;0,5;1,9;0,1;0,7;0,1;0,3
@@ -5599,7 +5499,7 @@ NL:Q:46541020;Overtoom;Genemuiden;16,3;19,2;0,2;7,0;0,0;0,0
 NL:Q:46541030;Hervormd Centrum;Genemuiden;16,7;13,2;2,3;0,0;0,0;0,0
 NL:Q:46541040;Hervormd Centrum;Genemuiden;5,199999999999999;9,0;0,0;1,6;0,0;0,0
 NL:Q:46541050;De Meente;Genemuiden;8,6;13,799999999999999;0,1;3,5;0,0;0,0
-NL:Q:46541060;De Meente;Genemuiden;28,3;19,7;5,199999999999999;0,1;0,0;0,0
+NL:Q:46541060;De Meente;Genemuiden;28,2;19,6;5,199999999999999;0,1;0,0;0,0
 NL:Q:46552030;Oude Stoomgemaal;Genemuiden;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:46552040;Oude Stoomgemaal;Genemuiden;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:46552050;Kamperzeedijk 21;Kamperzeedijk;0,3;0,1;0,0;0,0;0,0;0,0
@@ -5843,12 +5743,12 @@ NL:Q:47320080;Zalkerdijk;De Zande;0,6;0,6;0,0;0,0;0,0;0,0
 NL:Q:47320090;Zalkerdijk;De Zande;0,7;0,1;0,0;0,0;0,0;0,0
 NL:Q:47320110;Oase;Zalk;0,5;0,4;0,0;0,0;0,0;0,0
 NL:Q:47320120;Oase;Zalk;0,3;0,6;0,0;0,0;0,0;0,0
-NL:Q:47330010;Acacialaan;Kampen;0,7;1,5;0,1;0,3;0,0;0,0
-NL:Q:47330080;Gemeentehuis;Kampen;4,3999999999999995;7,9;1,3;2,1;0,0;0,0
-NL:Q:47330120;Beneluxweg;Kampen;7,5;7,8;1,3;1,9000000000000001;0,0;0,0
+NL:Q:47330010;Acacialaan;Kampen;0,7;1,4;0,1;0,3;0,0;0,0
+NL:Q:47330080;Gemeentehuis;Kampen;4,3;7,9;1,3;2,1;0,0;0,0
+NL:Q:47330120;Beneluxweg;Kampen;7,5;7,8;1,3;1,8;0,0;0,0
 NL:Q:47330140;Oosterlandenweg;IJsselmuiden;0,1;0,4;0,0;0,0;0,0;0,0
 NL:Q:47330150;IJsselbrug;Kampen;20,2;0,7;0,0;0,0;0,0;0,0
-NL:Q:47330160;Venedijk;Kampen;8,2;0,3;0,0;0,0;0,0;0,0
+NL:Q:47330160;Venedijk;Kampen;8,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:47330170;Oosterlandenweg;IJsselmuiden;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:47330200;IJsselbrug;Kampen;1,7000000000000002;30,5;0,2;1,2000000000000002;0,0;0,0
 NL:Q:47330201;IJsselbrug;Kampen;5,8999999999999995;3,3000000000000003;0,8;0,3;0,0;0,0
@@ -5886,16 +5786,16 @@ NL:Q:47333410;Almere College;Kampen;1,4000000000000001;10,4;0,0;0,0;0,0;0,0
 NL:Q:47333420;Almere College;Kampen;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:47333450;Almere College;Kampen;9,8;3,0;0,0;0,0;0,0;0,0
 NL:Q:47333500;Nijverheidsstraat;Kampen;5,3;21,4;0,0;0,0;0,0;0,0
-NL:Q:47333850;Beekmanstraat;Kampen;2,1;1,7;0,5;0,5;0,0;0,0
-NL:Q:47333950;Leeghwaterstraat;Kampen;2,2;1,1;0,4;0,4;0,0;0,0
-NL:Q:47334070;Ereprijs;Kampen;5,4;3,6;1,1;0,9;0,0;0,0
+NL:Q:47333850;Beekmanstraat;Kampen;2,0;1,7;0,5;0,5;0,0;0,0
+NL:Q:47333950;Leeghwaterstraat;Kampen;2,2;1,1;0,3;0,4;0,0;0,0
+NL:Q:47334070;Ereprijs;Kampen;5,4;3,6;1,1;0,8;0,0;0,0
 NL:Q:47334460;Tormentil;Kampen;4,7;6,6000000000000005;0,6;1,3;0,0;0,0
 NL:Q:47334750;Isala Polikliniek;Kampen;4,199999999999999;7,1;0,9;1,3;0,0;0,0
 NL:Q:47335000;Station;Kampen;4,6;0,3;0,0;0,0;0,0;0,0
 NL:Q:47335010;Station;Kampen;11,4;39,300000000000004;1,6;7,2;0,0;0,0
-NL:Q:47335020;Station;Kampen;84,2;58,6;12,2;2,8;0,0;0,0
+NL:Q:47335020;Station;Kampen;84,0;58,5;12,1;2,7;0,0;0,0
 NL:Q:47335030;Station;Kampen;80,2;430,5;21,6;111,6;11,0;82,6
-NL:Q:47335040;Station;Kampen;682,3;293,6;205,5;87,5;108,5;68,4
+NL:Q:47335040;Station;Kampen;682,2;293,6;205,4;87,5;108,5;68,4
 NL:Q:47335050;Station;Kampen;70,5;42,0;0,0;0,0;0,0;0,0
 NL:Q:47335060;Station;Kampen;24,2;66,4;0,2;0,1;0,0;0,0
 NL:Q:47336000;Kalmoessingel;Kampen;16,799999999999997;4,1;0,0;0,0;0,0;0,0
@@ -6083,8 +5983,8 @@ NL:Q:47625003;Dorpsstraat;Oene;0,2;0,5;0,0;0,0;0,0;0,1
 NL:Q:47625004;Dorpsstraat;Oene;0,8;0,2;0,1;0,0;0,0;0,0
 NL:Q:47625005;Kuiperkampseweg;Oene;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:47625006;Kuiperkampseweg;Oene;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:47640030;Saxion Hogeschool;Deventer;23,5;39,400000000000006;2,3;16,6;0,7;8,799999999999999
-NL:Q:47640040;Saxion Hogeschool;Deventer;2,8;0,4;0,3;0,0;0,5;0,0
+NL:Q:47640030;Saxion Hogeschool;Deventer;23,5;39,300000000000004;2,3;16,6;0,7;8,799999999999999
+NL:Q:47640040;Saxion Hogeschool;Deventer;2,7;0,4;0,3;0,0;0,5;0,0
 NL:Q:47640050;Munsterstraat;Deventer;2,5;0,3;0,0;0,0;0,0;0,0
 NL:Q:47640060;Munsterstraat;Deventer;0,4;4,1;0,0;0,0;0,0;0,0
 NL:Q:47640070;Keulenstraat 1;Deventer;2,5;0,3;0,0;0,0;0,0;0,0
@@ -6094,7 +5994,7 @@ NL:Q:47640100;Keulenstraat 2;Deventer;0,2;5,2;0,0;0,0;0,0;0,0
 NL:Q:47640110;Rigastraat;Deventer;1,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:47640120;Rigastraat;Deventer;0,0;1,4;0,0;0,0;0,0;0,0
 NL:Q:47640130;Industrieweg;Deventer;0,1;1,0;0,0;0,0;0,0;0,0
-NL:Q:47640140;Industrieweg;Deventer;0,5;0,5;0,0;0,3;0,0;0,2
+NL:Q:47640140;Industrieweg;Deventer;0,5;0,4;0,0;0,3;0,0;0,2
 NL:Q:47640150;Herfordstraat;Deventer;0,8;0,1;0,0;0,0;0,0;0,0
 NL:Q:47640160;Herfordstraat;Deventer;0,0;1,2;0,0;0,0;0,0;0,0
 NL:Q:47640190;Dortmundstraat;Deventer;1,1;1,6;0,0;0,0;0,0;0,0
@@ -6137,13 +6037,13 @@ NL:Q:47640920;Wezenland;Deventer;7,0;3,2;2,9;1,1;2,5;1,0
 NL:Q:47640930;Wezenland;Deventer;3,7;7,3;0,8;3,3;0,7;2,5
 NL:Q:47640940;Begraafplaats;Schalkhaar;3,0;1,4;1,4;0,4;1,1;0,3
 NL:Q:47641000;Station;Deventer;423,0;408,2;220,2;182,6;100,7;88,7
-NL:Q:47641010;Station;Deventer;5,2;4,1;2,1;1,6;2,1;1,6
+NL:Q:47641010;Station;Deventer;5,0;3,9;2,0;1,5;2,1;1,6
 NL:Q:47641016;Station;Deventer;97,4;158,7;56,8;112,8;32,7;64,7
 NL:Q:47641026;Station;Deventer;131,8;35,2;53,0;5,1;29,6;2,7
 NL:Q:47641039;Station;Deventer;63,6;3,4;36,1;2,2;20,7;0,6
 NL:Q:47641040;Station;Deventer;450,6;62,2;197,5;18,7;122,9;11,3
 NL:Q:47641070;Gotlandstraat;Deventer;0,4;1,4;0,0;0,2;0,0;0,0
-NL:Q:47641080;Gotlandstraat;Deventer;1,0;0,4;0,1;0,1;0,0;0,0
+NL:Q:47641080;Gotlandstraat;Deventer;0,9;0,4;0,1;0,1;0,0;0,0
 NL:Q:47641130;Deltaplein;Deventer;10,7;0,6;0,3;0,0;0,2;0,0
 NL:Q:47641140;Deltaplein;Deventer;0,9;9,5;0,1;0,2;0,1;0,2
 NL:Q:47641150;Douwelerwetering;Deventer;0,2;3,6;0,0;0,2;0,0;0,1
@@ -6180,8 +6080,8 @@ NL:Q:47641750;Schonenvaardersstraat;Deventer;0,7;0,1;0,0;0,0;0,0;0,0
 NL:Q:47641760;Schonenvaardersstraat;Deventer;0,1;1,9;0,0;0,0;0,0;0,0
 NL:Q:47641790;Maagdenburg;Deventer;3,5;1,0;0,9;0,1;0,1;0,1
 NL:Q:47641800;Maagdenburg;Deventer;1,0;3,2;0,2;1,1;0,0;0,1
-NL:Q:47641870;Zweedsestraat;Deventer;0,5;1,1;0,1;0,5;0,1;0,4
-NL:Q:47641880;Zweedsestraat;Deventer;1,0;0,6;0,4;0,1;0,2;0,0
+NL:Q:47641870;Zweedsestraat;Deventer;0,4;1,0;0,1;0,5;0,1;0,4
+NL:Q:47641880;Zweedsestraat;Deventer;0,9;0,5;0,3;0,1;0,2;0,0
 NL:Q:47641890;Hanzeweg;Deventer;0,1;0,4;0,0;0,0;0,0;0,0
 NL:Q:47641900;Hanzeweg;Deventer;0,2;0,2;0,0;0,0;0,0;0,0
 NL:Q:47641920;Mr. De Boerplein;Deventer;0,2;0,3;0,1;0,1;0,0;0,1
@@ -6315,10 +6215,10 @@ NL:Q:47730006;Molenweg;Terwolde;0,3;1,0;0,0;0,2;0,1;0,2
 NL:Q:47730007;Molen De Ooievaar;Terwolde;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:47730008;Molen De Ooievaar;Terwolde;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:47740040;De Pessink;Epse;0,4;0,6;0,3;0,3;0,3;0,3
-NL:Q:47740050;Bloemenkamp;Gorssel;1,6;2,6;0,6;1,9;0,7;2,0
-NL:Q:47740060;Bloemenkamp;Gorssel;2,6;1,9;1,9;0,6;1,8;0,8
-NL:Q:47740090;Museum MORE;Gorssel;1,3;1,5;1,0;1,1;1,0;1,3
-NL:Q:47740100;Museum MORE;Gorssel;0,8;0,9;0,7;0,6;0,7;0,9
+NL:Q:47740050;Bloemenkamp;Gorssel;1,6;2,5;0,6;1,8;0,7;2,0
+NL:Q:47740060;Bloemenkamp;Gorssel;2,5;1,8;1,8;0,6;1,8;0,8
+NL:Q:47740090;Museum MORE;Gorssel;1,3;1,4;1,0;1,1;0,9;1,3
+NL:Q:47740100;Museum MORE;Gorssel;0,8;0,9;0,6;0,6;0,7;0,9
 NL:Q:47740160;Kerkhof;Gorssel;0,1;0,1;0,1;0,1;0,1;0,1
 NL:Q:47740230;Larikshoeve;Epse;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:47740240;Larikshoeve;Epse;0,0;0,1;0,0;0,0;0,0;0,0
@@ -6373,181 +6273,187 @@ NL:Q:47909001;Oostriklaan;Deventer;5,1;1,6;2,3;1,0;1,0;0,3
 NL:Q:47909002;Oostriklaan;Deventer;1,0;1,6;0,3;1,4;0,2;0,6
 NL:Q:47970050;De Vennink;Harfsen;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:47970060;De Vennink;Harfsen;0,0;0,2;0,0;0,0;0,0;0,0
-NL:Q:47970090;School;Harfsen;1,4;0,2;0,0;0,0;0,0;0,0
-NL:Q:47970100;School;Harfsen;0,2;0,7;0,1;0,1;0,0;0,2
+NL:Q:47970090;School;Harfsen;1,3;0,2;0,0;0,0;0,0;0,0
+NL:Q:47970100;School;Harfsen;0,2;0,6;0,1;0,1;0,0;0,2
 NL:Q:47970110;Maalderij Goldstein;Harfsen;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:47970120;Maalderij Goldstein;Harfsen;0,0;0,1;0,0;0,1;0,0;0,0
-NL:Q:49000010;Bouwweg;Lelystad;0,2;0,3;0,0;0,1;0,0;0,0
-NL:Q:49000020;Atolplaza;Lelystad;1,0;0,9;0,3;0,2;0,2;0,1
-NL:Q:49000040;Ziekenhuis;Lelystad;0,6;0,9;0,1;0,3;0,1;0,3
-NL:Q:49000050;Lelycentre/Houtribdreef;Lelystad;24,9;4,0;14,4;1,5;1,1;0,4
-NL:Q:49000060;Rotondebrug;Lelystad;3,0;1,7;0,4;1,0;0,1;0,2
-NL:Q:49000070;Rotondebrug;Lelystad;4,6000000000000005;1,7;2,2;0,2;0,1;0,1
-NL:Q:49000080;Politiebrug;Lelystad;0,5;0,4;0,3;0,0;0,1;0,0
-NL:Q:49000101;Lelycentre/Houtribdreef;Lelystad;4,5;16,599999999999998;2,0;5,0;0,6;0,5
-NL:Q:49000120;Plantagebrug;Lelystad;1,0;0,6;0,6;0,1;0,3;0,1
-NL:Q:49000140;Zwembad De Koploper;Lelystad;0,4;0,6;0,3;0,3;0,1;0,1
-NL:Q:49000162;Oostkaap;Lelystad;1,0;0,7;0,5;0,4;0,2;0,0
-NL:Q:49000170;Centrumbrug;Lelystad;7,0;12,3;1,9000000000000001;5,3;1,6;6,2
-NL:Q:49000171;Centrumbrug;Lelystad;17,9;7,5;6,8;1,9;7,6;1,9000000000000001
-NL:Q:49000180;Oostvaardersbrug;Lelystad;1,1;0,9;0,5;0,4;0,2;0,2
-NL:Q:49000220;Bingerden;Lelystad;1,6;1,0;0,4;0,2;0,4;0,3
-NL:Q:49000250;Vecht;Lelystad;0,9;1,2;0,3;0,6;0,1;0,3
-NL:Q:49000280;Gooisebrug;Lelystad;0,2;1,1;0,1;0,3;0,0;0,3
-NL:Q:49000290;Schouwbrug;Lelystad;0,0;0,1;0,0;0,1;0,0;0,1
-NL:Q:49000300;Schouwbrug;Lelystad;0,1;0,1;0,0;0,1;0,0;0,0
-NL:Q:49000320;Bongerd;Lelystad;1,5;1,1;0,6;0,6;0,3;0,1
-NL:Q:49000340;Botterbrug;Lelystad;0,2;0,3;0,0;0,2;0,0;0,1
-NL:Q:49000350;Botterbrug;Lelystad;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:49000370;Reygersbeek;Lelystad;0,6;0,2;0,7;0,1;0,2;0,0
-NL:Q:49000380;Eaglelaan;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000400;Albatroslaan;Lelystad;0,2;0,1;0,0;0,0;0,0;0,0
-NL:Q:49000430;Oostrandbrug;Lelystad;0,2;0,2;0,0;0,0;0,0;0,0
-NL:Q:49000450;Val van Urk;Lelystad;1,1;1,5;0,6;0,8;0,3;0,5
-NL:Q:49000470;Oostrandbrug;Lelystad;0,2;0,0;0,1;0,0;0,0;0,0
-NL:Q:49000480;Golfpark;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000520;Houtribhoogte;Lelystad;0,1;0,1;0,0;0,1;0,0;0,0
-NL:Q:49000530;Schroefstraat;Lelystad;0,1;0,3;0,0;0,1;0,0;0,0
-NL:Q:49000550;Langezand;Lelystad;0,5;0,5;0,1;0,2;0,1;0,1
-NL:Q:49000580;Parkhaven;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000600;Werkeiland;Lelystad;0,2;0,0;0,1;0,0;0,1;0,0
+NL:Q:49000010;Bouwweg;Lelystad;5,3;12,9;1,6;3,3000000000000003;0,2;1,0
+NL:Q:49000020;Atolplaza;Lelystad;12,1;20,2;3,8;7,0;1,0;3,3000000000000003
+NL:Q:49000040;Ziekenhuis;Lelystad;1,5;23,799999999999997;0,4;11,100000000000001;0,2;4,8
+NL:Q:49000050;Lelycentre/Houtribdreef;Lelystad;128,0;86,8;70,5;49,1;21,400000000000002;19,2
+NL:Q:49000060;Rotondebrug;Lelystad;6,6;11,299999999999999;2,8;9,9;1,2000000000000002;6,3
+NL:Q:49000070;Rotondebrug;Lelystad;13,8;13,299999999999999;7,3;9,399999999999999;3,2;8,0
+NL:Q:49000080;Politiebrug;Lelystad;8,4;4,6000000000000005;3,1999999999999997;1,6;1,8;1,2
+NL:Q:49000101;Lelycentre/Houtribdreef;Lelystad;120,3;150,4;64,7;82,5;32,2;36,6
+NL:Q:49000120;Plantagebrug;Lelystad;13,5;16,3;7,199999999999999;8,4;3,0;4,3
+NL:Q:49000140;Zwembad De Koploper;Lelystad;5,7;8,4;4,6;8,9;1,8;3,3000000000000003
+NL:Q:49000162;Oostkaap;Lelystad;14,0;18,0;5,6;10,3;1,5;3,1
+NL:Q:49000170;Centrumbrug;Lelystad;13,0;37,2;8,1;20,1;6,9;17,9
+NL:Q:49000171;Centrumbrug;Lelystad;24,2;14,4;10,4;10,3;10,6;11,6
+NL:Q:49000180;Oostvaardersbrug;Lelystad;18,1;19,9;10,2;31,599999999999998;3,9000000000000004;10,1
+NL:Q:49000220;Bingerden;Lelystad;13,1;22,6;4,2;9,899999999999999;2,3;5,0
+NL:Q:49000240;Vecht;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:49000250;Vecht;Lelystad;17,599999999999998;33,0;9,4;18,200000000000003;3,9;7,8999999999999995
+NL:Q:49000280;Gooisebrug;Lelystad;3,0;22,8;2,2;10,8;0,6;6,2
+NL:Q:49000290;Schouwbrug;Lelystad;0,8;1,7000000000000002;0,3;2,0;0,5;1,1
+NL:Q:49000300;Schouwbrug;Lelystad;0,5;2,1;0,0;0,7999999999999999;0,0;0,4
+NL:Q:49000320;Bongerd;Lelystad;16,4;27,200000000000003;7,3;13,799999999999999;2,5;6,199999999999999
+NL:Q:49000340;Botterbrug;Lelystad;1,4;4,7;0,6;2,1;0,3;3,3000000000000003
+NL:Q:49000350;Botterbrug;Lelystad;2,2;2,7;0,6;0,7;0,3;0,4
+NL:Q:49000370;Reygersbeek;Lelystad;15,799999999999999;8,0;15,0;9,5;11,799999999999999;5,5
+NL:Q:49000380;Eaglelaan;Lelystad;0,2;0,7;0,0;0,5;0,0;0,0
+NL:Q:49000400;Albatroslaan;Lelystad;0,5;1,9000000000000001;0,1;0,9;0,0;0,0
+NL:Q:49000430;Oostrandbrug;Lelystad;0,7;1,5;0,0;0,5;0,0;0,0
+NL:Q:49000440;Val van Urk;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:49000450;Val van Urk;Lelystad;21,5;39,1;12,9;23,1;5,2;12,5
+NL:Q:49000470;Oostrandbrug;Lelystad;0,4;0,4;0,4;0,1;0,0;0,0
+NL:Q:49000480;Golfpark;Lelystad;0,1;0,3;0,0;0,3;0,0;0,0
+NL:Q:49000520;Houtribhoogte;Lelystad;0,2;0,6;0,0;0,7999999999999999;0,0;0,0
+NL:Q:49000530;Schroefstraat;Lelystad;2,9;6,2;0,9;2,5;0,1;0,8
+NL:Q:49000550;Langezand;Lelystad;8,7;13,6;3,6;8,1;1,4000000000000001;3,5
+NL:Q:49000580;Parkhaven;Lelystad;0,30000000000000004;1,3;0,0;0,2;0,0;0,0
+NL:Q:49000600;Werkeiland;Lelystad;5,0;15,9;2,8000000000000003;8,5;1,6;4,8
 NL:Q:49000610;Werkeiland;Lelystad;0,1;0,5;0,0;0,2;0,0;0,2
-NL:Q:49000620;Monnickendamstraat;Lelystad-Haven;1,5;2,0;0,9;0,9;0,3;0,4
-NL:Q:49000630;Lemmerkade;Lelystad-Haven;0,7;0,6;0,4;0,3;0,3;0,1
-NL:Q:49000640;Hondsdraf;Lelystad;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:49000620;Monnickendamstraat;Lelystad-Haven;19,4;34,7;8,4;19,0;3,3;9,6
+NL:Q:49000630;Lemmerkade;Lelystad-Haven;17,3;17,1;9,9;9,200000000000001;5,2;5,0
+NL:Q:49000640;Hondsdraf;Lelystad;0,2;0,8999999999999999;0,0;0,0;0,0;0,0
 NL:Q:49000660;Lemmerkade;Lelystad-Haven;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000670;Ringdijk;Lelystad-Haven;1,7;2,4;1,3;2,0;0,6;0,7
-NL:Q:49000700;Houtribhoogte;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000710;Warande;Lelystad;0,9;0,9;0,5;0,7;0,3;0,3
-NL:Q:49000720;Warande;Lelystad;0,8;0,0;0,4;0,0;0,2;0,0
-NL:Q:49000730;H. Bekiusschool - De Rede;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000750;Vlieterbrug;Lelystad;6,8;1,2000000000000002;4,6000000000000005;0,8999999999999999;0,0;0,2
-NL:Q:49000800;Vlieterbrug;Lelystad;1,4;4,4;0,7;1,9;0,3;0,2
+NL:Q:49000670;Ringdijk;Lelystad-Haven;70,5;63,0;38,9;37,8;13,9;14,2
+NL:Q:49000700;Houtribhoogte;Lelystad;0,1;0,1;0,1;0,0;0,0;0,0
+NL:Q:49000710;Warande;Lelystad;1,9;25,0;1,4;14,899999999999999;0,5;8,3
+NL:Q:49000720;Warande;Lelystad;17,5;0,3;7,5;0,4;3,5;0,0
+NL:Q:49000730;H. Bekiusschool - De Rede;Lelystad;2,5;3,1;0,0;0,0;0,0;0,0
+NL:Q:49000750;Vlieterbrug;Lelystad;15,8;12,7;9,0;8,4;1,9;5,4
+NL:Q:49000800;Vlieterbrug;Lelystad;8,4;18,4;3,0999999999999996;10,700000000000001;2,8;6,4
 NL:Q:49000850;Kwikstraat;Lelystad;3,1;0,2;0,2;0,0;0,0;0,0
-NL:Q:49000870;Houtribsluis;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000900;Parlaan;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000910;Parlaan;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000950;Bronsweg;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000970;Beginweg;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000990;Jagersveld;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49001000;Buitenhof;Lelystad;0,2;0,2;0,2;0,0;0,0;0,0
-NL:Q:49001020;Hondsdraf;Lelystad;0,0;0,0;0,0;0,1;0,0;0,0
-NL:Q:49001210;Houtribweg;Lelystad;6,9;2,2;1,1;0,2;1,3;0,1
+NL:Q:49000870;Houtribsluis;Lelystad;0,1;0,3;0,0;0,4;0,0;0,0
+NL:Q:49000900;Parlaan;Lelystad;0,1;0,6;0,0;0,4;0,0;0,0
+NL:Q:49000910;Parlaan;Lelystad;0,1;0,1;0,1;0,2;0,0;0,0
+NL:Q:49000940;Bronsweg;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:49000950;Bronsweg;Lelystad;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:49000970;Beginweg;Lelystad;0,1;0,2;0,0;0,1;0,0;0,0
+NL:Q:49000980;Jagersveld;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:49000990;Jagersveld;Lelystad;0,4;0,7;0,0;0,2;0,0;0,0
+NL:Q:49001000;Buitenhof;Lelystad;0,8999999999999999;4,6000000000000005;0,8;0,4;0,0;0,0
+NL:Q:49001020;Hondsdraf;Lelystad;0,8;0,5;0,0;0,2;0,0;0,0
+NL:Q:49001210;Houtribweg;Lelystad;7,1000000000000005;2,5;1,1;0,2;1,3;0,1
 NL:Q:49001220;Houtribweg;Lelystad;1,9000000000000001;12,3;0,2;2,2;0,1;2,4
 NL:Q:49001440;Geulbrug;Lelystad;0,0;0,1;0,0;0,1;0,0;0,1
-NL:Q:49001450;Geulbrug;Lelystad;0,4;0,2;0,2;0,0;0,1;0,0
+NL:Q:49001450;Geulbrug;Lelystad;4,6000000000000005;2,5;2,4000000000000004;1,7;0,5;0,4
 NL:Q:49001540;Gorsbrug;Lelystad;0,0;0,1;0,0;0,0;0,0;0,1
-NL:Q:49001550;Gorsbrug;Lelystad;0,7;0,3;0,2;0,1;0,2;0,0
-NL:Q:49001650;Agora;Lelystad;1,2;1,5;0,2;0,6;0,1;0,3
-NL:Q:49001680;Salland;Lelystad;0,2;0,0;0,1;0,0;0,0;0,0
+NL:Q:49001550;Gorsbrug;Lelystad;7,0;5,6;2,3000000000000003;2,2;0,8999999999999999;1,4
+NL:Q:49001650;Agora;Lelystad;9,0;26,8;2,1;18,0;0,9;13,200000000000001
+NL:Q:49001670;Salland;Lelystad;0,7;8,5;0,1;4,8;0,2;3,2
+NL:Q:49001680;Salland;Lelystad;3,8000000000000003;0,9;1,9000000000000001;0,2;0,6;0,2
 NL:Q:49001690;Salland;Lelystad;0,1;0,4;0,1;0,2;0,1;0,1
-NL:Q:49001700;Agora;Lelystad;1,3;1,3;0,3;0,4;0,2;0,0
-NL:Q:49001730;Veluwezoom;Lelystad;0,3;0,6;0,1;0,2;0,1;0,0
-NL:Q:49001740;Veluwezoom;Lelystad;0,3;0,0;0,2;0,1;0,0;0,0
-NL:Q:49001750;Baronie;Lelystad;0,3;0,0;0,1;0,0;0,1;0,0
-NL:Q:49001760;Baronie;Lelystad;0,2;0,5;0,1;0,1;0,0;0,1
-NL:Q:49002300;Jol West;Lelystad;0,2;0,4;0,1;0,2;0,0;0,1
-NL:Q:49002310;Jol West;Lelystad;0,2;0,0;0,2;0,0;0,1;0,0
-NL:Q:49002400;Winkelcentrum Jol;Lelystad;1,2;0,7;0,4;0,5;0,2;0,2
-NL:Q:49002410;Winkelcentrum Jol;Lelystad;1,0;0,1;0,8;0,0;0,3;0,0
-NL:Q:49002500;Punter Zuid;Lelystad;0,0;1,7;0,0;1,3;0,0;0,6
-NL:Q:49002600;Punter;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49002610;Punter;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49002700;Gondel Noord;Lelystad;0,6;0,8;0,3;0,4;0,1;0,3
-NL:Q:49002710;Gondel Noord;Lelystad;0,4;0,0;0,2;0,0;0,2;0,0
-NL:Q:49002900;Winkelcentrum Kempenaar;Lelystad;0,3;0,8;0,1;0,5;0,0;0,0
-NL:Q:49002910;Winkelcentrum Kempenaar;Lelystad;0,2;0,1;0,1;0,2;0,0;0,0
-NL:Q:49003000;Kempenaar Midden;Lelystad;0,6;0,7;0,3;0,3;0,0;0,0
-NL:Q:49003010;Kempenaar Midden;Lelystad;0,4;0,1;0,2;0,1;0,0;0,0
-NL:Q:49003250;Ziekenhuis;Lelystad;1,1;0,8;0,4;0,2;0,3;0,1
-NL:Q:49003300;De Hoven;Lelystad;6,7;2,1;1,9000000000000001;1,0;0,9;0,5
-NL:Q:49003320;De Hoven;Lelystad;0,9;11,4;0,4;2,7;0,3;1,8
-NL:Q:49003360;'t Laar;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49003370;'t Laar;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49003500;Wold;Lelystad;0,4;0,2;0,2;0,0;0,1;0,0
-NL:Q:49003510;Wold;Lelystad;0,1;0,6;0,0;0,4;0,0;0,2
-NL:Q:49003600;Winkelcentrum Kamp;Lelystad;1,2;0,5;0,6;0,4;0,2;0,1
-NL:Q:49003610;Winkelcentrum Kamp;Lelystad;0,3;1,6;0,2;1,3;0,0;0,7
-NL:Q:49003700;Horst;Lelystad;0,4;0,4;0,4;0,1;0,2;0,1
-NL:Q:49003710;Horst;Lelystad;0,2;0,5;0,1;0,4;0,0;0,1
-NL:Q:49003900;Nienoord;Lelystad;0,2;1,0;0,1;0,5;0,0;0,3
-NL:Q:49004000;Nienoord;Lelystad;0,1;0,3;0,1;0,1;0,0;0,0
-NL:Q:49004110;Slotenlaan;Lelystad;0,4;1,8;0,3;0,9;0,2;0,3
-NL:Q:49004120;Slotenlaan;Lelystad;1,2;0,2;0,5;0,1;0,4;0,2
+NL:Q:49001700;Agora;Lelystad;16,6;36,099999999999994;11,8;6,7;6,3;3,3
+NL:Q:49001730;Veluwezoom;Lelystad;1,4000000000000001;13,0;0,30000000000000004;5,2;0,30000000000000004;2,3
+NL:Q:49001740;Veluwezoom;Lelystad;6,8;1,3;3,1;0,30000000000000004;0,8;0,2
+NL:Q:49001750;Baronie;Lelystad;6,3999999999999995;0,3;2,3000000000000003;0,2;1,1;0,0
+NL:Q:49001760;Baronie;Lelystad;0,5;11,6;0,5;5,0;0,0;3,1
+NL:Q:49002300;Jol West;Lelystad;0,7;10,6;0,30000000000000004;8,7;0,0;3,9
+NL:Q:49002310;Jol West;Lelystad;7,7;0,1;4,0;0,2;1,7000000000000002;0,0
+NL:Q:49002400;Winkelcentrum Jol;Lelystad;4,4;44,6;2,1;31,5;1,3;14,1
+NL:Q:49002410;Winkelcentrum Jol;Lelystad;26,2;2,5;13,5;0,2;5,7;0,1
+NL:Q:49002500;Punter Zuid;Lelystad;0,7;14,6;0,3;8,200000000000001;0,2;5,1
+NL:Q:49002600;Punter;Lelystad;0,30000000000000004;21,0;0,2;14,4;0,1;6,1
+NL:Q:49002610;Punter;Lelystad;16,3;0,4;8,6;0,3;3,8;0,1
+NL:Q:49002700;Gondel Noord;Lelystad;1,4;18,0;0,6;9,9;0,30000000000000004;4,6
+NL:Q:49002710;Gondel Noord;Lelystad;12,1;1,0;5,2;0,4;1,8;0,2
+NL:Q:49002900;Winkelcentrum Kempenaar;Lelystad;5,3999999999999995;3,0;1,1;6,5;0,0;0,0
+NL:Q:49002910;Winkelcentrum Kempenaar;Lelystad;1,3;12,4;3,6;2,1;0,0;0,0
+NL:Q:49003000;Kempenaar Midden;Lelystad;6,1;1,9;1,9000000000000001;10,5;0,0;0,0
+NL:Q:49003010;Kempenaar Midden;Lelystad;1,7999999999999998;13,7;4,1;1,3;0,0;0,0
+NL:Q:49003250;Ziekenhuis;Lelystad;20,400000000000002;8,700000000000001;10,200000000000001;3,5;4,2;1,6
+NL:Q:49003300;De Hoven;Lelystad;14,899999999999999;13,7;5,7;6,1;2,1;2,8
+NL:Q:49003320;De Hoven;Lelystad;1,6;15,2;0,8;3,9000000000000004;0,4;2,6
+NL:Q:49003360;'t Laar;Lelystad;0,8;1,5;0,5;1,5;0,2;0,6
+NL:Q:49003370;'t Laar;Lelystad;1,0;1,7;0,9;0,8;0,3;0,6
+NL:Q:49003500;Wold;Lelystad;10,5;6,2;5,8;4,5;2,0;2,8
+NL:Q:49003510;Wold;Lelystad;2,1;14,6;1,4;9,5;0,6;5,3
+NL:Q:49003600;Winkelcentrum Kamp;Lelystad;27,2;19,1;15,0;11,700000000000001;6,3;6,3
+NL:Q:49003610;Winkelcentrum Kamp;Lelystad;5,5;39,800000000000004;2,2;26,7;1,1;13,399999999999999
+NL:Q:49003700;Horst;Lelystad;11,1;10,6;6,1000000000000005;7,6;1,1;3,7
+NL:Q:49003710;Horst;Lelystad;5,1000000000000005;12,4;2,2;8,5;0,8;3,7
+NL:Q:49003900;Nienoord;Lelystad;6,4;21,2;3,2;11,8;1,4;7,6
+NL:Q:49004000;Nienoord;Lelystad;11,1;12,3;5,699999999999999;8,6;2,5;4,5
+NL:Q:49004110;Slotenlaan;Lelystad;2,6;42,599999999999994;1,4000000000000001;25,9;1,1;13,200000000000001
+NL:Q:49004120;Slotenlaan;Lelystad;32,2;7,4;16,0;4,0;6,800000000000001;2,8000000000000003
 NL:Q:49004130;Voorstraatbrug;Lelystad;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:49004140;Voorstraatbrug;Lelystad;0,0;0,0;0,0;0,0;0,1;0,0
-NL:Q:49004240;Oostzeestraat;Lelystad;2,6;0,4;2,1;0,1;0,9;0,2
-NL:Q:49004250;Oostzeestraat;Lelystad;0,1;3,9;0,1;2,6;0,0;1,2
-NL:Q:49004270;Westhoven;Lelystad;0,4;0,3;0,1;0,2;0,1;0,1
-NL:Q:49004340;Zwartezeestraat;Lelystad;1,1;0,5;0,7;0,3;0,4;0,1
-NL:Q:49004350;Zwartezeestraat;Lelystad;0,2;1,5;0,1;0,9;0,0;0,6
-NL:Q:49004500;De Rietlanden;Lelystad;6,0;15,899999999999999;0,5;4,2;0,6;3,2
-NL:Q:49004510;Penitentiaire Inrichting;Lelystad;0,3;0,3;0,0;0,1;0,0;0,0
-NL:Q:49004550;De Rietlanden;Lelystad;14,0;9,0;4,5;1,1;2,2;0,6
+NL:Q:49004240;Oostzeestraat;Lelystad;80,89999999999999;39,0;49,1;29,3;18,4;17,5
+NL:Q:49004250;Oostzeestraat;Lelystad;9,5;107,10000000000001;4,8;73,3;2,5;35,300000000000004
+NL:Q:49004270;Westhoven;Lelystad;2,2;4,8999999999999995;0,7999999999999999;2,4000000000000004;0,30000000000000004;0,7
+NL:Q:49004340;Zwartezeestraat;Lelystad;30,5;16,6;14,799999999999999;9,100000000000001;5,800000000000001;5,5
+NL:Q:49004350;Zwartezeestraat;Lelystad;3,8000000000000003;38,0;1,3;21,4;1,3;11,799999999999999
+NL:Q:49004500;De Rietlanden;Lelystad;18,0;22,599999999999998;1,7;5,5;0,8999999999999999;3,8000000000000003
+NL:Q:49004510;Penitentiaire Inrichting;Lelystad;5,5;4,3999999999999995;1,7;0,9;0,6;0,2
+NL:Q:49004550;De Rietlanden;Lelystad;17,6;29,9;5,6;3,6;3,0;2,2
 NL:Q:49004900;Bouwweg;Lelystad;0,1;0,0;0,1;0,0;0,0;0,0
-NL:Q:49005010;Station Centrum;Lelystad;220,70000000000002;288,90000000000003;130,39999999999998;125,3;81,89999999999999;76,7
+NL:Q:49005010;Station Centrum;Lelystad;235,00000000000003;289,90000000000003;135,0;125,6;81,89999999999999;78,3
 NL:Q:49005020;Station Centrum;Lelystad;65,0;72,0;25,0;23,9;0,6;0,0
 NL:Q:49005030;Station Centrum;Lelystad;251,79999999999998;164,89999999999998;103,7;89,69999999999999;76,0;83,7
-NL:Q:49005040;Station Centrum;Lelystad;17,8;4,6;13,8;2,3;8,7;0,8
-NL:Q:49005050;Station Centrum;Lelystad;19,8;10,2;10,8;5,7;5,8;1,6
-NL:Q:49005060;Station Centrum;Lelystad;15,8;6,2;7,0;3,4;3,1;1,5
-NL:Q:49005070;Station Centrum;Lelystad;12,4;7,2;6,0;2,8;3,1;1,0
-NL:Q:49005150;Vestebrug;Lelystad;3,5;0,8;1,0;0,6;0,1;0,0
-NL:Q:49005200;Vestebrug;Lelystad;0,8999999999999999;1,2;0,4;0,7;0,0;0,0
-NL:Q:49005250;Schansbrug;Lelystad;0,8;0,7;0,30000000000000004;0,3;0,0;0,0
-NL:Q:49005300;Schansbrug;Lelystad;0,7;0,7;0,30000000000000004;0,2;0,0;0,0
-NL:Q:49005350;Politiebrug;Lelystad;0,3;1,1;0,1;0,4;0,1;0,4
-NL:Q:49005400;Oostranddreef;Lelystad;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:49005500;Runderweg;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49005550;Karveelbrug;Lelystad;0,6;0,1;0,2;0,1;0,1;0,0
-NL:Q:49005600;Karveelbrug;Lelystad;0,1;0,4;0,1;0,2;0,1;0,2
-NL:Q:49005650;Kempenaarbrug;Lelystad;0,9;0,1;0,3;0,1;0,2;0,1
-NL:Q:49005700;Kempenaarbrug;Lelystad;0,2;0,6;0,0;0,2;0,1;0,4
-NL:Q:49005750;Boeierbrug;Lelystad;1,7;0,1;0,7;0,1;0,7;0,0
-NL:Q:49005800;Boeierbrug;Lelystad;0,8;1,7;0,5;0,9;0,0;0,6
-NL:Q:49005850;Bataviahaven;Lelystad;0,6;1,4;0,3;1,1;0,4;0,5
-NL:Q:49005920;Batavia Stad;Lelystad;7,3;5,6;11,1;8,1;4,6;5,6
+NL:Q:49005040;Station Centrum;Lelystad;484,7;487,6;462,1;272,40000000000003;255,0;185,9
+NL:Q:49005050;Station Centrum;Lelystad;868,5;290,4;445,1;233,5;237,10000000000002;54,0
+NL:Q:49005060;Station Centrum;Lelystad;15,8;75,3;7,0;29,599999999999998;3,1;11,4
+NL:Q:49005070;Station Centrum;Lelystad;169,70000000000002;7,2;96,0;2,8;47,300000000000004;1,0
+NL:Q:49005150;Vestebrug;Lelystad;8,5;1,9000000000000001;3,0;1,1;0,9;0,2
+NL:Q:49005200;Vestebrug;Lelystad;1,6;9,399999999999999;0,7;3,8;0,1;1,8
+NL:Q:49005250;Schansbrug;Lelystad;1,7999999999999998;2,0;0,7000000000000001;1,1;0,2;0,2
+NL:Q:49005300;Schansbrug;Lelystad;1,7;4,6;0,6;2,0;0,3;0,7
+NL:Q:49005350;Politiebrug;Lelystad;3,5;17,1;2,4;8,700000000000001;2,2;5,800000000000001
+NL:Q:49005400;Oostranddreef;Lelystad;0,2;0,6;0,0;0,1;0,0;0,0
+NL:Q:49005500;Runderweg;Lelystad;1,2000000000000002;1,3;0,0;0,0;0,0;0,0
+NL:Q:49005550;Karveelbrug;Lelystad;7,8;3,4;4,2;3,6;3,1;3,9
+NL:Q:49005600;Karveelbrug;Lelystad;1,5;13,5;1,4000000000000001;10,6;1,9000000000000001;7,9
+NL:Q:49005650;Kempenaarbrug;Lelystad;12,5;4,199999999999999;6,3999999999999995;2,6;5,0;3,6
+NL:Q:49005700;Kempenaarbrug;Lelystad;2,8000000000000003;21,8;1,3;16,5;1,7000000000000002;13,0
+NL:Q:49005750;Boeierbrug;Lelystad;13,799999999999999;14,6;11,299999999999999;3,9;6,0;4,3
+NL:Q:49005800;Boeierbrug;Lelystad;9,5;21,8;5,7;19,4;4,1;13,7
+NL:Q:49005850;Bataviahaven;Lelystad;10,0;18,099999999999998;9,8;14,299999999999999;5,800000000000001;7,4
+NL:Q:49005920;Batavia Stad;Lelystad;114,89999999999999;122,0;195,0;200,29999999999998;128,1;127,8
 NL:Q:49005950;Crematorium;Lelystad;0,7;0,0;1,3;0,0;0,0;0,0
-NL:Q:49006460;Gondel Zuid;Lelystad;0,7;0,9;0,3;0,5;0,0;0,2
-NL:Q:49006470;Gondel Zuid;Lelystad;0,5;0,1;0,2;0,0;0,2;0,0
+NL:Q:49006460;Gondel Zuid;Lelystad;1,8;20,4;0,7;14,7;0,0;5,7
+NL:Q:49006470;Gondel Zuid;Lelystad;13,4;2,6;7,3;0,3;2,5;0,1
 NL:Q:49006500;Crematorium;Lelystad;0,1;1,2;0,1;1,6;0,0;0,0
 NL:Q:49006800;Pekstraat;Lelystad;0,1;4,6000000000000005;0,0;0,2;0,0;0,0
 NL:Q:49006850;Pekstraat;Lelystad;3,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:49007200;Vaartweg;Lelystad;0,4;0,5;0,2;0,1;0,0;0,0
+NL:Q:49007200;Vaartweg;Lelystad;13,9;27,8;4,6000000000000005;7,6;0,9;2,2
 NL:Q:49007250;Vaartweg;Lelystad;0,2;0,0;0,1;0,0;0,0;0,0
-NL:Q:49007530;Galjoenbrug;Lelystad;0,3;0,9;0,1;0,6;0,1;0,2
-NL:Q:49007540;Galjoenbrug;Lelystad;0,4;0,1;0,4;0,0;0,1;0,0
+NL:Q:49007530;Galjoenbrug;Lelystad;0,7;9,3;0,5;4,3;0,2;2,8000000000000003
+NL:Q:49007540;Galjoenbrug;Lelystad;3,0;0,30000000000000004;1,4;0,1;0,7999999999999999;0,1
 NL:Q:49007550;Bedrijvenbrug;Lelystad;0,0;0,2;0,0;0,2;0,0;0,0
 NL:Q:49007560;Bedrijvenbrug;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49007850;Tjalk/Groenhorst;Lelystad;0,2;0,2;0,1;0,0;0,1;0,1
+NL:Q:49007850;Tjalk/Groenhorst;Lelystad;7,9;13,299999999999999;2,4;5,6;0,9;2,3000000000000003
 NL:Q:49007860;Tjalk/Groenhorst;Lelystad;0,3;0,2;0,1;0,0;0,0;0,0
-NL:Q:49007870;Winkelcentrum Tjalk;Lelystad;0,3;0,3;0,4;0,2;0,1;0,1
+NL:Q:49007870;Winkelcentrum Tjalk;Lelystad;15,8;21,7;10,4;15,399999999999999;4,8999999999999995;6,3
 NL:Q:49007880;Winkelcentrum Tjalk;Lelystad;0,2;0,4;0,2;0,3;0,1;0,0
-NL:Q:49008050;Winkelcentrum Botter;Lelystad;0,4;0,1;0,2;0,0;0,1;0,0
+NL:Q:49008050;Winkelcentrum Botter;Lelystad;14,3;22,700000000000003;8,7;13,8;3,5;4,9
 NL:Q:49008060;Winkelcentrum Botter;Lelystad;0,4;0,6;0,3;0,4;0,1;0,1
-NL:Q:49008150;Schoener;Lelystad;0,2;0,0;0,2;0,0;0,0;0,0
+NL:Q:49008150;Schoener;Lelystad;4,6000000000000005;9,2;2,1;5,9;0,8;3,0
 NL:Q:49008160;Schoener;Lelystad;0,3;0,4;0,2;0,3;0,1;0,1
-NL:Q:49008250;Stuwweg;Lelystad;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:49008250;Stuwweg;Lelystad;9,1;21,0;2,1;5,0;1,2;3,1
 NL:Q:49008260;Stuwweg;Lelystad;0,3;0,5;0,0;0,1;0,1;0,1
-NL:Q:49008290;Haagwinde;Lelystad;0,4;0,0;0,1;0,0;0,1;0,0
-NL:Q:49008300;Haagwinde;Lelystad;0,3;0,8;0,1;0,3;0,2;0,1
-NL:Q:49008310;Klaproos;Lelystad;0,5;0,0;0,3;0,0;0,1;0,0
-NL:Q:49008320;Klaproos;Lelystad;0,6;0,9;0,3;0,6;0,1;0,1
-NL:Q:49008330;Hollandse Hout;Lelystad;0,7;0,4;0,2;0,1;0,1;0,1
-NL:Q:49008810;Palazzo;Lelystad;18,6;43,8;9,9;10,3;8,799999999999999;8,1
-NL:Q:49008820;Palazzo;Lelystad;40,9;20,5;13,6;8,2;9,899999999999999;6,9
+NL:Q:49008290;Haagwinde;Lelystad;9,1;0,4;3,4;0,2;1,2000000000000002;0,1
+NL:Q:49008300;Haagwinde;Lelystad;2,1999999999999997;18,0;0,7;7,6;0,4;3,8000000000000003
+NL:Q:49008310;Klaproos;Lelystad;13,1;0,2;6,0;0,1;2,7;0,1
+NL:Q:49008320;Klaproos;Lelystad;2,7;22,099999999999998;1,0;12,1;0,4;7,1
+NL:Q:49008330;Hollandse Hout;Lelystad;10,899999999999999;18,9;4,6000000000000005;6,8;1,8;3,1
+NL:Q:49008810;Palazzo;Lelystad;21,1;45,199999999999996;11,4;10,700000000000001;11,399999999999999;8,7
+NL:Q:49008820;Palazzo;Lelystad;42,9;32,6;14,2;14,799999999999999;10,499999999999998;12,5
 NL:Q:49008850;Larserpoortweg;Lelystad;10,7;4,2;6,1;1,3;5,0;0,9
-NL:Q:49009090;Duinbeek;Lelystad;1,4;0,8;0,5;0,3;0,2;0,1
-NL:Q:49009095;Duinbeek;Lelystad;0,2;1,9;0,0;0,6;0,0;0,3
+NL:Q:49009090;Duinbeek;Lelystad;103,7;86,39999999999999;55,3;50,699999999999996;30,9;29,6
+NL:Q:49009095;Duinbeek;Lelystad;69,0;90,0;42,7;49,5;23,2;25,7
 NL:Q:49009991;Emmawijk/Centrum;Zwolle;44,900000000000006;81,8;20,0;36,3;9,1;13,1
 NL:Q:49009992;Emmawijk/Centrum;Zwolle;52,1;44,5;18,0;16,4;5,1;5,6
-NL:Q:49110010;Airport Plaza;Lelystad;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:49110030;Aviodrome;Lelystad;0,1;0,3;0,1;0,5;0,1;0,1
-NL:Q:49110240;Larserpoort;Lelystad;0,3;0,0;0,1;0,0;0,1;0,0
+NL:Q:49110010;Airport Plaza;Lelystad;9,299999999999999;10,7;8,2;8,1;4,7;5,1
+NL:Q:49110030;Aviodrome;Lelystad;2,6;7,2;5,699999999999999;13,5;2,5;8,4
+NL:Q:49110240;Larserpoort;Lelystad;8,8;11,9;1,1;5,0;1,2000000000000002;4,0
 NL:Q:49110250;Larserpoort;Lelystad;0,1;0,6;0,0;0,3;0,1;0,3
-NL:Q:49110300;Giant/Pascallaan;Lelystad;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:49110330;Inditex / Mac3;Lelystad;0,9;1,1;0,1;0,2;0,2;0,3
-NL:Q:49110340;Omroep Flevoland;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:49110300;Giant/Pascallaan;Lelystad;2,5;8,6;0,1;0,6;0,0;0,0
+NL:Q:49110320;Mac3Park;Lelystad;1,9;24,0;0,8;7,5;0,4;7,2
+NL:Q:49110330;Inditex / Mac3;Lelystad;13,6;1,2000000000000002;4,1;0,2;4,3;0,3
+NL:Q:49110340;Omroep Flevoland;Lelystad;1,9000000000000001;5,4;0,4;0,6;0,3;0,6
 NL:Q:49110350;Omroep Flevoland;Lelystad;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:49111010;Natuurpark;Lelystad;2,9;3,5;0,9;0,4;0,9;0,7
 NL:Q:49111020;Larserpoortweg;Lelystad;4,1;20,7;1,1;8,4;1,2000000000000002;7,0
@@ -7152,7 +7058,7 @@ NL:Q:50848002;Veenhuizerveldweg;Huinen;5,6;3,8;1,2;1,7;0,7;0,7
 NL:Q:50848003;Oude Garderenseweg;Huinen;2,3;3,1;1,3;1,0;1,0;0,4
 NL:Q:50848004;Oude Garderenseweg;Huinen;3,2;2,3;1,1;1,6;1,6;0,7
 NL:Q:51340010;Hotel Vianen;Vianen;0,3;0,0;0,0;0,0;0,0;0,0
-NL:Q:51340170;Prinses Julianastraat;Vianen;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:51340170;Prinses Julianastraat;Vianen;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:51340234;Busstation Lekbrug-West;Vianen;1,3;0,1;0,0;0,0;0,0;0,0
 NL:Q:51340244;Busstation Lekbrug-Oost;Vianen;0,0;2,0;0,0;0,0;0,0;0,0
 NL:Q:51340250;Hagenweg;Vianen;0,1;0,3;0,0;0,0;0,0;0,0
@@ -7173,7 +7079,7 @@ NL:Q:51470080;Nijensteinseweg;Hagestein;0,2;0,2;0,0;0,0;0,0;0,0
 NL:Q:51470090;Stuwstraat;Hagestein;0,2;0,2;0,0;0,0;0,0;0,0
 NL:Q:51470100;Stuwstraat;Hagestein;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:51470130;Biezenweg;Hagestein;0,5;0,1;0,0;0,0;0,0;0,0
-NL:Q:51470140;Biezenweg;Hagestein;0,1;0,4;0,0;0,0;0,0;0,0
+NL:Q:51470140;Biezenweg;Hagestein;0,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:51470150;Hagesteinsestraat;Vianen;0,2;0,3;0,0;0,0;0,0;0,0
 NL:Q:51471020;Hoefslag;Hagestein;0,0;0,4;0,0;0,0;0,0;0,0
 NL:Q:51570030;Diefdijk;Everdingen;0,1;0,0;0,0;0,0;0,0;0,0
@@ -7182,69 +7088,69 @@ NL:Q:51570170;De Hommel;Everdingen;0,2;0,2;0,0;0,0;0,0;0,0
 NL:Q:51570180;De Hommel;Everdingen;0,2;0,2;0,0;0,0;0,0;0,0
 NL:Q:51670010;Hamseweg;Culemborg;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:51670020;Hamseweg;Culemborg;0,0;0,2;0,0;0,0;0,0;0,0
-NL:Q:51670030;Beukeboom;Culemborg;0,3;0,3;0,2;0,0;0,1;0,3
-NL:Q:51670040;Guido Gezelleweg;Culemborg;0,1;2,5;0,0;0,0;0,0;0,0
+NL:Q:51670030;Beukeboom;Culemborg;0,2;0,3;0,2;0,0;0,1;0,3
+NL:Q:51670040;Guido Gezelleweg;Culemborg;0,1;2,4;0,0;0,0;0,0;0,0
 NL:Q:51670050;Guido Gezelleweg;Culemborg;0,0;1,2;0,0;0,0;0,0;0,0
 NL:Q:51670120;Beukeboom;Culemborg;0,3;0,3;0,0;0,1;0,1;0,1
-NL:Q:51670130;Station;Culemborg;1,0;1,4;0,0;0,7;0,0;0,7
-NL:Q:51670140;Station;Culemborg;2,0;0,9;0,6;0,0;0,8;0,0
-NL:Q:51670530;SG Lek en Linge;Culemborg;1,1;2,5;0,0;0,0;0,0;0,0
-NL:Q:51670550;SG Lek en Linge;Culemborg;3,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:51670130;Station;Culemborg;0,9;1,4;0,0;0,6;0,0;0,7
+NL:Q:51670140;Station;Culemborg;1,9;0,9;0,6;0,0;0,8;0,0
+NL:Q:51670530;SG Lek en Linge;Culemborg;1,0;2,5;0,0;0,0;0,0;0,0
+NL:Q:51670550;SG Lek en Linge;Culemborg;3,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:51670720;Weidsteeg;Culemborg;0,3;0,2;0,1;0,0;0,1;0,0
-NL:Q:51670730;Weidsteeg;Culemborg;0,1;0,4;0,1;0,1;0,1;0,1
-NL:Q:51670750;Weidsteeg/Zandstraat;Culemborg;0,3;1,0;0,0;0,2;0,0;0,1
+NL:Q:51670730;Weidsteeg;Culemborg;0,1;0,3;0,1;0,1;0,1;0,1
+NL:Q:51670750;Weidsteeg/Zandstraat;Culemborg;0,2;0,9;0,0;0,2;0,0;0,1
 NL:Q:51670760;Weidsteeg/Zandstraat;Culemborg;1,3;0,2;0,3;0,0;0,2;0,0
-NL:Q:51670780;Kon. Wilhelmina College;Culemborg;5,7;0,0;0,0;0,0;0,0;0,0
-NL:Q:51670790;Kon. Wilhelmina College;Culemborg;0,0;10,6;0,0;0,0;0,0;0,0
+NL:Q:51670780;Kon. Wilhelmina College;Culemborg;5,5;0,0;0,0;0,0;0,0;0,0
+NL:Q:51670790;Kon. Wilhelmina College;Culemborg;0,0;10,3;0,0;0,0;0,0;0,0
 NL:Q:51670820;Stationssingel;Culemborg;0,1;0,2;0,0;0,4;0,0;0,1
-NL:Q:51670830;Stationssingel;Culemborg;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:51670830;Stationssingel;Culemborg;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:51671280;Fie Sijbrantstraat;Culemborg;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:51671290;Fie Sijbrantstraat;Culemborg;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:51671300;Wijsenbeekweg;Culemborg;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:51671310;Wijsenbeekweg;Culemborg;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:51671320;Belle van Zuylenlaan;Culemborg;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:51671330;Belle van Zuylenlaan;Culemborg;0,2;0,1;0,0;0,0;0,0;0,0
-NL:Q:51671340;Winkelcentrum Parijsch;Culemborg;0,3;0,3;0,0;0,0;0,0;0,0
+NL:Q:51671340;Winkelcentrum Parijsch;Culemborg;0,2;0,3;0,0;0,0;0,0;0,0
 NL:Q:51671350;Winkelcentrum Parijsch;Culemborg;0,4;0,2;0,0;0,0;0,0;0,0
-NL:Q:51750040;Walstraat;Gorinchem;1,1;0,2;1,2;0,2;0,8;0,1
-NL:Q:51750070;Station;Gorinchem;0,1;4,9;0,0;1,1;0,0;1,8
-NL:Q:51750071;Station;Gorinchem;0,4;0,0;0,4;0,0;0,5;0,0
-NL:Q:51750077;Station;Gorinchem;3,7;0,5;1,1;0,0;1,2;0,0
-NL:Q:51750110;Walstraat;Gorinchem;0,2;1,0;0,1;1,7;0,1;0,5
+NL:Q:51750040;Walstraat;Gorinchem;1,1;0,2;1,1;0,2;0,8;0,1
+NL:Q:51750070;Station;Gorinchem;0,1;4,7;0,0;1,0;0,0;1,8
+NL:Q:51750071;Station;Gorinchem;0,4;0,0;0,3;0,0;0,5;0,0
+NL:Q:51750077;Station;Gorinchem;3,6;0,4;1,1;0,0;1,2;0,0
+NL:Q:51750110;Walstraat;Gorinchem;0,2;1,0;0,1;1,6;0,1;0,5
 NL:Q:51750120;Fortes Lyceum;Gorinchem;0,9;0,4;0,0;0,3;0,1;0,2
 NL:Q:51750150;Anna Blamanstraat;Gorinchem;0,3;0,5;0,1;0,1;0,3;0,1
 NL:Q:51750160;Anna Blamanstraat;Gorinchem;0,4;0,1;0,1;0,1;0,1;0,1
 NL:Q:51750190;Muzenlaan;Gorinchem;0,1;0,8;0,1;0,6;0,1;0,7
 NL:Q:51750230;Graaf Reinaldweg;Gorinchem;0,1;0,2;0,0;0,2;0,0;0,1
-NL:Q:51750240;Fortes Lyceum;Gorinchem;0,4;0,9;0,1;0,0;0,2;0,1
+NL:Q:51750240;Fortes Lyceum;Gorinchem;0,3;0,9;0,1;0,0;0,2;0,1
 NL:Q:51750280;Flank;Gorinchem;0,0;0,1;0,0;0,0;0,0;0,1
-NL:Q:51750290;Flank;Gorinchem;0,1;0,1;0,0;0,1;0,0;0,0
+NL:Q:51750290;Flank;Gorinchem;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:51750380;Glacis;Gorinchem;0,0;0,1;0,1;0,0;0,2;0,0
 NL:Q:51750390;Glacis;Gorinchem;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:51750410;Merwedekanaal;Gorinchem;1,1;0,1;0,2;0,0;0,2;0,0
-NL:Q:51750420;Merwedekanaal;Gorinchem;0,0;1,4;0,0;0,1;0,0;0,2
+NL:Q:51750410;Merwedekanaal;Gorinchem;1,0;0,1;0,2;0,0;0,2;0,0
+NL:Q:51750420;Merwedekanaal;Gorinchem;0,0;1,3;0,0;0,1;0,0;0,2
 NL:Q:51751200;Muzenlaan;Gorinchem;0,4;0,4;0,4;0,3;0,5;0,2
 NL:Q:51751240;Graaf Reinaldweg;Gorinchem;0,3;0,1;0,0;0,0;0,1;0,1
-NL:Q:51752130;Hoefslag;Gorinchem;4,2;2,9;0,0;0,0;0,0;0,0
+NL:Q:51752130;Hoefslag;Gorinchem;4,1;2,8;0,0;0,0;0,0;0,0
 NL:Q:51753080;Beatrixlaan;Dalem;0,3;0,7;0,0;0,2;0,1;0,3
 NL:Q:51753090;Beatrixlaan;Dalem;0,2;0,3;0,2;0,1;0,1;0,0
 NL:Q:51755510;Evenementenhal/Griendweg;Gorinchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:51755520;Evenementenhal/Griendweg;Gorinchem;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:51760090;Station Leerdam;Leerdam;0,1;0,7;0,0;0,0;0,0;0,0
-NL:Q:51760120;Station Leerdam;Leerdam;1,4;0,4;0,0;0,0;0,0;0,0
-NL:Q:51760230;Lingepolikliniek;Leerdam;0,2;0,5;0,0;0,0;0,0;0,0
-NL:Q:51760250;Brandweerkazerne;Leerdam;0,0;1,0;0,0;0,0;0,0;0,0
+NL:Q:51760120;Station Leerdam;Leerdam;1,3;0,3;0,0;0,0;0,0;0,0
+NL:Q:51760230;Lingepolikliniek;Leerdam;0,2;0,4;0,0;0,0;0,0;0,0
+NL:Q:51760250;Brandweerkazerne;Leerdam;0,0;0,9;0,0;0,0;0,0;0,0
 NL:Q:51760360;Lingepolikliniek;Leerdam;0,5;0,2;0,0;0,0;0,0;0,0
 NL:Q:51760370;Gemeentehuis;Asperen;0,5;0,0;0,0;0,0;0,0;0,0
 NL:Q:51760410;Gruttersdam;Asperen;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:51760420;Gruttersdam;Asperen;1,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:51760420;Gruttersdam;Asperen;1,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:51760430;Raadhuisplein;Asperen;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:51760440;Raadhuisplein;Asperen;0,2;0,0;0,0;0,0;0,0;0,0
-NL:Q:51760450;Baronie;Asperen;0,0;0,6;0,0;0,0;0,0;0,0
+NL:Q:51760450;Baronie;Asperen;0,0;0,5;0,0;0,0;0,0;0,0
 NL:Q:51760460;Baronie;Asperen;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:51760470;Drostlaan;Asperen;0,0;1,3;0,0;0,0;0,0;0,0
-NL:Q:51760480;Drostlaan;Asperen;2,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:51760570;Stardam;Asperen;1,6;0,0;0,0;0,0;0,0;0,0
+NL:Q:51760480;Drostlaan;Asperen;1,9;0,0;0,0;0,0;0,0;0,0
+NL:Q:51760570;Stardam;Asperen;1,5;0,0;0,0;0,0;0,0;0,0
 NL:Q:51760580;Stardam;Asperen;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:51760710;Lingestein;Leerdam;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:58520010;Busstation 't Oor;Almere Stad;0,6;0,4;0,8;0,2;0,4;0,3
@@ -7341,7 +7247,7 @@ NL:Q:60000230;Terwindtstraat;Nijmegen;0,0;0,0;18,5;2,5;14,8;0,9
 NL:Q:60000240;Terwindtstraat;Nijmegen;0,0;0,0;0,8;8,2;0,2;6,0
 NL:Q:60000250;Waalkade;Nijmegen;0,0;0,0;58,1;106,3;36,4;78,1
 NL:Q:60000260;Waalkade;Nijmegen;0,0;0,0;108,6;62,9;71,7;43,3
-NL:Q:60000280;Joris Ivensplein;Nijmegen;0,1;1,0;34,5;156,5;18,0;69,1
+NL:Q:60000280;Joris Ivensplein;Nijmegen;0,1;1,0;34,5;156,5;18,0;69,0
 NL:Q:60000300;Prins Hendrikstraat;Nijmegen;0,0;0,0;18,9;27,0;11,3;14,7
 NL:Q:60000330;Groenestraat;Nijmegen;0,0;0,0;14,7;54,5;10,2;40,5
 NL:Q:60000340;Groenestraat;Nijmegen;0,0;0,0;51,3;14,1;27,5;11,9
@@ -7386,8 +7292,8 @@ NL:Q:60000960;Pompweg;Ubbergen;0,0;0,0;5,5;1,1;4,0;1,8
 NL:Q:60000970;Sluis Weurt;Nijmegen;0,1;0,1;9,4;3,6;4,699999999999999;0,7
 NL:Q:60000990;Sluis Weurt;Nijmegen;0,1;0,4;2,2;14,299999999999999;1,4;6,2
 NL:Q:60001001;Centraal Station;Nijmegen;0,0;0,0;92,7;668,1;79,2;414,2
-NL:Q:60001002;Centraal Station;Nijmegen;7,9;0,0;8,6;146,7;16,1;119,3
-NL:Q:60001003;Centraal Station;Nijmegen;0,0;5,0;588,9;195,1;621,5;165,70000000000002
+NL:Q:60001002;Centraal Station;Nijmegen;7,6;0,0;8,4;146,7;16,0;119,3
+NL:Q:60001003;Centraal Station;Nijmegen;0,0;4,8;588,9;194,89999999999998;621,5;165,60000000000002
 NL:Q:60001004;Centraal Station;Nijmegen;0,0;0,0;592,1;1280,6;457,1;900,8
 NL:Q:60001005;Centraal Station;Nijmegen;0,0;0,0;327,3;59,3;200,9;24,4
 NL:Q:60001006;Centraal Station;Nijmegen;0,0;0,0;795,2;539,4;720,3;385,4
@@ -7400,7 +7306,7 @@ NL:Q:60001013;Centraal Station;Nijmegen;0,0;0,0;13,7;1,6;29,4;2,9
 NL:Q:60001020;Spoorkuil;Nijmegen;0,0;0,0;75,3;30,9;58,0;25,4
 NL:Q:60001030;Spoorkuil;Nijmegen;0,0;0,0;19,8;20,0;17,2;15,4
 NL:Q:60001040;Sint Maartenskliniek;Nijmegen;0,0;0,0;16,2;19,6;9,7;13,2
-NL:Q:60001050;Havenweg;Nijmegen;0,2;0,1;19,8;7,5;10,700000000000001;4,7
+NL:Q:60001050;Havenweg;Nijmegen;0,1;0,1;19,8;7,5;10,700000000000001;4,7
 NL:Q:60001060;Hengstdalseweg/Sophiaweg;Nijmegen;0,0;0,0;23,9;1,1;14,8;0,8
 NL:Q:60001080;Beukstraat;Nijmegen;0,0;0,0;48,3;1,1;27,6;0,8
 NL:Q:60001100;Hengstdalseweg/Broerdijk;Nijmegen;0,0;0,0;54,9;2,5;35,5;1,7
@@ -7409,7 +7315,7 @@ NL:Q:60001130;Pompweg;Ubbergen;0,0;0,0;1,6;4,1;2,2;2,5
 NL:Q:60001150;Mercatorplein;Apeldoorn;1,1;10,9;0,3;14,9;0,1;3,8
 NL:Q:60001160;Koningshof;Nijmegen;0,0;0,0;128,9;11,9;66,8;6,6
 NL:Q:60001180;Obrechtstraat;Nijmegen;0,0;0,0;25,5;4,5;15,6;5,3
-NL:Q:60001200;Smetiusstraat;Nijmegen;0,6;0,3;111,3;298,6;64,2;149,4
+NL:Q:60001200;Smetiusstraat;Nijmegen;0,5;0,3;111,3;298,6;64,2;149,4
 NL:Q:60001220;Badhuis;Nijmegen;0,0;0,0;53,7;17,4;30,2;7,8
 NL:Q:60001240;Dominicanenstraat;Nijmegen;0,0;0,0;40,0;8,4;25,9;6,3
 NL:Q:60001280;Radboud UMC;Nijmegen;0,0;0,0;103,6;45,1;61,6;36,8
@@ -7450,8 +7356,8 @@ NL:Q:60001990;Irene Vorrinkstraat;Nijmegen;0,0;0,0;41,2;14,5;21,7;6,7
 NL:Q:60002001;Plein 1944;Nijmegen;0,0;0,0;503,2;466,9;260,3;222,4
 NL:Q:60002002;Plein 1944;Nijmegen;0,0;0,0;728,8;456,4;319,0;209,8
 NL:Q:60002003;Plein 1944;Nijmegen;0,0;0,0;25,7;74,6;0,0;0,0
-NL:Q:60002005;Plein 1944;Nijmegen;2,5;1,1;305,29999999999995;136,6;138,0;81,9
-NL:Q:60002006;Plein 1944;Nijmegen;0,3;2,5;129,39999999999998;416,9;60,300000000000004;172,79999999999998
+NL:Q:60002005;Plein 1944;Nijmegen;2,4;1,0;305,2;136,6;138,0;81,9
+NL:Q:60002006;Plein 1944;Nijmegen;0,2;2,4;129,39999999999998;416,79999999999995;60,300000000000004;172,7
 NL:Q:60002010;Fransestraat;Nijmegen;0,0;0,0;19,4;20,5;14,8;18,3
 NL:Q:60002020;Fransestraat;Nijmegen;0,0;0,0;18,2;23,5;10,2;17,6
 NL:Q:60002205;Zanderijweg;Apeldoorn;12,6;0,2;6,3;0,2;2,6;0,2
@@ -7468,10 +7374,10 @@ NL:Q:60003280;Huygensgebouw;Nijmegen;0,0;0,0;43,8;8,9;27,4;7,3
 NL:Q:60003370;Merwedestraat;Nijmegen;0,1;0,6;2,5;34,1;1,5;16,5
 NL:Q:60003440;Zwaluwstraat;Nijmegen;0,0;0,0;0,0;0,2;0,0;0,0
 NL:Q:60003450;Vlietstraat;Nijmegen;0,5;0,2;37,9;11,7;15,700000000000001;6,6000000000000005
-NL:Q:60003490;Biezenstraat;Nijmegen;0,6;0,1;23,9;6,0;9,299999999999999;4,699999999999999
-NL:Q:60003580;Vlietstraat;Nijmegen;0,3;0,5;12,299999999999999;24,2;5,6;12,6
-NL:Q:60003660;Biezenstraat;Nijmegen;0,0;0,6;2,2;21,9;0,9;9,1
-NL:Q:60003720;Merwedestraat;Nijmegen;0,5;0,0;20,2;5,7;9,399999999999999;2,8000000000000003
+NL:Q:60003490;Biezenstraat;Nijmegen;0,6;0,1;23,9;6,0;9,2;4,699999999999999
+NL:Q:60003580;Vlietstraat;Nijmegen;0,3;0,5;12,2;24,2;5,6;12,5
+NL:Q:60003660;Biezenstraat;Nijmegen;0,0;0,6;2,2;21,8;0,9;9,1
+NL:Q:60003720;Merwedestraat;Nijmegen;0,4;0,0;20,099999999999998;5,7;9,399999999999999;2,8000000000000003
 NL:Q:60003770;Huygensgebouw;Nijmegen;0,0;0,0;7,9;43,0;7,4;35,7
 NL:Q:60003810;Gymnasion;Nijmegen;0,0;0,0;1,0;47,0;0,9;41,3
 NL:Q:60003840;Kan. van Osstraat;Nijmegen;0,0;0,0;0,8;6,2;0,4;5,4
@@ -7870,10 +7776,10 @@ NL:Q:60700200;Gemeentehuis;Nieuw-Bergen;0,0;0,0;1,2;3,1;0,7;2,7
 NL:Q:60700210;Gemeentehuis;Nieuw-Bergen;0,0;0,0;5,1;0,7;4,1;0,8
 NL:Q:61120010;Kerkstraat;Weurt;0,0;0,5;7,8;50,9;4,0;26,099999999999998
 NL:Q:61120020;Hommelstraat;Beuningen;0,2;0,0;8,4;1,6;2,7;0,9
-NL:Q:61120040;Kerk;Beuningen;0,8;0,6;43,0;14,4;18,9;3,9
+NL:Q:61120040;Kerk;Beuningen;0,8;0,5;43,0;14,4;18,9;3,9
 NL:Q:61120050;Distelakkerstraat;Beuningen;0,0;0,1;0,6;7,8;0,7;5,3
 NL:Q:61120060;Distelakkerstraat;Beuningen;0,1;0,0;6,5;0,5;4,9;0,5
-NL:Q:61120070;Kerk;Beuningen;0,4;1,0;13,0;41,4;4,6000000000000005;25,6
+NL:Q:61120070;Kerk;Beuningen;0,3;0,9;13,0;41,4;4,6000000000000005;25,5
 NL:Q:61120090;Hommelstraat;Beuningen;0,0;0,2;1,4;7,4;0,6;5,0
 NL:Q:61120100;Kerkstraat;Weurt;0,3;0,1;53,699999999999996;7,5;26,200000000000003;3,8
 NL:Q:61120110;Pottenbakker;Beuningen;0,0;0,0;20,7;0,3;12,4;0,2
@@ -7961,16 +7867,16 @@ NL:Q:61200080;Gansstraat;Oosterhout;0,0;0,0;5,5;1,5;3,1;0,7
 NL:Q:61200230;Zandstraat;Oosterhout;0,0;0,0;0,7;0,2;0,9;0,1
 NL:Q:61200250;Vredesplein;Oosterhout;0,0;0,0;2,6;0,1;1,7;0,0
 NL:Q:61200290;Peperstraat;Oosterhout;0,0;0,0;1,4;5,1;1,1;3,9
-NL:Q:61220010;Julianastraat;Ewijk;0,2;0,9;4,699999999999999;28,599999999999998;2,5;11,0
+NL:Q:61220010;Julianastraat;Ewijk;0,1;0,8;4,699999999999999;28,599999999999998;2,5;11,0
 NL:Q:61220020;Deijnschestraat;Winssen;0,1;0,0;2,5;0,2;0,7999999999999999;0,1
 NL:Q:61220030;Molenweg;Ewijk;0,0;0,1;0,3;2,8000000000000003;0,1;1,2
-NL:Q:61220040;Geerstraat;Winssen;0,2;0,0;3,0;0,4;1,3;0,3
+NL:Q:61220040;Geerstraat;Winssen;0,1;0,0;3,0;0,4;1,3;0,3
 NL:Q:61220060;Leegstraat;Winssen;0,5;0,0;16,2;1,9;8,0;1,0
 NL:Q:61220070;Leegstraat;Winssen;0,1;0,4;2,2;14,7;1,3;7,8999999999999995
 NL:Q:61220090;Geerstraat;Winssen;0,0;0,2;0,1;2,6;0,3;1,1
 NL:Q:61220100;Molenweg;Ewijk;0,1;0,0;3,1;0,3;1,3;0,1
-NL:Q:61220110;Deijnschestraat;Winssen;0,0;0,1;0,2;1,9000000000000001;0,1;0,6
-NL:Q:61220120;Julianastraat;Ewijk;0,9;0,3;39,5;6,199999999999999;12,4;2,5
+NL:Q:61220110;Deijnschestraat;Winssen;0,0;0,1;0,2;1,8;0,1;0,6
+NL:Q:61220120;Julianastraat;Ewijk;0,9;0,2;39,5;6,199999999999999;12,4;2,5
 NL:Q:61220170;Keizershoeve;Ewijk;0,0;0,3;1,3;13,899999999999999;0,7;6,1
 NL:Q:61220180;Keizershoeve;Ewijk;0,2;0,0;14,799999999999999;1,5;4,4;0,5
 NL:Q:61220190;Plakstraat;Winssen;0,0;0,3;0,6;8,4;0,6;4,5
@@ -8042,7 +7948,7 @@ NL:Q:61320051;Pas;Afferden;0,0;0,3;0,9;10,2;0,3;3,9
 NL:Q:61320061;Koningstraat;Afferden;0,1;0,0;2,1;0,2;1,0;0,1
 NL:Q:61320070;Klapstraat;Afferden;0,0;0,3;0,7;7,7;0,3;3,1
 NL:Q:61320080;Grotestraat;Deest;0,7;0,1;15,4;2,9;6,800000000000001;1,9000000000000001
-NL:Q:61320110;Grotestraat;Deest;0,1;0,6;3,5;13,600000000000001;1,7000000000000002;5,7
+NL:Q:61320110;Grotestraat;Deest;0,1;0,5;3,5;13,600000000000001;1,7000000000000002;5,7
 NL:Q:61350010;Esterweg;Opijnen;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61350020;PGEM Station;Neerijnen;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61350030;Zandstraat 59;Opijnen;0,1;0,0;0,0;0,0;0,0;0,0
@@ -8057,15 +7963,15 @@ NL:Q:61350160;Zandstraat 59;Opijnen;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61350170;PGEM Station;Neerijnen;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61350180;Esterweg;Opijnen;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61360080;Poppenbouwing Oost;Geldermalsen;0,4;0,1;0,0;0,0;0,0;0,0
-NL:Q:61360290;Kalenberg;Meteren;1,3;0,2;0,4;0,0;0,2;0,0
-NL:Q:61360300;Kalenberg;Meteren;0,2;1,3;0,0;0,2;0,1;0,3
-NL:Q:61360310;Landbouwhuis;Meteren;0,1;0,2;0,0;0,2;0,0;0,1
+NL:Q:61360290;Kalenberg;Meteren;1,3;0,2;0,3;0,0;0,2;0,0
+NL:Q:61360300;Kalenberg;Meteren;0,2;1,3;0,0;0,2;0,1;0,2
+NL:Q:61360310;Landbouwhuis;Meteren;0,1;0,2;0,0;0,1;0,0;0,1
 NL:Q:61360320;Landbouwhuis;Meteren;0,0;0,1;0,0;0,0;0,2;0,1
-NL:Q:61360350;Station;Geldermalsen;4,7;0,1;1,5;0,0;1,7;0,0
-NL:Q:61360360;Station;Geldermalsen;0,0;4,2;0,0;1,0;0,0;1,3
+NL:Q:61360350;Station;Geldermalsen;4,6;0,1;1,4;0,0;1,6;0,0
+NL:Q:61360360;Station;Geldermalsen;0,0;4,1;0,0;1,0;0,0;1,2
 NL:Q:61360550;Rijnstraat;Geldermalsen;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61360640;Hogeweide;Geldermalsen;0,1;0,5;0,0;0,0;0,0;0,0
-NL:Q:61361050;Werkzaak;Geldermalsen;0,8;1,8;0,0;0,0;0,0;0,0
+NL:Q:61361050;Werkzaak;Geldermalsen;0,8;1,7;0,0;0,0;0,0;0,0
 NL:Q:61361060;Werkzaak;Geldermalsen;0,5;1,9;0,0;0,0;0,0;0,0
 NL:Q:61361310;Groeneweg;Buurmalsen;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61362010;Hondsgemet;Est;0,1;0,0;0,0;0,0;0,0;0,0
@@ -8076,7 +7982,7 @@ NL:Q:61369560;Lokhorstschool;Deil;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:61370020;Klepperheide;Kerk-Avezaath;0,0;0,0;0,0;0,0;0,0;0,1
 NL:Q:61370110;Klepperheide;Kerk-Avezaath;0,0;0,0;0,0;0,0;0,1;0,0
 NL:Q:61370210;N834/Daver;Kapel-Avezaath;0,5;0,1;0,2;0,0;0,2;0,1
-NL:Q:61370220;N834/Daver;Kapel-Avezaath;0,1;0,2;0,1;0,1;0,0;0,0
+NL:Q:61370220;N834/Daver;Kapel-Avezaath;0,1;0,2;0,1;0,0;0,0;0,0
 NL:Q:61380230;Voetbalvereniging Ophemert;Ophemert;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:61380240;Voetbalvereniging Ophemert;Ophemert;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61380250;Dreef;Ophemert;0,0;0,1;0,0;0,0;0,0;0,0
@@ -8087,20 +7993,20 @@ NL:Q:61401230;Brittanjesingel;Zetten;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61401240;Brittanjesingel;Zetten;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61401270;Stationsstraat;Zetten;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:61401280;Stationsstraat;Zetten;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:61401310;Hoofdstraat;Zetten;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:61401310;Hoofdstraat;Zetten;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:61401320;Hoofdstraat;Zetten;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61402270;Monument;Andelst;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61410010;Station;Tiel;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61410030;Veemarkt;Tiel;0,2;0,5;0,30000000000000004;5,9;0,2;1,2
-NL:Q:61410050;Lingedijk;Tiel;0,1;0,0;0,3;0,0;0,0;0,0
-NL:Q:61410070;Station Noordzijde;Tiel;0,7;0,5;0,2;0,1;0,2;0,1
+NL:Q:61410050;Lingedijk;Tiel;0,1;0,0;0,2;0,0;0,0;0,0
+NL:Q:61410070;Station Noordzijde;Tiel;0,7;0,4;0,2;0,1;0,2;0,1
 NL:Q:61410080;Vrijthof;Tiel;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:61410090;Prinses Marijkelaan;Tiel;0,0;0,0;0,1;0,0;0,0;0,0
 NL:Q:61410100;Latenstein;Tiel;0,1;0,1;0,0;0,1;0,0;0,0
 NL:Q:61410110;Latenstein;Tiel;0,3;0,2;0,0;0,0;0,1;0,1
 NL:Q:61410120;Prinses Marijkelaan;Tiel;0,0;0,1;0,0;0,1;0,0;0,0
 NL:Q:61410130;Vrijthof;Tiel;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:61410140;Station Noordzijde;Tiel;0,0;1,3;0,0;1,2;0,0;0,9
+NL:Q:61410140;Station Noordzijde;Tiel;0,0;1,3;0,0;1,1;0,0;0,9
 NL:Q:61410160;Lingedijk;Tiel;0,0;0,3;0,0;0,1;0,0;0,1
 NL:Q:61410180;Sportpark Ridderweide;Tiel;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61410200;Sporthal de Betuwe;Tiel;0,5;0,0;0,0;0,0;0,0;0,0
@@ -8113,13 +8019,13 @@ NL:Q:61410280;Papesteeg;Tiel;0,4;0,1;0,0;0,0;0,0;0,0
 NL:Q:61410290;Station;Tiel;0,5;0,0;0,0;0,0;0,1;0,0
 NL:Q:61410300;Heiligestraat;Tiel;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61410310;Station;Tiel;0,2;0,0;0,0;0,0;0,2;0,0
-NL:Q:61410320;Station;Tiel;0,7;0,5;0,2;0,2;0,3;0,1
-NL:Q:61410330;Veemarkt;Tiel;0,5;0,2;5,1;0,8;1,6;0,7
-NL:Q:61410340;Station;Tiel;0,8;0,0;0,0;0,0;0,0;0,1
+NL:Q:61410320;Station;Tiel;0,7;0,4;0,2;0,2;0,3;0,1
+NL:Q:61410330;Veemarkt;Tiel;0,5;0,2;5,0;0,8;1,6;0,7
+NL:Q:61410340;Station;Tiel;0,7;0,0;0,0;0,0;0,0;0,1
 NL:Q:61410390;Heiligestraat;Tiel;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61410410;Papesteeg;Tiel;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:61410420;Hoog Kellenseweg;Tiel;0,0;0,2;0,0;0,1;0,0;0,0
-NL:Q:61410430;Teisterbantlaan;Tiel;0,8;0,1;0,0;0,0;0,0;0,0
+NL:Q:61410430;Teisterbantlaan;Tiel;0,7;0,1;0,0;0,0;0,0;0,0
 NL:Q:61410450;Westlede;Tiel;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:61410470;Batouwe;Tiel;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61410490;Sporthal de Betuwe;Tiel;0,0;0,2;0,0;0,0;0,0;0,0
@@ -8129,11 +8035,11 @@ NL:Q:61410580;Lingecollege;Tiel;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:61410610;De Hennepe;Tiel;0,2;0,2;0,0;0,1;0,0;0,1
 NL:Q:61410640;Laan van Westroijen;Tiel;0,4;0,1;1,3;0,2;0,8;0,2
 NL:Q:61410690;Laan van Westroijen;Tiel;0,2;0,3;0,4;1,1;0,1;0,9
-NL:Q:61410720;Rauwenhof;Tiel;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:61410720;Rauwenhof;Tiel;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61410730;Rauwenhof;Tiel;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61410740;ROC Rivor;Tiel;0,8;0,9;0,0;0,0;0,0;0,0
 NL:Q:61410750;Rauwenhof;Tiel;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:61410770;ROC Rivor;Tiel;1,1;1,0;0,0;0,0;0,0;0,0
+NL:Q:61410770;ROC Rivor;Tiel;1,1;0,9;0,0;0,0;0,0;0,0
 NL:Q:61410970;Groenendaal Plus;Tiel;0,2;0,1;0,2;0,0;0,1;0,0
 NL:Q:61410980;Groenendaal Plus;Tiel;0,1;0,2;0,0;0,1;0,1;0,0
 NL:Q:61411000;Inundatiekanaal;Tiel;0,2;0,0;0,0;0,0;0,0;0,0
@@ -8141,22 +8047,22 @@ NL:Q:61411010;Inundatiekanaal;Tiel;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61411070;Sportpark Rauwenhof;Tiel;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:61411080;Sportpark Rauwenhof;Tiel;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61411100;Station;Tiel;0,0;0,3;11,2;5,6;4,2;2,6
-NL:Q:61412090;Elzenpasch Zuid;Tiel;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:61412090;Elzenpasch Zuid;Tiel;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61412100;Elzenpasch Zuid;Tiel;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:61412130;Elzenpasch West;Tiel;0,0;0,0;0,2;0,0;0,1;0,1
 NL:Q:61412140;Elzenpasch West;Tiel;0,0;0,0;0,0;0,8;0,0;0,0
-NL:Q:61412150;Predikbroedersweg;Tiel;0,2;0,2;0,30000000000000004;0,9;0,1;0,4
+NL:Q:61412150;Predikbroedersweg;Tiel;0,1;0,1;0,30000000000000004;0,9;0,1;0,4
 NL:Q:61412160;Predikbroedersweg;Tiel;0,2;0,2;0,7999999999999999;0,30000000000000004;0,4;0,1
-NL:Q:61412190;Waardenburglaan;Tiel;0,8;0,0;0,0;0,0;0,0;0,0
-NL:Q:61412200;Waardenburglaan;Tiel;0,0;0,7;0,0;0,0;0,0;0,0
-NL:Q:61412210;Wadenoijenlaan;Tiel;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:61412190;Waardenburglaan;Tiel;0,7;0,0;0,0;0,0;0,0;0,0
+NL:Q:61412200;Waardenburglaan;Tiel;0,0;0,6;0,0;0,0;0,0;0,0
+NL:Q:61412210;Wadenoijenlaan;Tiel;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:61412220;Wadenoijenlaan;Tiel;0,0;0,4;0,0;0,0;0,0;0,0
 NL:Q:61420010;Pax Christi College;Druten;0,0;0,2;0,1;7,1;0,1;2,6
 NL:Q:61420030;Hermes Garage;Druten;0,0;0,3;0,6;6,6;0,2;3,3
-NL:Q:61420050;Markt;Druten;0,0;0,6;2,5;21,200000000000003;0,4;9,4
+NL:Q:61420050;Markt;Druten;0,0;0,6;2,4;21,200000000000003;0,4;9,4
 NL:Q:61420070;Javaplein;Druten;0,0;0,1;0,3;4,8;0,2;2,7
 NL:Q:61420100;Markt;Druten;0,6;0,0;22,4;2,5;9,2;0,7
-NL:Q:61420120;Hermes Garage;Druten;0,3;0,0;7,7;0,5;3,2;0,5
+NL:Q:61420120;Hermes Garage;Druten;0,3;0,0;7,6;0,5;3,2;0,5
 NL:Q:61420140;Pax Christi College;Druten;0,2;0,1;5,6;0,2;2,5;0,1
 NL:Q:61420160;Gemeentehuis;Druten;0,0;0,2;0,3;10,5;0,2;7,800000000000001
 NL:Q:61420180;Gemeentehuis;Druten;0,3;0,0;10,7;1,2;5,6;0,4
@@ -8164,20 +8070,20 @@ NL:Q:61420190;Kerkstraat;Puiflijk;0,1;0,5;0,0;0,1;0,0;0,1
 NL:Q:61420200;Kerkstraat;Puiflijk;0,5;0,1;0,1;0,0;0,3;0,0
 NL:Q:61420290;Javaplein;Druten;0,1;0,0;4,3;0,4;1,6;0,1
 NL:Q:61420300;Koekoeksnest;Druten;0,9;0,3;0,3;0,1;0,6;0,3
-NL:Q:61420310;Koekoeksnest;Druten;0,2;0,8;0,1;0,5;0,0;0,7
+NL:Q:61420310;Koekoeksnest;Druten;0,1;0,7;0,1;0,5;0,0;0,7
 NL:Q:61420320;Westerhout;Puiflijk;0,2;0,4;0,0;0,5;0,0;0,30000000000000004
 NL:Q:61420330;Westerhout;Puiflijk;0,1;0,2;0,4;0,2;0,1;0,2
 NL:Q:61421000;Busstation;Druten;1,7;0,0;1,9;0,0;2,9;0,0
-NL:Q:61421001;Busstation;Druten;0,0;2,3;104,1;68,1;44,7;30,799999999999997
-NL:Q:61421004;Busstation;Druten;7,1;1,5;10,200000000000001;26,900000000000002;7,3;14,600000000000001
-NL:Q:61421010;Busstation;Druten;1,0;4,8;0,5;0,8;0,8;0,9
+NL:Q:61421001;Busstation;Druten;0,0;2,2;104,1;68,0;44,7;30,7
+NL:Q:61421004;Busstation;Druten;6,8;1,4;10,1;26,8;7,3;14,600000000000001
+NL:Q:61421010;Busstation;Druten;1,0;4,6;0,5;0,8;0,8;0,8
 NL:Q:61450020;Waalbandijk;Tuil;0,2;0,1;0,1;0,0;0,0;0,0
 NL:Q:61450060;Achterweg;Waardenburg;0,3;0,2;0,1;0,0;0,0;0,0
 NL:Q:61450090;Busstation;Waardenburg;0,4;0,8;0,1;0,2;0,1;0,1
 NL:Q:61450130;Achterweg;Waardenburg;0,2;0,4;0,1;0,1;0,1;0,0
 NL:Q:61450170;Waalbandijk;Tuil;0,0;0,3;0,0;0,1;0,0;0,0
 NL:Q:61451010;McDonalds;Waardenburg;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:61451190;Busstation;Waardenburg;0,7;0,3;0,1;0,0;0,0;0,1
+NL:Q:61451190;Busstation;Waardenburg;0,6;0,3;0,1;0,0;0,0;0,1
 NL:Q:61451290;Rijweg;Waardenburg;0,2;0,3;0,0;0,0;0,0;0,0
 NL:Q:61451300;Rijweg;Neerijnen;0,1;0,1;0,1;0,1;0,0;0,1
 NL:Q:61470010;Lutterveld;Erichem;0,1;0,0;0,0;0,0;0,0;0,0
@@ -8190,7 +8096,7 @@ NL:Q:61470080;Ridder Alartlaan;Buren;0,2;0,3;0,1;0,2;0,0;0,0
 NL:Q:61470090;Ridder Alartlaan;Buren;0,2;0,2;0,1;0,1;0,1;0,0
 NL:Q:61470100;Erichemseweg;Erichem;0,0;0,0;0,1;0,0;0,0;0,0
 NL:Q:61470120;Plantsoen;Buren;0,4;0,8;0,2;0,2;0,3;0,4
-NL:Q:61470130;Plantsoen;Buren;0,2;0,6;0,2;0,1;0,5;0,2
+NL:Q:61470130;Plantsoen;Buren;0,2;0,5;0,2;0,1;0,5;0,2
 NL:Q:61470140;Binnenstraat;Erichem;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61470150;Oranjehof;Buren;0,3;0,1;0,0;0,0;0,0;0,1
 NL:Q:61470160;Lutterveld;Erichem;0,0;0,1;0,0;0,0;0,0;0,0
@@ -8217,16 +8123,16 @@ NL:Q:61510050;Voorstraat;Echteld;0,2;0,2;0,2;0,0;0,2;0,0
 NL:Q:61510120;Voorstraat;Echteld;0,2;0,3;0,0;0,1;0,0;0,1
 NL:Q:61520210;Molenstraat;Boven-Leeuwen;0,5;0,7;0,5;1,7000000000000002;0,30000000000000004;1,1
 NL:Q:61520220;Molenstraat;Boven-Leeuwen;0,7;0,5;2,0;0,5;0,9;0,2
-NL:Q:61520230;Akkerstraat;Beneden-Leeuwen;1,8;2,3;2,8;6,9;1,7;3,3000000000000003
-NL:Q:61520240;Akkerstraat;Beneden-Leeuwen;2,2;1,8;8,2;2,4;4,5;1,3
+NL:Q:61520230;Akkerstraat;Beneden-Leeuwen;1,7;2,3;2,8;6,9;1,7;3,2
+NL:Q:61520240;Akkerstraat;Beneden-Leeuwen;2,1;1,8;8,2;2,3;4,5;1,3
 NL:Q:61520250;Veesteeg;Boven-Leeuwen;0,6;0,5;1,8;0,6;1,3;0,4
 NL:Q:61520260;Veesteeg;Boven-Leeuwen;0,5;0,8;0,9;1,6;0,4;0,9
 NL:Q:61520350;Prins Willem Alexanderbrug;Beneden-Leeuwen;0,4;0,5;0,30000000000000004;1,3;0,30000000000000004;0,6
 NL:Q:61520360;Prins Willem Alexanderbrug;Beneden-Leeuwen;0,4;0,4;1,4;0,30000000000000004;0,6;0,30000000000000004
-NL:Q:61550060;Zorgcentrum Wittenberg;Haaften;0,8;0,6;0,4;0,1;0,3;0,3
-NL:Q:61550080;Dorp;Haaften;0,9;0,3;0,4;0,1;0,6;0,1
-NL:Q:61550150;Dorp;Haaften;0,3;1,2;0,1;0,5;0,1;0,6
-NL:Q:61550170;Zorgcentrum Wittenberg;Haaften;0,9;0,6;0,2;0,2;0,2;0,2
+NL:Q:61550060;Zorgcentrum Wittenberg;Haaften;0,8;0,5;0,4;0,1;0,3;0,3
+NL:Q:61550080;Dorp;Haaften;0,8;0,3;0,3;0,1;0,6;0,1
+NL:Q:61550150;Dorp;Haaften;0,3;1,1;0,1;0,5;0,1;0,6
+NL:Q:61550170;Zorgcentrum Wittenberg;Haaften;0,9;0,5;0,2;0,2;0,2;0,2
 NL:Q:61550310;Hertog Karelweg/Kerkewaard;Haaften;0,0;0,1;0,0;0,0;0,0;0,1
 NL:Q:61550320;Hertog Karelweg/Kerkewaard;Haaften;0,4;0,0;0,0;0,0;0,0;0,0
 NL:Q:61551060;Marijkestraat;Haaften;0,1;0,0;0,1;0,0;0,0;0,1
@@ -8235,7 +8141,7 @@ NL:Q:61570030;Krupheulstraat;Asch;0,1;0,1;0,1;0,0;0,0;0,0
 NL:Q:61570040;De Kamp;Zoelmond;0,0;0,1;0,0;0,0;0,0;0,1
 NL:Q:61570050;Kerkpad;Asch;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61570060;Kerk;Zoelmond;0,2;0,3;0,1;0,1;0,0;0,1
-NL:Q:61570070;Kerk;Zoelmond;0,3;0,3;0,1;0,1;0,1;0,0
+NL:Q:61570070;Kerk;Zoelmond;0,2;0,3;0,1;0,1;0,1;0,0
 NL:Q:61570080;Kerkpad;Asch;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:61570090;De Kamp;Zoelmond;0,0;0,1;0,0;0,0;0,1;0,0
 NL:Q:61570100;Krupheulstraat;Asch;0,1;0,2;0,0;0,0;0,1;0,1
@@ -8261,15 +8167,15 @@ NL:Q:61589140;Hoekenburgplein;Rijswijk;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61589150;Hoekenburgplein;Rijswijk;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61590020;Tielsestraat;Maurik;0,9;0,1;0,1;0,0;0,2;0,0
 NL:Q:61590030;Patrijs;Maurik;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:61590040;Meidoornstraat;Maurik;0,4;0,0;0,3;0,0;0,0;0,0
+NL:Q:61590040;Meidoornstraat;Maurik;0,3;0,0;0,3;0,0;0,0;0,0
 NL:Q:61590050;Merenriet;Maurik;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:61590060;Raadhuisstraat;Maurik;0,0;0,2;0,0;0,0;0,0;0,1
 NL:Q:61590070;Muziektent;Eck En Wiel;0,3;0,4;0,0;0,1;0,0;0,1
 NL:Q:61590080;Brandweerkazerne;Maurik;0,2;0,2;0,3;0,1;0,1;0,1
-NL:Q:61590100;Sportpark;Maurik;1,9;0,2;1,1;0,0;0,3;0,0
+NL:Q:61590100;Sportpark;Maurik;1,8;0,2;1,1;0,0;0,3;0,0
 NL:Q:61590110;Homoetsestraat;Eck En Wiel;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61590120;Homoetsestraat;Eck En Wiel;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:61590130;Sportpark;Maurik;0,3;0,8;0,1;0,6;0,0;0,2
+NL:Q:61590130;Sportpark;Maurik;0,3;0,7;0,1;0,6;0,0;0,2
 NL:Q:61590140;Merenriet;Maurik;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:61590150;Brandweerkazerne;Maurik;0,0;0,1;0,0;0,0;0,0;0,2
 NL:Q:61590160;Muziektent;Eck En Wiel;0,6;0,2;0,1;0,1;0,1;0,0
@@ -8278,7 +8184,7 @@ NL:Q:61590180;Patrijs;Maurik;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61590210;Tielsestraat;Maurik;0,1;1,4;0,0;0,6;0,1;0,3
 NL:Q:61590230;Doejenburg;Maurik;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61590240;Doejenburg;Maurik;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:61590270;Meidoornstraat;Maurik;0,2;1,7;0,1;0,7;0,0;0,3
+NL:Q:61590270;Meidoornstraat;Maurik;0,2;1,6;0,1;0,6;0,0;0,3
 NL:Q:61590340;Dorpsstraat;Ingen;0,2;0,4;0,1;0,3;0,0;0,1
 NL:Q:61590350;Dorpsstraat;Ingen;0,1;0,2;0,1;0,1;0,1;0,0
 NL:Q:61590400;Zorgcentrum De Valentijn;Maurik;0,0;0,1;0,0;0,0;0,0;0,0
@@ -8286,7 +8192,7 @@ NL:Q:61599020;Parkstraat;Maurik;0,0;0,1;0,1;0,4;0,0;0,0
 NL:Q:61599030;Van de Geerstraat;Maurik;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61599050;Cafe van Dijk;Maurik;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:61599060;Cafe van Dijk;Maurik;0,0;0,2;0,0;0,0;0,0;0,0
-NL:Q:61599110;Prinses Marijkelaan;Maurik;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:61599110;Prinses Marijkelaan;Maurik;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:61599120;Prinses Marijkelaan;Maurik;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61600030;Station;Opheusden;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:61600040;De Oude Stomerij;Opheusden;0,1;0,0;0,0;0,0;0,0;0,0
@@ -8298,18 +8204,18 @@ NL:Q:61600120;Gemeentehuis;Opheusden;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61600140;Dalwagenseweg;Opheusden;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61600150;Opheusdenseveer;Opheusden;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61600160;Tolsestraat;Opheusden;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:61600180;Station;Opheusden;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:61600180;Station;Opheusden;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:61600210;De Oude Stomerij;Opheusden;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61610030;Keizerstraat;Ijzendoorn;0,3;0,2;0,2;0,0;0,1;0,0
-NL:Q:61610040;Keizerstraat;Ijzendoorn;0,2;0,3;0,1;0,2;0,0;0,3
-NL:Q:61610130;De Heuning;Ochten;0,1;0,4;0,0;0,0;0,1;0,1
+NL:Q:61610040;Keizerstraat;Ijzendoorn;0,1;0,2;0,1;0,1;0,0;0,3
+NL:Q:61610130;De Heuning;Ochten;0,1;0,3;0,0;0,0;0,1;0,1
 NL:Q:61610140;De Heuning;Ochten;0,3;0,2;0,0;0,0;0,0;0,1
 NL:Q:61610400;Brandweerkazerne;Ochten;0,3;0,4;0,2;0,1;0,1;0,0
 NL:Q:61610410;Brandweerkazerne;Ochten;0,4;0,3;0,1;0,2;0,1;0,1
-NL:Q:61610420;Burgemeester Houtkoperlaan;Ochten;0,5;0,6;0,1;0,1;0,0;0,2
-NL:Q:61610430;Burgemeester Houtkoperlaan;Ochten;0,5;0,3;0,0;0,2;0,1;0,2
+NL:Q:61610420;Burgemeester Houtkoperlaan;Ochten;0,5;0,5;0,1;0,1;0,0;0,2
+NL:Q:61610430;Burgemeester Houtkoperlaan;Ochten;0,5;0,3;0,0;0,1;0,1;0,2
 NL:Q:61610440;Carpoolplaats;Ochten;0,1;0,3;0,1;0,1;0,1;0,0
-NL:Q:61610450;Carpoolplaats;Ochten;0,3;0,2;0,0;0,1;0,1;0,0
+NL:Q:61610450;Carpoolplaats;Ochten;0,2;0,2;0,0;0,1;0,1;0,0
 NL:Q:61650160;Irenestraat;Hellouw;0,1;0,5;0,0;0,1;0,1;0,1
 NL:Q:61650170;Irenestraat;Hellouw;0,5;0,2;0,2;0,1;0,1;0,1
 NL:Q:61650180;Zandsteeg;Herwijnen;0,2;0,1;0,0;0,1;0,0;0,0
@@ -8317,14 +8223,14 @@ NL:Q:61650190;Zandsteeg;Herwijnen;0,2;0,2;0,1;0,0;0,0;0,0
 NL:Q:61660010;Station;Beesd;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61660040;Huis te Beestlaan;Beesd;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61669030;Veerweg;Beesd;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:61669060;Busstation;Rhenoy;1,8;0,0;0,0;0,0;0,0;0,0
+NL:Q:61669060;Busstation;Rhenoy;1,7;0,0;0,0;0,0;0,0;0,0
 NL:Q:61669230;Mr. Mierasstraat;Beesd;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:61669240;Mr. Mierasstraat;Beesd;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61669260;Oude Waag;Beesd;0,2;0,2;0,0;0,0;0,0;0,0
 NL:Q:61669270;Dorpsplein;Beesd;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:61669280;Dorpsplein;Beesd;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61669550;Huis te Beestlaan;Beesd;0,2;0,0;0,0;0,0;0,0;0,0
-NL:Q:61670010;Kerk;Beusichem;0,6;0,3;0,3;0,1;0,2;0,1
+NL:Q:61670010;Kerk;Beusichem;0,5;0,3;0,3;0,1;0,2;0,1
 NL:Q:61670030;Oranjestraat;Beusichem;0,4;0,3;0,1;0,0;0,3;0,0
 NL:Q:61670050;Koningsstraatje;Beusichem;0,1;0,0;0,1;0,0;0,1;0,0
 NL:Q:61670070;Veerweg;Beusichem;0,0;0,4;0,0;0,0;0,1;0,0
@@ -8336,20 +8242,20 @@ NL:Q:61690120;De Roskam;Ommeren;0,1;0,1;0,1;0,2;0,0;0,2
 NL:Q:61690130;Vogelenzangseweg;Lienden;0,5;0,5;0,1;0,2;0,1;0,1
 NL:Q:61690140;Voorstraat;Lienden;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61690150;Voorstraat;Lienden;0,0;0,1;0,0;0,0;0,0;0,2
-NL:Q:61690160;Vogelenzangseweg;Lienden;0,5;0,6;0,2;0,2;0,1;0,1
+NL:Q:61690160;Vogelenzangseweg;Lienden;0,5;0,6;0,2;0,1;0,1;0,1
 NL:Q:61690170;De Roskam;Ommeren;0,2;0,1;0,3;0,2;0,1;0,0
 NL:Q:61690190;Canadalaan;Ommeren;0,0;0,2;0,0;0,1;0,0;0,0
 NL:Q:61690330;Adelsweg;Lienden;0,2;0,5;0,1;0,2;0,0;0,0
 NL:Q:61690340;Adelsweg;Lienden;0,4;0,1;0,1;0,1;0,0;0,0
 NL:Q:61700010;Markstraat;Kesteren;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:61700030;Recticel;Kesteren;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:61700050;Station;Kesteren;1,2;1,3;0,5;0,4;0,6;0,3
+NL:Q:61700050;Station;Kesteren;1,2;1,2;0,5;0,4;0,6;0,3
 NL:Q:61700060;Recticel;Kesteren;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61700080;Markstraat;Kesteren;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61700100;De Leede;Kesteren;0,0;0,8;0,0;0,3;0,0;0,3
-NL:Q:61700110;De Leede;Kesteren;1,1;0,1;0,3;0,0;0,3;0,0
+NL:Q:61700110;De Leede;Kesteren;1,0;0,1;0,3;0,0;0,3;0,0
 NL:Q:61700120;De Leede;Kesteren;0,1;0,3;0,0;0,1;0,0;0,1
-NL:Q:61700180;Schenkhofstraat;Kesteren;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:61700180;Schenkhofstraat;Kesteren;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61700230;Schenkhofstraat;Kesteren;0,2;0,1;0,1;0,0;0,1;0,1
 NL:Q:61700310;Stationsstraat;Kesteren;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:61700410;Broekdijk;Kesteren;0,1;0,1;0,0;0,0;0,0;0,1
@@ -8357,16 +8263,16 @@ NL:Q:61700420;Broekdijk;Kesteren;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:61739170;Haarstraat;Enspijk;0,4;0,1;0,0;0,0;0,0;0,0
 NL:Q:61749270;Veerweg/N327;Rumpt;0,5;0,0;0,0;0,0;0,0;0,0
 NL:Q:61749320;Veerweg/N327;Beesd;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:61750260;Nieuwe Steeg;Herwijnen;0,6;1,7;0,2;0,5;0,2;0,4
+NL:Q:61750260;Nieuwe Steeg;Herwijnen;0,6;1,6;0,2;0,5;0,2;0,4
 NL:Q:61750270;Nieuwe Steeg;Herwijnen;1,8;0,8;0,9;0,3;0,5;0,3
 NL:Q:61760030;Gragtdijk;Heukelum;0,4;0,1;0,0;0,0;0,0;0,0
 NL:Q:61760140;Gragtdijk;Heukelum;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:61760190;Voorste Gewind;Heukelum;0,8;0,7;0,0;0,0;0,0;0,0
+NL:Q:61760190;Voorste Gewind;Heukelum;0,7;0,7;0,0;0,0;0,0;0,0
 NL:Q:61760200;Voorste Gewind;Heukelum;1,0;0,8;0,0;0,0;0,0;0,0
-NL:Q:61760230;Brakelseveer;Vuren;2,8;0,2;0,1;0,1;0,0;0,0
-NL:Q:61760240;Brakelseveer;Vuren;1,6;0,8;0,1;0,1;0,0;0,0
-NL:Q:61850190;Molenlaan;Vuren;1,1;0,3;0,5;0,1;0,7;0,0
-NL:Q:61850200;Molenlaan;Vuren;0,3;1,0;0,0;0,6;0,1;0,7
+NL:Q:61760230;Brakelseveer;Vuren;2,7;0,2;0,1;0,1;0,0;0,0
+NL:Q:61760240;Brakelseveer;Vuren;1,5;0,8;0,1;0,1;0,0;0,0
+NL:Q:61850190;Molenlaan;Vuren;1,1;0,3;0,5;0,1;0,6;0,0
+NL:Q:61850200;Molenlaan;Vuren;0,3;1,0;0,0;0,5;0,1;0,7
 NL:Q:61860040;Postkantoor;Spijk;0,6;0,2;0,0;0,0;0,0;0,0
 NL:Q:61860060;De Lindehof;Spijk;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61860070;Zuiderlingedijk 103;Spijk;0,2;0,0;0,0;0,0;0,0;0,0
@@ -8375,42 +8281,42 @@ NL:Q:61860110;Spijkerbak;Spijk;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:61860120;Zuiderlingedijk 103;Spijk;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:61860130;De Lindehof;Spijk;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61860150;Postkantoor;Spijk;0,2;1,3;0,0;0,0;0,0;0,0
-NL:Q:61860180;Lingegemaal;Spijk;0,4;0,0;0,0;0,0;0,0;0,0
+NL:Q:61860180;Lingegemaal;Spijk;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:62220010;De Leijenstein;Kerkdriel;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:62220020;De Leijenstein;Kerkdriel;0,1;0,0;0,0;0,0;0,1;0,0
 NL:Q:62220030;De Geerden;Velddriel;0,1;0,4;0,0;0,1;0,0;0,3
 NL:Q:62220040;De Geerden;Velddriel;0,4;0,2;0,1;0,0;0,1;0,0
 NL:Q:62220090;Kapelstraat;Velddriel;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:62220250;Ipperakkeren;Kerkdriel;0,0;0,1;0,0;0,1;0,0;0,0
+NL:Q:62220250;Ipperakkeren;Kerkdriel;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62220260;Ipperakkeren;Kerkdriel;0,4;0,1;0,0;0,0;0,0;0,0
 NL:Q:62220270;Kerkstraat;Kerkdriel;0,0;0,1;0,1;0,1;0,0;0,0
 NL:Q:62220280;Kerkstraat;Kerkdriel;0,5;0,3;0,0;0,0;0,0;0,0
 NL:Q:62220300;De Zandmeren;Kerkdriel;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:62220320;EuroParcs;Kerkdriel;0,3;0,2;0,0;0,0;0,0;0,0
-NL:Q:62220410;Kloosterstraat;Kerkdriel;0,3;2,0;0,0;0,8;0,1;0,7
-NL:Q:62220420;Kloosterstraat;Kerkdriel;2,7;0,2;1,0;0,0;0,7;0,0
-NL:Q:62220470;Ronde Morgen;Kerkdriel;0,2;2,6;0,1;0,8;0,1;0,8
-NL:Q:62220471;Ronde Morgen;Kerkdriel;3,4;0,2;1,0;0,1;0,9;0,0
+NL:Q:62220320;EuroParcs;Kerkdriel;0,2;0,2;0,0;0,0;0,0;0,0
+NL:Q:62220410;Kloosterstraat;Kerkdriel;0,2;1,9;0,0;0,8;0,1;0,7
+NL:Q:62220420;Kloosterstraat;Kerkdriel;2,6;0,2;0,9;0,0;0,7;0,0
+NL:Q:62220470;Ronde Morgen;Kerkdriel;0,2;2,6;0,1;0,7;0,1;0,8
+NL:Q:62220471;Ronde Morgen;Kerkdriel;3,3;0,2;1,0;0,1;0,9;0,0
 NL:Q:62220480;Wordenseweg;Velddriel;0,0;0,9;0,0;0,3;0,1;0,3
 NL:Q:62220481;Wordenseweg;Velddriel;1,0;0,0;0,3;0,1;0,2;0,0
 NL:Q:62220490;MFC De Kreek;Kerkdriel;0,0;0,3;0,0;0,0;0,0;0,0
 NL:Q:62220510;Teisterbandstraat;Kerkdriel;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:62230010;Maaijenstraat;Well;0,2;1,7;0,0;0,5;0,0;0,5
-NL:Q:62230020;Maaijenstraat;Well;1,6;0,1;0,7;0,0;0,6;0,0
-NL:Q:62230080;Haarstraat;Ammerzoden;1,0;0,0;0,4;0,0;0,3;0,0
-NL:Q:62230090;Haarstraat;Ammerzoden;0,0;1,7;0,0;1,2;0,0;0,7
+NL:Q:62230020;Maaijenstraat;Well;1,6;0,1;0,6;0,0;0,6;0,0
+NL:Q:62230080;Haarstraat;Ammerzoden;0,9;0,0;0,4;0,0;0,3;0,0
+NL:Q:62230090;Haarstraat;Ammerzoden;0,0;1,7;0,0;1,1;0,0;0,7
 NL:Q:62230100;Ammerzodenseweg;Ammerzoden;0,1;0,0;0,0;0,0;0,1;0,0
 NL:Q:62230110;Ammerzodenseweg;Ammerzoden;0,1;0,1;0,0;0,1;0,0;0,1
 NL:Q:62230120;Ammerstraat;Ammerzoden;0,7;0,1;0,2;0,0;0,3;0,0
 NL:Q:62230130;Ammerstraat;Ammerzoden;0,1;1,1;0,0;0,4;0,0;0,8
 NL:Q:62230140;Wellsedam;Ammerzoden;1,0;0,1;0,3;0,0;0,5;0,0
 NL:Q:62230150;Wellsedam;Ammerzoden;0,1;1,9;0,0;0,8;0,0;1,1
-NL:Q:62230190;Schokkerstraat;Ammerzoden;0,1;0,4;0,0;0,3;0,0;0,4
+NL:Q:62230190;Schokkerstraat;Ammerzoden;0,1;0,4;0,0;0,2;0,0;0,4
 NL:Q:62231070;Dorpstraat;Well;0,3;0,0;0,0;0,0;0,0;0,0
-NL:Q:62231080;Dorpstraat;Well;0,8;0,5;0,4;0,2;0,3;0,3
+NL:Q:62231080;Dorpstraat;Well;0,8;0,5;0,3;0,2;0,3;0,3
 NL:Q:62320050;Burchtstraat;Rossum;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:62320060;Burchtstraat;Rossum;0,0;0,2;0,0;0,0;0,0;0,0
-NL:Q:62320070;Sportveld;Rossum;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:62320070;Sportveld;Rossum;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:62320080;Sportveld;Rossum;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:62320090;H. Walterus van Heelstraat;Hurwenen;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:62320100;H. Walterus van Heelstraat;Hurwenen;0,0;0,1;0,0;0,0;0,0;0,0
@@ -8424,33 +8330,33 @@ NL:Q:62320190;Van Heemstraweg;Hurwenen;0,3;0,3;0,0;0,0;0,0;0,0
 NL:Q:62320200;Van Heemstraweg;Hurwenen;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:62320240;Dorpstraat;Hurwenen;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62320300;Kerk;Alem;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:62320320;Rotonde;Alem;0,1;0,3;0,0;0,1;0,0;0,0
+NL:Q:62320320;Rotonde;Alem;0,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:62320321;Rotonde;Alem;0,4;0,0;0,1;0,0;0,1;0,0
 NL:Q:62320470;De Vaste Burcht;Rossum;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:62320490;De Vaste Burcht;Rossum;1,0;0,3;0,4;0,2;0,3;0,2
+NL:Q:62320490;De Vaste Burcht;Rossum;1,0;0,3;0,4;0,1;0,3;0,2
 NL:Q:62320500;De Vaste Burcht;Rossum;0,4;0,8;0,1;0,2;0,2;0,3
 NL:Q:62321180;Julianaweg;Rossum;0,2;0,8;0,0;0,4;0,0;0,4
 NL:Q:62330030;Klemit (Wellseind);Nederhemert;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62330040;Klemit (Wellseind);Nederhemert;0,0;0,0;0,2;0,0;0,0;0,0
-NL:Q:62330050;Delwijnsestraat;Delwijnen;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:62330050;Delwijnsestraat;Delwijnen;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:62330060;Delwijnsestraat;Delwijnen;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:62330070;Kapelstraat;Nederhemert;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62330080;Kapelstraat;Nederhemert;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:62330110;Hofstraat;Nederhemert-Noord;0,0;0,5;0,0;0,0;0,0;0,0
+NL:Q:62330110;Hofstraat;Nederhemert-Noord;0,0;0,4;0,0;0,0;0,0;0,0
 NL:Q:62330120;Hofstraat;Nederhemert-Noord;0,6;0,0;0,0;0,0;0,1;0,0
-NL:Q:62330130;Molenstraat;Nederhemert-Noord;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:62330130;Molenstraat;Nederhemert-Noord;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62330140;Molenstraat;Nederhemert-Noord;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:62330150;Maasdijk 15;Wellseind;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62330160;Maasdijk 15;Wellseind;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:62330210;Nederhemertsekade;Nederhemert;0,4;0,0;0,0;0,0;0,0;0,0
 NL:Q:62330220;Nederhemertsekade;Nederhemert;0,0;0,3;0,0;0,0;0,0;0,0
-NL:Q:62420050;De Buke;Heerewaarden;0,7;1,5;0,1;0,7;0,2;0,8
-NL:Q:62420060;De Buke;Heerewaarden;1,5;0,6;0,7;0,1;0,7;0,3
+NL:Q:62420050;De Buke;Heerewaarden;0,7;1,5;0,1;0,6;0,2;0,8
+NL:Q:62420060;De Buke;Heerewaarden;1,4;0,6;0,6;0,1;0,7;0,2
 NL:Q:62430010;Maasdijk;Aalst;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62430020;Maasdijk;Aalst;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:62430040;Capreton;Aalst;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62430050;Capreton;Aalst;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:62430060;Maarten van Rossumweg;Poederoijen;0,1;0,0;0,0;0,1;0,0;0,0
+NL:Q:62430060;Maarten van Rossumweg;Poederoijen;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:62430070;Maarten van Rossumweg;Poederoijen;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62430100;Vleugeldijk;Poederoijen;0,2;0,0;0,0;0,3;0,0;0,0
 NL:Q:62430110;Vleugeldijk;Poederoijen;0,0;0,1;0,0;0,0;0,0;0,0
@@ -8481,14 +8387,14 @@ NL:Q:62470040;Peperstraat;Bruchem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62470050;Groenestraat;Bruchem;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:62470060;Groenestraat;Bruchem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62470070;Den Hoek;Bruchem;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:62470080;Den Hoek;Bruchem;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:62470080;Den Hoek;Bruchem;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:62470150;Molenveldweg;Kerkwijk;0,6;0,1;0,0;0,0;0,0;0,0
 NL:Q:62470160;Molenveldweg;Kerkwijk;0,1;1,4;0,0;0,0;0,0;0,0
 NL:Q:62470170;Aalderwijksestraat;Kerkwijk;0,1;0,0;0,0;0,1;0,0;0,0
 NL:Q:62470180;Aalderwijksestraat;Kerkwijk;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:62470200;Molenveldweg;Kerkwijk;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:62520060;Nieuwstraat;Dreumel;2,5;2,8;0,6;0,5;0,5;0,6
-NL:Q:62520061;Nieuwstraat;Dreumel;2,7;2,6;0,4;0,7;0,6;0,6
+NL:Q:62520060;Nieuwstraat;Dreumel;2,4;2,7;0,6;0,5;0,5;0,6
+NL:Q:62520061;Nieuwstraat;Dreumel;2,6;2,5;0,4;0,7;0,6;0,6
 NL:Q:62570010;Karstraat;Zaltbommel;0,0;0,1;0,0;0,0;0,0;0,1
 NL:Q:62570020;Karstraat;Zaltbommel;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:62570060;Peerboltestraat;Zaltbommel;0,2;0,0;0,0;0,0;0,0;0,0
@@ -8499,12 +8405,12 @@ NL:Q:62570170;Leutsestraat;Zaltbommel;0,0;0,3;0,0;0,0;0,0;0,0
 NL:Q:62570180;Leutsestraat;Zaltbommel;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:62570231;Marten van Rossemsingel;Zaltbommel;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62570241;Marten van Rossemsingel;Zaltbommel;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:62570250;Station;Zaltbommel;1,1;1,1;0,3;0,3;0,3;0,3
+NL:Q:62570250;Station;Zaltbommel;1,1;1,0;0,3;0,3;0,3;0,3
 NL:Q:62570252;Station;Zaltbommel;0,5;0,4;0,0;0,0;0,0;0,0
-NL:Q:62570300;Oude Bosscheweg;Zaltbommel;0,3;1,0;0,0;0,0;0,0;0,0
+NL:Q:62570300;Oude Bosscheweg;Zaltbommel;0,3;0,9;0,0;0,0;0,0;0,0
 NL:Q:62570310;Oude Bosscheweg;Zaltbommel;0,3;0,1;0,0;0,0;0,0;0,0
-NL:Q:62570330;Fiep Westendorplaan;Zaltbommel;0,4;0,1;0,0;0,0;0,0;0,0
-NL:Q:62570340;Van Voordenpark;Zaltbommel;0,3;0,1;0,0;0,0;0,0;0,0
+NL:Q:62570330;Fiep Westendorplaan;Zaltbommel;0,3;0,1;0,0;0,0;0,0;0,0
+NL:Q:62570340;Van Voordenpark;Zaltbommel;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:62570380;Wichard van Pontlaan;Zaltbommel;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:62570430;Cambium College;Zaltbommel;0,2;0,3;0,0;0,0;0,0;0,0
 NL:Q:62570440;Cambium College;Zaltbommel;0,3;0,3;0,0;0,0;0,0;0,0
@@ -8516,7 +8422,7 @@ NL:Q:62570490;Schutskooi;Zaltbommel;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62570500;De Poorterij;Zaltbommel;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:62570510;De Poorterij;Zaltbommel;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62570520;Pr. Willem Alexanderstraat;Gameren;0,5;0,0;0,0;0,0;0,0;0,0
-NL:Q:62570530;Pr. Willem Alexanderstraat;Gameren;0,0;0,5;0,0;0,0;0,0;0,0
+NL:Q:62570530;Pr. Willem Alexanderstraat;Gameren;0,0;0,4;0,0;0,0;0,0;0,0
 NL:Q:62570910;Carpoolplaats;Zaltbommel;0,6;0,8;0,0;0,0;0,0;0,0
 NL:Q:62570920;Gemeentekantoor;Zaltbommel;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:62570930;Gemeentekantoor;Zaltbommel;0,0;0,2;0,0;0,0;0,0;0,0
@@ -8529,79 +8435,79 @@ NL:Q:62571060;Wielkamp;Zaltbommel;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:62571080;Bommelsekade;Zaltbommel;0,3;0,3;0,0;0,0;0,0;0,0
 NL:Q:62571090;Bommelsekade;Zaltbommel;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:62571110;Rotonde-Hogeweg;Zaltbommel;0,1;0,3;0,0;0,0;0,0;0,0
-NL:Q:62571120;Rotonde-Hogeweg;Zaltbommel;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:62571120;Rotonde-Hogeweg;Zaltbommel;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:62571270;Wielkamp;Zaltbommel;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:62620140;Hollenhof;Wamel;1,4;1,3;0,5;0,3;0,3;0,2
-NL:Q:62620150;Hollenhof;Wamel;1,2;1,3;0,3;0,3;0,3;0,3
+NL:Q:62620140;Hollenhof;Wamel;1,3;1,3;0,4;0,3;0,3;0,2
+NL:Q:62620150;Hollenhof;Wamel;1,2;1,3;0,2;0,3;0,3;0,3
 NL:Q:62670050;Middelkampseweg;Gameren;0,4;0,7;0,0;0,0;0,0;0,0
-NL:Q:62670070;Ridderhof;Gameren;0,0;0,2;0,1;0,0;0,2;0,0
+NL:Q:62670070;Ridderhof;Gameren;0,0;0,2;0,1;0,0;0,1;0,0
 NL:Q:62670090;Ridderstraat;Gameren;0,0;0,1;0,1;0,1;0,0;0,0
 NL:Q:62670120;Ridderstraat;Gameren;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:62670140;Ridderhof;Gameren;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:62670150;Kerk;Nieuwaal;0,0;0,0;0,4;0,0;0,0;0,2
 NL:Q:62670170;Kerkstraat;Nieuwaal;0,0;0,0;0,0;0,0;0,6;0,0
-NL:Q:62670190;Zuid;Nieuwaal;0,7;0,0;0,0;0,0;0,0;0,0
+NL:Q:62670190;Zuid;Nieuwaal;0,6;0,0;0,0;0,0;0,0;0,0
 NL:Q:62670200;Zuid;Nieuwaal;0,0;0,3;0,0;0,0;0,0;0,0
 NL:Q:62770010;Oost;Zuilichem;0,3;0,1;0,0;0,0;0,0;0,0
 NL:Q:62770020;Oost;Zuilichem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62770040;Meidijk;Zuilichem;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:62770050;Kweldijk;Zaltbommel;1,5;0,0;0,0;0,0;0,0;0,0
+NL:Q:62770050;Kweldijk;Zaltbommel;1,4;0,0;0,0;0,0;0,0;0,0
 NL:Q:62770060;PGEM Huisje;Zuilichem;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:62770070;Centrum;Zuilichem;0,0;0,6;0,1;0,0;0,1;0,1
-NL:Q:62770080;Centrum;Zuilichem;0,7;0,0;0,0;0,0;0,0;0,0
+NL:Q:62770070;Centrum;Zuilichem;0,0;0,5;0,1;0,0;0,1;0,1
+NL:Q:62770080;Centrum;Zuilichem;0,6;0,0;0,0;0,0;0,0;0,0
 NL:Q:62770140;Meidijk;Zuilichem;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:62770150;Kweldijk;Zaltbommel;0,0;1,3;0,0;0,0;0,0;0,0
+NL:Q:62770150;Kweldijk;Zaltbommel;0,0;1,2;0,0;0,0;0,0;0,0
 NL:Q:62770160;PGEM Huisje;Zuilichem;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:62870010;Weitjesweg;Brakel;0,0;1,0;0,1;0,1;0,0;0,0
-NL:Q:62870020;Weitjesweg;Brakel;1,6;0,0;0,0;0,0;0,0;0,0
+NL:Q:62870020;Weitjesweg;Brakel;1,5;0,0;0,0;0,0;0,0;0,0
 NL:Q:62870030;Marktplein;Brakel;0,0;0,0;0,1;0,1;0,1;0,1
 NL:Q:62870060;Flegelstraat;Brakel;0,3;0,1;0,0;0,0;0,0;0,0
-NL:Q:62870140;J. Aartendam;Brakel;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:62870140;J. Aartendam;Brakel;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:62871010;Weitjesweg;Brakel;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:62871110;Weitjesweg;Brakel;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:62871130;Marktplein;Brakel;0,3;0,2;0,0;0,0;0,0;0,0
-NL:Q:63000100;Centraal Station;'s-Hertogenbosch;0,1;20,7;0,0;7,0;0,0;7,2
-NL:Q:63000191;Centraal Station;'s-Hertogenbosch;20,9;0,0;7,6;0,0;8,1;0,0
+NL:Q:63000100;Centraal Station;'s-Hertogenbosch;0,1;19,9;0,0;6,7;0,0;7,1
+NL:Q:63000191;Centraal Station;'s-Hertogenbosch;20,1;0,0;7,3;0,0;8,0;0,0
 NL:Q:63000880;Baden Powellstraat;'s-Hertogenbosch;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:63005710;Aartshertogenlaan;'s-Hertogenbosch;0,1;2,2;0,0;0,0;0,0;0,0
+NL:Q:63005710;Aartshertogenlaan;'s-Hertogenbosch;0,1;2,1;0,0;0,0;0,0;0,0
 NL:Q:63006030;Orthenseweg;'s-Hertogenbosch;1,1;0,7;0,5;0,3;0,4;0,4
-NL:Q:63006060;Orthenseweg;'s-Hertogenbosch;0,9;0,9;0,3;0,4;0,5;0,4
-NL:Q:63006140;Rompertsebaan;'s-Hertogenbosch;0,0;3,6;0,0;0,0;0,0;0,0
+NL:Q:63006060;Orthenseweg;'s-Hertogenbosch;0,8;0,8;0,3;0,4;0,5;0,4
+NL:Q:63006140;Rompertsebaan;'s-Hertogenbosch;0,0;3,4;0,0;0,0;0,0;0,0
 NL:Q:63006490;Orthen;'s-Hertogenbosch;0,7;0,9;0,5;0,1;0,6;0,2
-NL:Q:63006500;Orthen;'s-Hertogenbosch;0,9;0,9;0,1;0,4;0,1;0,6
+NL:Q:63006500;Orthen;'s-Hertogenbosch;0,8;0,9;0,1;0,4;0,1;0,6
 NL:Q:63007400;Hambakenweg;'s-Hertogenbosch;0,9;0,2;0,3;0,0;0,5;0,1
-NL:Q:63007410;Hambakenweg;'s-Hertogenbosch;0,2;1,7;0,2;0,6;0,0;0,6
-NL:Q:63007740;Bruistensingel;'s-Hertogenbosch;0,0;2,2;0,0;0,0;0,0;0,0
+NL:Q:63007410;Hambakenweg;'s-Hertogenbosch;0,1;1,7;0,2;0,6;0,0;0,6
+NL:Q:63007740;Bruistensingel;'s-Hertogenbosch;0,0;2,1;0,0;0,0;0,0;0,0
 NL:Q:63010020;Titaniumlaan;'s-Hertogenbosch;1,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:63010070;Treurenburg;'s-Hertogenbosch;0,0;0,5;0,0;0,4;0,0;0,4
+NL:Q:63010070;Treurenburg;'s-Hertogenbosch;0,0;0,5;0,0;0,3;0,0;0,4
 NL:Q:63010080;Treurenburg;'s-Hertogenbosch;0,2;0,1;0,2;0,1;0,3;0,0
 NL:Q:63010090;Titaniumlaan;'s-Hertogenbosch;0,0;0,9;0,0;0,0;0,0;0,0
 NL:Q:63010140;Blankensteijn;Hedel;1,3;0,2;0,6;0,1;0,5;0,1
-NL:Q:63010150;Blankensteijn;Hedel;0,3;3,6;0,2;1,6;0,3;1,9
-NL:Q:63010210;Prinses Beatrixstraat;Hedel;0,1;1,7;0,0;0,9;0,1;0,7
-NL:Q:63010240;Prinses Beatrixstraat;Hedel;1,7;0,1;0,7;0,2;0,7;0,1
+NL:Q:63010150;Blankensteijn;Hedel;0,3;3,4;0,2;1,6;0,3;1,9
+NL:Q:63010210;Prinses Beatrixstraat;Hedel;0,1;1,6;0,0;0,9;0,1;0,7
+NL:Q:63010240;Prinses Beatrixstraat;Hedel;1,7;0,1;0,7;0,1;0,7;0,1
 NL:Q:63010350;Oudewaai;Hedel;0,0;1,0;0,0;0,3;0,0;0,3
-NL:Q:63010360;Oudewaai;Hedel;1,4;0,0;0,3;0,0;0,3;0,0
+NL:Q:63010360;Oudewaai;Hedel;1,3;0,0;0,3;0,0;0,3;0,0
 NL:Q:63010370;Brandweerkazerne;Hedel;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:63011010;Baronieweg;Hedel;0,7;0,2;0,1;0,0;0,1;0,1
-NL:Q:63011020;Baronieweg;Hedel;0,2;0,7;0,0;0,1;0,1;0,4
+NL:Q:63011020;Baronieweg;Hedel;0,2;0,6;0,0;0,1;0,1;0,4
 NL:Q:63011030;Baronieweg;Hedel;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:63011040;Baronieweg;Hedel;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:63011050;Breedstraat;Hedel;0,3;0,0;0,0;0,0;0,0;0,0
-NL:Q:63011080;Breedstraat;Hedel;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:63011050;Breedstraat;Hedel;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:63011080;Breedstraat;Hedel;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:63280090;Maasdijk;Nederhemert-Zuid;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:63280100;Maasdijk;Nederhemert-Zuid;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:63291180;Kromme Nol;Wijk en Aalburg;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:63291180;Kromme Nol;Wijk en Aalburg;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:63291280;Kromme Nol;Wijk en Aalburg;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:63390020;Polstraat;Wijk en Aalburg;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:63390030;Polstraat;Wijk en Aalburg;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:63390040;Perzikstraat;Wijk en Aalburg;0,9;0,0;0,0;0,0;0,0;0,0
-NL:Q:63390050;Perzikstraat;Wijk en Aalburg;0,0;2,1;0,0;0,0;0,0;0,0
-NL:Q:63390080;Kortestraat;Wijk en Aalburg;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:63390040;Perzikstraat;Wijk en Aalburg;0,8;0,0;0,0;0,0;0,0;0,0
+NL:Q:63390050;Perzikstraat;Wijk en Aalburg;0,0;2,0;0,0;0,0;0,0;0,0
+NL:Q:63390080;Kortestraat;Wijk en Aalburg;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:63390090;Kortestraat;Wijk en Aalburg;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:63590040;Koningin Emmastraat;Andel;0,0;0,0;0,4;0,4;0,0;0,0
 NL:Q:63590110;Hofflaan;Andel;0,0;0,0;0,3;0,0;0,0;0,0
-NL:Q:63590140;Prinsentuin;Andel;4,5;4,7;0,0;0,0;0,0;0,0
+NL:Q:63590140;Prinsentuin;Andel;4,4;4,6;0,0;0,0;0,0;0,0
 NL:Q:63590170;Randweg-Tankstation;Giessen;0,0;0,1;0,0;0,1;0,0;0,0
 NL:Q:63591120;Julianastraat;Andel;0,0;0,0;0,2;0,1;0,1;0,0
 NL:Q:69000160;Hakkesstraat;Venlo;0,0;0,0;0,8;0,9;0,9;0,5
@@ -8669,8 +8575,8 @@ NL:Q:69600250;Halve Maan;Well;0,0;0,0;0,2;0,0;0,2;0,1
 NL:Q:69600280;Leuken;Well;0,0;0,0;0,1;0,2;0,1;0,1
 NL:Q:69600290;Leuken;Well;0,0;0,0;0,3;0,1;0,3;0,1
 NL:Q:80000020;Landesgrenze;Wyler;0,0;0,0;0,2;0,0;0,0;0,0
-NL:Q:91000114;Station Lichtenvoorde-Groenlo;Lievelde;2,8;3,0;0,9;1,1;1,3;0,8
+NL:Q:91000114;Station Lichtenvoorde-Groenlo;Lievelde;2,7;2,9;0,9;1,1;1,3;0,8
 NL:Q:91000116;Station;Lunteren;14,1;0,4;2,9;0,6;0,0;0,0
-NL:Q:91000140;Busstation Winterswijk;Winterswijk;0,0;6,8;0,0;1,0;0,0;1,7
+NL:Q:91000140;Busstation Winterswijk;Winterswijk;0,0;6,5;0,0;1,0;0,0;1,7
 NL:Q:99990032;Station Barneveld Noord;Barneveld;14,9;1,8;5,7;0,2;3,7;0,1
 NL:Q:99990033;Station Barneveld Noord;Barneveld;1,7;10,6;0,2;2,6;0,1;1,5

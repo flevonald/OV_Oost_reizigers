@@ -385,9 +385,9 @@ if filter_jaar in ['2023']:
     df_arriva['DATAOWNERCODE'] = 'ARR'
     df_arriva = df_arriva.rename(columns={'NR_CONS_GEB':'CONCESSIE'})
     
-df_arriva = tel_vakantie_en_niet_vakantie_op(df_arriva)
-df_arriva['QUAYCODE'] = df_arriva['HNR'].replace(PSA_tabel_arriva)
-df_arriva['STOPPLACECODE'] = df_arriva['QUAYCODE'].replace(chb_arriva_dict)
+    df_arriva = tel_vakantie_en_niet_vakantie_op(df_arriva)
+    df_arriva['QUAYCODE'] = df_arriva['HNR'].replace(PSA_tabel_arriva)
+    df_arriva['STOPPLACECODE'] = df_arriva['QUAYCODE'].replace(chb_arriva_dict)
       
 
 # df_conc_s.loc[df_conc_s_v].loc[~df_conc_s['HALTE'].isin(koppeling_arriva.keys()), 'HALTE'].to_csv('haltes lls.csv')
