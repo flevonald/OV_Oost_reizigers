@@ -74,7 +74,7 @@ def leading_zero(a):
 filter_jaar = '2023'
 #%%
 
-dtype_g01 = {'HNR':str, 'JAAR':str, 'MAAND':str, 'LN_ID_OV_MIJ':str, 'NR_CONS_GEB':str}
+dtype_g01 = {'HNR':str, 'JAAR':str, 'MAAND':str, 'LN_ID_OV_MIJ':str, 'NR_CONS_GEB':int}
 
 reizigerskolommen = ['INSTAP_WERK', 'UITSTAP_WERK', 'INSTAP_ZA', 'UITSTAP_ZA',
                                'INSTAP_ZO', 'UITSTAP_ZO']
@@ -190,10 +190,10 @@ for concessiefile in os.listdir(os.path.join(G01_folder,'EBS')):
 # df_keolis.loc['LIJN'] = df_keolis['LN_ID_OV_MIJ'].replace(lijn)
   
 df_ebs = df_ebs.rename(columns={'HNR':'HALTECODE','NR_CONS_GEB':'CONCESSIE'})
-df_ebs.loc[df_ebs['CONCESSIE'].isin(['17','301','302','303']),'CONCESSIE'] =  '300'
+df_ebs.loc[df_ebs['CONCESSIE'].isin([17,134,301,302,303]),'CONCESSIE'] =  'IJV'
 df_ebs['DATAOWNERCODE'] = 'EBS'
 df_ebs['MAAND'] = df_ebs['MAAND'].astype(str).apply(leading_zero)
-
+df_ebs[reizigerskolommen] = df_ebs[reizigerskolommen]/0.8
 print("Klaar met EBS")
 #%% ARRIVA LLS
 df_arr_lls = pd.DataFrame()
@@ -215,14 +215,21 @@ if filter_jaar != '2022':
             df_arr_lls_file = tel_vakantie_en_niet_vakantie_op(df_arr_lls_file)
             
             #data aanvulling en correctie
-            df_arr_lls_file['CONCESSIE'] = 'Lelystad'
+            
+            #voor 2023 omzetten
+            if not filter_jaar == '2023':
+                df_arr_lls_file['CONCESSIE'] = 'LLS'
+            else:
+                df_arr_lls_file['CONCESSIE'] = 'IJV'
+
             df_arr_lls_file['DATAOWNERCODE'] = 'ARR'  
             df_arr_lls_file['MAAND'] = df_arr_lls_file['MAAND'].astype(str).apply(leading_zero)
             df_arr_lls_file['STOPPLACECODE'] = df_arr_lls_file['STOPPLACECODE'].replace({'5309':'NL:S:49005400','5330':'NL:S:49001210',
                                 '5362':'NL:S:49000570','17070':'NL:S:49000630','17069': 'NL:S:49000620'})
             df_arr_lls_file = df_arr_lls_file.loc[df_arr_lls_file['STOPPLACECODE']!='-1']
             df_arr_lls = pd.concat([df_arr_lls,df_arr_lls_file])
-            
+    
+    
     if df_arr_lls.empty:
         df_arr_lls = pd.DataFrame(columns= g01_kolommen)
     else:
@@ -277,7 +284,7 @@ def arr_to_G01(df_arriva):
     df_arriva_jaar = df_arriva_jaar.reset_index()
     return df_arriva_jaar     
 
-dtype_arr = {'Jaar':str,'Maand':str, 'MAAND':str, 'JAAR':str, 'HNR':str}
+dtype_arr = {'Jaar':str,'Maand':str, 'MAAND':str, 'JAAR':str, 'HNR':str,'NR_CONS_GEB':int}
 
 df_arr_g01 = pd.DataFrame()
 
@@ -302,14 +309,6 @@ if filter_jaar in ['2019','2020','2021']:
             df_arr.loc[df_arr['DATUM'].isin(feestzaterdagen[filter_jaar]),'DAGTYPE'] = 'ZA'
             df_arr_g01 = arr_to_G01(df_arr)
         
-        if filter_jaar == '2022':
-            df_arr_g01['QUAYCODE'] = df_arr_g01['HNR'].replace(PSA_tabel_arriva)
-            df_arr_g01['STOPPLACECODE'] = df_arr_g01['QUAYCODE'].replace(chb_arriva_dict)
-            koppeling_arriva = pd.read_excel(r"C:\data\O10\Arriva Koppeling.xlsx",
-                    dtype= dtype_arr, usecols=['HNR', 'stopplacecode']).dropna().set_index('HNR')['stopplacecode'].to_dict()
-            df_arr_g01['STOPPLACECODE'] = df_arr_g01['STOPPLACECODE'].astype(str).replace(koppeling_arriva)
-        else: 
-            df_arr_g01['STOPPLACECODE'] = df_arr_g01['HALTE'].replace(koppeling_arriva)
         df_arr_g01['DATAOWNERCODE'] = 'ARR'
         df_arr_g01['CONCESSIE'] = 'ACH-RIV'
         # in plaats van '1' '01' als maandnummer
@@ -376,20 +375,29 @@ if filter_jaar == '2022':
     df_arriva = df_arr_22
     
 #%%
+chb_quay_dict = df_chb.set_index('QUAYCODE')['STOPPLACECODE'].to_dict()
+
 if filter_jaar in ['2023']: 
-    df_arriva = pd.read_csv(r"C:\data\G01\Arriva\20240328_G01_ARRIVA_AHRV_G01_2023.csv", dtype=dtype_g01, sep=';')
+    df_arriva = pd.read_csv(r"C:\data\G01\Arriva\20240829_G01_ARRIVA_ACHRIV_BUS.csv", dtype=dtype_g01, sep=';')
     
-    #filter op treinconcessie
-    df_arriva = df_arriva.loc[df_arriva['NR_CONS_GEB'].isin(['20','23'])]
+    #filter op busconcessie
+    df_arriva = df_arriva.loc[df_arriva['CONCESSIE'].isin([20,23])]
     df_arriva = df_arriva.loc[df_arriva['MAAND']!='0']
     df_arriva['DATAOWNERCODE'] = 'ARR'
-    df_arriva = df_arriva.rename(columns={'NR_CONS_GEB':'CONCESSIE'})
     
-    df_arriva = tel_vakantie_en_niet_vakantie_op(df_arriva)
     df_arriva['QUAYCODE'] = df_arriva['HNR'].replace(PSA_tabel_arriva)
     df_arriva['STOPPLACECODE'] = df_arriva['QUAYCODE'].replace(chb_arriva_dict)
-      
-
+    
+    df_arriva_twente = pd.read_csv(os.path.join(G01_folder,'Arriva',f'G01_TWE_{filter_jaar}_quay.csv'), sep=';', dtype=dtype_arr)
+    df_arriva_twente = df_arriva_twente.loc[df_arriva_twente['NR_CONS_GEB'].isin([21])]
+    df_arriva_twente = df_arriva_twente.rename(columns={'HNR':'QUAYCODE','NR_CONS_GEB':'CONCESSIE'})
+    
+    df_arriva = pd.concat([df_arriva,df_arriva_twente])
+    
+    df_arriva['QUAYCODE'] = 'NL:Q:' + df_arriva['QUAYCODE']
+    df_arriva['STOPPLACECODE'] = df_arriva['QUAYCODE'].map(chb_quay_dict)
+    
+    
 # df_conc_s.loc[df_conc_s_v].loc[~df_conc_s['HALTE'].isin(koppeling_arriva.keys()), 'HALTE'].to_csv('haltes lls.csv')
 #%% CXX
 
@@ -410,7 +418,11 @@ for concessiefile in os.listdir(os.path.join(HB_folder,'CXX')):
 
     if not concessie in concessie_selectie:
         continue
-    
+    #omzetten omdat in 2023 concessies opgaan in IJV 
+    if filter_jaar == '2023':
+        if concessie in ['FL_IJM','OV_IJM']:
+            concessie = 'IJV'
+            
     dagtype = concessiefile.split('.')[0].split(' ')[-1]
     jaar = concessiefile.split('.')[0].split(' ')[-2].split('-')[0]
     if not jaar == filter_jaar:
@@ -429,7 +441,7 @@ for concessiefile in os.listdir(os.path.join(HB_folder,'CXX')):
     df['CONCESSIE'] = concessie
     df['DAGTYPE'] = dagtype
     df['JAAR'] = jaar
-    df['MAAND'] = maand
+    df['MAAND'] = leading_zero(maand)
 
     #omzetten naar G01
     df = O10_to_G01(df).reset_index()
@@ -451,6 +463,9 @@ df_totaal = pd.concat(dflijst_samenvoegen)
 
 print('Vervoerders samengevoegd')
 
+#%% Controle
+df_per_concessie = df_totaal.groupby(['DATAOWNERCODE','CONCESSIE'])[reizigerskolommen].sum()
+
 #%% naar daggemiddelden
 def jaar_totaal_naar_gemiddelde(df):
     df[['INSTAP_WERK', 'UITSTAP_WERK']] = df[['INSTAP_WERK', 'UITSTAP_WERK']]/dagen_per_type[filter_jaar]['WERK']
@@ -463,7 +478,7 @@ factoren = {}
 for concessie, df_group in df_totaal.groupby('CONCESSIE'):
     if {'01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'
      }.issubset(set(df_group['MAAND'].to_list())):
-        df_group = df_group.groupby('MAAND').sum()
+        df_group = df_group.groupby('MAAND')[reizigerskolommen].sum()
         factoren[concessie] = df_group[reizigerskolommen] / df_group[reizigerskolommen].sum()
 
 maandfactoren = pd.concat(factoren.values()).groupby(level=0).mean()

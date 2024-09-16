@@ -63,7 +63,7 @@ def per_dagtype(dagtype, jaar, maand, ritten):
 
 
 
-def corrigeer(a):
+def leading_zero(a):
     if len(a)==1:
         return '0'+a
     else:
@@ -173,9 +173,9 @@ for maandfolder in os.listdir(os.path.join(G01_folder,'KEOLIS')):
 
 df_keolis['STATION'] = df_keolis['HNR'].map(stations.set_index('HNR')['STATION'].to_dict())
 df_keolis['NR_CONS_GEB'] = df_keolis['NR_CONS_GEB'].map(concessie_dict)
-# df_keolis = df_keolis.drop(columns='HNR').rename(columns={'NR_CONS_GEB':'CONCESSIE'})
+df_keolis = df_keolis.drop(columns='HNR').rename(columns={'NR_CONS_GEB':'CONCESSIE'})
 df_keolis['DATAOWNERCODE'] = 'KEOLIS'
-df_keolis['MAAND'] = df_keolis['MAAND'].apply(corrigeer)
+df_keolis['MAAND'] = df_keolis['MAAND'].apply(leading_zero)
 
 #%% NS
 print('NS')
@@ -235,9 +235,9 @@ if filter_jaar in ['2020','2021','2022']:
     
     
     arriva_hb['DAGTYPE'] = arriva_hb['DAGTYPE'].map({'VAKANTIE':'WERK_VAK', 'WEEKDAG':'WERK_NIETVAK', 'ZATERDAG':'ZA', 'ZONDAG': 'ZO'})
-    arriva_hb['CONCESSIE'] = arriva_hb['LYNCODE'].map({'TARTI': 'GT', 'TAPZU': 'GT', 'TARWI': 'GT', 'TZUWI': 'GT', 'TZWEM': 'VD', 'TMAAL': 'VD', 'TARDO': 'GT',
-           'TARZE': 'BRENG', 'TAPWI': 'GT', 'Onbekend': 'Onbekend'})
-    arriva_hb['MAAND'] = arriva_hb['MAAND'].apply(corrigeer)
+    arriva_hb['CONCESSIE'] = arriva_hb['LYNCODE'].map({'TARTI': 'GT', 'TAPZU': 'GT', 'TARWI': 'GT', 'TZUWI': 'GT', 'TZWEM': 'VD', 'TMAAL': 'VD', 'TARDO': 'BRENG',
+           'TARZE': 'RE19', 'TAPWI': 'GT', 'Onbekend': 'Onbekend'})
+    arriva_hb['MAAND'] = arriva_hb['MAAND'].apply(leading_zero)
     
     df_arriva = O10_to_g1(arriva_hb)
     df_arriva = tel_vakantie_en_niet_vakantie_op(df_arriva)
@@ -266,32 +266,25 @@ if filter_jaar in ['2019']:
     df3['DATAOWNERCODE'] = 'ARR'
     df3 = df3.reset_index()
 #%% ARRIVA G01
+
 if filter_jaar in ['2023']: 
-    df_arriva = pd.read_csv(r"C:/data/G01/Arriva/20240328_G01_ARRIVA_AHRV_G01_2023.csv", dtype=dtype_keolis, sep=';')
+    df_arriva = pd.DataFrame()
+    files = [r"C:/data/G01/Arriva/20240328_G01_ARRIVA_AHRV_G01_2023.csv",
+             r"C:\data\G01\Arriva\G01_TWE_2023_quay.csv",
+             r"C:\data\G01\Arriva\20240426_ARRIVA_VDL_G01_2023.csv"]
+    for file in files:
+       df_arriva = pd.concat([df_arriva, pd.read_csv(file, dtype=dtype_keolis, sep=';')])
     #filter op treinconcessie
-    df_arriva = df_arriva.loc[df_arriva['NR_CONS_GEB']==199]
+    df_arriva = df_arriva.loc[df_arriva['NR_CONS_GEB'].isin([199, 103, 107,108, 299])]
     df_arriva['STATION'] = df_arriva['HALTE'].replace(stationsdict_arr)
     df_arriva['DATAOWNERCODE'] = 'ARR'
-    df_arriva['CONCESSIE'] = 'GT'
+    df_arriva['CONCESSIE'] = df_arriva['NR_CONS_GEB'].map({199:'GT',103:'TZUHO', 107:'VD', 108:'VD', 299:'VD'})
     df_arriva = tel_vakantie_en_niet_vakantie_op(df_arriva)
-    
-    
-    # df_arriva_2 = pd.read_csv(r"C:\data\G01\Arriva\103_ARRIVA_G01_2023-12.csv", dtype=dtype_keolis, sep=';')
-    # df_arriva_2['STATION'] = df_arriva_2['HALTE'].replace(stationsdict_arr)
-    # df_arriva_2['DATAOWNERCODE'] = 'ARR'
-    # df_arriva_2['CONCESSIE'] = 'TZUHO'
-    
-    df_arriva_3 = pd.read_csv(r"C:\data\G01\Arriva\20240426_ARRIVA_VDLZHO_G01_2023.csv", dtype=dtype_keolis, sep=';')
-    df_arriva_3['STATION'] = df_arriva_3['HALTE'].replace(stationsdict_arr)
-    df_arriva_3['DATAOWNERCODE'] = 'ARR'
-    df_arriva_3['CONCESSIE'] = df_arriva_3['LYNCODE']
-     
-    df_arriva = pd.concat([df_arriva, df_arriva_3])
 
     #filter op stations in OOST
     df_arriva = df_arriva.loc[df_arriva['STATION'].isin(stationslijst)]
 
-    df_arriva['MAAND'] = df_arriva['MAAND'].apply(corrigeer)
+    df_arriva['MAAND'] = df_arriva['MAAND'].apply(leading_zero)
 
     df_arriva = df_arriva.loc[df_arriva[reizigerskolommen].sum(axis=1) >0 ]
     
@@ -362,6 +355,8 @@ df_totaal = pd.concat([df_keolis, df_arriva, df_connexxion]) #
 df_totaal = df_totaal.sort_values(['STATION','JAAR','MAAND'])
 
 df_totaal_incl_ns = pd.concat([df_totaal,ns_instappers])
+
+df_per_concessie = df_totaal.groupby(['DATAOWNERCODE','CONCESSIE'])[reizigerskolommen].sum()
 #%% naar daggemiddelden
 def jaar_totaal_naar_gemiddelde(df):
     df[['INSTAP_WERK', 'UITSTAP_WERK']] = df[['INSTAP_WERK', 'UITSTAP_WERK']]/dagen_per_type[filter_jaar]['WERK']
@@ -388,7 +383,7 @@ def jaargemiddeld_per_concessie(df_totaal, print_variant = None):
 
     df_jaargemiddelde_per_station_concessie = pd.DataFrame()
     
-    for concessie, df_group in df_totaal.groupby(['STATION','CONCESSIE']):  
+    for concessie, df_group in df_totaal.groupby(['CONCESSIE']):  
         print(concessie)
         maandset = {'01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'}
         df_group_x = None
