@@ -79,7 +79,7 @@ stations = pd.read_excel('../Stationscodes.xlsx', dtype={'HNR':str})
 stationslijst = pd.read_excel(os.path.join(PMR_folder,'stationslijst.xlsx'))
 stationslijst = stationslijst.loc[stationslijst['Provincie'].isin(['Drenthe','Overijssel','Gelderland','Flevoland']) | stationslijst['Station'].isin(['Amersfoort Centraal'])]['Station']
 
-concessie_dict = {103:'TZUHO', 106:'TZWKA', 111:'TZWEN',113:'TENGR', 101:'TAMEW'}
+concessie_dict = {103:'TZUHO', 106:'TZWKA', 111:'TZWEN',113:'TENGR', 101:'AEW'}
 
 dagen_per_type = {'2015': {'WERK':258, 'ZA':52, 'ZO':58},
                   '2016': {'WERK':255, 'ZA':54, 'ZO':57},
@@ -172,8 +172,7 @@ for maandfolder in os.listdir(os.path.join(G01_folder,'KEOLIS')):
         df_keolis = pd.concat([df_keolis, som], ignore_index=True)
 
 df_keolis['STATION'] = df_keolis['HNR'].map(stations.set_index('HNR')['STATION'].to_dict())
-df_keolis['NR_CONS_GEB'] = df_keolis['NR_CONS_GEB'].map(concessie_dict)
-df_keolis = df_keolis.drop(columns='HNR').rename(columns={'NR_CONS_GEB':'CONCESSIE'})
+df_keolis['CONCESSIE'] = df_keolis['NR_CONS_GEB'].map(concessie_dict)
 df_keolis['DATAOWNERCODE'] = 'KEOLIS'
 df_keolis['MAAND'] = df_keolis['MAAND'].apply(leading_zero)
 
@@ -196,12 +195,12 @@ ns_instappers['DATAOWNERCODE'] = 'NS'
 
 #%% ARRIVA  
 def O10_to_g1(arriva_hb):    
-    df_instappers = pd.DataFrame(arriva_hb.groupby(['CONCESSIE','JAAR','MAAND','DAGTYPE','HALTE_HERKOMST'])['RITTEN'].sum())
-    df_instappers.index = df_instappers.index.rename(['CONCESSIE','JAAR','MAAND','DAGTYPE','STATION'])
+    df_instappers = pd.DataFrame(arriva_hb.groupby(['CONCESSIE','LYNCODE','JAAR','MAAND','DAGTYPE','HALTE_HERKOMST'])['RITTEN'].sum())
+    df_instappers.index = df_instappers.index.rename(['CONCESSIE','LYNCODE','JAAR','MAAND','DAGTYPE','STATION'])
     df_instappers = df_instappers.rename(columns = {'RITTEN':'INSTAP'})                         
     
-    df_uitstappers = pd.DataFrame(arriva_hb.groupby(['CONCESSIE','JAAR','MAAND','DAGTYPE','HALTE_HERKOMST'])['RITTEN'].sum())
-    df_uitstappers.index = df_uitstappers.index.rename(['CONCESSIE','JAAR','MAAND','DAGTYPE','STATION'])
+    df_uitstappers = pd.DataFrame(arriva_hb.groupby(['CONCESSIE','LYNCODE','JAAR','MAAND','DAGTYPE','HALTE_HERKOMST'])['RITTEN'].sum())
+    df_uitstappers.index = df_uitstappers.index.rename(['CONCESSIE','LYNCODE','JAAR','MAAND','DAGTYPE','STATION'])
     df_uitstappers = df_uitstappers.rename(columns = {'RITTEN':'UITSTAP'})     
     
     df_arriva_jaar = pd.concat([df_instappers, df_uitstappers], axis=1)
@@ -211,6 +210,8 @@ def O10_to_g1(arriva_hb):
     df_arriva_jaar = df_arriva_jaar.reset_index()
 
     return df_arriva_jaar
+
+df_arriva = pd.DataFrame()
 
 stationsdict_arr = {'Arnhem':'Arnhem Centraal',
                     'Ah Velperpoort':'Arnhem Velperpoort',
@@ -226,7 +227,7 @@ if filter_jaar in ['2020','2021','2022']:
     print('ARRIVA')
     
     dtype_arr = {'jaarmaand':str}
-    df_arriva = pd.DataFrame()
+
     arriva_hb = pd.read_excel(os.path.join(HB_folder,'ARRIVA-trein',f'HB Logs {filter_jaar}.xlsx'), dtype= {'MAAND':str})
     
     stations_niet_in_lijst = [s for s in arriva_hb['HALTE_HERKOMST'].unique() if s not in stationstabel['[UserStopAreaCode]'].to_list()]
@@ -246,12 +247,16 @@ if filter_jaar in ['2020','2021','2022']:
     # arriva_hb.groupby(['A_DAY_TYPE'])['RITTEN'].sum()
     
     #aantal dagtypen
-    df_arriva['STATION'] = df_arriva['STATION'].replace(stationsdict)
+    df_arriva['STATION'] = df_arriva['STATION'].replace(stationsdict_arr)
         
     df_arriva['DATAOWNERCODE'] = 'ARR'
     
 #%% ARRIVA GT 2019 heeft O10 formaat
 if filter_jaar in ['2019']:
+    stationstabel = pd.read_excel("C:\data\O10\Stationstabel.xlsx", dtype={'[UserStopCode]':str})
+    
+    stationsdict = stationstabel.drop_duplicates(['[UserStopAreaCode]']).set_index('[UserStopAreaCode]')['[Name]'].to_dict()
+    
     if '2019' == filter_jaar:
         df = pd.read_excel(r"C:\data\O10\201911_O10_GT.xlsx", dtype=dtype_keolis)
 
@@ -262,13 +267,16 @@ if filter_jaar in ['2019']:
     df['DAGTYPE'] = df['DAGTYPE'].map({'WEEKDAG':'WERK','ZATERDAG':'ZA','ZONDAG':'ZO'})
     
     df2 = df.copy()
-    df3 = O10_to_g1(df2)
-    df3['DATAOWNERCODE'] = 'ARR'
-    df3 = df3.reset_index()
+    df_arriva = O10_to_g1(df2)
+    df_arriva['DATAOWNERCODE'] = 'ARR'
+    df_arriva['STATION'] = df_arriva['STATION'].replace(stationsdict)
+    df_arriva.loc[df_arriva['LYNCODE']=='TARDO','CONCESSIE'] = 'BRENG'
+    df_arriva.loc[df_arriva['LYNCODE']=='TARZE','CONCESSIE'] = 'RE19'
+    df_arriva = df_arriva.reset_index()
 #%% ARRIVA G01
 
 if filter_jaar in ['2023']: 
-    df_arriva = pd.DataFrame()
+
     files = [r"C:/data/G01/Arriva/20240328_G01_ARRIVA_AHRV_G01_2023.csv",
              r"C:\data\G01\Arriva\G01_TWE_2023_quay.csv",
              r"C:\data\G01\Arriva\20240426_ARRIVA_VDL_G01_2023.csv"]
@@ -279,9 +287,12 @@ if filter_jaar in ['2023']:
     df_arriva['STATION'] = df_arriva['HALTE'].replace(stationsdict_arr)
     df_arriva['DATAOWNERCODE'] = 'ARR'
     df_arriva['CONCESSIE'] = df_arriva['NR_CONS_GEB'].map({199:'GT',103:'TZUHO', 107:'VD', 108:'VD', 299:'VD'})
+    df_arriva.loc[df_arriva['LYNCODE']=='TARDO','CONCESSIE'] = 'BRENG'
+    df_arriva.loc[df_arriva['LYNCODE']=='TARZE','CONCESSIE'] = 'RE19'
     df_arriva = tel_vakantie_en_niet_vakantie_op(df_arriva)
 
     #filter op stations in OOST
+    df_arriva['STATION'] = df_arriva['STATION'].replace(stationsdict_arr)
     df_arriva = df_arriva.loc[df_arriva['STATION'].isin(stationslijst)]
 
     df_arriva['MAAND'] = df_arriva['MAAND'].apply(leading_zero)
@@ -322,7 +333,7 @@ if int(filter_jaar) < 2023:
     df_connexxion = df_connexxion.loc[df_connexxion['UURBLOK']!='Totaal']
     df_connexxion['JAAR'] = filter_jaar
     df_connexxion['MAAND'] = 'YY'
-    df_connexxion['CONCESSIE'] = 'TAMEW'
+    df_connexxion['CONCESSIE'] = 'AEW'
     df_connexxion['DATAOWNERCODE'] = 'CXX'
     
     
@@ -338,7 +349,7 @@ if filter_jaar == '2023':
     df_connexxion = tel_vakantie_en_niet_vakantie_op_yy(df_connexxion,dagen_per_subtype, filter_jaar)
     
     df_connexxion = df_connexxion.loc[df_connexxion['UURBLOK']!='Totaal']
-    df_connexxion['CONCESSIE'] = 'TAMEW'
+    df_connexxion['CONCESSIE'] = 'AEW'
     df_connexxion['DATAOWNERCODE'] = 'CXX'
     
     
@@ -356,7 +367,7 @@ df_totaal = df_totaal.sort_values(['STATION','JAAR','MAAND'])
 
 df_totaal_incl_ns = pd.concat([df_totaal,ns_instappers])
 
-df_per_concessie = df_totaal.groupby(['DATAOWNERCODE','CONCESSIE'])[reizigerskolommen].sum()
+df_per_concessie = df_totaal.groupby(['DATAOWNERCODE','CONCESSIE'])[['INSTAP_WERK', 'INSTAP_ZA','INSTAP_ZO']].sum().sum(axis=1)
 #%% naar daggemiddelden
 def jaar_totaal_naar_gemiddelde(df):
     df[['INSTAP_WERK', 'UITSTAP_WERK']] = df[['INSTAP_WERK', 'UITSTAP_WERK']]/dagen_per_type[filter_jaar]['WERK']
@@ -376,6 +387,7 @@ if not len(factoren.values()) == 0:
     maandfactoren = pd.concat(factoren.values()).groupby(level=0).mean()
     maandfactoren.to_csv(f'../maandfactoren/maandfactoren {filter_jaar}.csv')
 else:
+    maandfactoren = pd.DataFrame()
     print('Geen maandfactoren te bepalen')
     pass
 #%%
@@ -414,26 +426,28 @@ def jaargemiddeld_per_concessie(df_totaal, print_variant = None):
                 print('MAANDEN')
             
         elif ('YY' not in df_group['MAAND'].to_list()) & ('XX' not in df_group['MAAND'].to_list()):
-            
-            df_group_o = df_group.set_index('MAAND')
-            df_group_o[reizigerskolommen] = df_group_o[reizigerskolommen]/maandfactoren.loc[df_group_o.index]
-            df_group_o = df_group_o.groupby(['STATION','CONCESSIE'])[reizigerskolommen].mean().fillna(0)
-            # if len(df_group_o.shape)>1:
-                
-            #     df_group_o = df_group_o.iloc[0]
-            df_group_o = jaar_totaal_naar_gemiddelde(df_group_o)
+
+            if not maandfactoren.empty:
+                df_group_o = df_group.set_index('MAAND')
+                df_group_o[reizigerskolommen] = df_group_o[reizigerskolommen]/maandfactoren.loc[df_group_o.index]
+                df_group_o = df_group_o.groupby(['STATION','CONCESSIE'])[reizigerskolommen].mean().fillna(0)
+                df_group_o = jaar_totaal_naar_gemiddelde(df_group_o)
+            else:
+                print
+                df_group_o = df_group.groupby(['STATION','CONCESSIE'])[reizigerskolommen].mean().fillna(0) * 12
+                df_group_o = jaar_totaal_naar_gemiddelde(df_group_o)
             if print_variant:  
                 print('OVERIG')
         else:
             if print_variant:  
                 print('Onbekend')
-        df_group_o[reizigerskolommen] = df_group_o[reizigerskolommen].applymap(lambda x: round(x), na_action='ignore')
+        df_group_o[reizigerskolommen] = df_group_o[reizigerskolommen].applymap(lambda x: round(x), na_action='ignore').astype(int)
         
         df_jaargemiddelde_per_station_concessie = pd.concat([df_jaargemiddelde_per_station_concessie, df_group_o.reset_index()])
     df_jaargemiddelde_per_station = df_jaargemiddelde_per_station_concessie.groupby(['STATION'])[reizigerskolommen].sum().reset_index()             
     return df_jaargemiddelde_per_station_concessie, df_jaargemiddelde_per_station
 #%%
-gem_per_station_concessie, gem_per_station = jaargemiddeld_per_concessie(df_totaal,  print_variant = False)
+gem_per_station_concessie, gem_per_station = jaargemiddeld_per_concessie(df_totaal,  print_variant = True)
 
 gem_per_station_concessie.to_csv(f'../Reizigers per station per concessie/Reizigers per station (cico) per concessie {filter_jaar}.csv', sep=',', decimal = '.', index=False)
 # gem_per_station_concessie.to_excel(f'Reizigers per station (cico) per concessie {filter_jaar}.xlsx', index=False)

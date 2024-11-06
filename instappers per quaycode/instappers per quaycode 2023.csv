@@ -1,104 +1,4 @@
 QUAYCODE;NAME;TOWN;INSTAP_WERK;UITSTAP_WERK;INSTAP_ZA;UITSTAP_ZA;INSTAP_ZO;UITSTAP_ZO
-10503;;;4,6;7,0;2,2;2,6;1,0;3,5
-10543;;;33,2;24,8;17,7;14,4;6,8;7,4
-10544;;;2,6;3,1;0,0;0,0;0,0;0,0
-10550;;;21,4;21,6;15,3;15,3;5,9;5,8
-16433;;;1,7;1,8;0,7;0,5;0,0;0,0
-16434;;;0,6;0,1;0,3;0,2;0,0;0,0
-16435;;;0,3;0,3;0,1;0,0;0,0;0,0
-16436;;;0,5;0,2;0,1;0,1;0,0;0,0
-16437;;;1,1;0,7;0,2;0,2;0,0;0,0
-16438;;;5,2;1,5;0,3;0,1;0,0;0,0
-16493;;;0,5;0,5;0,2;0,7;0,0;0,0
-16972;;;16,1;17,9;7,6;7,5;2,9;3,4
-16973;;;23,9;21,8;12,6;11,4;5,8;6,8
-16974;;;8,3;9,5;3,9;3,8;1,5;2,0
-17067;;;21,7;69,6;13,6;42,9;8,9;16,5
-17291;;;0,8;0,1;0,3;0,0;0,0;0,0
-17292;;;0,4;0,7;0,2;0,4;0,0;0,0
-17344;;;0,5;0,7;0,0;0,0;0,0;0,0
-5307;;;1624,4;1514,1;1119,2;1040,5;593,3;484,5
-5308;;;99,4;43,7;57,5;27,5;20,2;9,9
-5309;;;0,5;0,7;0,1;0,2;0,0;0,0
-5315;;;33,1;60,9;17,1;23,3;9,6;15,2
-5316;;;2,0;1,8;0,8;0,9;0,0;0,0
-5318;;;5,7;6,3;2,9;1,7;2,7;1,1
-5319;;;4,3;7,0;8,9;13,0;4,1;7,6
-5320;;;16,2;17,8;15,4;13,2;9,4;6,7
-5321;;;12,5;11,6;5,5;5,2;2,1;2,8
-5322;;;142,2;173,1;265,3;297,9;179,5;200,2
-5323;;;22,1;22,4;8,6;9,6;4,1;4,4
-5324;;;35,2;36,7;25,5;22,4;14,0;16,2
-5325;;;10,2;12,7;2,9;3,3;0,8;0,9
-5327;;;2,1;4,8;1,3;1,2;0,0;0,0
-5328;;;22,2;32,5;18,3;23,2;16,8;20,5
-5329;;;16,6;17,6;6,3;5,0;0,0;1,9
-5330;;;1,9;0,4;0,1;0,0;0,0;0,0
-5331;;;10,9;15,5;5,3;6,3;1,5;2,9
-5332;;;27,1;28,0;3,3;3,8;1,4;2,1
-5333;;;61,6;59,2;19,5;21,2;9,3;11,6
-5334;;;0,9;0,7;0,3;0,5;0,0;0,0
-5335;;;5,4;8,8;2,3;3,9;1,4;2,4
-5336;;;7,3;2,4;3,5;1,6;1,0;0,4
-5337;;;5,0;5,9;1,5;2,4;0,3;0,7
-5338;;;0,2;0,3;0,0;0,3;0,0;0,0
-5339;;;23,0;18,4;11,1;9,8;3,9;4,2
-5340;;;10,5;5,5;3,9;2,0;1,4;1,3
-5341;;;24,7;22,6;15,1;14,8;4,6;5,4
-5343;;;28,0;23,1;16,0;15,3;4,2;6,8
-5345;;;13,6;10,6;9,3;8,8;3,1;3,6
-5346;;;2,7;3,3;1,8;2,2;0,8;1,1
-5347;;;14,9;16,8;11,2;13,7;10,0;11,1
-5348;;;22,7;25,9;12,4;18,9;10,8;15,0
-5349;;;13,4;16,4;12,4;11,5;0,0;0,0
-5352;;;8,1;8,0;7,8;8,5;2,9;3,1
-5353;;;15,0;13,2;7,1;8,0;3,0;3,3
-5354;;;14,7;12,2;2,5;4,9;2,3;3,8
-5355;;;32,1;33,8;18,6;19,5;7,7;11,1
-5356;;;3,3;5,5;0,6;0,6;0,5;0,6
-5357;;;21,4;17,7;11,4;9,9;3,8;2,9
-5359;;;160,7;146,4;109,1;98,8;40,6;48,7
-5360;;;22,4;19,6;14,5;10,9;5,3;4,8
-5361;;;7,3;13,7;3,7;7,0;6,5;5,7
-5362;;;1,5;1,4;0,2;0,2;0,0;0,0
-5363;;;4,3;8,5;0,3;0,6;0,0;0,0
-5364;;;10,2;4,2;3,7;0,7;1,9;0,2
-5365;;;23,7;15,9;13,3;8,3;5,2;3,9
-5366;;;17,8;20,8;8,5;9,8;5,2;6,3
-5367;;;33,0;22,1;19,7;14,6;8,4;5,8
-5368;;;1,2;13,2;0,4;6,8;0,3;4,2
-5369;;;22,1;8,3;20,6;9,5;14,6;5,6
-5370;;;22,0;21,8;16,2;18,2;9,9;13,6
-5371;;;8,2;9,6;3,6;4,8;1,2;3,1
-5372;;;2,7;5,2;1,0;2,6;0,6;0,8
-5373;;;58,8;49,1;36,5;29,2;13,9;14,6
-5374;;;5,5;9,3;2,6;6,2;0,9;2,8
-5376;;;20,1;21,7;5,4;5,1;2,4;2,8
-5378;;;12,3;13,3;4,3;5,8;1,4;2,0
-5379;;;24,1;27,6;7,7;7,7;1,6;2,0
-5380;;;37,3;37,8;24,5;22,8;10,6;11,7
-5381;;;29,5;32,0;17,7;17,9;6,6;7,3
-5382;;;14,3;13,9;6,4;5,2;1,8;2,3
-5383;;;9,5;9,4;3,7;3,6;1,6;2,1
-5384;;;27,3;25,9;14,2;16,4;9,3;10,9
-5385;;;22,9;22,8;14,5;14,2;5,6;4,9
-5387;;;8,7;16,0;5,6;8,7;2,8;4,5
-5388;;;3,7;4,7;1,1;2,2;0,4;0,6
-5389;;;54,4;47,6;34,4;31,4;14,9;13,4
-5390;;;58,6;59,6;34,7;36,5;13,8;18,1
-5391;;;12,5;16,0;9,3;7,9;0,0;0,0
-5392;;;22,6;21,0;15,2;13,6;5,1;7,4
-5394;;;22,1;31,2;10,3;13,3;4,0;5,7
-5395;;;57,9;54,3;30,2;29,1;11,9;15,4
-5397;;;29,3;16,6;18,7;9,2;8,8;4,9
-5398;;;31,5;32,9;14,9;17,8;5,7;8,6
-5399;;;69,6;58,0;45,4;39,8;15,4;14,1
-8040;;;5,1;21,9;3,3;10,6;1,1;5,6
-8041;;;1,5;3,6;0,4;2,6;0,6;1,4
-8043;;;24,9;27,9;7,0;9,5;6,2;9,0
-8057;;;20,4;19,8;7,0;6,7;2,2;3,1
-8058;;;26,6;26,6;13,2;13,0;4,8;5,6
-8067;;;0,3;0,3;0,2;0,4;0,0;0,0
 DE:Q:80000060;Hulsmann;Wyler;0,1;0,0;0,1;0,0;0,0;0,0
 DE:Q:80000070;Vogelsang;Wyler;0,0;0,0;0,0;0,0;0,0;0,0
 DE:Q:80000080;Vogelsang;Wyler;0,0;0,0;0,0;0,0;0,0;0,0
@@ -258,14 +158,14 @@ NL:Q:16280260;Schoolwijksweg;Rouveen;0,3;2,1;0,1;0,0;0,0;0,0
 NL:Q:16280270;Schoolwijksweg;Rouveen;2,1;0,8;0,1;0,1;0,0;0,0
 NL:Q:16280280;Dekkersweg;Rouveen;1,0;2,6;0,3;0,1;0,0;0,0
 NL:Q:16280290;Dekkersweg;Rouveen;3,4;1,3;0,2;0,2;0,0;0,0
-NL:Q:16300010;Gemeentehuis;Steenwijk;0,5;15,5;0,1;0,8;0,0;0,4
-NL:Q:16300020;Gemeentehuis;Steenwijk;8,7;0,6;0,6;0,2;0,7;0,0
-NL:Q:16300030;Vendelweg;Steenwijk;1,5999999999999999;13,1;0,2;3,1;0,1;1,6
-NL:Q:16300040;Vendelweg;Steenwijk;13,6;1,7000000000000002;3,8000000000000003;0,3;2,5;0,2
-NL:Q:16300050;Matthijs Kiersstraat;Steenwijk;3,8;10,799999999999999;0,8;7,3;0,9;3,2
-NL:Q:16300070;Matthijs Kiersstraat;Steenwijk;6,0;0,7999999999999999;4,2;0,6;2,1;0,1
+NL:Q:16300010;Gemeentehuis;Steenwijk;0,6;15,4;0,1;0,8;0,0;0,4
+NL:Q:16300020;Gemeentehuis;Steenwijk;8,7;0,6;0,6;0,2;0,6;0,0
+NL:Q:16300030;Vendelweg;Steenwijk;1,5;13,1;0,2;3,1;0,1;1,6
+NL:Q:16300040;Vendelweg;Steenwijk;13,5;1,7;3,8;0,3;2,6;0,3
+NL:Q:16300050;Matthijs Kiersstraat;Steenwijk;3,8;10,8;0,8;7,3;0,9;3,2
+NL:Q:16300070;Matthijs Kiersstraat;Steenwijk;6,0;0,8;4,2;0,6;2,2;0,1
 NL:Q:16301010;Station;Steenwijk;4,1;2,6;2,5;1,7;1,4;1,1
-NL:Q:16301020;Station;Steenwijk;28,5;36,0;0,0;0,2;0,0;0,0
+NL:Q:16301020;Station;Steenwijk;28,5;36,1;0,0;0,2;0,0;0,0
 NL:Q:16380100;Haersterbroekweg;Zwolle;0,5;1,3;0,0;0,1;0,0;0,0
 NL:Q:16380110;Haersterbroekweg;Zwolle;0,4;0,9;0,0;0,0;0,0;0,0
 NL:Q:16380120;Steenwetering;Lichtmis;0,1;0,3;0,0;0,1;0,0;0,0
@@ -482,19 +382,19 @@ NL:Q:19580100;Slagenweg/Schansweg;Ane;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:19580110;Slagenweg/Schansweg;Ane;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:24350010;Spin;De Blesse;0,5;0,1;0,0;0,0;0,0;0,0
 NL:Q:24350020;Spin;De Blesse;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:24350030;Bovenweg;De Blesse;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:24350030;Bovenweg;De Blesse;0,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:24350040;Bovenweg;De Blesse;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:24350050;Friese Veldweg;De Blesse;0,0;0,2;0,0;0,0;0,0;0,0
-NL:Q:24350060;Friese Veldweg;De Blesse;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:24350050;Friese Veldweg;De Blesse;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:24350060;Friese Veldweg;De Blesse;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:24350070;Lagebroekweg;Blesdijke;0,2;0,6;0,0;0,0;0,0;0,0
 NL:Q:24350080;Lagebroekweg;Blesdijke;0,7;0,1;0,0;0,0;0,0;0,0
-NL:Q:24350620;Noord;De Blesse;0,8999999999999999;1,5999999999999999;0,0;0,0;0,0;0,0
+NL:Q:24350620;Noord;De Blesse;0,8;1,6;0,0;0,0;0,0;0,0
 NL:Q:24450030;Marijenkampen;Marijenkampen;0,6;1,4;0,0;0,0;0,0;0,0
-NL:Q:24450050;Eikenlaan;Willemsoord;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:24450050;Eikenlaan;Willemsoord;0,2;0,2;0,0;0,0;0,0;0,0
 NL:Q:24450060;Eikenlaan;Willemsoord;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:24450080;Marijenkampen;Marijenkampen;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:24451400;'t Centrum;Steenwijkerwold;6,6000000000000005;1,7;0,0;0,0;0,0;0,0
-NL:Q:24451800;Willemsoord;Willemsoord;1,9000000000000001;0,5;0,0;0,0;0,0;0,0
+NL:Q:24451400;'t Centrum;Steenwijkerwold;6,6;1,7;0,0;0,0;0,0;0,0
+NL:Q:24451800;Willemsoord;Willemsoord;1,9;0,5;0,0;0,0;0,0;0,0
 NL:Q:24451810;Willemsoord;Willemsoord;0,3;1,7;0,0;0,0;0,0;0,0
 NL:Q:24490050;Spanga;Spanga;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:24490060;Spanga;Spanga;0,0;0,0;0,0;0,0;0,0;0,0
@@ -503,28 +403,28 @@ NL:Q:24490810;Hoek Spanga;Scherpenzeel;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:24510020;Frieseweg;Oldemarkt;1,2;4,9;0,0;0,0;0,0;0,0
 NL:Q:24510040;Koningin Julianaweg;Oldemarkt;4,7;1,7;0,0;0,0;0,0;0,0
 NL:Q:24510060;Parochiehuis;Oldemarkt;1,5;5,0;0,0;0,0;0,0;0,0
-NL:Q:24510070;Kruisstraat;Oldemarkt;3,9;2,5;0,0;0,0;0,0;0,0
-NL:Q:24510080;Kruisstraat;Oldemarkt;4,4;3,6;0,0;0,0;0,0;0,0
+NL:Q:24510070;Kruisstraat;Oldemarkt;4,0;2,5;0,0;0,0;0,0;0,0
+NL:Q:24510080;Kruisstraat;Oldemarkt;4,4;3,5;0,0;0,0;0,0;0,0
 NL:Q:24510090;De Boterberg;Oldemarkt;0,6;0,5;0,0;0,0;0,0;0,0
-NL:Q:24510100;De Boterberg;Oldemarkt;0,6;0,8;0,0;0,0;0,0;0,0
-NL:Q:24550030;Zuidveen;Zuidveen;1,9;1,9000000000000001;0,5;5,5;0,4;5,3
-NL:Q:24550040;Zuidveen;Zuidveen;2,9;1,8;1,2;0,3;1,2000000000000002;0,2
-NL:Q:24550050;Groot Verlaat;Steenwijk;2,8000000000000003;1,9000000000000001;0,3;0,2;0,4;0,1
-NL:Q:24550060;Groot Verlaat;Steenwijk;1,4000000000000001;2,5;0,3;0,2;0,1;0,4
+NL:Q:24510100;De Boterberg;Oldemarkt;0,7;0,8;0,0;0,0;0,0;0,0
+NL:Q:24550030;Zuidveen;Zuidveen;1,9;1,9;0,5;5,5;0,4;5,4
+NL:Q:24550040;Zuidveen;Zuidveen;2,9;1,8;1,2;0,3;1,2;0,2
+NL:Q:24550050;Groot Verlaat;Steenwijk;2,8;1,9;0,4;0,2;0,4;0,2
+NL:Q:24550060;Groot Verlaat;Steenwijk;1,4;2,5;0,3;0,2;0,1;0,4
 NL:Q:24550160;Dolderbrug;Steenwijk;0,5;1,3;0,0;0,0;0,0;0,0
-NL:Q:24550170;Dolderbrug;Steenwijk;1,1;0,5;0,0;0,0;0,0;0,0
+NL:Q:24550170;Dolderbrug;Steenwijk;1,2;0,5;0,0;0,0;0,0;0,0
 NL:Q:24550250;Station;Steenwijk;131,8;131,3;177,9;137,7;136,2;111,7
-NL:Q:24551420;'t Centrum;Steenwijkerwold;1,8;6,1000000000000005;0,0;0,0;0,0;0,0
+NL:Q:24551420;'t Centrum;Steenwijkerwold;1,8;6,1;0,0;0,0;0,0;0,0
 NL:Q:24552310;Gemeentewerken;Tuk;0,5;0,2;0,0;0,0;0,0;0,0
 NL:Q:24552320;Gemeentewerken;Tuk;0,3;0,6;0,0;0,0;0,0;0,0
 NL:Q:24552330;Oldemarktseweg;Tuk;0,2;0,8;0,0;0,0;0,0;0,0
 NL:Q:24552340;Oldemarktseweg;Tuk;1,1;0,7;0,0;0,0;0,0;0,0
-NL:Q:24552350;Watertoren;Thij;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:24552350;Watertoren;Thij;0,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:24552360;Watertoren;Thij;0,2;0,3;0,0;0,0;0,0;0,0
 NL:Q:24552370;Thij;Thij;0,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:24552380;Thij;Thij;0,2;0,1;0,0;0,0;0,0;0,0
-NL:Q:24590100;Burchtstraat;Kuinre;16,099999999999998;7,2;0,0;0,0;0,0;0,0
-NL:Q:24610010;Venebosweg;Ossenzijl;0,6;0,7;0,0;0,0;0,0;0,0
+NL:Q:24590100;Burchtstraat;Kuinre;16,1;7,2;0,0;0,0;0,0;0,0
+NL:Q:24610010;Venebosweg;Ossenzijl;0,6;0,8;0,0;0,0;0,0;0,0
 NL:Q:24610030;Kloosterdijk;Ossenzijl;0,0;0,3;0,0;0,0;0,0;0,0
 NL:Q:24610040;Kloosterdijk;Ossenzijl;0,8;0,5;0,0;0,0;0,0;0,0
 NL:Q:24620110;Lemsterweg;Rutten;0,0;0,5;0,0;0,0;0,0;0,0
@@ -652,8 +552,8 @@ NL:Q:25170230;Breestraat;Marknesse;37,4;28,8;8,9;10,9;6,4;5,8
 NL:Q:25170240;Breestraat;Marknesse;23,0;36,7;10,9;15,7;5,8;9,0
 NL:Q:25170250;Netl;Kraggenburg;1,0;2,7;0,5;2,8;0,5;1,1
 NL:Q:25170260;Netl;Kraggenburg;1,3;1,3;2,5;1,4;4,2;0,4
-NL:Q:25180010;Busstation;Blokzijl;23,8;19,099999999999998;0,0;0,0;0,0;0,0
-NL:Q:25180020;Busstation;Blokzijl;37,300000000000004;10,700000000000001;0,0;0,0;0,0;0,0
+NL:Q:25180010;Busstation;Blokzijl;23,8;19,1;0,0;0,0;0,0;0,0
+NL:Q:25180020;Busstation;Blokzijl;37,3;10,7;0,0;0,0;0,0;0,0
 NL:Q:25180030;Uiterdijkenweg;Marknesse;1,8;1,6;0,0;0,0;0,0;0,0
 NL:Q:25180040;Uiterdijkenweg;Marknesse;2,3;1,6;0,0;0,0;0,0;0,0
 NL:Q:25180050;Steenwijkerdwarsweg;Marknesse;1,2;0,8;0,0;0,0;0,0;0,0
@@ -692,8 +592,8 @@ NL:Q:25251530;Griend;Urk;0,0;3,2;0,0;0,0;0,0;0,0
 NL:Q:25251540;Griend;Urk;3,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:25251570;Keteldiep;Urk;0,0;0,5;0,0;0,0;0,0;0,0
 NL:Q:25251580;Keteldiep;Urk;0,4;0,0;0,0;0,0;0,0;0,0
-NL:Q:25270010;Clarenberglaan;Vollenhove;78,39999999999999;70,7;23,200000000000003;14,899999999999999;8,8;10,2
-NL:Q:25270020;Clarenberglaan;Vollenhove;118,1;37,300000000000004;29,599999999999998;8,799999999999999;23,099999999999998;3,9
+NL:Q:25270010;Clarenberglaan;Vollenhove;78,4;70,7;23,2;14,9;8,9;10,3
+NL:Q:25270020;Clarenberglaan;Vollenhove;118,0;37,3;29,7;8,8;23,1;4,0
 NL:Q:25270030;Kraggenburg;Kraggenburg;39,4;38,2;15,9;16,2;7,6;8,3
 NL:Q:25270110;Vollenhoverweg/NOP;Marknesse;0,1;0,4;0,1;0,3;0,1;0,3
 NL:Q:25270120;Vollenhoverweg/NOP;Marknesse;0,3;0,2;0,2;0,1;0,2;0,3
@@ -705,41 +605,41 @@ NL:Q:25270170;Voorstersluis;Marknesse;0,1;0,3;0,0;0,2;0,1;0,2
 NL:Q:25270180;Voorstersluis;Marknesse;0,3;0,2;0,1;0,1;0,3;0,0
 NL:Q:25270190;Paardenweg;Kraggenburg;0,8;0,3;0,2;0,1;0,2;0,2
 NL:Q:25270200;Paardenweg;Kraggenburg;0,2;0,8;0,1;0,2;0,0;0,1
-NL:Q:25280010;Boomkwekerij;Scheerwolde;1,8;3,5;0,0;0,0;0,0;0,0
-NL:Q:25280020;Boomkwekerij;Scheerwolde;3,8000000000000003;2,2;0,0;0,0;0,0;0,0
-NL:Q:25280050;Beenderribben;Wetering;0,6;0,2;0,0;0,0;0,0;0,0
+NL:Q:25280010;Boomkwekerij;Scheerwolde;1,8;3,6;0,0;0,0;0,0;0,0
+NL:Q:25280020;Boomkwekerij;Scheerwolde;3,7;2,2;0,0;0,0;0,0;0,0
+NL:Q:25280050;Beenderribben;Wetering;0,7;0,2;0,0;0,0;0,0;0,0
 NL:Q:25280060;Beenderribben;Wetering;0,2;0,7;0,0;0,0;0,0;0,0
-NL:Q:25280070;Wetering;Wetering;1,7000000000000002;0,2;0,0;0,0;0,0;0,0
+NL:Q:25280070;Wetering;Wetering;1,7;0,2;0,0;0,0;0,0;0,0
 NL:Q:25280080;Wetering;Wetering;0,1;1,5;0,0;0,0;0,0;0,0
 NL:Q:25280090;Veldhuisweg;Baarlo;0,1;0,7;0,0;0,0;0,0;0,0
-NL:Q:25280100;Veldhuisweg;Baarlo;1,2000000000000002;0,1;0,0;0,0;0,0;0,0
+NL:Q:25280100;Veldhuisweg;Baarlo;1,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:25300010;Domineesweg;Nagele;3,7;3,2;0,1;0,7;0,0;0,1
 NL:Q:25330300;Zwartemeerweg;Ens;7,1;3,9;7,2;4,9;3,0;0,8
 NL:Q:25330350;Zwartemeerweg;Ens;4,9;4,1;8,2;4,4;1,1;1,9
-NL:Q:25350010;Markeweg;Blesdijke;0,4;0,4;0,0;0,0;0,0;0,0
+NL:Q:25350010;Markeweg;Blesdijke;0,4;0,5;0,0;0,0;0,0;0,0
 NL:Q:25350020;Markeweg;Blesdijke;0,4;0,4;0,0;0,0;0,0;0,0
-NL:Q:25350030;Dalhoeve;Blesdijke;0,1;0,6;0,0;0,0;0,0;0,0
+NL:Q:25350030;Dalhoeve;Blesdijke;0,2;0,6;0,0;0,0;0,0;0,0
 NL:Q:25350040;Dalhoeve;Blesdijke;0,4;0,1;0,0;0,0;0,0;0,0
-NL:Q:25350060;Parochiehuis;Oldemarkt;5,2;1,2;0,0;0,0;0,0;0,0
-NL:Q:25350090;Frieseweg;Oldemarkt;6,6000000000000005;2,1;0,0;0,0;0,0;0,0
-NL:Q:25350310;Koningin Julianaweg;Oldemarkt;2,4;4,3;0,0;0,0;0,0;0,0
+NL:Q:25350060;Parochiehuis;Oldemarkt;5,2;1,3;0,0;0,0;0,0;0,0
+NL:Q:25350090;Frieseweg;Oldemarkt;6,6;2,2;0,0;0,0;0,0;0,0
+NL:Q:25350310;Koningin Julianaweg;Oldemarkt;2,4;4,4;0,0;0,0;0,0;0,0
 NL:Q:25370010;Heetveld;Heetveld;2,0;3,8;0,2;0,9;0,3;0,5
 NL:Q:25370020;Heetveld;Heetveld;3,3;1,8;0,5;0,6;1,0;0,4
 NL:Q:25370070;Prot Chr Basisschool;Heetveld;1,0;4,7;0,3;1,1;0,1;0,4
 NL:Q:25370080;Prot Chr Basisschool;Heetveld;5,7;1,5;1,5;0,2;0,7;0,1
-NL:Q:25380010;Jan van Nassauweg;Scheerwolde;0,7;1,7000000000000002;0,0;0,0;0,0;0,0
-NL:Q:25380020;Jan van Nassauweg;Scheerwolde;2,0;0,8;0,0;0,0;0,0;0,0
+NL:Q:25380010;Jan van Nassauweg;Scheerwolde;0,7;1,6;0,0;0,0;0,0;0,0
+NL:Q:25380020;Jan van Nassauweg;Scheerwolde;1,9;0,8;0,0;0,0;0,0;0,0
 NL:Q:25380030;Smalleweg;Scheerwolde;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:25380040;Smalleweg;Scheerwolde;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:25430010;Noorderrandweg;Kampereiland;0,6;1,5;0,0;0,3;0,2;0,2
+NL:Q:25430010;Noorderrandweg;Kampereiland;0,6;1,4;0,0;0,3;0,2;0,2
 NL:Q:25430020;Noorderrandweg;Kampereiland;1,1;0,6;0,1;0,1;0,1;0,0
-NL:Q:25430030;Rechterveldweg;Kampereiland;0,5;2,1;0,4;1,3;0,30000000000000004;1,3
-NL:Q:25430040;Rechterveldweg;Kampereiland;2,3000000000000003;0,6;1,1;0,3;0,7999999999999999;0,1
-NL:Q:25430050;Natuurbad Seveningen;Kampereiland;0,4;0,7999999999999999;0,3;0,2;0,2;0,1
+NL:Q:25430030;Rechterveldweg;Kampereiland;0,5;2,1;0,4;1,2;0,3;1,3
+NL:Q:25430040;Rechterveldweg;Kampereiland;2,2;0,6;1,1;0,3;0,8;0,1
+NL:Q:25430050;Natuurbad Seveningen;Kampereiland;0,4;0,7;0,3;0,2;0,2;0,1
 NL:Q:25430150;Nesweg;Kampereiland;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:25430200;Kampereiland Kerk;Kampereiland;0,5;1,0;0,0;0,0;0,1;0,0
-NL:Q:25430250;Kampereiland Kerk;Kampereiland;1,0;0,6;0,0;0,1;0,1;0,1
-NL:Q:25430300;Witte Brug;Kampereiland;1,0;0,2;0,4;0,1;0,1;0,1
+NL:Q:25430200;Kampereiland Kerk;Kampereiland;0,6;0,9;0,0;0,0;0,1;0,0
+NL:Q:25430250;Kampereiland Kerk;Kampereiland;1,0;0,7;0,0;0,1;0,1;0,1
+NL:Q:25430300;Witte Brug;Kampereiland;1,1;0,3;0,4;0,1;0,1;0,1
 NL:Q:25430350;Witte Brug;Kampereiland;0,2;1,1;0,0;0,4;0,0;0,2
 NL:Q:25430390;Dam-Noorddiep;Kampereiland;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:25440050;Visvijverweg;Swifterbant;1,8;1,2;0,0;0,0;0,0;0,0
@@ -747,39 +647,39 @@ NL:Q:25440100;Visvijverweg;Swifterbant;1,4;1,5;0,0;0,0;0,0;0,0
 NL:Q:25450810;Kooystraat;Ossenzijl;4,3;1,5;0,0;0,0;0,0;0,0
 NL:Q:25450820;Kooystraat;Ossenzijl;2,1;3,9;0,0;0,0;0,0;0,0
 NL:Q:25450830;Venebosweg;Ossenzijl;0,9;1,2;0,0;0,0;0,0;0,0
-NL:Q:25470010;De Velde;De Velde;0,1;2,1;0,2;0,5;0,1;0,9
-NL:Q:25470020;De Velde;De Velde;1,9000000000000001;0,1;0,7;0,3;0,7;0,0
-NL:Q:25470030;Busstation;Zwartsluis;57,699999999999996;120,4;33,5;54,0;18,8;37,699999999999996
-NL:Q:25470040;Busstation;Zwartsluis;138,70000000000002;66,5;54,8;25,0;36,6;12,0
+NL:Q:25470010;De Velde;De Velde;0,1;2,0;0,2;0,6;0,1;0,9
+NL:Q:25470020;De Velde;De Velde;1,9;0,2;0,7;0,3;0,7;0,0
+NL:Q:25470030;Busstation;Zwartsluis;57,7;120,5;33,6;53,9;18,8;37,7
+NL:Q:25470040;Busstation;Zwartsluis;138,6;66,6;54,8;25,0;36,6;12,0
 NL:Q:25470050;Bejaardencentrum;Zwartsluis;1,5;2,0;0,4;0,1;0,3;0,1
-NL:Q:25470060;Bejaardencentrum;Zwartsluis;1,9;1,4000000000000001;0,0;0,3;0,0;0,2
-NL:Q:25470070;De Krieger;De Krieger;0,1;5,6;0,0;1,3;0,0;0,3
-NL:Q:25470080;De Krieger;De Krieger;6,6000000000000005;0,2;0,9;0,1;0,6;0,1
-NL:Q:25470081;De Krieger;De Krieger;0,1;1,9000000000000001;0,0;0,0;0,0;0,0
-NL:Q:25480010;Chr. Basisschool;Kamperzeedijk;3,4000000000000004;1,2;0,0;0,0;0,0;0,0
-NL:Q:25480020;Chr. Basisschool;Kamperzeedijk;1,9000000000000001;3,2;0,0;0,0;0,0;0,0
-NL:Q:25580010;Nieuweweg;Genemuiden;6,1;10,7;0,0;1,0;0,0;0,0
-NL:Q:25580020;Nieuweweg;Genemuiden;15,200000000000001;5,1;1,6;0,0;0,0;0,0
+NL:Q:25470060;Bejaardencentrum;Zwartsluis;1,9;1,5;0,0;0,3;0,0;0,2
+NL:Q:25470070;De Krieger;De Krieger;0,1;5,6;0,0;1,3;0,0;0,4
+NL:Q:25470080;De Krieger;De Krieger;6,6;0,2;0,9;0,1;0,6;0,1
+NL:Q:25470081;De Krieger;De Krieger;0,1;1,9;0,0;0,0;0,0;0,0
+NL:Q:25480010;Chr. Basisschool;Kamperzeedijk;3,5;1,2;0,0;0,0;0,0;0,0
+NL:Q:25480020;Chr. Basisschool;Kamperzeedijk;1,9;3,2;0,0;0,0;0,0;0,0
+NL:Q:25580010;Nieuweweg;Genemuiden;6,1;10,7;0,1;1,0;0,0;0,0
+NL:Q:25580020;Nieuweweg;Genemuiden;15,1;5,0;1,7;0,1;0,0;0,0
 NL:Q:25580030;'t TAG;Genemuiden;16,0;21,5;0,1;3,7;0,0;0,0
-NL:Q:25580040;'t TAG;Genemuiden;40,4;37,4;4,6000000000000005;0,30000000000000004;0,0;0,0
+NL:Q:25580040;'t TAG;Genemuiden;40,4;37,5;4,6;0,3;0,0;0,0
 NL:Q:25630030;Vahl;IJsselmuiden;0,2;0,7;0,0;0,0;0,0;0,0
 NL:Q:25630040;Vahl;IJsselmuiden;0,0;0,4;0,0;0,0;0,0;0,0
-NL:Q:25630050;Fuite;IJsselmuiden;0,1;1,4000000000000001;0,0;0,0;0,0;0,0
+NL:Q:25630050;Fuite;IJsselmuiden;0,2;1,4;0,0;0,0;0,0;0,0
 NL:Q:25630060;Fuite;IJsselmuiden;1,6;0,2;0,0;0,0;0,0;0,0
-NL:Q:25630070;Plasweg;IJsselmuiden;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:25630070;Plasweg;IJsselmuiden;0,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:25630080;Plasweg;IJsselmuiden;0,3;0,2;0,0;0,0;0,0;0,0
-NL:Q:25630090;Groenendael;IJsselmuiden;1,2000000000000002;0,7;0,0;0,0;0,0;0,0
-NL:Q:25630100;Groenendael;IJsselmuiden;0,7999999999999999;0,9;0,0;0,0;0,0;0,0
-NL:Q:25630110;R.K. Kerk;IJsselmuiden;0,6;1,2;0,0;0,0;0,0;0,0
-NL:Q:25630120;R.K. Kerk;IJsselmuiden;1,1;0,5;0,0;0,0;0,0;0,0
+NL:Q:25630090;Groenendael;IJsselmuiden;1,2;0,7;0,0;0,0;0,0;0,0
+NL:Q:25630100;Groenendael;IJsselmuiden;0,7;0,9;0,0;0,0;0,0;0,0
+NL:Q:25630110;R.K. Kerk;IJsselmuiden;0,5;1,2;0,0;0,0;0,0;0,0
+NL:Q:25630120;R.K. Kerk;IJsselmuiden;1,2;0,6;0,0;0,0;0,0;0,0
 NL:Q:25670010;H. van Viandenplein;Hasselt;0,4;8,3;0,0;0,0;0,0;0,0
 NL:Q:25670020;H. van Viandenplein;Hasselt;8,2;0,4;0,0;0,0;0,0;0,0
-NL:Q:25670030;Centrum;Hasselt;44,9;199,5;9,9;86,4;4,6;36,5
-NL:Q:25670040;Centrum;Hasselt;262,6;109,89999999999999;109,39999999999999;34,4;35,8;4,6
+NL:Q:25670030;Centrum;Hasselt;44,9;199,5;10,0;86,4;4,6;36,5
+NL:Q:25670040;Centrum;Hasselt;262,7;109,9;109,3;34,3;35,8;4,6
 NL:Q:25680010;Sluis;Beukers;0,1;0,1;0,1;0,0;0,0;0,1
 NL:Q:25680020;Sluis;Beukers;0,0;0,1;0,0;0,1;0,0;0,0
-NL:Q:25680030;Blauwe Hand;Blauwe Hand;1,9000000000000001;3,6;0,6;3,8;0,4;3,5
-NL:Q:25680040;Blauwe Hand;Blauwe Hand;4,199999999999999;2,7;3,5;0,4;2,0;0,4
+NL:Q:25680030;Blauwe Hand;Blauwe Hand;1,9;3,6;0,6;3,8;0,4;3,5
+NL:Q:25680040;Blauwe Hand;Blauwe Hand;4,2;2,7;3,5;0,5;2,0;0,4
 NL:Q:25770010;Mannagras;Zwolle;1,3;8,1;0,5;6,6;0,3;3,3
 NL:Q:25770020;Mannagras;Zwolle;10,0;2,0;7,4;1,4;3,3;1,1
 NL:Q:25770030;Klokkengieterlaan;Zwolle;22,6;1,5;17,0;0,3;10,1;0,6
@@ -794,28 +694,28 @@ NL:Q:25770110;Fioringras;Zwolle;33,5;4,2;27,5;3,4;13,9;1,8
 NL:Q:25770115;Fioringras;Zwolle;3,7;28,0;2,0;20,5;1,4;12,4
 NL:Q:25770230;Bandijklaan;Zwolle;5,0;28,7;1,2;14,8;0,6;6,6
 NL:Q:25770240;Bandijklaan;Zwolle;32,1;3,5;19,0;0,8;8,1;0,5
-NL:Q:25780010;Dominee Hylkemaweg;Giethoorn;51,9;10,7;120,2;16,200000000000003;96,8;13,399999999999999
-NL:Q:25780020;Dominee Hylkemaweg;Giethoorn;9,700000000000001;45,699999999999996;13,2;123,8;9,3;94,39999999999999
-NL:Q:25780030;Kerkweg;Giethoorn;4,5;1,5;5,3;0,8;2,8;0,4
-NL:Q:25780040;Kerkweg;Giethoorn;1,8;6,7;1,5;12,1;0,8;8,0
-NL:Q:25780050;Hotel Harmonie;Giethoorn;1,5;0,4;1,5;0,6;1,4;0,3
-NL:Q:25780060;Hotel Harmonie;Giethoorn;0,5;1,0;0,8;1,5;1,5;1,2
-NL:Q:25830110;Oranjesingel;Kampen;5,0;4,5;0,3;0,2;0,0;0,0
+NL:Q:25780010;Dominee Hylkemaweg;Giethoorn;51,8;10,6;120,2;16,1;96,8;13,4
+NL:Q:25780020;Dominee Hylkemaweg;Giethoorn;9,6;45,7;13,2;123,7;9,4;94,4
+NL:Q:25780030;Kerkweg;Giethoorn;4,5;1,5;5,4;0,8;2,9;0,4
+NL:Q:25780040;Kerkweg;Giethoorn;1,9;6,7;1,6;12,1;0,9;7,9
+NL:Q:25780050;Hotel Harmonie;Giethoorn;1,6;0,4;1,5;0,6;1,4;0,3
+NL:Q:25780060;Hotel Harmonie;Giethoorn;0,5;1,0;0,8;1,5;1,5;1,3
+NL:Q:25830110;Oranjesingel;Kampen;4,9;4,5;0,3;0,2;0,0;0,0
 NL:Q:25830170;Station Zuid;Kampen;56,1;49,3;5,2;4,0;0,0;0,0
-NL:Q:25830190;Station Zuid;Kampen;15,6;15,1;4,6;4,6;0,0;0,1
-NL:Q:25830290;Amandelboom;Kampen;5,2;5,5;0,7;0,5;0,0;0,0
-NL:Q:25830300;Andoorn;Kampen;5,3999999999999995;6,9;1,0;0,8999999999999999;0,0;0,0
-NL:Q:25830310;Sterrekroos;Kampen;10,0;9,3;2,0;1,3;0,0;0,0
-NL:Q:25830320;Hilbert v Dijkstraat;Kampen;5,1000000000000005;4,6;0,6;0,9;0,0;0,0
-NL:Q:25830330;Doctor Kolfflaan;Kampen;5,6000000000000005;4,3;0,4;0,8;0,0;0,0
-NL:Q:25830490;Bovenbroeksweg;Kampen;3,0;0,8;1,6;0,2;0,0;0,0
+NL:Q:25830190;Station Zuid;Kampen;15,6;15,2;4,6;4,6;0,0;0,1
+NL:Q:25830290;Amandelboom;Kampen;5,2;5,4;0,8;0,6;0,0;0,0
+NL:Q:25830300;Andoorn;Kampen;5,4;7,0;1,0;0,9;0,0;0,0
+NL:Q:25830310;Sterrekroos;Kampen;10,0;9,2;2,0;1,3;0,0;0,0
+NL:Q:25830320;Hilbert v Dijkstraat;Kampen;5,1;4,6;0,6;0,9;0,0;0,0
+NL:Q:25830330;Doctor Kolfflaan;Kampen;5,7;4,3;0,4;0,8;0,0;0,0
+NL:Q:25830490;Bovenbroeksweg;Kampen;3,0;0,8;1,6;0,3;0,0;0,0
 NL:Q:25830550;Kwekerije;Kampen;0,2;2,3;0,2;0,7;0,0;0,0
-NL:Q:25830560;Europa Allee;Kampen;3,0999999999999996;1,0;0,4;0,0;0,0;0,0
-NL:Q:25830570;Symfonielaan;Kampen;0,4;2,0;0,0;0,2;0,0;0,0
-NL:Q:25830580;Lovinkstraat;Kampen;15,4;19,4;3,5;4,5;0,0;0,2
-NL:Q:25830590;Lange Akker;Kampen;1,4;2,1;0,1;0,4;0,0;0,0
-NL:Q:25830600;Begraafplaats Bovenbroek;Kampen;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:25830610;Jan van Arkelstraat;Kampen;0,0;1,6;0,0;0,30000000000000004;0,0;0,0
+NL:Q:25830560;Europa Allee;Kampen;3,1;0,9;0,3;0,0;0,0;0,0
+NL:Q:25830570;Symfonielaan;Kampen;0,4;2,0;0,1;0,2;0,0;0,0
+NL:Q:25830580;Lovinkstraat;Kampen;15,4;19,4;3,5;4,6;0,0;0,2
+NL:Q:25830590;Lange Akker;Kampen;1,5;2,1;0,1;0,4;0,0;0,0
+NL:Q:25830600;Begraafplaats Bovenbroek;Kampen;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:25830610;Jan van Arkelstraat;Kampen;0,1;1,6;0,0;0,3;0,0;0,0
 NL:Q:40000090;Station Velperpoort;Arnhem;548,8;307,8;245,3;208,9;164,4;156,7
 NL:Q:40000100;Station Velperpoort;Arnhem;320,3;505,3;221,4;205,8;143,9;140,7
 NL:Q:40000110;Hoflaan;Arnhem;92,7;565,6;36,6;197,6;27,0;161,8
@@ -1528,6 +1428,7 @@ NL:Q:40400530;van Uvenweg;Wageningen;22,2;2,6;21,2;1,2;14,2;0,9
 NL:Q:40400540;van Uvenweg;Wageningen;3,0;23,0;3,1;19,2;0,9;17,1
 NL:Q:40402017;Bosweg;Bennekom;0,3;0,1;0,1;0,1;0,2;0,1
 NL:Q:40405000;Busstation;Wageningen;119,7;108,8;178,2;114,9;78,4;97,7
+NL:Q:40405010;;;6,6;0,0;4,6;0,0;2,8;0,0
 NL:Q:40405012;Busstation;Wageningen;110,4;338,0;100,4;270,8;54,0;251,5
 NL:Q:40405013;Busstation;Wageningen;649,6;319,6;591,1;260,0;280,8;345,3
 NL:Q:40406007;Dolderstraat;Wageningen;3,2;1,2;4,2;0,8;2,9;0,6
@@ -4965,7 +4866,7 @@ NL:Q:46100150;Havezathentunnel;Zwolle;16,0;5,2;9,6;1,6;4,7;1,1
 NL:Q:46100160;Havezathentunnel;Zwolle;1,1;7,3;1,8;6,2;0,3;3,5
 NL:Q:46100170;Nijenhuislaan;Zwolle;18,6;3,5;14,8;3,1;7,2;1,4
 NL:Q:46100180;Nijenhuislaan;Zwolle;2,3;15,9;1,4;11,5;0,7;6,6
-NL:Q:46100230;Bonkenhavestraat;Zwolle;7,3999999999999995;4,0;0,0;0,0;0,0;0,0
+NL:Q:46100230;Bonkenhavestraat;Zwolle;7,3;3,9;0,0;0,0;0,0;0,0
 NL:Q:46100240;Bonkenhavestraat;Zwolle;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:46100320;Breecamp;Zwolle;18,0;5,3;10,2;2,5;5,3;1,4
 NL:Q:46100330;Breecamp;Zwolle;4,4;21,1;1,8;9,4;1,5;6,0
@@ -5002,10 +4903,10 @@ NL:Q:46120060;Bedrijvenpark Hessenpoort;Zwolle;3,7;13,6;0,1;0,3;0,0;0,0
 NL:Q:46120090;Bergkloosterweg;Zwolle;5,9;6,2;1,8;3,4;0,9;2,1
 NL:Q:46120100;Bentheimstraat;Zwolle;47,6;6,8;37,9;2,2;21,6;1,2
 NL:Q:46120110;Bentheimstraat;Zwolle;8,1;37,1;2,7;12,2;1,2;4,8
-NL:Q:46120120;Vechtbrug;Zwolle;4,6;2,0;2,1;0,3;1,2;0,3
+NL:Q:46120120;Vechtbrug;Zwolle;4,6;1,9;2,1;0,3;1,2;0,3
 NL:Q:46120130;Vechtbrug;Zwolle;1,0;3,4;0,1;2,0;0,2;0,9
-NL:Q:46120140;Bergkloosterweg;Zwolle;7,3;4,4;6,6;1,0;4,2;1,1
-NL:Q:46120160;Campherbeeklaan;Zwolle;12,2;5,0;5,0;0,7;2,5;0,6
+NL:Q:46120140;Bergkloosterweg;Zwolle;7,2;4,4;6,6;1,0;4,2;1,1
+NL:Q:46120160;Campherbeeklaan;Zwolle;12,2;5,1;5,0;0,7;2,5;0,6
 NL:Q:46120200;Campherbeeklaan;Zwolle;3,1;7,5;0,8;2,3;0,2;1,0
 NL:Q:46120210;Pommerenstraat;Zwolle;3,9;5,3;0,0;0,0;0,0;0,0
 NL:Q:46120230;Paderbornstraat;Zwolle;6,4;7,6;0,0;0,0;0,0;0,0
@@ -5101,17 +5002,17 @@ NL:Q:46300550;Van der Capellenweg;Heino;1,6;0,7;0,0;0,0;0,0;0,0
 NL:Q:46300600;Jonkman;Heino;0,9;1,6;0,0;0,0;0,0;0,0
 NL:Q:46301000;Prunus;Heino;0,2;0,3;0,0;0,0;0,0;0,0
 NL:Q:46301050;Prunus;Heino;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:46301120;Industrieweg;Hasselt;5,2;3,7;3,9;0,5;2,7;0,3
+NL:Q:46301120;Industrieweg;Hasselt;5,2;3,7;3,9;0,4;2,7;0,4
 NL:Q:46302010;Zandvoortweg;Hasselt;0,0;0,6;0,0;0,0;0,0;0,0
-NL:Q:46302030;De Baak;Hasselt;0,1;5,2;0,0;0,0;0,0;0,0
+NL:Q:46302030;De Baak;Hasselt;0,2;5,2;0,0;0,0;0,0;0,0
 NL:Q:46302040;De Baak;Hasselt;7,6;0,0;0,0;0,0;0,0;0,0
 NL:Q:46302050;Kerspel;Hasselt;0,1;5,0;0,0;0,0;0,0;0,0
-NL:Q:46302060;Kerspel;Hasselt;6,8;0,1;0,0;0,0;0,0;0,0
+NL:Q:46302060;Kerspel;Hasselt;6,9;0,1;0,0;0,0;0,0;0,0
 NL:Q:46302070;Sportvelden;Hasselt;0,4;1,0;0,0;0,0;0,0;0,0
 NL:Q:46302080;Sportvelden;Hasselt;1,6;0,3;0,0;0,0;0,0;0,0
-NL:Q:46302090;Stadsweg;Hasselt;0,5;3,0;0,4;2,1;0,1;1,7000000000000002
-NL:Q:46302100;Stadsweg;Hasselt;4,8;0,6;2,9;0,3;1,9000000000000001;0,2
-NL:Q:46302110;Industrieweg;Hasselt;3,9;6,1000000000000005;0,5;4,1;0,3;3,1
+NL:Q:46302090;Stadsweg;Hasselt;0,6;3,1;0,4;2,1;0,1;1,7
+NL:Q:46302100;Stadsweg;Hasselt;4,8;0,6;2,9;0,4;1,9;0,2
+NL:Q:46302110;Industrieweg;Hasselt;3,9;6,2;0,5;4,1;0,3;3,0
 NL:Q:46302120;Ter Wee;Hasselt;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:46302130;Ter Wee;Hasselt;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:46302140;Matenweg;Hasselt;0,0;0,0;0,0;0,0;0,0;0,0
@@ -5207,42 +5108,42 @@ NL:Q:46430550;Parallelstraat;Lemelerveld;3,9;1,5;0,0;0,0;0,0;0,0
 NL:Q:46430600;Posthoornweg;Lemelerveld;0,0;0,6;0,0;0,0;0,0;0,0
 NL:Q:46430700;Parallelstraat;Lemelerveld;0,0;1,7;0,0;0,0;0,0;0,0
 NL:Q:46450340;Varkensmarkt;Raalte;0,0;0,7;0,0;0,0;0,0;0,0
-NL:Q:46501010;Kranerweerd;Zwartsluis;0,8;5,7;0,2;1,9;0,1;1,4
-NL:Q:46501020;Kranerweerd;Zwartsluis;3,7;0,6;0,5;0,3;0,7;0,3
-NL:Q:46501030;Nieuwesluis;Zwartsluis;1,7;22,200000000000003;1,1;11,600000000000001;1,1;7,7
-NL:Q:46501040;Nieuwesluis;Zwartsluis;20,0;1,6;9,4;0,7;6,3999999999999995;0,6
+NL:Q:46501010;Kranerweerd;Zwartsluis;0,8;5,6;0,2;1,9;0,1;1,5
+NL:Q:46501020;Kranerweerd;Zwartsluis;3,8;0,6;0,5;0,3;0,7;0,3
+NL:Q:46501030;Nieuwesluis;Zwartsluis;1,7;22,2;1,1;11,6;1,1;7,7
+NL:Q:46501040;Nieuwesluis;Zwartsluis;20,1;1,6;9,4;0,7;6,4;0,6
 NL:Q:46501050;Zomerdijk;Zwartsluis;0,4;0,0;0,1;0,1;0,2;0,0
 NL:Q:46501060;Zomerdijk;Zwartsluis;0,0;0,4;0,0;0,1;0,0;0,1
-NL:Q:46501070;Westeinde - Rotonde;Zwartsluis;0,5;15,1;0,4;3,4;0,6;2,1
+NL:Q:46501070;Westeinde - Rotonde;Zwartsluis;0,5;15,1;0,4;3,5;0,6;2,1
 NL:Q:46501080;Westeinde - Rotonde;Zwartsluis;16,3;0,5;4,3;0,6;2,0;0,7
-NL:Q:46511010;De Noorde;Zwartsluis;1,3;1,1;1,4;1,3;0,5;2,8
+NL:Q:46511010;De Noorde;Zwartsluis;1,3;1,0;1,4;1,3;0,5;2,8
 NL:Q:46511020;De Noorde;Zwartsluis;0,8;2,6;1,9;1,5;2,3;1,1
-NL:Q:46511030;Zieltje;Zwartsluis;0,1;0,1;0,0;0,1;0,0;0,0
+NL:Q:46511030;Zieltje;Zwartsluis;0,1;0,2;0,0;0,1;0,0;0,0
 NL:Q:46511040;Zieltje;Zwartsluis;0,1;0,1;0,1;0,0;0,1;0,0
-NL:Q:46520010;Flevoweg;Sint Jansklooster;15,3;7,8999999999999995;2,3;2,8;1,4;1,2
+NL:Q:46520010;Flevoweg;Sint Jansklooster;15,3;7,9;2,3;2,8;1,5;1,3
 NL:Q:46520020;Flevoweg;Sint Jansklooster;6,6;14,5;2,7;2,6;0,8;1,0
-NL:Q:46520030;Veneweg;Sint Jansklooster;17,6;5,9;3,9000000000000004;1,7;3,6;0,9
+NL:Q:46520030;Veneweg;Sint Jansklooster;17,6;5,9;3,9;1,8;3,6;1,0
 NL:Q:46520040;Veneweg;Sint Jansklooster;6,2;17,4;2,2;3,7;1,0;3,2
-NL:Q:46522010;Barsbeek;Heetveld;0,5;1,7000000000000002;0,0;0,5;0,1;0,2
+NL:Q:46522010;Barsbeek;Heetveld;0,5;1,6;0,0;0,6;0,1;0,2
 NL:Q:46522020;Barsbeek;Heetveld;2,0;0,5;0,7;0,1;0,3;0,1
 NL:Q:46522070;Barsbeek 36;Sint Jansklooster;1,4;1,8;0,0;0,3;0,1;0,2
 NL:Q:46522080;Barsbeek 36;Sint Jansklooster;1,7;1,5;0,2;0,1;0,5;0,1
 NL:Q:46522090;Kadoelen;Kadoelen;0,5;1,7;0,2;0,3;0,2;0,1
 NL:Q:46522100;Kadoelen;Kadoelen;1,7;0,8;0,2;0,3;0,2;0,2
-NL:Q:46522110;Dennenbos;Sint Jansklooster;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:46522110;Dennenbos;Sint Jansklooster;0,0;0,4;0,0;0,0;0,0;0,0
 NL:Q:46522120;Dennenbos;Sint Jansklooster;1,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:46522130;Oldenhof Kadoelerweg;Sint Jansklooster;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:46522140;Oldenhof Kadoelerweg;Sint Jansklooster;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:46522150;Halleweg;Sint Jansklooster;0,0;0,5;0,0;0,0;0,0;0,0
-NL:Q:46522160;Halleweg;Sint Jansklooster;0,30000000000000004;0,0;0,0;0,0;0,0;0,0
+NL:Q:46522160;Halleweg;Sint Jansklooster;0,3;0,0;0,0;0,0;0,0;0,0
 NL:Q:46522170;Zuurbeek;Sint Jansklooster;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:46522180;Zuurbeek;Sint Jansklooster;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:46531010;Verlengde Duinweg;Sint Jansklooster;1,2000000000000002;1,7000000000000002;0,4;0,4;0,3;0,2
-NL:Q:46531020;Verlengde Duinweg;Sint Jansklooster;1,5;1,3;0,1;0,5;0,3;0,3
-NL:Q:46531030;Weyert;Vollenhove;5,3;12,600000000000001;0,6;3,4;0,2;2,6
-NL:Q:46531040;Weyert;Vollenhove;12,0;5,5;2,3;1,1;1,4000000000000001;0,2
-NL:Q:46531050;Zwembad;Vollenhove;11,3;13,700000000000001;2,9;7,5;2,4000000000000004;5,0
-NL:Q:46531060;Zwembad;Vollenhove;17,5;13,700000000000001;8,8;3,8;7,8;2,3000000000000003
+NL:Q:46531010;Verlengde Duinweg;Sint Jansklooster;1,1;1,6;0,4;0,4;0,3;0,2
+NL:Q:46531020;Verlengde Duinweg;Sint Jansklooster;1,5;1,3;0,1;0,6;0,3;0,3
+NL:Q:46531030;Weyert;Vollenhove;5,3;12,7;0,6;3,5;0,2;2,6
+NL:Q:46531040;Weyert;Vollenhove;11,9;5,5;2,3;1,1;1,4;0,2
+NL:Q:46531050;Zwembad;Vollenhove;11,3;13,7;2,9;7,5;2,4;4,9
+NL:Q:46531060;Zwembad;Vollenhove;17,5;13,7;8,9;3,8;7,8;2,3
 NL:Q:46540050;Pleegsterhalte;Pleegste;0,1;0,1;0,2;0,0;0,0;0,0
 NL:Q:46540100;De Heuvel;Pleegste;0,7;2,3;0,2;0,8;0,2;0,4
 NL:Q:46540150;Van Rossum;Pleegste;0,5;0,1;0,3;0,1;1,0;0,0
@@ -5253,18 +5154,18 @@ NL:Q:46540350;De Heuvel;Pleegste;2,6;0,4;0,5;0,2;0,5;0,0
 NL:Q:46540400;Pleegsterhalte;Pleegste;0,1;0,3;0,0;0,2;0,0;0,1
 NL:Q:46540450;De Hoven;Raalte;15,5;4,0;6,4;1,1;5,4;0,8
 NL:Q:46540500;Broeklanderweg;Wesepe;0,8;2,2;0,2;1,4;0,1;0,6
-NL:Q:46541010;Overtoom;Genemuiden;35,8;24,9;9,5;0,1;0,0;0,0
-NL:Q:46541020;Overtoom;Genemuiden;17,1;19,2;0,30000000000000004;7,0;0,0;0,0
-NL:Q:46541030;Hervormd Centrum;Genemuiden;17,5;13,6;2,4;0,1;0,0;0,0
-NL:Q:46541040;Hervormd Centrum;Genemuiden;5,3999999999999995;9,4;0,0;1,7000000000000002;0,0;0,0
-NL:Q:46541050;De Meente;Genemuiden;8,9;14,299999999999999;0,1;3,6999999999999997;0,0;0,0
-NL:Q:46541060;De Meente;Genemuiden;29,6;20,1;5,3999999999999995;0,2;0,0;0,0
+NL:Q:46541010;Overtoom;Genemuiden;35,8;24,9;9,6;0,1;0,0;0,0
+NL:Q:46541020;Overtoom;Genemuiden;17,1;19,2;0,3;7,0;0,0;0,0
+NL:Q:46541030;Hervormd Centrum;Genemuiden;17,4;13,6;2,4;0,1;0,0;0,0
+NL:Q:46541040;Hervormd Centrum;Genemuiden;5,4;9,5;0,0;1,7;0,0;0,0
+NL:Q:46541050;De Meente;Genemuiden;8,8;14,3;0,1;3,7;0,0;0,0
+NL:Q:46541060;De Meente;Genemuiden;29,6;20,2;5,4;0,2;0,0;0,0
 NL:Q:46552030;Oude Stoomgemaal;Genemuiden;0,1;0,2;0,0;0,0;0,0;0,0
 NL:Q:46552040;Oude Stoomgemaal;Genemuiden;0,2;0,1;0,0;0,0;0,0;0,0
 NL:Q:46552050;Kamperzeedijk 21;Kamperzeedijk;0,3;0,1;0,0;0,0;0,0;0,0
 NL:Q:46552060;Kamperzeedijk 21;Kamperzeedijk;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:46560010;Kamperzeedijk/West;Kamperzeedijk;1,7000000000000002;1,0;0,0;0,0;0,0;0,0
-NL:Q:46560020;Kamperzeedijk/West;Kamperzeedijk;1,0;1,7000000000000002;0,0;0,0;0,0;0,0
+NL:Q:46560010;Kamperzeedijk/West;Kamperzeedijk;1,7;1,0;0,0;0,0;0,0;0,0
+NL:Q:46560020;Kamperzeedijk/West;Kamperzeedijk;1,0;1,7;0,0;0,0;0,0;0,0
 NL:Q:46560050;Nieuwe Gemaal;Kamperzeedijk;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:46560060;Nieuwe Gemaal;Kamperzeedijk;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:46560070;Mandjeswaard;Grafhorst;0,1;0,0;0,0;0,0;0,0;0,0
@@ -5280,8 +5181,8 @@ NL:Q:46601020;Kasteel Eerde;Eerde;0,5;4,3;0,1;1,6;0,0;0,0
 NL:Q:46601050;Steile Oever;Ommen;0,2;0,1;0,2;0,1;0,0;0,0
 NL:Q:46601060;Steile Oever;Ommen;0,1;0,3;0,0;0,1;0,0;0,0
 NL:Q:46601080;Besthmen;Ommen;0,1;0,1;0,1;0,2;0,0;0,0
-NL:Q:46602010;Belterweg;Belt Schutsloot;0,9;0,6;0,5;0,2;0,2;0,1
-NL:Q:46602020;Belterweg;Belt Schutsloot;0,6;0,9;0,1;0,5;0,1;0,1
+NL:Q:46602010;Belterweg;Belt Schutsloot;1,0;0,6;0,5;0,2;0,2;0,1
+NL:Q:46602020;Belterweg;Belt Schutsloot;0,6;1,0;0,1;0,5;0,1;0,1
 NL:Q:46610650;Station;Ommen;68,9;62,4;14,1;11,2;0,0;0,0
 NL:Q:46610770;Guido de Bresschool;Ommen;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:46611210;Markt;Ommen;2,5;0,7;0,0;0,0;0,0;0,0
@@ -5292,12 +5193,12 @@ NL:Q:46613020;Danteweg;Ommen;0,0;0,5;0,0;0,0;0,0;0,0
 NL:Q:46613030;Danteweg;Ommen;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:46613050;Centrum;Ommen;6,5;0,2;2,2;0,1;0,0;0,0
 NL:Q:46613060;Centrum;Ommen;1,4;11,2;0,4;2,3;0,0;0,0
-NL:Q:46630110;Strandje;Belt Schutsloot;0,1;0,0;0,2;0,0;0,2;0,1
-NL:Q:46630120;Strandje;Belt Schutsloot;0,0;0,1;0,0;0,2;0,1;0,2
-NL:Q:46630130;Giethoorn Zuid;Giethoorn;2,4;1,3;4,3;1,2;4,7;1,2
-NL:Q:46630140;Giethoorn Zuid;Giethoorn;1,0;2,2;0,8;6,5;0,7999999999999999;5,0
-NL:Q:46630150;Hollands Venetië;Giethoorn;7,1000000000000005;2,9;16,1;2,2;13,4;2,2
-NL:Q:46630160;Hollands Venetië;Giethoorn;2,3;6,1;2,0;13,5;1,8;13,0
+NL:Q:46630110;Strandje;Belt Schutsloot;0,2;0,0;0,2;0,0;0,2;0,1
+NL:Q:46630120;Strandje;Belt Schutsloot;0,0;0,1;0,0;0,2;0,1;0,3
+NL:Q:46630130;Giethoorn Zuid;Giethoorn;2,3;1,4;4,3;1,2;4,7;1,2
+NL:Q:46630140;Giethoorn Zuid;Giethoorn;1,0;2,1;0,9;6,5;0,8;5,0
+NL:Q:46630150;Hollands Venetië;Giethoorn;7,1;2,9;16,2;2,2;13,5;2,2
+NL:Q:46630160;Hollands Venetië;Giethoorn;2,3;6,1;2,0;13,4;1,9;13,0
 NL:Q:46630170;Hervormde Kerk;Wanneperveen;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:46630180;Hervormde Kerk;Wanneperveen;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:46630190;Veldweg;Wanneperveen;0,0;0,1;0,0;0,0;0,0;0,0
@@ -5314,12 +5215,12 @@ NL:Q:46640250;Velsdijk;Wesepe;7,6;3,1;2,9;0,9;2,9;0,8
 NL:Q:46640300;Boxbergerweg;Wesepe;1,8;4,3;0,4;1,8;0,3;1,5
 NL:Q:46640350;Broeklanderweg;Wesepe;2,0;0,5;0,9;0,1;0,5;0,2
 NL:Q:46640400;Klooster Nieuw Sion;Schalkhaar;0,8;3,7;0,9;3,8;0,5;1,6
-NL:Q:46641030;Groene Kruis;Giethoorn;4,5;3,0;5,8;1,0;4,1;1,0
-NL:Q:46641040;Groene Kruis;Giethoorn;3,2;3,0;1,5;4,3;1,0;2,5
-NL:Q:46650010;Lindehof;Giethoorn;2,9000000000000004;0,4;1,5;0,6;1,2;0,7
+NL:Q:46641030;Groene Kruis;Giethoorn;4,5;3,0;5,9;1,1;4,1;1,0
+NL:Q:46641040;Groene Kruis;Giethoorn;3,2;2,9;1,5;4,3;1,0;2,5
+NL:Q:46650010;Lindehof;Giethoorn;2,8;0,4;1,5;0,6;1,2;0,7
 NL:Q:46650020;Lindehof;Giethoorn;0,4;2,4;0,6;2,9;0,7;1,5
-NL:Q:46650030;Brug;Giethoorn;1,2000000000000002;0,3;0,2;0,2;0,30000000000000004;0,1
-NL:Q:46650040;Brug;Giethoorn;0,4;1,2;0,1;0,3;0,0;0,2
+NL:Q:46650030;Brug;Giethoorn;1,2;0,3;0,2;0,2;0,2;0,1
+NL:Q:46650040;Brug;Giethoorn;0,5;1,2;0,1;0,4;0,0;0,2
 NL:Q:46650050;Perceel 9;Giethoorn;0,1;0,0;0,2;0,0;0,1;0,0
 NL:Q:46650060;Perceel 9;Giethoorn;0,0;0,1;0,1;0,2;0,0;0,1
 NL:Q:46660030;Nieuwedijk;Dinxterveen;0,0;0,0;0,0;0,0;0,0;0,0
@@ -5372,9 +5273,9 @@ NL:Q:46920030;;;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:46970010;Stevenskamp;Heeten;0,3;0,2;0,0;0,0;0,0;0,0
 NL:Q:46970020;Stevenskamp;Heeten;0,1;0,6;0,0;0,0;0,0;0,0
 NL:Q:47130010;Hasselterweg;Zwolle;16,2;33,4;7,2;8,6;3,9;6,7
-NL:Q:47130020;Hasselterweg;Zwolle;10,6;15,5;3,3000000000000003;6,9;3,3000000000000003;4,8
+NL:Q:47130020;Hasselterweg;Zwolle;10,6;15,5;3,3;6,9;3,3;4,8
 NL:Q:47130030;Zwolseweg;Zwolle;0,3;1,5;0,4;0,8;0,1;0,4
-NL:Q:47130040;Zwolseweg;Zwolle;0,7;0,4;0,4;0,7;0,2;0,2
+NL:Q:47130040;Zwolseweg;Zwolle;0,8;0,4;0,4;0,7;0,2;0,2
 NL:Q:47130100;Veecaten;'s-Heerenbroek;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:47130150;Veecaten;'s-Heerenbroek;0,0;0,1;0,0;0,0;0,0;0,0
 NL:Q:47130200;Bisschopswetering;'s-Heerenbroek;0,2;0,7;0,0;0,0;0,0;0,0
@@ -5400,7 +5301,7 @@ NL:Q:47140070;Rommestraat;Zwolle;19,0;12,3;12,0;6,8;7,4;4,7
 NL:Q:47140100;Zuidberg;Wijhe;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:47140110;Kerk;Laag-Zuthem;2,1;1,9;0,0;0,0;0,0;0,0
 NL:Q:47140150;Herxerenk;Wijhe;0,0;0,4;0,0;0,0;0,0;0,0
-NL:Q:47140160;Brinkweg;Zalk;0,6;0,0;0,0;0,0;0,0;0,0
+NL:Q:47140160;Brinkweg;Zalk;0,7;0,0;0,0;0,0;0,0;0,0
 NL:Q:47140200;Herxen;Wijhe;0,4;0,1;0,0;0,0;0,0;0,0
 NL:Q:47140250;Brug;Windesheim;0,6;1,7;0,0;0,0;0,0;0,0
 NL:Q:47140300;Herxerenk;Wijhe;0,5;0,1;0,0;0,0;0,0;0,0
@@ -5502,66 +5403,66 @@ NL:Q:47320070;Koelucht;De Zande;0,1;0,1;0,0;0,0;0,0;0,0
 NL:Q:47320080;Zalkerdijk;De Zande;0,6;0,6;0,0;0,0;0,0;0,0
 NL:Q:47320090;Zalkerdijk;De Zande;0,7;0,1;0,0;0,0;0,0;0,0
 NL:Q:47320110;Oase;Zalk;0,5;0,4;0,0;0,0;0,0;0,0
-NL:Q:47320120;Oase;Zalk;0,3;0,5;0,0;0,0;0,0;0,0
-NL:Q:47330010;Acacialaan;Kampen;1,7000000000000002;4,1;0,30000000000000004;0,8;0,0;0,1
-NL:Q:47330080;Gemeentehuis;Kampen;7,3999999999999995;10,7;2,4;3,0;0,2;0,0
-NL:Q:47330120;Beneluxweg;Kampen;7,6000000000000005;7,9;1,3;1,9000000000000001;0,0;0,0
+NL:Q:47320120;Oase;Zalk;0,3;0,6;0,0;0,0;0,0;0,0
+NL:Q:47330010;Acacialaan;Kampen;1,8;4,1;0,3;0,8;0,0;0,1
+NL:Q:47330080;Gemeentehuis;Kampen;7,5;10,7;2,4;3,0;0,2;0,0
+NL:Q:47330120;Beneluxweg;Kampen;7,6;7,9;1,3;1,8;0,0;0,0
 NL:Q:47330140;Oosterlandenweg;IJsselmuiden;0,1;0,4;0,0;0,0;0,0;0,0
-NL:Q:47330150;IJsselbrug;Kampen;20,4;0,7;0,0;0,0;0,0;0,0
+NL:Q:47330150;IJsselbrug;Kampen;20,5;0,7;0,0;0,0;0,0;0,0
 NL:Q:47330160;Venedijk;Kampen;7,7;0,3;0,0;0,0;0,0;0,0
 NL:Q:47330170;Oosterlandenweg;IJsselmuiden;0,2;0,1;0,0;0,0;0,0;0,0
-NL:Q:47330200;IJsselbrug;Kampen;1,9000000000000001;31,0;0,30000000000000004;1,3;0,0;0,0
-NL:Q:47330201;IJsselbrug;Kampen;6,1;3,5;0,8;0,3;0,0;0,0
+NL:Q:47330200;IJsselbrug;Kampen;1,9;31,0;0,3;1,3;0,0;0,0
+NL:Q:47330201;IJsselbrug;Kampen;6,1;3,5;0,9;0,3;0,0;0,0
 NL:Q:47330210;IJsselbrug;Kampen;0,2;0,7;0,0;0,0;0,0;0,0
-NL:Q:47330230;Hanzelaan;Kampen;9,200000000000001;6,8999999999999995;1,6;1,7;0,0;0,0
-NL:Q:47330250;Van Heutszplein;Kampen;1,6;0,9;0,0;0,0;0,0;0,0
+NL:Q:47330230;Hanzelaan;Kampen;9,2;7,0;1,6;1,7;0,0;0,0
+NL:Q:47330250;Van Heutszplein;Kampen;1,6;0,8;0,0;0,0;0,0;0,0
 NL:Q:47330300;Van Heutszplein;Kampen;0,7;9,0;0,0;0,1;0,0;0,0
-NL:Q:47331110;Drostenstraat;IJsselmuiden;0,4;0,0;0,0;0,0;0,0;0,0
+NL:Q:47331110;Drostenstraat;IJsselmuiden;0,5;0,0;0,0;0,0;0,0;0,0
 NL:Q:47331120;Drostenstraat;IJsselmuiden;0,1;0,4;0,0;0,0;0,0;0,0
 NL:Q:47331130;Markeresstraat;IJsselmuiden;0,2;0,0;0,0;0,0;0,0;0,0
 NL:Q:47331140;Markeresstraat;IJsselmuiden;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:47331160;Slenkstraat;IJsselmuiden;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:47331170;Slenkstraat;IJsselmuiden;0,6;0,0;0,0;0,0;0,0;0,0
-NL:Q:47331180;Burg. van Engelenweg;IJsselmuiden;0,6;0,9;0,0;0,0;0,0;0,0
-NL:Q:47331280;Akelei;Kampen;8,3;5,3999999999999995;1,2;1,0;0,0;0,0
+NL:Q:47331170;Slenkstraat;IJsselmuiden;0,7;0,0;0,0;0,0;0,0;0,0
+NL:Q:47331180;Burg. van Engelenweg;IJsselmuiden;0,6;1,0;0,0;0,0;0,0;0,0
+NL:Q:47331280;Akelei;Kampen;8,3;5,4;1,2;1,0;0,0;0,0
 NL:Q:47331310;Vijverhof;Kampen;3,7;3,2;0,0;0,0;0,0;0,0
 NL:Q:47331320;Vijverhof;Kampen;2,9;5,3;0,0;0,0;0,0;0,0
-NL:Q:47331900;Bovenhavenstraat;Kampen;2,3000000000000003;11,2;0,2;0,7999999999999999;0,0;0,0
-NL:Q:47332200;Koornmarkt;Kampen;2,2;3,3000000000000003;0,7999999999999999;0,5;0,0;0,0
-NL:Q:47332210;Koornmarkt;Kampen;0,1;0,4;0,0;0,0;0,0;0,0
+NL:Q:47331900;Bovenhavenstraat;Kampen;2,3;11,2;0,2;0,8;0,0;0,0
+NL:Q:47332200;Koornmarkt;Kampen;2,2;3,2;0,8;0,6;0,0;0,0
+NL:Q:47332210;Koornmarkt;Kampen;0,1;0,5;0,0;0,0;0,0;0,0
 NL:Q:47332300;Bovenhavenstraat;Kampen;0,3;0,1;0,0;0,0;0,0;0,0
-NL:Q:47332310;Meenteweg;Grafhorst;2,1;1,1;0,0;0,0;0,0;0,0
-NL:Q:47332320;Meenteweg;Grafhorst;1,3;1,8;0,0;0,0;0,0;0,0
+NL:Q:47332310;Meenteweg;Grafhorst;2,2;1,1;0,0;0,0;0,0;0,0
+NL:Q:47332320;Meenteweg;Grafhorst;1,3;1,7;0,0;0,0;0,0;0,0
 NL:Q:47332600;Verzinkerij;IJsselmuiden;0,0;0,9;0,0;0,0;0,0;0,0
 NL:Q:47332700;Grafhorsterweg;IJsselmuiden;0,9;1,8;0,0;0,6;0,0;0,5
-NL:Q:47332750;Grafhorsterweg;IJsselmuiden;1,1;0,4;0,30000000000000004;0,1;0,2;0,1
+NL:Q:47332750;Grafhorsterweg;IJsselmuiden;1,1;0,4;0,2;0,1;0,2;0,1
 NL:Q:47332800;Natuurbad Seveningen;Kampereiland;0,3;0,2;0,3;0,4;0,7;0,1
 NL:Q:47332850;Zwolseweg 44;IJsselmuiden;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:47332950;Verzinkerij;IJsselmuiden;0,5;0,2;0,0;0,0;0,0;0,0
+NL:Q:47332950;Verzinkerij;IJsselmuiden;0,5;0,3;0,0;0,0;0,0;0,0
 NL:Q:47333250;Oranjesingel;Kampen;3,1;3,1;0,0;0,0;0,0;0,0
-NL:Q:47333300;Oostzeestraat;Kampen;3,6;10,1;0,2;0,1;0,0;0,0
+NL:Q:47333300;Oostzeestraat;Kampen;3,6;10,0;0,3;0,1;0,0;0,0
 NL:Q:47333350;Oostzeestraat;Kampen;7,5;4,2;0,0;0,0;0,0;0,0
-NL:Q:47333400;Almere College;Kampen;3,1;1,8;0,3;0,2;0,0;0,0
-NL:Q:47333410;Almere College;Kampen;1,4000000000000001;10,5;0,0;0,0;0,0;0,0
+NL:Q:47333400;Almere College;Kampen;3,0;1,9;0,3;0,2;0,0;0,0
+NL:Q:47333410;Almere College;Kampen;1,4;10,5;0,0;0,0;0,0;0,0
 NL:Q:47333420;Almere College;Kampen;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:47333450;Almere College;Kampen;9,9;3,0999999999999996;0,0;0,0;0,0;0,0
+NL:Q:47333450;Almere College;Kampen;10,0;3,0;0,0;0,0;0,0;0,0
 NL:Q:47333500;Nijverheidsstraat;Kampen;5,4;21,5;0,0;0,0;0,0;0,0
-NL:Q:47333850;Beekmanstraat;Kampen;3,5999999999999996;2,1;1,2000000000000002;0,7;0,0;0,0
-NL:Q:47333950;Leeghwaterstraat;Kampen;4,0;3,0;0,8999999999999999;1,1;0,0;0,0
-NL:Q:47334070;Ereprijs;Kampen;5,4;3,7;1,1;0,9;0,0;0,0
-NL:Q:47334460;Tormentil;Kampen;4,8;6,7;0,6;1,3;0,0;0,0
-NL:Q:47334750;Isala Polikliniek;Kampen;5,699999999999999;9,3;1,6;2,3;0,0;0,0
+NL:Q:47333850;Beekmanstraat;Kampen;3,6;2,1;1,2;0,6;0,0;0,0
+NL:Q:47333950;Leeghwaterstraat;Kampen;4,0;3,0;0,9;1,1;0,0;0,0
+NL:Q:47334070;Ereprijs;Kampen;5,4;3,6;1,1;0,9;0,0;0,0
+NL:Q:47334460;Tormentil;Kampen;4,8;6,7;0,5;1,3;0,0;0,0
+NL:Q:47334750;Isala Polikliniek;Kampen;5,7;9,3;1,6;2,4;0,0;0,0
 NL:Q:47335000;Station;Kampen;4,6;0,3;0,0;0,0;0,0;0,0
 NL:Q:47335010;Station;Kampen;11,3;39,4;1,6;7,2;0,0;0,0
-NL:Q:47335020;Station;Kampen;85,1;59,199999999999996;12,5;3,0;0,0;0,0
+NL:Q:47335020;Station;Kampen;85,0;59,2;12,5;3,1;0,0;0,0
 NL:Q:47335030;Station;Kampen;80,1;430,4;21,7;111,5;11,0;82,7
-NL:Q:47335040;Station;Kampen;702,4;295,5;211,5;87,7;113,8;71,60000000000001
-NL:Q:47335050;Station;Kampen;73,9;43,6;0,0;0,1;0,0;0,0
-NL:Q:47335060;Station;Kampen;25,2;66,89999999999999;0,6;0,3;0,0;0,0
+NL:Q:47335040;Station;Kampen;702,4;295,5;211,5;87,7;113,8;71,5
+NL:Q:47335050;Station;Kampen;73,9;43,7;0,0;0,1;0,0;0,0
+NL:Q:47335060;Station;Kampen;25,2;66,9;0,6;0,3;0,0;0,0
 NL:Q:47336000;Kalmoessingel;Kampen;16,9;4,1;0,0;0,0;0,0;0,0
-NL:Q:47336050;Kalmoessingel;Kampen;4,1;22,3;0,0;0,0;0,0;0,0
+NL:Q:47336050;Kalmoessingel;Kampen;4,2;22,3;0,0;0,0;0,0;0,0
 NL:Q:47336100;GSG Pieter Zandt;Kampen;20,8;2,5;0,0;0,0;0,0;0,0
-NL:Q:47337010;Burg. van Engelenweg;IJsselmuiden;0,9;0,6;0,0;0,0;0,0;0,0
+NL:Q:47337010;Burg. van Engelenweg;IJsselmuiden;0,9;0,7;0,0;0,0;0,0;0,0
 NL:Q:47340100;Bezoekerscentrum;Den Nul;0,3;1,1;0,0;0,0;0,0;0,0
 NL:Q:47340520;Langstraat;Wijhe;1,3;0,3;0,9;0,4;0,0;0,0
 NL:Q:47340550;Oprit Dijk;Wijhe;0,0;0,2;0,0;0,0;0,0;0,0
@@ -5613,7 +5514,7 @@ NL:Q:47418022;Eperweg;Elburg;7,1;7,3;1,3;1,0;0,5;0,2
 NL:Q:47420010;Onderdijks;Kampen;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:47420020;Onderdijks;Kampen;0,2;0,2;0,0;0,0;0,0;0,0
 NL:Q:47420100;Koelucht;De Zande;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:47420150;Venedijk;Kampen;24,0;22,8;0,0;0,0;0,0;0,0
+NL:Q:47420150;Venedijk;Kampen;23,9;22,7;0,0;0,0;0,0;0,0
 NL:Q:47430050;Nijverheidsstraat;Kampen;19,0;7,2;0,0;0,0;0,0;0,0
 NL:Q:47430200;Roggebotsluis;Dronten;82,4;31,8;0,0;0,0;0,0;0,0
 NL:Q:47430250;Roggebotsluis;Dronten;21,2;32,5;0,0;0,0;0,0;0,0
@@ -6005,180 +5906,199 @@ NL:Q:47899914;Brandweerdam;Deventer;10,6;6,3;2,8;4,1;1,2;3,2
 NL:Q:47908350;Nieuwe Deventerweg;Zwolle;18,9;1,3;12,5;1,5;6,2;0,3
 NL:Q:47909001;Oostriklaan;Deventer;6,4;2,0;2,8;1,3;1,3;0,4
 NL:Q:47909002;Oostriklaan;Deventer;1,2;2,0;0,4;1,7;0,3;0,8
-NL:Q:49000010;Bouwweg;Lelystad;0,2;0,4;0,0;0,1;0,0;0,0
-NL:Q:49000020;Atolplaza;Lelystad;1,3;1,1;0,4;0,2;0,2;0,2
-NL:Q:49000040;Ziekenhuis;Lelystad;0,8;1,3;0,1;0,4;0,1;0,4
-NL:Q:49000050;Lelycentre/Houtribdreef;Lelystad;26,2;4,2;14,9;1,7;1,4;0,5
-NL:Q:49000060;Rotondebrug;Lelystad;3,2;1,7;0,4;1,0;0,1;0,2
-NL:Q:49000070;Rotondebrug;Lelystad;4,7;1,8;2,2;0,3;0,2;0,2
-NL:Q:49000080;Politiebrug;Lelystad;0,7;0,7;0,3;0,0;0,2;0,1
-NL:Q:49000101;Lelycentre/Houtribdreef;Lelystad;4,7;17,1;2,3;5,3;0,8;0,7
-NL:Q:49000120;Plantagebrug;Lelystad;1,3;0,8;0,7;0,1;0,4;0,1
-NL:Q:49000140;Zwembad De Koploper;Lelystad;0,5;0,7;0,4;0,4;0,1;0,2
-NL:Q:49000162;Oostkaap;Lelystad;1,2;0,9;0,7;0,5;0,2;0,0
-NL:Q:49000170;Centrumbrug;Lelystad;7,1;12,8;2,0;5,5;1,7;6,5
-NL:Q:49000171;Centrumbrug;Lelystad;18,4;7,6;7,1;2,0;7,8;1,9
-NL:Q:49000180;Oostvaardersbrug;Lelystad;1,4;1,1;0,7;0,5;0,2;0,3
-NL:Q:49000220;Bingerden;Lelystad;1,9;1,3;0,5;0,2;0,5;0,4
-NL:Q:49000250;Vecht;Lelystad;1,1;1,4;0,4;0,8;0,1;0,3
-NL:Q:49000280;Gooisebrug;Lelystad;0,3;1,4;0,1;0,4;0,0;0,4
-NL:Q:49000290;Schouwbrug;Lelystad;0,0;0,1;0,0;0,1;0,0;0,1
-NL:Q:49000300;Schouwbrug;Lelystad;0,1;0,2;0,0;0,1;0,0;0,0
-NL:Q:49000320;Bongerd;Lelystad;1,9;1,4;0,8;0,7;0,4;0,2
-NL:Q:49000340;Botterbrug;Lelystad;0,2;0,4;0,0;0,3;0,0;0,1
-NL:Q:49000350;Botterbrug;Lelystad;0,2;0,2;0,0;0,0;0,0;0,0
-NL:Q:49000370;Reygersbeek;Lelystad;0,7;0,2;0,8;0,1;0,3;0,0
-NL:Q:49000380;Eaglelaan;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000400;Albatroslaan;Lelystad;0,2;0,1;0,0;0,0;0,0;0,0
-NL:Q:49000430;Oostrandbrug;Lelystad;0,2;0,3;0,0;0,0;0,0;0,0
-NL:Q:49000450;Val van Urk;Lelystad;1,4;1,9;0,8;1,0;0,4;0,6
-NL:Q:49000470;Oostrandbrug;Lelystad;0,2;0,0;0,1;0,0;0,0;0,0
-NL:Q:49000480;Golfpark;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000520;Houtribhoogte;Lelystad;0,1;0,1;0,0;0,2;0,0;0,0
-NL:Q:49000530;Schroefstraat;Lelystad;0,1;0,3;0,0;0,1;0,0;0,0
-NL:Q:49000550;Langezand;Lelystad;0,6;0,6;0,1;0,3;0,1;0,2
-NL:Q:49000580;Parkhaven;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000600;Werkeiland;Lelystad;0,3;0,0;0,1;0,0;0,1;0,0
-NL:Q:49000610;Werkeiland;Lelystad;0,2;0,6;0,0;0,3;0,0;0,3
-NL:Q:49000620;Monnickendamstraat;Lelystad-Haven;1,8;2,5;1,1;1,2;0,4;0,5
+NL:Q:49000010;Bouwweg;Lelystad;5,3;6,7;1,5;1,7;0,4;0,5
+NL:Q:49000020;Atolplaza;Lelystad;11,5;11,0;3,8;3,6;1,3;1,7
+NL:Q:49000030;Atolplaza;Lelystad;10,2;9,9;3,5;3,4;1,1;1,6
+NL:Q:49000040;Ziekenhuis;Lelystad;11,8;16,9;5,2;7,1;2,1;3,3
+NL:Q:49000050;Lelycentre/Houtribdreef;Lelystad;86,7;60,9;50,4;36,9;15,9;13,7
+NL:Q:49000060;Rotondebrug;Lelystad;14,2;12,6;8,5;10,1;5,0;7,0
+NL:Q:49000070;Rotondebrug;Lelystad;15,7;12,7;10,3;9,4;5,1;7,0
+NL:Q:49000080;Politiebrug;Lelystad;9,6;11,1;4,6;5,0;2,8;3,2
+NL:Q:49000101;Lelycentre/Houtribdreef;Lelystad;65,3;73,8;37,8;40,5;15,3;13,9
+NL:Q:49000110;Plantagebrug;Lelystad;11,8;7,9;6,7;4,1;2,6;1,9
+NL:Q:49000120;Plantagebrug;Lelystad;13,1;8,7;7,4;4,3;3,0;2,1
+NL:Q:49000130;Zwembad De Koploper;Lelystad;4,0;4,0;3,9;4,3;1,5;1,6
+NL:Q:49000140;Zwembad De Koploper;Lelystad;4,6;4,7;4,2;4,7;1,5;1,7
+NL:Q:49000150;Oostkaap;Lelystad;10,7;8,9;5,7;5,0;1,9;1,4
+NL:Q:49000162;Oostkaap;Lelystad;11,9;9,7;6,3;5,5;2,1;1,5
+NL:Q:49000170;Centrumbrug;Lelystad;18,2;29,1;11,2;17,1;10,2;16,8
+NL:Q:49000171;Centrumbrug;Lelystad;29,5;23,8;16,2;13,6;16,2;12,2
+NL:Q:49000180;Oostvaardersbrug;Lelystad;23,7;20,7;15,1;11,4;5,5;5,1
+NL:Q:49000220;Bingerden;Lelystad;24,1;23,7;9,1;9,8;4,6;4,9
+NL:Q:49000240;Vecht;Lelystad;14,8;16,0;8,9;9,0;3,3;3,6
+NL:Q:49000250;Vecht;Lelystad;15,9;17,4;9,2;9,8;3,4;4,0
+NL:Q:49000280;Gooisebrug;Lelystad;5,4;23,3;3,4;10,9;1,1;6,0
+NL:Q:49000290;Schouwbrug;Lelystad;0,8;1,9;0,2;1,4;0,3;0,8
+NL:Q:49000300;Schouwbrug;Lelystad;0,9;2,0;0,2;1,4;0,3;0,8
+NL:Q:49000320;Bongerd;Lelystad;15,2;14,7;7,4;7,2;2,8;3,0
+NL:Q:49000330;Bongerd;Lelystad;13,3;13,3;6,6;6,5;2,4;2,8
+NL:Q:49000340;Botterbrug;Lelystad;2,5;3,9;1,1;1,5;0,5;1,8
+NL:Q:49000350;Botterbrug;Lelystad;2,5;3,7;1,1;1,3;0,5;1,8
+NL:Q:49000370;Reygersbeek;Lelystad;22,8;8,5;21,5;9,6;14,9;5,6
+NL:Q:49000380;Eaglelaan;Lelystad;1,0;0,8;0,4;0,5;0,0;0,0
+NL:Q:49000400;Albatroslaan;Lelystad;2,3;1,9;0,9;1,0;0,0;0,0
+NL:Q:49000430;Oostrandbrug;Lelystad;1,1;1,2;0,4;0,3;0,0;0,0
+NL:Q:49000440;Val van Urk;Lelystad;18,6;18,9;12,2;11,4;5,3;5,8
+NL:Q:49000450;Val van Urk;Lelystad;20,0;20,8;13,0;12,4;5,7;6,5
+NL:Q:49000470;Oostrandbrug;Lelystad;1,1;0,9;0,5;0,3;0,0;0,0
+NL:Q:49000480;Golfpark;Lelystad;0,2;0,3;0,0;0,3;0,0;0,0
+NL:Q:49000520;Houtribhoogte;Lelystad;0,7;0,4;0,3;0,5;0,0;0,0
+NL:Q:49000530;Schroefstraat;Lelystad;2,6;3,3;0,8;1,3;0,2;0,3
+NL:Q:49000540;Schroefstraat;Lelystad;2,5;3,0;0,8;1,2;0,2;0,3
+NL:Q:49000550;Langezand;Lelystad;8,1;7,2;3,7;4,3;1,6;1,8
+NL:Q:49000560;Langezand;Lelystad;7,5;6,6;3,5;4,0;1,5;1,7
+NL:Q:49000580;Parkhaven;Lelystad;1,6;1,4;0,2;0,2;0,0;0,0
+NL:Q:49000600;Werkeiland;Lelystad;4,6;8,0;2,9;4,3;1,5;2,2
+NL:Q:49000610;Werkeiland;Lelystad;4,5;8,6;2,8;4,6;1,5;2,5
+NL:Q:49000620;Monnickendamstraat;Lelystad-Haven;33,4;35,5;16,0;19,0;6,1;9,1
 NL:Q:49000630;Lemmerkade;Lelystad-Haven;0,9;0,8;0,5;0,3;0,3;0,2
-NL:Q:49000640;Hondsdraf;Lelystad;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:49000640;Hondsdraf;Lelystad;17,3;9,3;9,5;4,7;4,4;2,4
 NL:Q:49000660;Lemmerkade;Lelystad-Haven;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000670;Ringdijk;Lelystad-Haven;2,2;3,0;1,7;2,5;0,7;0,9
-NL:Q:49000700;Houtribhoogte;Lelystad;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:49000710;Warande;Lelystad;1,1;1,1;0,6;0,8;0,3;0,4
-NL:Q:49000720;Warande;Lelystad;1,0;0,0;0,5;0,0;0,2;0,0
-NL:Q:49000730;H. Bekiusschool - De Rede;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000750;Vlieterbrug;Lelystad;6,9;1,3;4,7;0,9;0,0;0,3
-NL:Q:49000800;Vlieterbrug;Lelystad;1,6;4,6;0,8;1,9;0,4;0,3
+NL:Q:49000670;Ringdijk;Lelystad-Haven;71,7;61,0;47,1;42,3;16,2;15,0
+NL:Q:49000700;Houtribhoogte;Lelystad;0,7;0,4;0,3;0,4;0,0;0,0
+NL:Q:49000710;Warande;Lelystad;17,7;13,6;9,5;8,0;3,8;4,1
+NL:Q:49000720;Warande;Lelystad;17,6;12,4;9,4;7,2;3,6;3,7
+NL:Q:49000730;H. Bekiusschool - De Rede;Lelystad;2,6;3,1;0,0;0,0;0,0;0,0
+NL:Q:49000750;Vlieterbrug;Lelystad;20,6;14,3;11,8;9,1;4,7;5,7
+NL:Q:49000800;Vlieterbrug;Lelystad;15,2;17,5;7,9;10,2;5,0;5,8
 NL:Q:49000850;Kwikstraat;Lelystad;3,1;0,2;0,3;0,0;0,0;0,0
-NL:Q:49000870;Houtribsluis;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000900;Parlaan;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000910;Parlaan;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000950;Bronsweg;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000970;Beginweg;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49000990;Jagersveld;Lelystad;0,0;0,0;0,0;0,0;0,0;0,0
-NL:Q:49001000;Buitenhof;Lelystad;0,3;0,2;0,2;0,0;0,0;0,0
-NL:Q:49001020;Hondsdraf;Lelystad;0,0;0,0;0,0;0,2;0,0;0,0
-NL:Q:49001210;Houtribweg;Lelystad;7,0;2,2;1,2;0,2;1,3;0,1
-NL:Q:49001220;Houtribweg;Lelystad;2,0;12,4;0,2;2,2;0,1;2,4
-NL:Q:49001440;Geulbrug;Lelystad;0,0;0,1;0,0;0,1;0,0;0,1
-NL:Q:49001450;Geulbrug;Lelystad;0,5;0,2;0,2;0,0;0,1;0,0
-NL:Q:49001540;Gorsbrug;Lelystad;0,0;0,1;0,0;0,0;0,0;0,1
-NL:Q:49001550;Gorsbrug;Lelystad;0,9;0,3;0,2;0,1;0,2;0,0
-NL:Q:49001650;Agora;Lelystad;1,5;2,0;0,2;0,8;0,1;0,3
-NL:Q:49001680;Salland;Lelystad;0,3;0,0;0,2;0,0;0,0;0,0
-NL:Q:49001690;Salland;Lelystad;0,2;0,6;0,1;0,2;0,1;0,2
-NL:Q:49001700;Agora;Lelystad;1,7;2,4;0,4;0,4;0,3;0,1
-NL:Q:49001730;Veluwezoom;Lelystad;0,3;0,8;0,1;0,3;0,1;0,0
-NL:Q:49001740;Veluwezoom;Lelystad;0,4;0,1;0,2;0,1;0,0;0,0
-NL:Q:49001750;Baronie;Lelystad;0,4;0,0;0,1;0,0;0,2;0,0
-NL:Q:49001760;Baronie;Lelystad;0,3;0,6;0,1;0,2;0,0;0,1
-NL:Q:49002300;Jol West;Lelystad;0,2;0,4;0,1;0,2;0,0;0,1
-NL:Q:49002310;Jol West;Lelystad;0,2;0,0;0,2;0,0;0,1;0,0
-NL:Q:49002400;Winkelcentrum Jol;Lelystad;1,6;0,9;0,5;0,6;0,3;0,3
-NL:Q:49002410;Winkelcentrum Jol;Lelystad;1,3;0,1;1,1;0,0;0,3;0,0
-NL:Q:49002500;Punter Zuid;Lelystad;0,0;2,2;0,0;1,6;0,0;0,8
-NL:Q:49002600;Punter;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49002610;Punter;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49002700;Gondel Noord;Lelystad;0,7;1,0;0,4;0,5;0,1;0,3
-NL:Q:49002710;Gondel Noord;Lelystad;0,5;0,0;0,2;0,0;0,2;0,0
-NL:Q:49002900;Winkelcentrum Kempenaar;Lelystad;0,4;1,0;0,2;0,7;0,0;0,0
-NL:Q:49002910;Winkelcentrum Kempenaar;Lelystad;0,3;0,1;0,2;0,3;0,0;0,0
-NL:Q:49003000;Kempenaar Midden;Lelystad;0,7;0,9;0,3;0,4;0,0;0,0
-NL:Q:49003010;Kempenaar Midden;Lelystad;0,5;0,1;0,3;0,2;0,0;0,0
-NL:Q:49003250;Ziekenhuis;Lelystad;1,3;0,9;0,5;0,3;0,3;0,2
-NL:Q:49003300;De Hoven;Lelystad;6,8;2,2;1,9;1,1;0,9;0,5
-NL:Q:49003320;De Hoven;Lelystad;0,9;11,4;0,4;2,8;0,3;1,8
-NL:Q:49003360;'t Laar;Lelystad;0,0;0,1;0,0;0,0;0,0;0,0
-NL:Q:49003370;'t Laar;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49003500;Wold;Lelystad;0,5;0,2;0,2;0,0;0,1;0,0
-NL:Q:49003510;Wold;Lelystad;0,1;0,8;0,0;0,5;0,0;0,2
-NL:Q:49003600;Winkelcentrum Kamp;Lelystad;1,5;0,7;0,8;0,5;0,3;0,1
-NL:Q:49003610;Winkelcentrum Kamp;Lelystad;0,4;2,0;0,2;1,7;0,0;0,8
-NL:Q:49003700;Horst;Lelystad;0,6;0,5;0,5;0,1;0,2;0,1
-NL:Q:49003710;Horst;Lelystad;0,3;0,7;0,1;0,4;0,0;0,1
-NL:Q:49003900;Nienoord;Lelystad;0,3;1,3;0,1;0,7;0,0;0,3
-NL:Q:49004000;Nienoord;Lelystad;0,1;0,4;0,1;0,1;0,0;0,0
-NL:Q:49004110;Slotenlaan;Lelystad;0,5;2,2;0,4;1,1;0,2;0,4
-NL:Q:49004120;Slotenlaan;Lelystad;1,5;0,2;0,6;0,1;0,5;0,2
+NL:Q:49000870;Houtribsluis;Lelystad;0,3;0,3;0,2;0,4;0,0;0,0
+NL:Q:49000900;Parlaan;Lelystad;0,5;0,4;0,2;0,3;0,0;0,0
+NL:Q:49000910;Parlaan;Lelystad;0,5;0,4;0,2;0,3;0,0;0,0
+NL:Q:49000940;Bronsweg;Lelystad;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:49000950;Bronsweg;Lelystad;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:49000960;Beginweg;Lelystad;0,2;0,1;0,1;0,0;0,0;0,0
+NL:Q:49000970;Beginweg;Lelystad;0,3;0,1;0,1;0,0;0,0;0,0
+NL:Q:49000980;Jagersveld;Lelystad;0,5;0,4;0,1;0,1;0,0;0,0
+NL:Q:49000990;Jagersveld;Lelystad;0,6;0,4;0,1;0,1;0,0;0,0
+NL:Q:49001000;Buitenhof;Lelystad;2,3;5,0;1,5;1,2;0,0;0,0
+NL:Q:49001020;Hondsdraf;Lelystad;17,3;9,1;9,5;4,8;4,4;2,4
+NL:Q:49001210;Houtribweg;Lelystad;7,9;2,4;1,2;0,2;1,3;0,1
+NL:Q:49001220;Houtribweg;Lelystad;2,9;12,6;0,2;2,2;0,1;2,4
+NL:Q:49001440;Geulbrug;Lelystad;3,7;1,3;1,8;0,9;0,5;0,3
+NL:Q:49001450;Geulbrug;Lelystad;4,1;1,4;2,0;0,9;0,6;0,2
+NL:Q:49001540;Gorsbrug;Lelystad;5,3;2,8;2,0;1,0;0,7;0,7
+NL:Q:49001550;Gorsbrug;Lelystad;6,1;3,0;2,2;1,1;0,9;0,7
+NL:Q:49001650;Agora;Lelystad;18,1;32,4;8,8;12,4;4,9;7,9
+NL:Q:49001670;Salland;Lelystad;2,7;3,2;1,2;1,6;0,4;1,0
+NL:Q:49001680;Salland;Lelystad;3,0;3,2;1,4;1,6;0,5;1,0
+NL:Q:49001690;Salland;Lelystad;2,9;3,8;1,3;1,8;0,5;1,2
+NL:Q:49001700;Agora;Lelystad;18,2;32,8;8,9;12,1;5,1;7,7
+NL:Q:49001730;Veluwezoom;Lelystad;7,5;7,7;3,4;2,9;1,0;1,2
+NL:Q:49001740;Veluwezoom;Lelystad;7,6;7,0;3,4;2,7;0,9;1,2
+NL:Q:49001750;Baronie;Lelystad;6,6;5,8;2,9;2,6;1,2;1,4
+NL:Q:49001760;Baronie;Lelystad;6,5;6,4;2,9;2,8;1,1;1,5
+NL:Q:49002300;Jol West;Lelystad;7,1;5,8;4,8;4,6;1,6;1,9
+NL:Q:49002310;Jol West;Lelystad;7,0;5,3;4,8;4,4;1,7;1,8
+NL:Q:49002400;Winkelcentrum Jol;Lelystad;28,7;24,6;17,7;16,3;7,8;6,9
+NL:Q:49002410;Winkelcentrum Jol;Lelystad;28,5;23,9;18,2;15,7;7,8;6,7
+NL:Q:49002500;Punter Zuid;Lelystad;0,6;8,8;0,2;5,0;0,1;2,9
+NL:Q:49002510;Punter Zuid;Lelystad;0,6;6,6;0,2;3,4;0,1;2,1
+NL:Q:49002600;Punter;Lelystad;16,6;11,1;9,9;7,3;4,2;3,0
+NL:Q:49002610;Punter;Lelystad;16,6;11,1;9,9;7,3;4,2;2,9
+NL:Q:49002700;Gondel Noord;Lelystad;12,2;10,2;5,9;5,4;2,1;2,4
+NL:Q:49002710;Gondel Noord;Lelystad;12,0;9,2;5,8;4,9;2,1;2,1
+NL:Q:49002900;Winkelcentrum Kempenaar;Lelystad;6,7;9,0;4,8;4,6;0,0;0,0
+NL:Q:49002910;Winkelcentrum Kempenaar;Lelystad;6,5;8,1;4,8;4,2;0,0;0,0
+NL:Q:49003000;Kempenaar Midden;Lelystad;7,4;9,1;6,5;6,2;0,0;0,0
+NL:Q:49003010;Kempenaar Midden;Lelystad;7,2;8,2;6,5;5,9;0,0;0,0
+NL:Q:49003250;Ziekenhuis;Lelystad;12,4;16,6;5,6;6,9;2,4;3,0
+NL:Q:49003300;De Hoven;Lelystad;12,3;9,9;4,6;4,2;1,6;2,0
+NL:Q:49003320;De Hoven;Lelystad;6,4;19,2;3,0;5,9;1,0;3,3
+NL:Q:49003360;'t Laar;Lelystad;1,4;1,7;0,9;1,1;0,4;0,6
+NL:Q:49003370;'t Laar;Lelystad;1,4;1,7;0,9;1,1;0,4;0,6
+NL:Q:49003500;Wold;Lelystad;11,8;10,7;7,8;6,8;2,6;3,7
+NL:Q:49003510;Wold;Lelystad;11,4;11,2;7,6;7,3;2,6;3,9
+NL:Q:49003600;Winkelcentrum Kamp;Lelystad;30,8;30,5;18,1;18,8;7,2;9,1
+NL:Q:49003610;Winkelcentrum Kamp;Lelystad;29,7;31,8;17,5;19,9;7,0;9,9
+NL:Q:49003700;Horst;Lelystad;14,6;12,0;8,5;7,8;2,3;3,5
+NL:Q:49003710;Horst;Lelystad;14,3;12,2;8,1;8,1;2,1;3,5
+NL:Q:49003900;Nienoord;Lelystad;16,3;18,2;9,4;10,4;3,9;5,9
+NL:Q:49004000;Nienoord;Lelystad;16,1;17,3;9,4;9,9;3,8;5,6
+NL:Q:49004110;Slotenlaan;Lelystad;29,9;26,8;18,6;15,7;7,2;7,7
+NL:Q:49004120;Slotenlaan;Lelystad;30,9;24,8;18,8;14,7;7,4;7,5
 NL:Q:49004130;Voorstraatbrug;Lelystad;0,0;0,2;0,0;0,0;0,0;0,0
 NL:Q:49004140;Voorstraatbrug;Lelystad;0,0;0,0;0,0;0,0;0,1;0,0
-NL:Q:49004240;Oostzeestraat;Lelystad;3,3;0,5;2,6;0,1;1,1;0,2
-NL:Q:49004250;Oostzeestraat;Lelystad;0,2;4,9;0,1;3,3;0,0;1,5
-NL:Q:49004270;Westhoven;Lelystad;0,5;0,4;0,1;0,2;0,1;0,1
-NL:Q:49004340;Zwartezeestraat;Lelystad;1,3;0,6;0,9;0,4;0,5;0,1
-NL:Q:49004350;Zwartezeestraat;Lelystad;0,2;1,9;0,1;1,2;0,0;0,8
-NL:Q:49004500;De Rietlanden;Lelystad;6,1;16,0;0,5;4,2;0,6;3,2
-NL:Q:49004510;Penitentiaire Inrichting;Lelystad;0,4;0,3;0,0;0,1;0,0;0,0
-NL:Q:49004550;De Rietlanden;Lelystad;14,1;9,3;4,6;1,1;2,2;0,6
-NL:Q:49004900;Bouwweg;Lelystad;0,1;0,0;0,1;0,0;0,0;0,0
-NL:Q:49005010;Station Centrum;Lelystad;226,8;295,6;134,5;129,4;83,9;79,2
-NL:Q:49005020;Station Centrum;Lelystad;65,6;72,0;25,3;23,9;0,8;0,0
-NL:Q:49005030;Station Centrum;Lelystad;254,0;166,4;104,7;90,8;76,7;84,8
-NL:Q:49005040;Station Centrum;Lelystad;22,3;13,1;17,2;5,1;10,9;2,8
-NL:Q:49005050;Station Centrum;Lelystad;24,7;12,8;13,4;7,1;7,2;2,0
-NL:Q:49005060;Station Centrum;Lelystad;19,7;7,8;8,7;4,3;3,8;1,8
-NL:Q:49005070;Station Centrum;Lelystad;15,5;10,3;7,5;4,4;3,8;1,4
-NL:Q:49005150;Vestebrug;Lelystad;3,6;0,8;1,0;0,6;0,1;0,0
-NL:Q:49005200;Vestebrug;Lelystad;0,9;1,3;0,4;0,7;0,0;0,0
-NL:Q:49005250;Schansbrug;Lelystad;0,8;0,7;0,3;0,3;0,0;0,0
-NL:Q:49005300;Schansbrug;Lelystad;0,7;0,8;0,3;0,2;0,0;0,0
-NL:Q:49005350;Politiebrug;Lelystad;0,3;1,4;0,1;0,5;0,2;0,5
-NL:Q:49005400;Oostranddreef;Lelystad;0,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:49005500;Runderweg;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49005550;Karveelbrug;Lelystad;0,7;0,1;0,2;0,1;0,2;0,0
-NL:Q:49005600;Karveelbrug;Lelystad;0,1;0,6;0,1;0,2;0,2;0,2
-NL:Q:49005650;Kempenaarbrug;Lelystad;1,1;0,1;0,4;0,1;0,3;0,1
-NL:Q:49005700;Kempenaarbrug;Lelystad;0,2;1,0;0,0;0,3;0,1;0,5
-NL:Q:49005750;Boeierbrug;Lelystad;2,2;0,1;0,9;0,1;0,8;0,0
-NL:Q:49005800;Boeierbrug;Lelystad;1,0;2,3;0,6;1,2;0,0;0,8
-NL:Q:49005850;Bataviahaven;Lelystad;0,7;1,9;0,4;1,5;0,5;0,7
-NL:Q:49005920;Batavia Stad;Lelystad;9,1;7,4;13,9;10,4;5,8;7,2
+NL:Q:49004240;Oostzeestraat;Lelystad;83,7;73,7;57,1;49,5;21,4;24,6
+NL:Q:49004250;Oostzeestraat;Lelystad;80,5;78,0;54,6;52,7;20,3;25,8
+NL:Q:49004270;Westhoven;Lelystad;4,1;5,1;1,2;2,4;0,6;0,6
+NL:Q:49004340;Zwartezeestraat;Lelystad;30,3;27,8;16,0;14,9;6,5;7,8
+NL:Q:49004350;Zwartezeestraat;Lelystad;29,2;29,1;15,3;15,7;6,0;8,5
+NL:Q:49004500;De Rietlanden;Lelystad;19,7;30,0;2,2;6,2;1,3;4,3
+NL:Q:49004510;Penitentiaire Inrichting;Lelystad;10,6;4,5;3,7;0,8;1,9;0,2
+NL:Q:49004550;De Rietlanden;Lelystad;27,7;23,3;6,2;3,0;2,9;1,6
+NL:Q:49004900;Bouwweg;Lelystad;5,2;6,4;1,6;1,7;0,4;0,5
+NL:Q:49005010;Station Centrum;Lelystad;461,2;514,4;295,3;278,8;168,6;148,7
+NL:Q:49005020;Station Centrum;Lelystad;300,1;290,8;186,1;173,3;85,5;69,5
+NL:Q:49005030;Station Centrum;Lelystad;488,5;385,2;265,5;240,1;161,4;154,3
+NL:Q:49005040;Station Centrum;Lelystad;256,7;231,9;178,0;154,5;95,6;72,3
+NL:Q:49005050;Station Centrum;Lelystad;259,2;231,6;174,2;156,5;92,0;71,5
+NL:Q:49005060;Station Centrum;Lelystad;254,1;226,6;169,5;153,6;88,6;71,3
+NL:Q:49005070;Station Centrum;Lelystad;249,9;229,1;168,3;153,8;88,6;70,9
+NL:Q:49005150;Vestebrug;Lelystad;8,4;5,5;2,9;2,4;0,8;1,0
+NL:Q:49005200;Vestebrug;Lelystad;5,7;5,9;2,3;2,5;0,8;1,0
+NL:Q:49005250;Schansbrug;Lelystad;2,2;3,2;0,8;1,7;0,3;0,5
+NL:Q:49005300;Schansbrug;Lelystad;2,0;3,4;0,8;1,6;0,3;0,4
+NL:Q:49005350;Politiebrug;Lelystad;9,2;11,7;4,4;5,5;2,8;3,6
+NL:Q:49005400;Oostranddreef;Lelystad;0,7;0,8;0,1;0,2;0,0;0,0
+NL:Q:49005500;Runderweg;Lelystad;0,4;0,4;0,0;0,0;0,0;0,0
+NL:Q:49005550;Karveelbrug;Lelystad;8,2;8,4;5,8;7,0;5,2;5,6
+NL:Q:49005600;Karveelbrug;Lelystad;7,6;9,0;5,7;7,1;5,2;5,8
+NL:Q:49005650;Kempenaarbrug;Lelystad;12,4;13,1;6,6;9,5;5,7;7,6
+NL:Q:49005700;Kempenaarbrug;Lelystad;11,6;13,9;6,2;9,8;5,5;8,0
+NL:Q:49005750;Boeierbrug;Lelystad;19,7;18,5;13,6;11,3;7,8;8,1
+NL:Q:49005800;Boeierbrug;Lelystad;18,6;20,6;13,4;12,3;7,1;8,9
+NL:Q:49005850;Bataviahaven;Lelystad;16,9;19,7;15,9;14,7;9,9;7,4
+NL:Q:49005920;Batavia Stad;Lelystad;151,3;180,5;279,2;308,3;185,2;207,3
 NL:Q:49005950;Crematorium;Lelystad;0,7;0,1;1,3;0,1;0,0;0,0
-NL:Q:49006460;Gondel Zuid;Lelystad;0,9;1,1;0,4;0,6;0,0;0,2
-NL:Q:49006470;Gondel Zuid;Lelystad;0,6;0,1;0,3;0,0;0,2;0,0
+NL:Q:49006460;Gondel Zuid;Lelystad;13,3;12,3;7,9;7,9;2,3;2,9
+NL:Q:49006470;Gondel Zuid;Lelystad;13,0;11,4;7,9;7,4;2,5;2,7
 NL:Q:49006500;Crematorium;Lelystad;0,1;1,2;0,1;1,6;0,0;0,0
 NL:Q:49006800;Pekstraat;Lelystad;0,1;4,7;0,0;0,2;0,0;0,0
 NL:Q:49006850;Pekstraat;Lelystad;3,1;0,1;0,0;0,0;0,0;0,0
-NL:Q:49007200;Vaartweg;Lelystad;0,5;0,6;0,2;0,2;0,0;0,0
-NL:Q:49007250;Vaartweg;Lelystad;0,3;0,0;0,1;0,0;0,0;0,0
-NL:Q:49007530;Galjoenbrug;Lelystad;0,4;1,2;0,1;0,7;0,1;0,2
-NL:Q:49007540;Galjoenbrug;Lelystad;0,5;0,1;0,5;0,0;0,2;0,0
+NL:Q:49007200;Vaartweg;Lelystad;12,5;14,4;4,0;4,0;0,8;1,0
+NL:Q:49007250;Vaartweg;Lelystad;12,3;13,8;3,9;3,8;0,8;1,0
+NL:Q:49007530;Galjoenbrug;Lelystad;3,1;5,6;1,3;2,7;0,8;1,4
+NL:Q:49007540;Galjoenbrug;Lelystad;3,2;4,5;1,7;2,0;0,9;1,2
 NL:Q:49007550;Bedrijvenbrug;Lelystad;0,1;0,3;0,0;0,2;0,0;0,0
 NL:Q:49007560;Bedrijvenbrug;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49007850;Tjalk/Groenhorst;Lelystad;0,3;0,2;0,1;0,0;0,1;0,1
-NL:Q:49007860;Tjalk/Groenhorst;Lelystad;0,3;0,2;0,1;0,0;0,0;0,0
-NL:Q:49007870;Winkelcentrum Tjalk;Lelystad;0,4;0,4;0,4;0,2;0,1;0,1
-NL:Q:49007880;Winkelcentrum Tjalk;Lelystad;0,3;0,4;0,2;0,4;0,1;0,0
-NL:Q:49008050;Winkelcentrum Botter;Lelystad;0,5;0,1;0,2;0,0;0,1;0,0
-NL:Q:49008060;Winkelcentrum Botter;Lelystad;0,5;0,7;0,4;0,4;0,1;0,1
-NL:Q:49008150;Schoener;Lelystad;0,3;0,0;0,2;0,0;0,0;0,0
-NL:Q:49008160;Schoener;Lelystad;0,4;0,5;0,3;0,4;0,2;0,1
-NL:Q:49008250;Stuwweg;Lelystad;0,2;0,0;0,0;0,0;0,0;0,0
-NL:Q:49008260;Stuwweg;Lelystad;0,3;0,6;0,0;0,2;0,1;0,1
-NL:Q:49008290;Haagwinde;Lelystad;0,4;0,0;0,2;0,0;0,1;0,0
-NL:Q:49008300;Haagwinde;Lelystad;0,3;0,9;0,2;0,4;0,3;0,1
-NL:Q:49008310;Klaproos;Lelystad;0,6;0,0;0,4;0,0;0,1;0,0
-NL:Q:49008320;Klaproos;Lelystad;0,7;1,1;0,4;0,7;0,2;0,1
-NL:Q:49008330;Hollandse Hout;Lelystad;0,8;0,5;0,2;0,1;0,1;0,1
+NL:Q:49007850;Tjalk/Groenhorst;Lelystad;6,4;6,8;2,2;3,0;0,8;1,1
+NL:Q:49007860;Tjalk/Groenhorst;Lelystad;6,5;6,9;2,2;2,9;0,7;1,0
+NL:Q:49007870;Winkelcentrum Tjalk;Lelystad;11,1;11,1;8,1;7,9;3,1;3,0
+NL:Q:49007880;Winkelcentrum Tjalk;Lelystad;11,0;11,2;7,9;8,1;3,0;3,0
+NL:Q:49008050;Winkelcentrum Botter;Lelystad;12,0;11,5;7,4;7,1;2,9;2,5
+NL:Q:49008060;Winkelcentrum Botter;Lelystad;12,0;12,2;7,6;7,5;2,9;2,6
+NL:Q:49008150;Schoener;Lelystad;3,1;4,7;1,6;3,1;0,5;1,4
+NL:Q:49008160;Schoener;Lelystad;3,2;5,2;1,6;3,5;0,6;1,5
+NL:Q:49008250;Stuwweg;Lelystad;10,2;10,9;2,7;2,6;1,2;1,4
+NL:Q:49008260;Stuwweg;Lelystad;10,4;11,5;2,7;2,7;1,3;1,5
+NL:Q:49008290;Haagwinde;Lelystad;8,5;8,9;3,9;3,7;1,6;1,7
+NL:Q:49008300;Haagwinde;Lelystad;8,4;9,9;3,9;4,1;1,7;1,8
+NL:Q:49008310;Klaproos;Lelystad;12,5;10,9;6,6;5,7;3,1;3,4
+NL:Q:49008320;Klaproos;Lelystad;12,6;12,0;6,7;6,4;3,1;3,5
+NL:Q:49008330;Hollandse Hout;Lelystad;9,1;10,0;4,2;3,9;1,6;2,1
 NL:Q:49008810;Palazzo;Lelystad;18,9;43,8;10,1;10,3;9,0;8,1
 NL:Q:49008820;Palazzo;Lelystad;41,2;20,5;13,8;8,2;10,0;6,9
-NL:Q:49008850;Larserpoortweg;Lelystad;10,9;4,4;6,2;1,3;5,1;1,0
-NL:Q:49009090;Duinbeek;Lelystad;1,8;0,9;0,6;0,4;0,3;0,1
-NL:Q:49009095;Duinbeek;Lelystad;0,3;2,3;0,0;0,7;0,0;0,4
+NL:Q:49008830;Palazzo;Lelystad;3,6;6,8;1,9;3,5;3,2;2,8
+NL:Q:49008840;Palazzo;Lelystad;3,6;6,8;1,9;3,5;3,2;2,8
+NL:Q:49008850;Larserpoortweg;Lelystad;13,7;7,6;7,7;2,1;6,5;1,5
+NL:Q:49009090;Duinbeek;Lelystad;32,6;30,6;10,4;11,0;4,9;5,9
+NL:Q:49009095;Duinbeek;Lelystad;31,1;32,0;9,8;11,3;4,7;6,2
 NL:Q:49009991;Emmawijk/Centrum;Zwolle;56,1;101,5;25,0;45,4;11,4;16,4
 NL:Q:49009992;Emmawijk/Centrum;Zwolle;64,4;63,1;22,5;29,2;6,3;9,9
 NL:Q:49110010;Airport Plaza;Lelystad;0,1;0,2;0,0;0,0;0,0;0,0
-NL:Q:49110030;Aviodrome;Lelystad;0,1;0,4;0,1;0,6;0,1;0,2
-NL:Q:49110240;Larserpoort;Lelystad;0,3;0,0;0,1;0,0;0,1;0,0
-NL:Q:49110250;Larserpoort;Lelystad;0,1;0,7;0,0;0,3;0,1;0,3
-NL:Q:49110300;Giant/Pascallaan;Lelystad;0,1;0,3;0,0;0,0;0,0;0,0
-NL:Q:49110330;Inditex / Mac3;Lelystad;1,1;1,4;0,1;0,2;0,3;0,4
-NL:Q:49110340;Omroep Flevoland;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
-NL:Q:49110350;Omroep Flevoland;Lelystad;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:49110030;Aviodrome;Lelystad;4,4;7,4;9,1;13,7;4,2;7,7
+NL:Q:49110240;Larserpoort;Lelystad;4,0;3,1;0,7;1,2;0,7;0,9
+NL:Q:49110250;Larserpoort;Lelystad;3,8;3,8;0,6;1,6;0,7;1,3
+NL:Q:49110280;Larserpoort;Lelystad;3,7;3,0;0,6;1,2;0,6;0,9
+NL:Q:49110290;Larserpoort;Lelystad;3,7;3,0;0,6;1,2;0,6;0,9
+NL:Q:49110300;Giant/Pascallaan;Lelystad;4,4;8,8;0,3;0,6;0,0;0,0
+NL:Q:49110330;Inditex / Mac3;Lelystad;26,1;29,3;7,1;9,8;6,5;9,4
+NL:Q:49110340;Omroep Flevoland;Lelystad;1,7;2,7;0,3;0,3;0,2;0,3
+NL:Q:49110350;Omroep Flevoland;Lelystad;1,6;3,0;0,3;0,3;0,2;0,3
 NL:Q:49111010;Natuurpark;Lelystad;2,9;3,7;0,9;0,4;0,9;0,7
-NL:Q:49111020;Larserpoortweg;Lelystad;4,1;20,9;1,2;8,5;1,2;7,1
+NL:Q:49111020;Larserpoortweg;Lelystad;6,9;24,0;2,6;9,4;2,5;7,6
+NL:Q:49130020;Runderweg;Lelystad;0,3;0,3;0,0;0,0;0,0;0,0
 NL:Q:49140010;Steenstraat;Lelystad;8,9;0,7;1,3;0,1;0,0;0,0
 NL:Q:49140020;Steenstraat;Lelystad;1,0;11,0;0,1;1,7;0,0;0,1
 NL:Q:49140050;Edelhertweg;Lelystad;0,1;0,0;0,0;0,0;0,0;0,0
@@ -7715,6 +7635,7 @@ NL:Q:61340070;Broekstraat;Hernen;0,1;0,3;0,0;0,0;0,0;0,0
 NL:Q:61340080;Broekstraat;Hernen;0,1;0,0;0,0;0,0;0,0;0,0
 NL:Q:61340090;Smitskampje;Hernen;0,0;1,3;0,0;0,0;0,0;0,0
 NL:Q:61340100;Smitskampje;Hernen;1,7;0,1;0,0;0,0;0,0;0,0
+NL:Q:61360190;;;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:61400010;Lingebrug;Zetten;0,5;1,2;0,0;0,0;0,0;0,0
 NL:Q:61400030;Molenstraat;Zetten;0,9;1,4;0,0;0,0;0,0;0,0
 NL:Q:61401001;Station Zetten-Andelst;Zetten;0,9;17,1;0,0;0,0;0,0;0,0
@@ -7848,3 +7769,1593 @@ NL:Q:80000050;Landesgrenze;Wyler;0,0;0,0;0,0;0,0;0,0;0,0
 NL:Q:91000116;Station;Lunteren;14,1;0,4;2,9;0,6;0,0;0,0
 NL:Q:99990032;Station Barneveld Noord;Barneveld;18,6;2,2;7,1;0,2;4,7;0,2
 NL:Q:99990033;Station Barneveld Noord;Barneveld;2,2;13,3;0,3;3,3;0,1;1,9
+NL:Q:NL:Q:40000090;;;4,3;3,3;4,7;4,8;2,7;2,9
+NL:Q:NL:Q:40000110;;;2,4;2,8;2,1;1,8;1,3;1,2
+NL:Q:NL:Q:40000130;;;3,4;3,5;1,1;0,9;0,6;0,4
+NL:Q:NL:Q:40000150;;;0,5;0,5;0,6;0,4;0,4;0,3
+NL:Q:NL:Q:40000190;;;0,2;0,6;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40000200;;;0,4;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40004007;;;8,9;0,0;13,0;0,0;7,0;0,0
+NL:Q:NL:Q:40004017;;;2,8;0,2;4,6;0,1;3,1;0,1
+NL:Q:NL:Q:40004020;;;0,1;2,7;0,1;4,9;0,0;2,1
+NL:Q:NL:Q:40004022;;;3,8;0,4;7,1;0,4;3,7;0,4
+NL:Q:NL:Q:40004023;;;0,7;3,4;0,6;7,8;0,5;3,2
+NL:Q:NL:Q:40004416;;;0,0;7,6;0,0;8,5;0,0;4,5
+NL:Q:NL:Q:40004700;;;1,0;0,2;1,7;0,5;0,8;0,1
+NL:Q:NL:Q:40004730;;;0,6;1,2;1,3;5,6;0,6;2,7
+NL:Q:NL:Q:40004740;;;2,0;0,7;4,7;0,9;1,7;0,5
+NL:Q:NL:Q:40005330;;;0,3;0,9;0,4;1,6;0,2;0,8
+NL:Q:NL:Q:40005340;;;0,9;0,2;1,7;0,4;1,0;0,0
+NL:Q:NL:Q:40005350;;;0,1;0,1;0,1;1,2;0,0;0,5
+NL:Q:NL:Q:40005360;;;0,2;0,1;0,5;0,2;0,2;0,0
+NL:Q:NL:Q:40006790;;;0,4;0,8;0,8;2,8;0,2;1,7
+NL:Q:NL:Q:40008840;;;0,2;0,2;0,5;0,1;0,3;0,1
+NL:Q:NL:Q:40120010;;;0,6;0,2;2,4;0,4;1,1;0,3
+NL:Q:NL:Q:40120030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40120050;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40120060;;;0,2;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40120250;;;0,1;2,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40120260;;;1,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40120290;;;0,2;1,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40120300;;;0,5;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40123950;;;0,3;0,2;0,2;1,0;0,1;0,6
+NL:Q:NL:Q:40123960;;;0,3;1,1;1,1;0,3;0,3;0,1
+NL:Q:NL:Q:40123990;;;0,2;0,6;0,2;1,7;0,0;1,1
+NL:Q:NL:Q:40124000;;;0,3;0,1;1,3;0,1;0,6;0,0
+NL:Q:NL:Q:40124030;;;0,0;0,5;0,1;1,4;0,1;0,6
+NL:Q:NL:Q:40124040;;;0,2;0,1;0,9;0,1;0,2;0,0
+NL:Q:NL:Q:40124050;;;0,1;0,5;0,2;1,3;0,0;1,0
+NL:Q:NL:Q:40124060;;;0,3;0,0;0,8;0,2;0,4;0,1
+NL:Q:NL:Q:40124070;;;0,1;0,6;0,2;0,5;0,0;0,3
+NL:Q:NL:Q:40124080;;;0,4;0,1;0,4;0,1;0,4;0,0
+NL:Q:NL:Q:40124090;;;0,1;0,2;0,1;0,9;0,0;0,4
+NL:Q:NL:Q:40320040;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40320130;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40320131;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40320160;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40320170;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40320210;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40322011;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40400060;;;0,0;2,7;0,2;0,5;0,0;0,8
+NL:Q:NL:Q:40400070;;;3,3;0,5;1,8;0,2;0,7;1,3
+NL:Q:NL:Q:40405000;;;0,0;4,6;0,0;1,6;0,0;2,0
+NL:Q:NL:Q:40420030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40420040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40420050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40420070;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40420080;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40420090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40420100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40420130;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40500010;;;0,0;0,0;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:40500020;;;0,2;0,1;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:40500030;;;0,1;0,2;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:40500060;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40500070;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40500080;;;0,7;0,4;1,0;0,1;0,1;0,0
+NL:Q:NL:Q:40500090;;;0,2;0,5;0,0;0,2;0,0;0,3
+NL:Q:NL:Q:40551089;;;1,6;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:40600100;;;5,4;7,4;1,5;5,2;1,7;1,7
+NL:Q:NL:Q:40600120;;;0,3;0,7;0,4;0,6;0,1;0,4
+NL:Q:NL:Q:40600130;;;0,4;0,3;0,2;0,6;0,2;0,2
+NL:Q:NL:Q:40600140;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41220220;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41220550;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41220560;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41220570;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41220580;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41220590;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41220600;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41220650;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41230010;;;0,4;0,0;0,6;0,2;0,1;0,0
+NL:Q:NL:Q:41230030;;;0,4;0,1;0,6;0,1;0,2;0,0
+NL:Q:NL:Q:41230040;;;0,1;0,2;0,1;0,7;0,1;0,3
+NL:Q:NL:Q:41230050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41230060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41230080;;;0,1;0,5;0,3;2,5;0,1;0,8
+NL:Q:NL:Q:41270010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41270030;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41270040;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41270060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41310030;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41310040;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41310050;;;0,2;0,5;0,0;0,1;0,1;0,1
+NL:Q:NL:Q:41310060;;;0,5;0,3;0,1;0,1;0,0;0,1
+NL:Q:NL:Q:41310070;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41310080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41310290;;;15,7;13,6;6,7;4,5;5,5;4,2
+NL:Q:NL:Q:41310293;;;0,4;0,2;0,1;0,1;0,1;0,2
+NL:Q:NL:Q:41310330;;;0,0;0,9;0,0;0,5;0,0;0,1
+NL:Q:NL:Q:41310340;;;0,7;0,0;0,5;0,1;0,2;0,1
+NL:Q:NL:Q:41310500;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41310520;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41330030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41330040;;;0,0;0,1;0,0;0,2;0,0;0,1
+NL:Q:NL:Q:41330050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41330060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41330070;;;0,0;0,0;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:41330080;;;0,0;0,0;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:41330090;;;1,7;1,5;2,3;1,7;0,8;0,9
+NL:Q:NL:Q:41330120;;;0,0;0,3;0,1;0,8;0,1;0,1
+NL:Q:NL:Q:41330170;;;0,1;0,0;0,4;0,1;0,3;0,1
+NL:Q:NL:Q:41400110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41400120;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41410030;;;1,5;2,5;0,4;0,8;0,4;0,7
+NL:Q:NL:Q:41410040;;;2,2;1,5;1,2;0,4;0,7;0,2
+NL:Q:NL:Q:41410150;;;0,1;2,3;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:41410160;;;0,5;0,1;0,1;0,1;0,1;0,1
+NL:Q:NL:Q:41410190;;;1,3;1,0;0,5;0,5;0,5;0,2
+NL:Q:NL:Q:41410210;;;1,5;2,2;0,7;1,2;0,6;1,0
+NL:Q:NL:Q:41410230;;;1,1;1,3;0,3;0,5;0,2;0,4
+NL:Q:NL:Q:41410250;;;2,2;1,7;1,4;1,1;0,8;0,9
+NL:Q:NL:Q:41420010;;;0,1;0,1;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:41420110;;;0,9;1,0;1,4;0,5;0,3;0,1
+NL:Q:NL:Q:41420120;;;1,7;0,7;0,4;0,8;0,2;0,4
+NL:Q:NL:Q:41420130;;;0,2;0,0;0,1;0,0;0,1;0,1
+NL:Q:NL:Q:41420140;;;0,0;0,2;0,1;0,4;0,1;0,2
+NL:Q:NL:Q:41420150;;;0,1;0,1;0,2;0,1;0,1;0,0
+NL:Q:NL:Q:41420160;;;0,1;0,0;0,1;0,2;0,0;0,2
+NL:Q:NL:Q:41420180;;;0,0;0,1;0,0;0,8;0,1;0,3
+NL:Q:NL:Q:41420210;;;2,8;0,8;1,4;1,2;0,3;0,4
+NL:Q:NL:Q:41420220;;;0,8;3,2;1,2;1,3;0,6;0,6
+NL:Q:NL:Q:41420230;;;0,9;0,8;1,5;0,8;0,4;0,3
+NL:Q:NL:Q:41420240;;;1,4;0,7;0,7;1,1;0,2;0,4
+NL:Q:NL:Q:41420250;;;0,2;0,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41420260;;;0,3;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41420270;;;0,5;0,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41420290;;;0,2;0,2;0,7;0,2;0,2;0,1
+NL:Q:NL:Q:41420300;;;0,1;0,4;0,0;0,7;0,0;0,4
+NL:Q:NL:Q:41430070;;;0,2;0,2;0,1;0,2;0,1;0,1
+NL:Q:NL:Q:41430110;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41430120;;;0,0;0,0;0,1;0,0;0,0;0,1
+NL:Q:NL:Q:41430130;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41430140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41430150;;;0,9;1,0;1,1;0,5;0,8;0,4
+NL:Q:NL:Q:41430160;;;1,0;1,0;0,9;0,8;0,6;0,8
+NL:Q:NL:Q:41430170;;;0,9;0,4;0,7;0,1;0,4;0,1
+NL:Q:NL:Q:41430180;;;0,4;1,1;0,1;0,4;0,1;0,7
+NL:Q:NL:Q:41470010;;;0,4;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41470050;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41470060;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41470070;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41470080;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41470130;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41470140;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41470210;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41470220;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41471130;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41471140;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41480010;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41480020;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41490030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41490040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41490050;;;0,7;1,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41490070;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41490080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41500010;;;1,3;1,2;0,2;0,2;0,1;0,2
+NL:Q:NL:Q:41500020;;;1,5;1,4;0,3;0,1;0,3;0,2
+NL:Q:NL:Q:41500030;;;0,4;0,5;0,2;0,4;0,2;0,2
+NL:Q:NL:Q:41500050;;;3,1;3,5;1,4;2,2;1,1;1,7
+NL:Q:NL:Q:41500060;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41500090;;;2,5;0,5;1,5;0,4;1,2;0,3
+NL:Q:NL:Q:41500151;;;0,8;1,1;0,4;0,9;0,3;0,5
+NL:Q:NL:Q:41500160;;;5,7;6,1;2,7;3,5;2,3;2,3
+NL:Q:NL:Q:41500170;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41500180;;;0,6;0,9;0,4;0,8;0,7;1,1
+NL:Q:NL:Q:41500190;;;0,2;0,6;0,0;0,3;0,0;0,5
+NL:Q:NL:Q:41500200;;;0,7;0,3;0,1;0,0;0,3;0,1
+NL:Q:NL:Q:41500251;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41500261;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41500270;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41500280;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41500310;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41500320;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41500450;;;0,2;3,6;0,1;2,0;0,2;2,0
+NL:Q:NL:Q:41500470;;;1,5;0,2;0,7;0,1;0,5;0,1
+NL:Q:NL:Q:41500480;;;0,4;1,8;0,1;1,1;0,1;0,8
+NL:Q:NL:Q:41500550;;;0,2;0,5;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:41500560;;;0,4;0,1;0,3;0,0;0,2;0,0
+NL:Q:NL:Q:41501010;;;0,1;0,0;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:41501100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41501430;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41501440;;;0,9;0,8;0,3;0,3;0,5;0,1
+NL:Q:NL:Q:41501450;;;1,7;1,6;1,5;1,2;1,2;1,4
+NL:Q:NL:Q:41501460;;;0,9;0,4;0,4;0,1;0,5;0,1
+NL:Q:NL:Q:41501470;;;1,0;1,7;0,3;0,8;0,2;1,0
+NL:Q:NL:Q:41501480;;;1,9;1,0;0,9;0,3;0,8;0,2
+NL:Q:NL:Q:41503001;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41503010;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41504001;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41504060;;;0,1;0,0;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:41504070;;;0,1;0,1;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:41504080;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41504090;;;0,0;0,4;0,0;0,3;0,0;0,1
+NL:Q:NL:Q:41504100;;;0,2;0,1;0,2;0,0;0,1;0,0
+NL:Q:NL:Q:41509030;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41509040;;;0,0;0,6;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41510180;;;0,9;1,1;0,4;0,4;0,3;0,4
+NL:Q:NL:Q:41510190;;;1,1;0,8;0,5;0,4;0,2;0,4
+NL:Q:NL:Q:41520010;;;0,0;0,0;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:41520030;;;0,2;0,1;0,2;0,1;0,1;0,0
+NL:Q:NL:Q:41520040;;;0,1;0,2;0,0;0,2;0,0;0,1
+NL:Q:NL:Q:41520050;;;0,2;0,0;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:41520060;;;0,0;0,2;0,1;0,2;0,0;0,2
+NL:Q:NL:Q:41520110;;;0,6;0,2;0,5;0,2;0,4;0,2
+NL:Q:NL:Q:41520120;;;0,2;0,7;0,1;0,4;0,2;0,3
+NL:Q:NL:Q:41520210;;;0,0;0,0;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:41520220;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41520230;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41520240;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41520250;;;0,0;0,0;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:41520260;;;0,1;0,1;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:41520270;;;0,2;0,5;0,4;0,2;0,1;0,1
+NL:Q:NL:Q:41520280;;;0,6;0,2;0,4;0,2;0,2;0,1
+NL:Q:NL:Q:41530030;;;0,1;0,1;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:41530040;;;0,1;0,1;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:41530070;;;1,2;0,4;0,4;0,2;0,5;0,1
+NL:Q:NL:Q:41530080;;;0,3;1,1;0,2;0,5;0,2;0,5
+NL:Q:NL:Q:41530120;;;0,0;0,1;0,0;0,2;0,0;0,1
+NL:Q:NL:Q:41530150;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41530160;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41530170;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41530180;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41530200;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41530210;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41580001;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41580002;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41610070;;;0,6;0,4;0,1;0,2;0,1;0,1
+NL:Q:NL:Q:41610080;;;0,3;1,2;0,1;0,2;0,0;0,1
+NL:Q:NL:Q:41610090;;;0,4;0,5;0,2;0,2;0,2;0,2
+NL:Q:NL:Q:41610100;;;0,5;0,4;0,2;0,4;0,2;0,2
+NL:Q:NL:Q:41620010;;;0,4;1,4;0,2;0,3;0,1;0,2
+NL:Q:NL:Q:41620030;;;0,1;0,1;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:41620040;;;0,1;0,1;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:41620060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41640030;;;0,6;0,9;0,2;0,6;0,3;0,4
+NL:Q:NL:Q:41640040;;;0,9;0,8;0,5;0,5;0,3;0,4
+NL:Q:NL:Q:41640050;;;0,2;0,2;0,3;0,1;0,2;0,1
+NL:Q:NL:Q:41640060;;;0,5;0,7;0,3;0,4;0,3;0,4
+NL:Q:NL:Q:41640070;;;0,1;0,1;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:41640080;;;0,1;0,1;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:41640090;;;0,2;0,1;0,1;0,1;0,0;0,1
+NL:Q:NL:Q:41640091;;;0,1;0,2;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:41640110;;;0,0;2,4;0,0;1,2;0,0;1,3
+NL:Q:NL:Q:41640120;;;1,0;0,1;0,3;0,0;0,4;0,1
+NL:Q:NL:Q:41640130;;;0,2;8,6;0,1;9,5;0,1;5,4
+NL:Q:NL:Q:41640140;;;6,7;0,3;6,0;0,1;3,8;0,2
+NL:Q:NL:Q:41640170;;;16,5;0,0;9,5;0,0;10,0;0,0
+NL:Q:NL:Q:41640171;;;11,5;0,0;4,0;0,0;4,0;0,0
+NL:Q:NL:Q:41640172;;;13,0;0,0;4,3;0,0;4,6;0,0
+NL:Q:NL:Q:41640173;;;1,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41640174;;;4,5;53,2;5,6;19,8;4,8;19,1
+NL:Q:NL:Q:41640176;;;15,9;0,0;8,1;0,0;6,5;0,0
+NL:Q:NL:Q:41640200;;;3,2;0,1;1,6;0,1;1,2;0,1
+NL:Q:NL:Q:41640210;;;0,3;3,8;0,1;1,7;0,2;1,7
+NL:Q:NL:Q:41640231;;;2,1;1,7;1,3;1,5;1,2;1,0
+NL:Q:NL:Q:41640330;;;3,6;3,5;0,2;0,2;0,1;0,2
+NL:Q:NL:Q:41640350;;;0,9;1,0;0,8;0,9;0,6;0,6
+NL:Q:NL:Q:41640370;;;1,7;1,9;1,3;1,2;1,1;1,4
+NL:Q:NL:Q:41640390;;;1,3;1,7;1,2;1,4;0,6;1,4
+NL:Q:NL:Q:41640410;;;1,3;1,6;0,7;0,9;0,9;1,2
+NL:Q:NL:Q:41640430;;;2,0;2,4;1,9;2,8;1,4;2,0
+NL:Q:NL:Q:41640570;;;0,3;2,4;0,1;1,4;0,1;1,4
+NL:Q:NL:Q:41640580;;;2,2;0,2;0,7;0,0;0,5;0,2
+NL:Q:NL:Q:41642010;;;0,9;0,6;0,9;0,1;0,7;0,5
+NL:Q:NL:Q:41642030;;;1,5;0,6;0,9;0,5;1,0;0,4
+NL:Q:NL:Q:41642040;;;0,5;1,3;0,3;0,9;0,4;0,9
+NL:Q:NL:Q:41680010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41680020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41680030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41680040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41680050;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41680070;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41680080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720030;;;0,4;1,9;0,3;1,3;0,2;1,0
+NL:Q:NL:Q:41720040;;;2,1;0,5;1,5;0,2;1,1;0,2
+NL:Q:NL:Q:41720070;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720150;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720190;;;4,1;6,9;0,8;0,7;0,3;0,6
+NL:Q:NL:Q:41720200;;;7,1;4,7;0,3;0,7;0,3;0,6
+NL:Q:NL:Q:41720210;;;5,7;2,6;1,8;0,4;1,8;0,2
+NL:Q:NL:Q:41720220;;;2,2;4,7;0,3;2,8;0,1;2,1
+NL:Q:NL:Q:41720230;;;5,2;1,2;2,8;0,6;1,6;0,6
+NL:Q:NL:Q:41720240;;;1,0;5,4;0,3;3,9;0,4;1,8
+NL:Q:NL:Q:41720252;;;1,5;117,5;0,0;30,5;0,0;23,9
+NL:Q:NL:Q:41720280;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720290;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720310;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720360;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720390;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720400;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720410;;;1,4;0,2;0,9;0,1;0,9;0,1
+NL:Q:NL:Q:41720420;;;0,2;1,5;0,1;0,8;0,1;0,5
+NL:Q:NL:Q:41720430;;;0,5;0,4;0,1;0,2;0,1;0,1
+NL:Q:NL:Q:41720440;;;0,4;0,6;0,1;0,2;0,1;0,0
+NL:Q:NL:Q:41720450;;;0,7;1,0;0,1;0,2;0,1;0,1
+NL:Q:NL:Q:41720460;;;0,8;0,7;0,3;0,2;0,2;0,2
+NL:Q:NL:Q:41720470;;;11,4;13,3;0,3;0,1;0,3;0,1
+NL:Q:NL:Q:41720480;;;11,6;16,7;0,0;0,5;0,0;0,2
+NL:Q:NL:Q:41720490;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720500;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720520;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720580;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720590;;;0,2;0,3;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:41720650;;;1,5;1,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720670;;;0,6;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720680;;;0,1;0,7;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720690;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41720850;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41721050;;;2,4;1,1;0,5;0,4;0,5;0,6
+NL:Q:NL:Q:41721060;;;0,9;2,8;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41721100;;;23,6;0,0;6,6;0,0;5,2;0,0
+NL:Q:NL:Q:41721101;;;77,1;0,0;10,7;0,0;8,3;0,0
+NL:Q:NL:Q:41721102;;;24,2;0,7;4,1;0,0;3,3;0,0
+NL:Q:NL:Q:41721103;;;1,4;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41721104;;;4,4;0,0;11,8;0,0;9,6;0,0
+NL:Q:NL:Q:41721110;;;8,4;1,9;3,9;0,9;2,3;0,4
+NL:Q:NL:Q:41721120;;;2,0;8,2;0,7;4,6;0,4;2,2
+NL:Q:NL:Q:41721130;;;3,6;7,4;0,4;0,4;0,4;0,1
+NL:Q:NL:Q:41721140;;;6,0;6,1;0,4;0,6;0,1;0,3
+NL:Q:NL:Q:41721160;;;1,2;0,5;0,2;0,1;0,2;0,1
+NL:Q:NL:Q:41723030;;;1,4;1,0;0,3;0,2;0,3;0,2
+NL:Q:NL:Q:41723040;;;1,4;2,1;0,1;0,3;0,2;0,4
+NL:Q:NL:Q:41723050;;;1,8;3,1;0,4;1,1;0,4;0,5
+NL:Q:NL:Q:41723060;;;2,5;1,6;1,1;0,5;0,7;0,3
+NL:Q:NL:Q:41723070;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41723080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41723110;;;2,9;1,1;0,5;0,4;0,6;0,3
+NL:Q:NL:Q:41723120;;;0,9;2,7;0,4;0,8;0,3;0,5
+NL:Q:NL:Q:41723160;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41723530;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41723570;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41723590;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41723630;;;0,2;1,4;0,0;0,2;0,1;0,1
+NL:Q:NL:Q:41723640;;;0,8;0,3;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:41723650;;;0,3;1,3;0,2;0,2;0,1;0,1
+NL:Q:NL:Q:41723660;;;0,8;0,2;0,1;0,2;0,1;0,1
+NL:Q:NL:Q:41730030;;;0,1;0,1;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:41730040;;;0,1;0,1;0,1;0,1;0,0;0,1
+NL:Q:NL:Q:41730050;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41730060;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41730070;;;0,1;0,1;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:41730080;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41730100;;;0,2;0,2;0,3;0,2;0,0;0,1
+NL:Q:NL:Q:41740010;;;0,7;0,7;0,3;0,3;0,3;0,2
+NL:Q:NL:Q:41740020;;;0,6;0,9;0,5;0,7;0,3;0,7
+NL:Q:NL:Q:41740030;;;0,6;0,6;0,8;0,6;0,4;0,6
+NL:Q:NL:Q:41740031;;;0,6;0,6;0,5;0,7;0,2;0,5
+NL:Q:NL:Q:41740050;;;1,9;1,4;0,8;0,9;1,2;1,0
+NL:Q:NL:Q:41740060;;;1,6;2,3;1,0;1,2;0,9;1,4
+NL:Q:NL:Q:41740070;;;0,6;0,5;0,2;0,4;0,1;0,4
+NL:Q:NL:Q:41740080;;;0,6;0,8;0,3;0,2;0,3;0,2
+NL:Q:NL:Q:41740110;;;0,0;0,0;0,1;0,1;0,1;0,2
+NL:Q:NL:Q:41740120;;;0,0;0,1;0,1;0,1;0,2;0,1
+NL:Q:NL:Q:41740130;;;0,2;0,3;0,1;0,2;0,1;0,3
+NL:Q:NL:Q:41740140;;;0,2;0,3;0,2;0,2;0,2;0,1
+NL:Q:NL:Q:41740150;;;0,1;0,2;0,0;0,2;0,1;0,2
+NL:Q:NL:Q:41770010;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41770030;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41770040;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41770070;;;0,4;0,0;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:41770080;;;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41770090;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41770100;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41780010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41780020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41780030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41780040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41790030;;;8,6;8,7;4,7;2,6;2,6;2,3
+NL:Q:NL:Q:41790070;;;0,6;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41790100;;;0,9;6,1;0,2;2,4;0,3;2,4
+NL:Q:NL:Q:41790110;;;5,1;0,1;1,7;0,0;1,7;0,1
+NL:Q:NL:Q:41790130;;;0,1;0,4;0,1;0,2;0,2;0,2
+NL:Q:NL:Q:41790140;;;0,3;0,2;0,2;0,3;0,3;0,1
+NL:Q:NL:Q:41790150;;;0,2;1,9;0,4;2,1;0,2;0,9
+NL:Q:NL:Q:41790160;;;1,7;0,3;1,4;0,7;0,8;0,4
+NL:Q:NL:Q:41790190;;;0,0;0,4;0,1;0,5;0,1;0,5
+NL:Q:NL:Q:41790200;;;0,3;0,1;0,5;0,4;0,2;0,2
+NL:Q:NL:Q:41796010;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41796020;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41796030;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41796040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41796050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41796060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41796070;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41796080;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41796110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41796120;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41800070;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41800080;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41820010;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41820030;;;0,1;0,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41820040;;;0,3;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41820050;;;0,1;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41820060;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41820070;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41820080;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41820090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41820100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41820130;;;1,7;1,0;0,3;0,5;0,4;0,4
+NL:Q:NL:Q:41820140;;;1,3;2,2;0,4;0,6;0,4;0,6
+NL:Q:NL:Q:41870030;;;0,0;0,0;0,2;0,1;0,1;0,2
+NL:Q:NL:Q:41870070;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41870080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41870090;;;0,2;0,0;0,1;0,2;0,1;0,1
+NL:Q:NL:Q:41870100;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41870110;;;0,9;0,1;0,4;0,3;0,4;0,2
+NL:Q:NL:Q:41870120;;;0,1;0,7;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41870140;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41880010;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41880020;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41890050;;;0,1;0,6;0,1;0,6;0,0;0,4
+NL:Q:NL:Q:41890060;;;0,7;0,1;0,6;0,1;0,3;0,0
+NL:Q:NL:Q:41890090;;;0,0;0,4;0,0;0,3;0,1;0,2
+NL:Q:NL:Q:41890100;;;0,3;0,0;0,2;0,0;0,1;0,1
+NL:Q:NL:Q:41900050;;;0,5;0,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41900060;;;0,4;0,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41910070;;;3,3;1,0;2,3;0,4;1,6;0,3
+NL:Q:NL:Q:41910080;;;1,0;3,5;0,5;2,0;0,5;1,7
+NL:Q:NL:Q:41910110;;;0,4;1,7;0,2;1,0;0,1;0,5
+NL:Q:NL:Q:41910120;;;1,9;0,4;0,9;0,2;0,6;0,1
+NL:Q:NL:Q:41910150;;;0,4;0,9;0,2;0,5;0,1;0,4
+NL:Q:NL:Q:41910160;;;1,1;0,4;0,4;0,2;0,3;0,2
+NL:Q:NL:Q:41911010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41911020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41911090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41911100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920050;;;1,1;0,3;0,3;0,1;0,2;0,1
+NL:Q:NL:Q:41920060;;;0,3;1,2;0,1;0,3;0,1;0,3
+NL:Q:NL:Q:41920090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920210;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920250;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920260;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920270;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920280;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920290;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920300;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920310;;;0,3;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920320;;;0,3;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920330;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920340;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920350;;;0,7;3,6;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920352;;;3,1;0,9;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920360;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920370;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920380;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920410;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920420;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920470;;;0,1;2,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920480;;;2,5;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920500;;;0,5;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920520;;;0,1;0,6;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41920600;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41970050;;;1,4;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41970060;;;0,7;1,8;0,3;0,3;0,5;0,5
+NL:Q:NL:Q:41970090;;;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:41970100;;;0,0;0,4;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:41970150;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42020050;;;4,4;0,1;1,3;0,2;1,1;0,1
+NL:Q:NL:Q:42020060;;;0,1;4,4;0,0;1,1;0,1;1,2
+NL:Q:NL:Q:42020070;;;3,8;0,5;1,6;0,5;1,4;0,4
+NL:Q:NL:Q:42020080;;;0,6;4,2;0,5;1,9;0,4;1,4
+NL:Q:NL:Q:42020090;;;0,2;4,5;1,7;1,5;0,6;1,6
+NL:Q:NL:Q:42020100;;;3,7;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42020110;;;1,2;0,1;0,2;0,0;0,6;0,0
+NL:Q:NL:Q:42020120;;;0,1;1,3;0,0;0,6;0,0;0,3
+NL:Q:NL:Q:42020130;;;1,8;0,1;0,7;0,0;0,5;0,0
+NL:Q:NL:Q:42020140;;;0,1;2,0;0,1;0,8;0,0;0,4
+NL:Q:NL:Q:42020160;;;0,0;0,6;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:42020190;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42020210;;;0,5;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42020220;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42020230;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42021010;;;2,1;0,9;0,5;0,0;0,6;0,1
+NL:Q:NL:Q:42021020;;;0,0;2,2;0,0;0,3;0,1;0,7
+NL:Q:NL:Q:42021030;;;2,3;0,0;0,4;0,0;0,2;0,0
+NL:Q:NL:Q:42021040;;;0,0;2,2;0,0;0,6;0,0;0,2
+NL:Q:NL:Q:42021120;;;0,3;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42021150;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42026030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42026040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42026050;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42026070;;;8,1;6,4;2,5;2,8;2,3;2,3
+NL:Q:NL:Q:42210010;;;0,1;0,0;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:42210030;;;0,6;0,0;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:42210040;;;0,1;0,9;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:42210050;;;1,7;0,1;0,3;0,0;0,3;0,0
+NL:Q:NL:Q:42210051;;;0,0;1,9;0,0;0,3;0,0;0,3
+NL:Q:NL:Q:42210060;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42210070;;;3,5;0,6;1,0;0,4;0,8;0,1
+NL:Q:NL:Q:42210071;;;0,2;3,5;0,0;0,9;0,0;0,8
+NL:Q:NL:Q:42210090;;;0,2;0,0;2,7;0,0;2,0;0,0
+NL:Q:NL:Q:42210091;;;8,3;6,7;0,0;2,0;0,0;1,5
+NL:Q:NL:Q:42210290;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42210300;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42211310;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42211320;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42213010;;;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42213020;;;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42213110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42213120;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42213160;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42213170;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220017;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220018;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220019;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220020;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220021;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220022;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220023;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220024;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220110;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220120;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220130;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220150;;;1,3;1,7;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220170;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220180;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42220290;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42340010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42340020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42340050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42340060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42400090;;;3,6;0,8;0,2;0,0;0,2;0,0
+NL:Q:NL:Q:42400100;;;0,6;3,5;0,1;0,1;0,1;0,2
+NL:Q:NL:Q:42400110;;;0,2;2,1;0,0;0,5;0,0;0,3
+NL:Q:NL:Q:42400120;;;1,8;0,2;0,3;0,0;0,4;0,0
+NL:Q:NL:Q:42400130;;;1,5;0,8;0,2;0,1;0,3;0,1
+NL:Q:NL:Q:42400140;;;0,5;1,7;0,0;0,2;0,1;0,3
+NL:Q:NL:Q:42400190;;;9,0;0,0;0,8;0,0;1,2;0,0
+NL:Q:NL:Q:42400470;;;0,8;0,1;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:42400480;;;0,2;0,9;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:42400590;;;0,7;0,4;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:42400600;;;0,4;0,7;0,1;0,1;0,0;0,1
+NL:Q:NL:Q:42400630;;;1,1;0,6;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:42400640;;;0,6;0,9;0,1;0,1;0,1;0,1
+NL:Q:NL:Q:42400650;;;1,5;0,8;0,1;0,1;0,3;0,1
+NL:Q:NL:Q:42400660;;;0,8;1,4;0,1;0,2;0,1;0,3
+NL:Q:NL:Q:42400692;;;0,1;0,5;0,0;0,1;0,0;0,2
+NL:Q:NL:Q:42400693;;;0,6;0,2;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:42500070;;;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42500080;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42510010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42510020;;;0,0;0,0;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:42510030;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42510040;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42510050;;;0,0;0,0;0,0;0,1;0,0;0,2
+NL:Q:NL:Q:42510060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42510230;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42510240;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42510270;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42510280;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42510310;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42510320;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:42610060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43000010;;;19,5;32,3;2,8;3,0;3,3;5,8
+NL:Q:NL:Q:43000011;;;14,6;0,0;2,2;0,0;2,8;0,0
+NL:Q:NL:Q:43000050;;;2,5;1,8;0,6;0,3;0,4;0,6
+NL:Q:NL:Q:43001830;;;0,5;0,9;0,1;0,2;0,2;0,1
+NL:Q:NL:Q:43001840;;;0,6;0,4;0,1;0,1;0,1;0,1
+NL:Q:NL:Q:43001850;;;1,7;1,1;0,2;0,6;0,3;0,4
+NL:Q:NL:Q:43001860;;;1,2;1,9;0,2;0,2;0,3;0,3
+NL:Q:NL:Q:43130010;;;0,1;0,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43130030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43130040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43130050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43130080;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43130090;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43130100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43130140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43210850;;;0,5;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43211019;;;2,8;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43211021;;;0,0;2,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43212810;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43212830;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43212840;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43212850;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43212860;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43212870;;;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43212880;;;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43212900;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43212910;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43212920;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43230010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43230030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43230040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43230060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43230070;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43230080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43230110;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43230120;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:43230140;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44010050;;;0,1;0,3;0,0;0,1;0,0;0,2
+NL:Q:NL:Q:44010060;;;0,3;0,1;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:44010090;;;0,0;0,1;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:44010100;;;0,1;0,1;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:44020110;;;0,5;0,6;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:44020120;;;0,4;0,8;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:44020130;;;1,1;3,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44020141;;;3,1;0,9;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44020151;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44020161;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44020310;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44020320;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44021050;;;2,1;9,8;0,0;4,0;0,0;2,8
+NL:Q:NL:Q:44021060;;;9,2;2,1;3,7;0,0;4,4;0,0
+NL:Q:NL:Q:44022030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44030010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44030020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44300070;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44300110;;;1,3;1,6;2,9;0,0;1,0;0,0
+NL:Q:NL:Q:44300111;;;0,4;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44300112;;;0,0;0,2;0,0;1,8;0,0;1,2
+NL:Q:NL:Q:44300130;;;0,0;0,0;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:44300140;;;0,1;0,0;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:44300150;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44300160;;;0,0;0,0;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:44300270;;;0,7;0,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44300280;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44300310;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44300320;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44301050;;;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44340030;;;1,1;1,6;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44340040;;;1,5;1,3;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:44340090;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44400100;;;0,2;0,2;0,4;0,0;0,3;0,1
+NL:Q:NL:Q:44410010;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44410030;;;0,3;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44410070;;;0,4;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44410090;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44410110;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500010;;;0,2;0,2;0,0;0,2;0,0;0,6
+NL:Q:NL:Q:44500177;;;0,0;2,3;0,0;0,5;0,0;0,1
+NL:Q:NL:Q:44500210;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500220;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500230;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500240;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500250;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500260;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500310;;;0,7;0,1;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:44500320;;;0,0;0,4;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:44500330;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500340;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500350;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500360;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500390;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500400;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500430;;;3,7;6,9;1,7;3,2;1,0;2,3
+NL:Q:NL:Q:44500440;;;5,5;3,9;2,1;1,7;2,1;1,1
+NL:Q:NL:Q:44500450;;;4,9;5,3;0,8;1,3;1,1;1,0
+NL:Q:NL:Q:44500460;;;4,9;4,9;0,8;0,8;1,0;1,1
+NL:Q:NL:Q:44500510;;;0,5;0,7;0,1;0,2;0,1;0,1
+NL:Q:NL:Q:44500520;;;0,6;0,6;0,1;0,2;0,1;0,1
+NL:Q:NL:Q:44500550;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500570;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500590;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44500600;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44501210;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44501220;;;3,2;0,0;0,6;0,0;0,2;0,0
+NL:Q:NL:Q:44600090;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44600100;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44600131;;;11,5;17,7;1,4;1,9;1,3;1,8
+NL:Q:NL:Q:44600132;;;1,9;1,6;0,5;0,4;0,4;0,1
+NL:Q:NL:Q:44600133;;;9,3;5,3;0,8;0,7;1,0;0,8
+NL:Q:NL:Q:44600134;;;7,9;6,1;0,9;0,7;1,1;0,7
+NL:Q:NL:Q:44600135;;;1,3;3,0;0,4;0,7;0,1;0,2
+NL:Q:NL:Q:44600136;;;0,8;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44600200;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44600210;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44600220;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44600230;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44600240;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44600390;;;2,7;0,1;1,3;0,1;1,0;0,1
+NL:Q:NL:Q:44600400;;;0,1;2,7;0,1;1,5;0,1;1,3
+NL:Q:NL:Q:44600440;;;0,1;0,8;0,0;0,4;0,0;0,2
+NL:Q:NL:Q:44600450;;;1,1;0,4;0,3;0,1;0,1;0,0
+NL:Q:NL:Q:44600460;;;0,7;2,5;0,1;1,0;0,0;0,2
+NL:Q:NL:Q:44600470;;;3,4;1,4;1,2;0,1;0,3;0,0
+NL:Q:NL:Q:44600480;;;0,2;2,5;0,1;0,4;0,0;0,1
+NL:Q:NL:Q:44600490;;;2,4;0,1;0,3;0,1;0,1;0,0
+NL:Q:NL:Q:44600500;;;0,3;1,8;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44600510;;;1,7;0,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44610010;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44610020;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44700070;;;9,3;7,2;4,7;2,3;2,4;2,6
+NL:Q:NL:Q:44710050;;;19,8;15,6;3,8;3,4;2,3;2,4
+NL:Q:NL:Q:44710051;;;0,0;0,0;0,0;0,2;0,0;0,4
+NL:Q:NL:Q:44710052;;;0,0;2,7;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44710070;;;0,1;2,6;0,1;1,1;0,1;0,8
+NL:Q:NL:Q:44710080;;;2,8;0,1;1,1;0,1;0,9;0,0
+NL:Q:NL:Q:44710110;;;0,2;1,1;0,1;0,5;0,0;0,2
+NL:Q:NL:Q:44710120;;;1,3;0,3;0,4;0,0;0,2;0,1
+NL:Q:NL:Q:44710160;;;0,8;0,7;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44710210;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44710220;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44710410;;;1,1;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44710420;;;0,4;1,2;0,0;0,2;0,0;0,3
+NL:Q:NL:Q:44710450;;;0,4;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44710460;;;0,1;0,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44710470;;;1,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44710480;;;0,3;1,1;0,0;0,2;0,0;0,2
+NL:Q:NL:Q:44710490;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44710500;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44710520;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44710550;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44710560;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44730010;;;0,4;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44730020;;;0,1;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44740041;;;0,9;0,8;0,3;1,1;0,1;0,6
+NL:Q:NL:Q:44740042;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800024;;;1,3;2,1;0,7;0,9;0,2;0,2
+NL:Q:NL:Q:44800030;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800040;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800070;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800075;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800076;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800080;;;0,6;1,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800120;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800130;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800150;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800160;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800170;;;16,6;16,0;3,8;4,6;3,7;4,3
+NL:Q:NL:Q:44800250;;;2,9;2,0;0,2;0,2;0,2;0,5
+NL:Q:NL:Q:44800260;;;2,1;2,8;0,2;0,3;0,3;0,3
+NL:Q:NL:Q:44800270;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44800280;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44802210;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44802220;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44802230;;;3,2;3,2;0,9;0,8;0,3;0,4
+NL:Q:NL:Q:44802270;;;8,2;8,1;0,5;0,3;0,1;0,1
+NL:Q:NL:Q:44810050;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44810060;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44810090;;;1,1;1,1;0,2;0,2;0,2;0,2
+NL:Q:NL:Q:44810100;;;0,0;0,1;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:44810170;;;5,4;4,3;2,5;1,3;1,8;1,8
+NL:Q:NL:Q:44810180;;;4,1;6,1;1,3;2,8;1,2;1,6
+NL:Q:NL:Q:44811070;;;0,8;0,9;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44811110;;;0,9;0,9;0,3;0,2;0,2;0,1
+NL:Q:NL:Q:44811120;;;1,1;1,1;0,1;0,5;0,1;0,3
+NL:Q:NL:Q:44811140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44811150;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44813100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44850010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44850030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44850040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44850070;;;0,5;0,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44850075;;;0,0;0,0;0,1;0,1;0,3;0,1
+NL:Q:NL:Q:44850080;;;0,5;0,6;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44850090;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44850100;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44850130;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44850140;;;0,2;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44900050;;;1,2;1,5;0,3;0,3;0,3;0,2
+NL:Q:NL:Q:44900060;;;1,6;1,3;0,4;0,5;0,1;0,3
+NL:Q:NL:Q:44900090;;;0,0;0,3;0,0;0,1;0,0;0,2
+NL:Q:NL:Q:44900100;;;0,2;0,1;0,0;0,0;0,0;0,3
+NL:Q:NL:Q:44910030;;;0,1;0,1;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:44910040;;;0,1;0,1;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:44910070;;;0,2;0,5;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:44910080;;;0,5;0,2;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:44930010;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44930020;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44930030;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44930040;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44930050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44930060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44930110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44930120;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44931170;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44931171;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44940010;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44940020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44940210;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44940530;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950030;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950040;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950070;;;0,4;0,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950080;;;0,4;0,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950130;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950150;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950180;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950190;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950200;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950210;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950220;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950230;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950330;;;2,1;1,4;0,2;0,1;0,2;0,1
+NL:Q:NL:Q:44950340;;;1,5;2,2;0,1;0,1;0,2;0,0
+NL:Q:NL:Q:44950370;;;2,7;0,8;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950380;;;1,1;2,7;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:44950385;;;0,0;0,0;0,0;0,1;0,1;0,1
+NL:Q:NL:Q:44950390;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950400;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950410;;;1,5;0,9;0,2;0,0;0,1;0,2
+NL:Q:NL:Q:44950480;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950490;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950500;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950510;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44950520;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:44951600;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:45120020;;;0,0;0,8;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:45120040;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47640030;;;0,9;6,8;0,0;1,7;0,0;1,1
+NL:Q:NL:Q:47640040;;;5,0;0,7;0,6;0,0;0,8;0,0
+NL:Q:NL:Q:47640140;;;0,1;0,5;0,0;0,4;0,0;0,2
+NL:Q:NL:Q:47641010;;;19,1;15,6;8,9;6,7;7,2;5,6
+NL:Q:NL:Q:47641070;;;0,4;1,4;0,0;0,2;0,0;0,0
+NL:Q:NL:Q:47641080;;;0,9;0,4;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:47641870;;;0,8;2,0;0,2;1,0;0,1;0,7
+NL:Q:NL:Q:47641880;;;1,8;1,1;0,8;0,2;0,4;0,1
+NL:Q:NL:Q:47641890;;;0,1;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47641900;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47641920;;;0,5;0,8;0,3;0,3;0,1;0,3
+NL:Q:NL:Q:47641930;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47646030;;;0,2;0,2;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:47740040;;;0,7;1,0;0,6;0,6;0,5;0,5
+NL:Q:NL:Q:47740050;;;1,8;3,0;0,8;2,5;0,7;2,1
+NL:Q:NL:Q:47740060;;;2,8;2,1;2,2;0,8;1,8;0,8
+NL:Q:NL:Q:47740090;;;1,5;1,7;1,3;1,5;1,0;1,3
+NL:Q:NL:Q:47740100;;;1,6;2,0;1,5;1,5;1,4;1,7
+NL:Q:NL:Q:47740160;;;0,1;0,1;0,2;0,2;0,1;0,2
+NL:Q:NL:Q:47740230;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47740240;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47740270;;;0,4;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47740280;;;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47870030;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47870040;;;0,0;0,1;0,1;0,1;0,0;0,1
+NL:Q:NL:Q:47870050;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47870060;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47870080;;;0,0;0,0;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:47870090;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47870100;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47970050;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47970060;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47970090;;;1,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47970100;;;0,3;1,1;0,3;0,2;0,1;0,4
+NL:Q:NL:Q:47970110;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:47970120;;;0,0;0,1;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:51340010;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51340170;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51340234;;;2,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51340244;;;0,0;1,8;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51340250;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51340260;;;0,2;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51340290;;;0,4;0,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51340411;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51341260;;;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51341570;;;0,3;0,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51341580;;;0,6;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470030;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470070;;;0,2;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470080;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470090;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470100;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470130;;;0,3;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470140;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51470150;;;0,2;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51471020;;;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51570030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51570040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51570170;;;0,2;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51570180;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51670010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51670020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51670030;;;0,2;0,3;0,2;0,0;0,1;0,2
+NL:Q:NL:Q:51670040;;;0,0;0,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51670050;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51670120;;;0,3;0,3;0,0;0,1;0,1;0,1
+NL:Q:NL:Q:51670130;;;2,1;3,2;0,0;1,6;0,0;1,4
+NL:Q:NL:Q:51670140;;;4,2;1,9;1,4;0,0;1,5;0,0
+NL:Q:NL:Q:51670530;;;0,3;0,8;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51670550;;;0,7;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51670720;;;0,3;0,2;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:51670730;;;0,1;0,3;0,1;0,1;0,1;0,1
+NL:Q:NL:Q:51670750;;;0,2;0,9;0,0;0,2;0,0;0,1
+NL:Q:NL:Q:51670760;;;1,1;0,2;0,3;0,0;0,2;0,0
+NL:Q:NL:Q:51670780;;;1,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51670790;;;0,0;1,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51670820;;;0,1;0,2;0,0;0,3;0,0;0,1
+NL:Q:NL:Q:51670830;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51671280;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51671290;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51671300;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51671310;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51671320;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51671330;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51671340;;;0,2;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51671350;;;0,4;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51750040;;;1,1;0,2;1,3;0,3;0,7;0,1
+NL:Q:NL:Q:51750070;;;0,1;6,2;0,0;1,5;0,0;2,1
+NL:Q:NL:Q:51750071;;;0,3;0,0;0,4;0,0;0,4;0,0
+NL:Q:NL:Q:51750077;;;7,0;0,9;2,4;0,0;2,1;0,0
+NL:Q:NL:Q:51750110;;;0,2;1,1;0,1;2,0;0,1;0,5
+NL:Q:NL:Q:51750120;;;1,1;0,6;0,1;0,4;0,1;0,2
+NL:Q:NL:Q:51750150;;;0,4;0,6;0,1;0,1;0,3;0,1
+NL:Q:NL:Q:51750160;;;0,4;0,1;0,2;0,1;0,1;0,1
+NL:Q:NL:Q:51750190;;;0,1;1,0;0,1;0,9;0,1;0,8
+NL:Q:NL:Q:51750230;;;0,1;0,3;0,0;0,3;0,1;0,1
+NL:Q:NL:Q:51750240;;;0,4;1,1;0,2;0,0;0,2;0,1
+NL:Q:NL:Q:51750280;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51750290;;;0,1;0,1;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:51750380;;;0,0;0,0;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:51750390;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51750410;;;1,3;0,2;0,3;0,0;0,2;0,0
+NL:Q:NL:Q:51750420;;;0,0;1,6;0,0;0,2;0,0;0,2
+NL:Q:NL:Q:51751200;;;0,5;0,6;0,6;0,4;0,6;0,3
+NL:Q:NL:Q:51751240;;;0,4;0,1;0,0;0,0;0,1;0,1
+NL:Q:NL:Q:51752130;;;2,7;1,9;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51753080;;;0,3;0,8;0,1;0,3;0,1;0,3
+NL:Q:NL:Q:51753090;;;0,2;0,3;0,2;0,1;0,1;0,0
+NL:Q:NL:Q:51755510;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51755520;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760090;;;0,1;0,7;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760120;;;1,2;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760230;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760250;;;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760360;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760370;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760410;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760420;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760430;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760440;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760450;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760460;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760470;;;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760480;;;0,5;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760570;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760580;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:51760710;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:60000280;;;0,1;1,1;0,0;0,8;0,1;1,2
+NL:Q:NL:Q:60000610;;;0,9;0,1;1,4;0,0;1,3;0,2
+NL:Q:NL:Q:60000630;;;0,1;0,1;0,0;0,0;0,2;0,1
+NL:Q:NL:Q:60000970;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:60000990;;;0,1;0,3;0,1;0,1;0,2;0,2
+NL:Q:NL:Q:60001002;;;8,3;0,0;4,9;0,0;9,4;0,0
+NL:Q:NL:Q:60001003;;;0,0;5,1;0,0;3,3;0,0;6,4
+NL:Q:NL:Q:60001050;;;0,1;0,1;0,3;0,0;0,3;0,2
+NL:Q:NL:Q:60001200;;;0,6;0,3;0,9;0,1;0,9;0,3
+NL:Q:NL:Q:60001700;;;0,0;0,1;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:60002005;;;2,5;1,1;2,1;0,5;2,9;1,1
+NL:Q:NL:Q:60002006;;;0,3;2,6;0,2;4,1;0,2;4,3
+NL:Q:NL:Q:60003370;;;0,1;0,6;0,0;0,6;0,1;0,9
+NL:Q:NL:Q:60003450;;;0,5;0,2;0,6;0,2;0,8;0,4
+NL:Q:NL:Q:60003490;;;0,6;0,1;0,8;0,0;1,1;0,1
+NL:Q:NL:Q:60003580;;;0,3;0,5;0,2;0,6;0,3;1,0
+NL:Q:NL:Q:60003660;;;0,0;0,6;0,0;0,8;0,1;0,7
+NL:Q:NL:Q:60003720;;;0,5;0,1;0,3;0,0;0,6;0,1
+NL:Q:NL:Q:60003880;;;0,2;0,8;0,0;0,4;0,1;0,4
+NL:Q:NL:Q:60003960;;;0,8;0,2;0,5;0,0;0,4;0,0
+NL:Q:NL:Q:61120010;;;0,0;0,6;0,0;0,5;0,0;0,7
+NL:Q:NL:Q:61120020;;;0,2;0,0;0,1;0,1;0,2;0,1
+NL:Q:NL:Q:61120040;;;0,8;0,6;0,7;0,3;1,6;0,3
+NL:Q:NL:Q:61120050;;;0,0;0,1;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:61120060;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61120070;;;0,4;1,1;0,2;0,8;0,4;1,9
+NL:Q:NL:Q:61120090;;;0,0;0,2;0,0;0,2;0,0;0,4
+NL:Q:NL:Q:61120100;;;0,3;0,1;0,3;0,1;0,5;0,0
+NL:Q:NL:Q:61120470;;;0,0;0,3;0,0;0,2;0,0;0,3
+NL:Q:NL:Q:61120480;;;0,2;0,1;0,2;0,0;0,2;0,1
+NL:Q:NL:Q:61220010;;;0,2;0,9;0,2;0,8;0,2;1,1
+NL:Q:NL:Q:61220020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61220030;;;0,0;0,1;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:61220040;;;0,1;0,0;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:61220060;;;0,5;0,0;0,3;0,0;0,7;0,0
+NL:Q:NL:Q:61220070;;;0,1;0,5;0,1;0,2;0,1;0,6
+NL:Q:NL:Q:61220090;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61220100;;;0,1;0,0;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:61220110;;;0,0;0,0;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:61220120;;;0,9;0,3;0,8;0,1;1,0;0,3
+NL:Q:NL:Q:61220170;;;0,0;0,3;0,0;0,2;0,1;0,6
+NL:Q:NL:Q:61220180;;;0,2;0,0;0,2;0,0;0,4;0,0
+NL:Q:NL:Q:61220190;;;0,0;0,3;0,0;0,2;0,1;0,2
+NL:Q:NL:Q:61220200;;;0,3;0,0;0,2;0,0;0,2;0,0
+NL:Q:NL:Q:61280060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280070;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280130;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280150;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280160;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280180;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280190;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280200;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280210;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280220;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280230;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61280270;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61310060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61310170;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61311020;;;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61311030;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61311040;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61311050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61320020;;;0,2;0,1;0,2;0,0;0,2;0,1
+NL:Q:NL:Q:61320031;;;0,0;0,1;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:61320041;;;0,3;0,0;0,2;0,0;0,3;0,0
+NL:Q:NL:Q:61320051;;;0,0;0,3;0,0;0,5;0,0;0,3
+NL:Q:NL:Q:61320061;;;0,1;0,0;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:61320070;;;0,0;0,3;0,0;0,3;0,0;0,1
+NL:Q:NL:Q:61320080;;;0,7;0,1;0,3;0,0;0,4;0,1
+NL:Q:NL:Q:61320110;;;0,1;0,6;0,2;0,3;0,1;0,2
+NL:Q:NL:Q:61350010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61350020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61350030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61350050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61350070;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61350080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61350090;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61350100;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61350110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61350120;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61350160;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61350170;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61350180;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61360080;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61360290;;;1,3;0,2;0,4;0,0;0,2;0,0
+NL:Q:NL:Q:61360300;;;0,2;1,5;0,0;0,3;0,1;0,3
+NL:Q:NL:Q:61360310;;;0,1;0,3;0,0;0,2;0,0;0,1
+NL:Q:NL:Q:61360320;;;0,0;0,0;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:61360350;;;6,4;0,1;2,3;0,0;2,1;0,0
+NL:Q:NL:Q:61360360;;;0,0;6,4;0,0;1,8;0,0;1,7
+NL:Q:NL:Q:61360550;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61360640;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61361050;;;0,2;0,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61361060;;;0,1;0,6;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61361310;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61362010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61363010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61369430;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61369550;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61369560;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61370020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61370110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61370210;;;0,5;0,1;0,2;0,0;0,2;0,1
+NL:Q:NL:Q:61370220;;;0,1;0,2;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:61380230;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61380240;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61380250;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61380260;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61401001;;;0,2;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61401170;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61401230;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61401240;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61401270;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61401280;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61401310;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61401320;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61402270;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410030;;;1,4;3,0;0,5;3,3;0,4;1,8
+NL:Q:NL:Q:61410050;;;0,1;0,0;0,3;0,0;0,0;0,0
+NL:Q:NL:Q:61410070;;;1,9;1,3;0,8;0,3;0,4;0,3
+NL:Q:NL:Q:61410080;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410100;;;0,1;0,1;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:61410110;;;0,3;0,2;0,0;0,0;0,1;0,1
+NL:Q:NL:Q:61410120;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410130;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410140;;;0,0;1,3;0,0;1,3;0,0;0,8
+NL:Q:NL:Q:61410160;;;0,0;0,4;0,0;0,2;0,0;0,1
+NL:Q:NL:Q:61410180;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410200;;;0,4;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410210;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410220;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410240;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410250;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410260;;;0,1;0,7;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410280;;;0,4;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410290;;;0,4;0,0;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:61410300;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410310;;;0,1;0,0;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:61410320;;;6,4;4,5;2,5;2,0;2,2;1,3
+NL:Q:NL:Q:61410330;;;2,2;0,8;2,2;0,0;1,2;0,1
+NL:Q:NL:Q:61410340;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410390;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410410;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410420;;;0,0;0,1;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:61410430;;;0,6;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410450;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410470;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410490;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410510;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410530;;;0,1;0,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410580;;;0,5;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410610;;;0,2;0,2;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:61410640;;;0,4;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410690;;;0,4;0,5;0,3;0,2;0,2;0,2
+NL:Q:NL:Q:61410720;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410730;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410740;;;1,3;1,6;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:61410750;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410770;;;1,7;1,5;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61410970;;;0,2;0,1;0,2;0,0;0,1;0,0
+NL:Q:NL:Q:61410980;;;0,1;0,1;0,0;0,1;0,1;0,0
+NL:Q:NL:Q:61411000;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61411010;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61411070;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61411080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61411100;;;0,0;0,5;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:61412090;;;0,2;0,3;0,0;0,1;0,1;0,1
+NL:Q:NL:Q:61412100;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61412130;;;0,0;0,0;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:61412140;;;0,0;0,0;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:61412150;;;0,2;0,2;0,1;0,1;0,1;0,1
+NL:Q:NL:Q:61412160;;;0,3;0,3;0,1;0,3;0,1;0,0
+NL:Q:NL:Q:61412190;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61412200;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61412210;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61412220;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61420010;;;0,0;0,2;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:61420030;;;0,0;0,3;0,0;0,2;0,0;0,2
+NL:Q:NL:Q:61420050;;;0,0;0,6;0,1;0,8;0,0;0,6
+NL:Q:NL:Q:61420070;;;0,0;0,1;0,0;0,2;0,0;0,1
+NL:Q:NL:Q:61420100;;;0,6;0,0;0,2;0,0;0,7;0,0
+NL:Q:NL:Q:61420120;;;0,3;0,0;0,2;0,0;0,1;0,0
+NL:Q:NL:Q:61420140;;;0,2;0,1;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:61420160;;;0,0;0,3;0,0;0,3;0,0;0,4
+NL:Q:NL:Q:61420180;;;0,3;0,0;0,1;0,0;0,4;0,0
+NL:Q:NL:Q:61420190;;;0,1;0,5;0,0;0,2;0,0;0,1
+NL:Q:NL:Q:61420200;;;0,5;0,1;0,2;0,0;0,3;0,0
+NL:Q:NL:Q:61420290;;;0,1;0,0;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:61420300;;;0,9;0,3;0,4;0,2;0,5;0,3
+NL:Q:NL:Q:61420310;;;0,1;0,8;0,1;0,6;0,0;0,7
+NL:Q:NL:Q:61420320;;;0,4;0,8;0,1;0,2;0,1;0,4
+NL:Q:NL:Q:61420330;;;0,2;0,4;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:61421000;;;1,9;0,0;2,5;0,0;3,0;0,0
+NL:Q:NL:Q:61421001;;;0,0;2,5;0,0;1,6;0,0;3,3
+NL:Q:NL:Q:61421004;;;14,8;3,2;3,1;0,6;2,5;0,6
+NL:Q:NL:Q:61421010;;;2,3;11,0;1,3;2,2;1,6;1,8
+NL:Q:NL:Q:61450020;;;0,2;0,1;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:61450060;;;0,3;0,2;0,1;0,1;0,0;0,1
+NL:Q:NL:Q:61450090;;;0,9;1,6;0,2;0,4;0,1;0,2
+NL:Q:NL:Q:61450130;;;0,2;0,5;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:61450170;;;0,0;0,3;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:61451010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61451190;;;1,2;0,6;0,2;0,0;0,1;0,2
+NL:Q:NL:Q:61451290;;;0,2;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61451300;;;0,1;0,0;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:61470010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61470020;;;0,2;0,4;0,2;0,1;0,0;0,2
+NL:Q:NL:Q:61470030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61470050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61470060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61470070;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61470080;;;0,2;0,3;0,1;0,2;0,0;0,0
+NL:Q:NL:Q:61470090;;;0,2;0,2;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:61470100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61470120;;;0,4;0,8;0,2;0,3;0,2;0,4
+NL:Q:NL:Q:61470130;;;0,2;0,5;0,2;0,2;0,4;0,2
+NL:Q:NL:Q:61470140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61470150;;;0,3;0,1;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:61470160;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61490010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61490020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61490040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61490050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61490060;;;0,0;0,0;0,0;0,1;0,2;0,0
+NL:Q:NL:Q:61490070;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61490080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61500040;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61500050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61500060;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61500080;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61500090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61500100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61500130;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61500140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61500150;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61500170;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61500180;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61500190;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61510050;;;0,2;0,2;0,2;0,0;0,2;0,0
+NL:Q:NL:Q:61510120;;;0,2;0,3;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:61520210;;;1,0;1,5;0,2;0,3;0,2;0,4
+NL:Q:NL:Q:61520220;;;1,3;0,9;0,1;0,2;0,2;0,2
+NL:Q:NL:Q:61520230;;;3,8;5,1;1,3;0,9;1,0;1,1
+NL:Q:NL:Q:61520240;;;4,2;3,7;1,0;1,2;0,8;0,9
+NL:Q:NL:Q:61520250;;;1,2;1,0;0,2;0,2;0,3;0,2
+NL:Q:NL:Q:61520260;;;0,9;1,6;0,1;0,2;0,3;0,2
+NL:Q:NL:Q:61520350;;;0,8;1,1;0,2;0,1;0,3;0,1
+NL:Q:NL:Q:61520360;;;0,8;0,8;0,1;0,2;0,1;0,1
+NL:Q:NL:Q:61550060;;;0,9;0,7;0,5;0,2;0,3;0,3
+NL:Q:NL:Q:61550080;;;0,9;0,4;0,4;0,1;0,6;0,1
+NL:Q:NL:Q:61550150;;;0,5;1,7;0,1;0,8;0,1;0,8
+NL:Q:NL:Q:61550170;;;1,0;0,6;0,3;0,2;0,2;0,2
+NL:Q:NL:Q:61550310;;;0,0;0,1;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:61550320;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61551060;;;0,1;0,0;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:61551170;;;0,0;0,1;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:61570030;;;0,1;0,0;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:61570040;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61570050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61570060;;;0,4;0,4;0,1;0,1;0,0;0,1
+NL:Q:NL:Q:61570070;;;0,3;0,4;0,2;0,1;0,2;0,0
+NL:Q:NL:Q:61570080;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61570090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61570100;;;0,0;0,1;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:61570120;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61570130;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61570210;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61570220;;;0,0;0,1;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:61580010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61580020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61580040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61580050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61580060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61589010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61589020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61589030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61589040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61589050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61589060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61589080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61589100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61589110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61589140;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61589150;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61590020;;;1,0;0,1;0,1;0,0;0,2;0,0
+NL:Q:NL:Q:61590030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61590040;;;0,3;0,0;0,3;0,0;0,0;0,0
+NL:Q:NL:Q:61590050;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61590060;;;0,0;0,1;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:61590070;;;0,4;0,5;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:61590080;;;0,2;0,3;0,4;0,1;0,1;0,1
+NL:Q:NL:Q:61590100;;;2,5;0,3;1,6;0,0;0,3;0,1
+NL:Q:NL:Q:61590110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61590120;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61590130;;;0,3;0,9;0,1;0,8;0,0;0,2
+NL:Q:NL:Q:61590140;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61590150;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61590160;;;0,7;0,2;0,2;0,1;0,1;0,0
+NL:Q:NL:Q:61590170;;;0,1;0,0;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:61590180;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61590210;;;0,2;1,7;0,0;0,8;0,1;0,3
+NL:Q:NL:Q:61590230;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61590240;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61590270;;;0,2;1,8;0,1;0,8;0,0;0,3
+NL:Q:NL:Q:61590340;;;0,2;0,4;0,1;0,3;0,0;0,1
+NL:Q:NL:Q:61590350;;;0,1;0,2;0,1;0,2;0,1;0,0
+NL:Q:NL:Q:61590400;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61599020;;;0,0;0,0;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:61599030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61599050;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61599060;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61599110;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61599120;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61600030;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61600040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61600050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61600060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61600070;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61600090;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61600120;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61600140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61600150;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61600160;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61600180;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61600210;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61610030;;;0,2;0,2;0,2;0,0;0,1;0,0
+NL:Q:NL:Q:61610040;;;0,1;0,2;0,1;0,2;0,0;0,3
+NL:Q:NL:Q:61610130;;;0,1;0,3;0,0;0,0;0,1;0,1
+NL:Q:NL:Q:61610140;;;0,2;0,1;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:61610400;;;0,3;0,4;0,2;0,1;0,1;0,0
+NL:Q:NL:Q:61610410;;;0,4;0,3;0,1;0,2;0,1;0,1
+NL:Q:NL:Q:61610420;;;0,4;0,6;0,1;0,1;0,0;0,2
+NL:Q:NL:Q:61610430;;;0,5;0,3;0,0;0,2;0,1;0,2
+NL:Q:NL:Q:61610440;;;0,1;0,2;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:61610450;;;0,2;0,2;0,0;0,1;0,1;0,0
+NL:Q:NL:Q:61650160;;;0,1;0,6;0,0;0,1;0,1;0,1
+NL:Q:NL:Q:61650170;;;0,5;0,2;0,2;0,2;0,1;0,1
+NL:Q:NL:Q:61650180;;;0,2;0,1;0,0;0,2;0,0;0,0
+NL:Q:NL:Q:61650190;;;0,2;0,2;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:61660010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61660040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61669030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61669060;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61669230;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61669240;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61669260;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61669270;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61669280;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61669550;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61670010;;;0,8;0,4;0,5;0,1;0,2;0,1
+NL:Q:NL:Q:61670030;;;0,4;0,3;0,2;0,1;0,3;0,0
+NL:Q:NL:Q:61670050;;;0,1;0,0;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:61670070;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61670080;;;0,1;0,2;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:61670100;;;0,2;0,8;0,1;0,3;0,0;0,1
+NL:Q:NL:Q:61671120;;;0,4;0,8;0,1;0,3;0,1;0,5
+NL:Q:NL:Q:61690100;;;0,0;0,0;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:61690120;;;0,1;0,1;0,1;0,2;0,0;0,2
+NL:Q:NL:Q:61690130;;;0,6;0,6;0,1;0,2;0,1;0,1
+NL:Q:NL:Q:61690140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61690150;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61690160;;;0,6;0,7;0,3;0,2;0,1;0,1
+NL:Q:NL:Q:61690170;;;0,2;0,1;0,3;0,2;0,1;0,0
+NL:Q:NL:Q:61690190;;;0,0;0,2;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:61690330;;;0,2;0,4;0,1;0,2;0,0;0,0
+NL:Q:NL:Q:61690340;;;0,4;0,1;0,1;0,2;0,0;0,0
+NL:Q:NL:Q:61700010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61700030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61700050;;;6,2;6,6;2,8;2,5;2,7;1,6
+NL:Q:NL:Q:61700060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61700080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61700100;;;0,1;1,4;0,0;0,7;0,0;0,4
+NL:Q:NL:Q:61700110;;;3,0;0,2;0,9;0,1;0,7;0,1
+NL:Q:NL:Q:61700120;;;0,1;0,2;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:61700180;;;0,1;0,2;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:61700230;;;0,1;0,1;0,1;0,0;0,1;0,1
+NL:Q:NL:Q:61700310;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61700410;;;0,1;0,1;0,0;0,0;0,0;0,1
+NL:Q:NL:Q:61700420;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61739170;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61749270;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61749320;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61750260;;;0,8;2,3;0,4;0,8;0,2;0,5
+NL:Q:NL:Q:61750270;;;2,0;1,0;1,2;0,3;0,5;0,3
+NL:Q:NL:Q:61760030;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61760140;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61760190;;;0,4;0,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61760200;;;0,5;0,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61760230;;;2,6;0,2;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:61760240;;;1,4;0,7;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:61850190;;;1,1;0,3;0,5;0,1;0,6;0,0
+NL:Q:NL:Q:61850200;;;0,3;1,1;0,1;0,7;0,1;0,7
+NL:Q:NL:Q:61860040;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61860060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61860070;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61860080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61860110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61860120;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61860130;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61860150;;;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:61860180;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62220010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62220020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62220030;;;0,2;0,6;0,0;0,2;0,0;0,3
+NL:Q:NL:Q:62220040;;;0,5;0,2;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:62220090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62220250;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62220260;;;0,3;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62220270;;;0,0;0,1;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:62220280;;;0,7;0,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62220300;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62220320;;;0,3;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62220410;;;0,6;4,8;0,0;2,2;0,2;1,6
+NL:Q:NL:Q:62220420;;;4,6;0,3;1,9;0,1;1,1;0,1
+NL:Q:NL:Q:62220470;;;0,5;6,7;0,2;2,2;0,1;1,9
+NL:Q:NL:Q:62220471;;;5,6;0,4;1,9;0,2;1,4;0,1
+NL:Q:NL:Q:62220480;;;0,0;1,3;0,0;0,5;0,1;0,4
+NL:Q:NL:Q:62220481;;;1,3;0,0;0,5;0,1;0,2;0,0
+NL:Q:NL:Q:62220490;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62220510;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62230010;;;0,3;3,1;0,0;1,0;0,0;0,8
+NL:Q:NL:Q:62230020;;;2,5;0,1;1,2;0,0;0,8;0,0
+NL:Q:NL:Q:62230080;;;1,9;0,1;0,9;0,1;0,6;0,0
+NL:Q:NL:Q:62230090;;;0,1;2,0;0,1;1,5;0,0;0,7
+NL:Q:NL:Q:62230100;;;0,1;0,0;0,0;0,0;0,1;0,0
+NL:Q:NL:Q:62230110;;;0,0;0,1;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:62230120;;;1,5;0,2;0,5;0,0;0,6;0,0
+NL:Q:NL:Q:62230130;;;0,1;1,3;0,0;0,5;0,0;0,8
+NL:Q:NL:Q:62230140;;;2,6;0,2;1,0;0,0;1,2;0,1
+NL:Q:NL:Q:62230150;;;0,2;2,2;0,0;1,0;0,0;1,2
+NL:Q:NL:Q:62230190;;;0,1;0,4;0,0;0,3;0,0;0,3
+NL:Q:NL:Q:62231070;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62231080;;;1,1;0,7;0,6;0,4;0,4;0,4
+NL:Q:NL:Q:62320050;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320060;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320070;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320080;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320090;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320120;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320130;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320150;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320160;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320180;;;1,3;0,4;0,4;0,0;0,4;0,0
+NL:Q:NL:Q:62320190;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320200;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320240;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320300;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320320;;;0,1;0,4;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:62320321;;;0,4;0,0;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:62320470;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62320490;;;2,1;0,7;1,0;0,4;0,6;0,4
+NL:Q:NL:Q:62320500;;;1,0;2,3;0,3;0,7;0,4;0,7
+NL:Q:NL:Q:62321180;;;0,3;1,5;0,0;0,9;0,0;0,7
+NL:Q:NL:Q:62330030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330070;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330110;;;0,0;0,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330120;;;0,4;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330130;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330150;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330160;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330210;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62330220;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62420050;;;0,7;1,7;0,2;0,8;0,2;0,8
+NL:Q:NL:Q:62420060;;;1,7;0,7;0,8;0,2;0,7;0,3
+NL:Q:NL:Q:62430010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430060;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430070;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430100;;;0,0;0,0;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:62430110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430120;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430130;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430140;;;0,1;0,0;0,0;0,0;0,1;0,1
+NL:Q:NL:Q:62430150;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430160;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430170;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430200;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430210;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430220;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430240;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430241;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430260;;;0,1;0,0;0,0;0,1;0,1;0,0
+NL:Q:NL:Q:62430270;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430420;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430430;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430440;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430450;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62430460;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62431080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62431180;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62431190;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62470010;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62470020;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62470040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62470050;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62470060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62470070;;;0,2;0,1;0,1;0,1;0,1;0,0
+NL:Q:NL:Q:62470080;;;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62470150;;;0,4;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62470160;;;0,0;0,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62470170;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62470180;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62470200;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62520060;;;2,7;3,0;0,7;0,7;0,4;0,6
+NL:Q:NL:Q:62520061;;;3,0;3,0;0,5;0,9;0,6;0,6
+NL:Q:NL:Q:62570010;;;0,1;0,2;0,0;0,0;0,1;0,1
+NL:Q:NL:Q:62570020;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570060;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570150;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570160;;;0,1;0,2;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:62570170;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570180;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570231;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570241;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570250;;;5,2;5,1;1,8;1,6;1,3;1,4
+NL:Q:NL:Q:62570252;;;3,1;2,8;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570300;;;0,3;1,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570310;;;0,8;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570330;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570340;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570380;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570430;;;0,4;0,6;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570440;;;1,4;1,2;0,0;0,1;0,1;0,0
+NL:Q:NL:Q:62570450;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570460;;;0,2;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570470;;;0,4;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570480;;;0,1;1,2;0,1;0,2;0,1;0,1
+NL:Q:NL:Q:62570490;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570500;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570510;;;0,1;0,1;0,0;0,1;0,0;0,1
+NL:Q:NL:Q:62570520;;;0,4;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570530;;;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570910;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570920;;;0,2;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570930;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570940;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62570950;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62571020;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62571030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62571040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62571060;;;0,2;0,3;0,1;0,0;0,1;0,1
+NL:Q:NL:Q:62571080;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62571090;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62571110;;;0,1;0,4;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62571120;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62571270;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62620140;;;1,3;1,4;0,5;0,4;0,3;0,2
+NL:Q:NL:Q:62620150;;;1,3;1,4;0,3;0,4;0,3;0,3
+NL:Q:NL:Q:62670050;;;0,1;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62670070;;;0,0;0,2;0,1;0,0;0,1;0,0
+NL:Q:NL:Q:62670090;;;0,0;0,1;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:62670120;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62670140;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62670150;;;0,0;0,0;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:62670170;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62670190;;;0,4;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62670200;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62770010;;;0,2;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62770020;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62770040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62770050;;;0,3;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62770060;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62770070;;;0,0;0,6;0,1;0,0;0,1;0,1
+NL:Q:NL:Q:62770080;;;0,5;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62770140;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62770150;;;0,0;0,3;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62770160;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62870010;;;0,0;1,3;0,1;0,2;0,0;0,0
+NL:Q:NL:Q:62870020;;;1,4;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62870030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62870060;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62870140;;;0,1;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62871010;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62871110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:62871130;;;0,2;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63000100;;;0,3;45,2;0,0;17,2;0,0;14,1
+NL:Q:NL:Q:63000191;;;51,2;0,0;21,3;0,0;18,4;0,0
+NL:Q:NL:Q:63000880;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63005710;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63006030;;;2,6;1,7;1,3;0,8;0,8;0,9
+NL:Q:NL:Q:63006060;;;1,8;1,9;0,7;1,0;0,9;0,8
+NL:Q:NL:Q:63006140;;;0,0;0,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63006490;;;1,5;2,1;1,2;0,2;1,1;0,3
+NL:Q:NL:Q:63006500;;;2,0;2,1;0,2;1,2;0,2;1,3
+NL:Q:NL:Q:63007400;;;2,0;0,3;0,8;0,1;0,9;0,2
+NL:Q:NL:Q:63007410;;;0,3;4,1;0,4;1,6;0,1;1,3
+NL:Q:NL:Q:63007740;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63010020;;;0,9;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63010070;;;0,1;1,2;0,1;1,0;0,0;0,8
+NL:Q:NL:Q:63010080;;;0,3;0,1;0,5;0,2;0,5;0,1
+NL:Q:NL:Q:63010090;;;0,0;1,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63010140;;;3,6;0,5;1,8;0,3;1,3;0,3
+NL:Q:NL:Q:63010150;;;0,3;3,9;0,2;2,0;0,3;1,9
+NL:Q:NL:Q:63010210;;;0,2;2,8;0,1;1,7;0,1;1,0
+NL:Q:NL:Q:63010240;;;2,0;0,1;0,9;0,2;0,8;0,1
+NL:Q:NL:Q:63010350;;;0,0;1,7;0,0;0,6;0,0;0,5
+NL:Q:NL:Q:63010360;;;1,8;0,0;0,5;0,0;0,3;0,1
+NL:Q:NL:Q:63010370;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63011010;;;0,8;0,2;0,1;0,1;0,1;0,1
+NL:Q:NL:Q:63011020;;;0,2;1,0;0,0;0,2;0,1;0,5
+NL:Q:NL:Q:63011030;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63011040;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63011050;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63011080;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63280090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63280100;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63291180;;;0,0;0,1;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63291280;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63390020;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63390030;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63390040;;;0,4;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63390050;;;0,0;1,2;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63390080;;;0,1;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63390090;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63590040;;;0,0;0,0;0,1;0,1;0,0;0,0
+NL:Q:NL:Q:63590110;;;0,0;0,0;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63590140;;;1,6;1,7;0,0;0,0;0,0;0,0
+NL:Q:NL:Q:63590170;;;0,0;0,1;0,0;0,1;0,0;0,0
+NL:Q:NL:Q:63591120;;;0,0;0,0;0,1;0,0;0,0;0,0
+NL:Q:NL:Q:91000114;;;7,8;8,7;3,0;3,7;3,4;2,2
+NL:Q:NL:Q:91000140;;;0,0;7,4;0,0;1,2;0,0;1,7
