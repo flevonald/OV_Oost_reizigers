@@ -389,15 +389,17 @@ if filter_jaar in ['2022']:
 chb_quay_dict = df_chb.set_index('QUAYCODE')['STOPPLACECODE'].to_dict()
 
 if filter_jaar in ['2023']: 
-    df_arriva = pd.read_csv(r"C:\data\G01\Arriva\20240829_G01_ARRIVA_ACHRIV_BUS.csv", dtype=dtype_g01, sep=';')
+    # df_arriva = pd.read_csv(r"C:\data\G01\Arriva\20240829_G01_ARRIVA_ACHRIV_BUS.csv", dtype=dtype_g01, sep=';')
+    df_arriva = pd.read_csv(r"C:\data\G01\Arriva\20240328_G01_ARRIVA_AHRV_G01_2023.csv", dtype=dtype_g01, sep=';')
+    df_arriva = df_arriva.rename(columns={'NR_CONS_GEB':'CONCESSIE'})
     
     #filter op busconcessie
     df_arriva = df_arriva.loc[df_arriva['CONCESSIE'].isin([20,23])]
-    df_arriva = df_arriva.loc[df_arriva['MAAND']!='0']
+    # df_arriva['MAAND'] == 'YY'
     df_arriva['DATAOWNERCODE'] = 'ARR'
-    
-    df_arriva['QUAYCODE'] = df_arriva['HNR'].replace(PSA_tabel_arriva)
-    df_arriva['STOPPLACECODE'] = df_arriva['QUAYCODE'].replace(chb_arriva_dict)
+    df_arriva = tel_vakantie_en_niet_vakantie_op(df_arriva)
+    qz = df_arriva.groupby(['DATAOWNERCODE','MAAND'])[reizigerskolommen].sum()
+
     
     df_arriva_twente = pd.read_csv(os.path.join(G01_folder,'Arriva',f'G01_TWE_{filter_jaar}_quay.csv'), sep=';', dtype=dtype_arr)
     df_arriva_twente = df_arriva_twente.loc[df_arriva_twente['NR_CONS_GEB'].isin([21])]
@@ -405,8 +407,8 @@ if filter_jaar in ['2023']:
     
     df_arriva = pd.concat([df_arriva,df_arriva_twente])
     
-    # df_arriva['QUAYCODE'] = df_arriva['QUAYCODE']
-    df_arriva['STOPPLACECODE'] = df_arriva['QUAYCODE'].map(chb_quay_dict)
+    df_arriva['QUAYCODE'] = df_arriva['HNR'].replace(PSA_tabel_arriva)
+    df_arriva['STOPPLACECODE'] = df_arriva['QUAYCODE'].replace(chb_arriva_dict)
     
     
 # df_conc_s.loc[df_conc_s_v].loc[~df_conc_s['HALTE'].isin(koppeling_arriva.keys()), 'HALTE'].to_csv('haltes lls.csv')
@@ -558,5 +560,5 @@ def bepaling_per_halte(level):
     return df_per_halte_chb
     
 
-df_instappers = bepaling_per_halte('STOPPLACECODE') 
-df_instappers = bepaling_per_halte('QUAYCODE') 
+df_instappers_stopplace = bepaling_per_halte('STOPPLACECODE') 
+df_instappers_quaycode = bepaling_per_halte('QUAYCODE') 
