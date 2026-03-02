@@ -2,7 +2,7 @@
 """
 Lijstje met mappen voor data van in- en uitstappers
 """
-G01_folder = "C:\data\G01"
-CHB_folder = "C:\data\CHB"
-HB_folder = "C:\data\Hb-log"
-PMR_folder = r"C:\Users\kuinr01\Provincie Flevoland\S&B_Mobiliteit - Monitoring PMR\Gegevens"
+data_folder = r"J:\OBI\Obi_Data\mobiliteit"
+G01_folder = r"MIPOV/G01"
+CHB_folder = r"CHB"
+PMR_folder = r"C:\Users\kuinr01\Provincie Flevoland\Expertiseteam_Mobiliteit - Monitoring PMR\Gegevens"

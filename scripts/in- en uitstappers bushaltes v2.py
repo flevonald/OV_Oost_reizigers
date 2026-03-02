@@ -13,10 +13,12 @@ YY = jaargemiddelde
 
 @author: kuinr01
 """
+#%%
+# Imports
 import pandas as pd
-import os
+from pathlib import Path
 import calendar
-from folders import G01_folder, CHB_folder, HB_folder
+from folders import data_folder, G01_folder, CHB_folder
 #%% 
 def O10_to_G01(df):    
     df_instappers = pd.DataFrame(df.groupby(['CONCESSIE','JAAR','MAAND','DAGTYPE','HALTECODE_HERKOMST'])['RITTEN'].sum())
@@ -70,11 +72,12 @@ def leading_zero(a):
     else:
         return a
 #%% Input
-filter_jaar = '2024'
+filter_jaar = '2025'
 #%%
 
-dtype_g01 = {'HNR':str, 'JAAR':str, 'MAAND':str, 'LN_ID_OV_MIJ':str, 'NR_CONS_GEB':str}
-
+dtype_g01 = {'HNR':str, 'JAAR':str, 'MAAND':str, 'LN_ID_OV_MIJ':str, 'NR_CONS_GEB':str,
+             'NR_CONS_DEEL':str, 'HALTECODE':str}
+instapkolommen = ['INSTAP_WERK', 'INSTAP_ZA','INSTAP_ZO']
 reizigerskolommen = ['INSTAP_WERK', 'UITSTAP_WERK', 'INSTAP_ZA', 'UITSTAP_ZA',
                                'INSTAP_ZO', 'UITSTAP_ZO']
 g01_kolommen = ['DATAOWNERCODE','CONCESSIE','JAAR','MAAND','STOPPLACECODE','QUAYCODE'] + reizigerskolommen
@@ -85,7 +88,8 @@ dagen_per_type = { '2018':{'WERK':254,'ZA':53,'ZO':58},
                   '2021':{'WERK':256,'ZA':52,'ZO':57},
                   '2022':{'WERK':255,'ZA':53,'ZO':57},
                   '2023':{'WERK': 254, 'ZA': 53,'ZO':58},
-                  '2024':{'WERK': 256, 'ZA':52,'ZO':58}}
+                  '2024':{'WERK': 256, 'ZA':52,'ZO':58},
+                  '2025':{'WERK': 255, 'ZA': 52,'ZO': 58}}
 
 #Feestdagen
 #Nieuwjaarsdag, Tweede Paasdag,  Hemelvaartsdag, Tweede Pinksterdag, 1e en 2e kerstdag
@@ -99,31 +103,35 @@ feestzaterdagen = {'2019':['27-4-2019'], #bevrijdingsdag op zondag
                   '2021':['27-4-2021','5-5-2021'],
                   '2022':['27-4-2022','5-5-2022'],
                   }
+data_folder = Path(data_folder)
 
-
-
+#%%
 #laad CHB gegevens
-if filter_jaar in ['2018','2019','2020','2022']:
-    df_chb = pd.read_csv(os.path.join(CHB_folder,f'CHB_quays_{int(filter_jaar ) + 1}-01-01.csv'), sep=';',
+if filter_jaar in ['2018','2019','2020','2022','2023']:
+    df_chb = pd.read_csv(data_folder / CHB_folder / f'CHB_quays_{int(filter_jaar ) + 1}-01-01.csv', sep=';',
                      usecols=['stopplacecode','quaycode', 'name','town','rd-x', 'rd-y'])
-elif filter_jaar in ['2021','2023']:
-    df_chb = pd.read_csv(os.path.join(CHB_folder,f'CHB_quays_{int(filter_jaar ) + 1}-01-01.csv'), sep=',',
+    
+elif filter_jaar in ['2021','2025']:
+    df_chb = pd.read_csv(data_folder / CHB_folder / f'CHB_quays_{int(filter_jaar ) + 1}-01-01.csv', sep=',',
                      usecols=['stopplacecode','quaycode', 'quayname','town','rd-x', 'rd-y'])
     df_chb = df_chb.rename(columns={'quayname':'name'})
 elif filter_jaar in ['2024']:
-    df_chb = pd.read_csv(os.path.join(CHB_folder,f'CHB_quays_{int(filter_jaar ) + 1}-01-01.csv'), sep=';',
+    df_chb = pd.read_csv(data_folder / CHB_folder / f'CHB_quays_{int(filter_jaar ) + 1}-01-01.csv', sep=';',
                      usecols=['stopplacecode','quaycode', 'quayname','town','rd-x', 'rd-y'])
     df_chb = df_chb.rename(columns={'quayname':'name'})
 else:
     raise 'Onbekend jaar'
 df_chb.columns = [x.upper() for x in df_chb.columns]
-
-PSA_tabel = pd.read_csv(os.path.join('C:\\','data','CHB','PSA_tabel.csv'), sep=';')
+if int(filter_jaar) <= 2023:
+    PSA_tabel = pd.read_csv(data_folder / CHB_folder / 'PSA' / 'PSA_tabel.csv', sep=';')
+else:
+    PSA_tabel = pd.read_csv(data_folder / CHB_folder / 'PSA' / f'PSA_tabel_{int(filter_jaar ) + 1}.csv', sep=';')
 PSA_tabel.columns = [x.upper() for x in PSA_tabel.columns]
 
 
 
-#%% KEOLIS / SYNTUS
+#%% 
+# KEOLIS / SYNTUS
 busconcessies = ['17','18','19','21','300']
 
 PSA_tabel_keolis = PSA_tabel.loc[PSA_tabel['DATAOWNERCODE'] == 'KEOLIS'].set_index('USERSTOPCODE')['QUAYCODE'].to_dict()
@@ -132,18 +140,18 @@ chb_keolis_dict = df_chb.loc[df_chb['QUAYCODE'].isin(PSA_tabel_keolis.values())]
 df_keolis = pd.DataFrame()
 
 # de bestanden voor KEOLIS zitten in een map per maand
-for maandfolder in os.listdir(os.path.join(G01_folder,'KEOLIS')):
+for maandfolder in (data_folder / G01_folder / 'KEOLIS').iterdir():
     #als de maand in het onderzoeksjaar valt, neem het mee
-    if maandfolder.split(' ')[2][0:2] not in filter_jaar[2:4]:
+    if maandfolder.name.split(' ')[2][0:2] not in filter_jaar[2:4]:
         continue
     print(maandfolder)
     #per concessies is er een document met de G01
-    for concessiefile in os.listdir(os.path.join(G01_folder,'KEOLIS',maandfolder)):
-        if concessiefile.split('_')[0] in busconcessies:
+    for concessiefile in ( maandfolder.iterdir()):
+        if concessiefile.name.split('_')[0] in busconcessies:
             print(concessiefile)
             #per modaliteit
             # in de tabel staat een rij met de totalen per uurblok per lijn voor een maand
-            df_concessie = pd.read_csv(os.path.join(G01_folder, 'KEOLIS', maandfolder, concessiefile),
+            df_concessie = pd.read_csv(concessiefile,
                                        encoding='latin-1',sep=";", dtype = dtype_g01)
             df_concessie['HNR'] = df_concessie['HNR'].str.strip()
             df_concessie['LN_ID_OV_MIJ'] = df_concessie['LN_ID_OV_MIJ'].str.strip()
@@ -165,29 +173,32 @@ if not df_keolis.empty:
         df_keolis['CONCESSIE'] = df_keolis['CONCESSIE'].replace({302:19, 303:17, 304:19, 305:17})
     
     if filter_jaar in ['2021','2022']:
-        df_keolis.loc[df_keolis['CONCESSIE'].isin([17, 301, 302, 303, 304, 305]),'CONCESSIE'] =  'IJV'
+        df_keolis.loc[df_keolis['CONCESSIE'].isin(['17', '301', '302', '303', '304', '305']),'CONCESSIE'] =  'IJV'
     df_keolis['DATAOWNERCODE'] = 'KEOLIS'
     df_keolis['MAAND'] = df_keolis['MAAND'].astype(str).apply(leading_zero)
 
 print("Klaar met Keolis")
-#%% EBS
+#%% 
+# EBS
 PSA_tabel_ebs = PSA_tabel.loc[PSA_tabel['DATAOWNERCODE'] == 'EBS'].set_index('USERSTOPCODE')['QUAYCODE'].to_dict()
 chb_ebs_dict = df_chb.loc[df_chb['QUAYCODE'].isin(PSA_tabel_ebs.values())].set_index('QUAYCODE')['STOPPLACECODE'].to_dict()
 #maak een los dataframe om de gegevens van EBS in te plaatsen
 df_ebs = pd.DataFrame()
 
 # de bestanden voor KEOLIS zitten in een map per maand
-for concessiefile in os.listdir(os.path.join(G01_folder,'EBS')):
-    if not concessiefile.split('_')[1] == filter_jaar:
+for concessiefile in (data_folder / G01_folder / 'EBS_opgehoogd').iterdir():
+    if not concessiefile.name.split('_')[1] == filter_jaar:
         continue
     print(concessiefile)
     #per modaliteit
     # in de tabel staat een rij met de totalen per uurblok per lijn voor een maand
-    df_concessie = pd.read_csv(os.path.join(G01_folder, 'EBS', concessiefile),
+    df_concessie = pd.read_csv(concessiefile,
                                encoding='latin-1',sep=";", dtype = dtype_g01)
+    
     df_concessie['HNR'] = df_concessie['HNR'].str.strip()
     df_concessie['LN_ID_OV_MIJ'] = df_concessie['LN_ID_OV_MIJ'].str.strip()
     df_concessie = tel_vakantie_en_niet_vakantie_op(df_concessie)
+
     df_concessie.loc[df_concessie['HNR'].map(PSA_tabel_ebs).notna(),'QUAYCODE'] = df_concessie['HNR'].map(PSA_tabel_ebs)
     df_concessie['STOPPLACECODE'] = df_concessie['QUAYCODE'].map(chb_ebs_dict)
     
@@ -200,10 +211,11 @@ if not df_ebs.empty:
     df_ebs['MAAND'] = df_ebs['MAAND'].astype(str).apply(leading_zero)
     
 print("Klaar met EBS")
-#%% ARRIVA LLS per stopplace
+#%% 
+# ARRIVA LLS per stopplace
 df_arr_lls = pd.DataFrame()
 
-koppeling_arriva = pd.read_excel(r"C:\data\O10\Arriva Koppeling.xlsx",
+koppeling_arriva = pd.read_excel(data_folder / 'MIPOV/O10/Arriva Koppeling.xlsx',
             dtype= {'HNR':str}, usecols=['HNR', 'stopplacecode']).dropna().set_index('HNR')['stopplacecode'].to_dict()
 PSA_tabel_arriva = PSA_tabel.loc[PSA_tabel['DATAOWNERCODE'] == 'ARR'].set_index('USERSTOPCODE')['QUAYCODE'].to_dict()
 PSA_tabel_arriva['62571270'] = 'NL:Q:62571270'
@@ -214,12 +226,12 @@ if filter_jaar in ['2018','2019','2020','2021','2023']:
     chb_arriva_dict = df_chb.loc[df_chb['QUAYCODE'].isin(PSA_tabel_arriva.values())].set_index('QUAYCODE')['STOPPLACECODE'].to_dict()
     
 
-    for g01_file in os.listdir(os.path.join(G01_folder,'Lelystad')):
-        if os.path.isdir(os.path.join(G01_folder,'Lelystad', g01_file)):
+    for g01_file in (data_folder / G01_folder / 'Lelystad').iterdir():
+        if g01_file.is_dir():
             continue
-        if g01_file.split('_')[1] == filter_jaar:
-            print(g01_file)       
-            df_arr_lls_file = pd.read_excel(os.path.join(G01_folder,'Lelystad', g01_file), dtype = dtype_g01)
+        if g01_file.name.split('_')[1] == filter_jaar:
+            print(g01_file.name)       
+            df_arr_lls_file = pd.read_excel(g01_file, dtype = dtype_g01)
             if not filter_jaar in ['2018','2019','2020','2021','2023']:
                 df_arr_lls_file['QUAYCODE'] = df_arr_lls_file['HNR'].replace(PSA_tabel_arriva)
                 
@@ -257,13 +269,14 @@ if filter_jaar in ['2018','2019','2020','2021','2023']:
         for kolom in reizigerskolommen:
             df_arr_lls[kolom] = df_arr_lls[kolom]/ df_arr_lls['AANTAL_QUAYS'] 
 
-#%% Arriva per quaycode
+#%% 
+# Arriva per quaycode
 df_arr_22 = pd.DataFrame()
 
 if filter_jaar in ['2022']:
 
     for concessie in ['LLS']: #, 
-        df_conc = pd.read_excel(os.path.join(G01_folder,'Lelystad','2022',f'G01_{concessie}_{filter_jaar}_quay.xlsx'), dtype=dtype_g01)
+        df_conc = pd.read_excel(data_folder / G01_folder / 'Lelystad' / '2022' / f'G01_{concessie}_{filter_jaar}_quay.xlsx' , dtype=dtype_g01)
         df_conc = tel_vakantie_en_niet_vakantie_op(df_conc)
         df_conc['DATAOWNERCODE'] = 'ARR'
         df_conc['CONCESSIE'] = concessie
@@ -277,19 +290,20 @@ if filter_jaar in ['2022']:
     df_arr_lls = df_arr_22
         
     print("Klaar met Arriva Lelystad")
-#%%  Arriva Ach-Riv   
+#%%  
+# Arriva Ach-Riv   
 chb_quay_dict = df_chb.set_index('QUAYCODE')['STOPPLACECODE'].to_dict()  
 PSA_tabel_arriva   
 df_arriva = pd.DataFrame()
-for g01_file in os.listdir(os.path.join(G01_folder, 'Arriva')):
-    if os.path.isdir(os.path.join(G01_folder,'Arriva', g01_file)):
+for g01_file in (data_folder / G01_folder / 'Arriva').iterdir():
+    if g01_file.is_dir():
         continue
-    if not g01_file.split('.')[0].split('_')[-1] == filter_jaar:
+    if not g01_file.name.split('.')[0].split('_')[-1] == filter_jaar:
         continue
 
-    print(g01_file)
+    print(g01_file.name)
 
-    df_arr_g01 = pd.read_csv(os.path.join(G01_folder, 'Arriva', g01_file),
+    df_arr_g01 = pd.read_csv(data_folder / G01_folder / 'Arriva' / g01_file,
                                encoding='latin-1',sep=";", dtype = dtype_g01)
     
     df_arr_g01 = df_arr_g01.loc[df_arr_g01['NR_CONS_GEB'].isin(['20','23','21'])]
@@ -311,7 +325,8 @@ for g01_file in os.listdir(os.path.join(G01_folder, 'Arriva')):
     df_arr_g01 = df_arr_g01.loc[df_arr_g01[reizigerskolommen].sum(axis=1) >0 ]
     df_arriva = pd.concat([df_arriva, df_arr_g01])     
     
-#%% CXX
+#%% 
+# CXX
 
 concessie_selectie = ['FL_IJM','OV_IJM','SAN', 'VZ'] #,
 dtype_cxx = {'Halte herkomst':str, 'Halte bestemming':str, 'Postcode herkomst':str,
@@ -324,11 +339,11 @@ connexxion =  pd.DataFrame()
 PSA_tabel_CXX = PSA_tabel.loc[PSA_tabel['DATAOWNERCODE'] == 'CXX'].set_index('USERSTOPCODE')['QUAYCODE'].to_dict()
 chb_CXX_dict = df_chb.loc[df_chb['QUAYCODE'].isin(PSA_tabel_CXX.values())].set_index('QUAYCODE')['STOPPLACECODE'].to_dict()
 
-# de bestanden voor KEOLIS zitten in een map per maand
-for concessiefolder in os.listdir(os.path.join(HB_folder,'CXX')):
-    for concessiefile in os.listdir(os.path.join(HB_folder,'CXX',concessiefolder)):
+# de bestanden voor CXX zitten in een map per mconcessie
+for concessiefolder in (data_folder / "MIPOV" / "HB-log" / 'CXX').iterdir():
+    for concessiefile in concessiefolder.iterdir():
         
-        concessie = concessiefile.split('.')[0].split(' ')[1]
+        concessie = concessiefile.name.split('.')[0].split(' ')[1]
     
         if not concessie in concessie_selectie:
             continue
@@ -337,13 +352,13 @@ for concessiefolder in os.listdir(os.path.join(HB_folder,'CXX')):
             if concessie in ['FL_IJM','OV_IJM']:
                 concessie = 'IJV'
                 
-        dagtype = concessiefile.split('.')[0].split(' ')[-1]
-        jaar = concessiefile.split('.')[0].split(' ')[-2].split('-')[0]
+        dagtype = concessiefile.name.split('.')[0].split(' ')[-1]
+        jaar = concessiefile.name.split('.')[0].split(' ')[-2].split('-')[0]
         if not jaar == filter_jaar:
             continue
-        print(concessiefile)
-        maand = concessiefile.split('.')[0].split(' ')[-2].split('-')[1]
-        df = pd.read_csv(os.path.join(HB_folder, 'CXX',concessiefolder, concessiefile),
+        print(concessiefile.name)
+        maand = concessiefile.name.split('.')[0].split(' ')[-2].split('-')[1]
+        df = pd.read_csv(concessiefile,
                          encoding='latin-1', sep=';', decimal=',', thousands='.', 
                          dtype=dtype_cxx) #,
         df['Ritten'] = df['Ritten'].astype(float)
@@ -370,16 +385,17 @@ if filter_jaar == '2022':
     connexxion['CONCESSIE'] = connexxion['CONCESSIE'].replace({'VZ':'IJV'})
 print("Klaar met Connexxion")
 
-#%% totaal tabel
+#%% 
+# totaal tabel
 df_lijst = [df_keolis, df_ebs, df_arriva, df_arr_lls, connexxion]
 dflijst_samenvoegen = [x[g01_kolommen] for x in df_lijst if not x.empty]
 df_totaal = pd.concat(dflijst_samenvoegen)
 
 print('Vervoerders samengevoegd')
 
-#%% Controle
+#%% 
+# Controle
 df_per_concessie = df_totaal.groupby(['DATAOWNERCODE','CONCESSIE'])[reizigerskolommen].sum()
-df_per_concessie = df_arriva.groupby(['DATAOWNERCODE','CONCESSIE'])[reizigerskolommen].sum()
 #%% naar daggemiddelden
 def jaar_totaal_naar_gemiddelde(df):
     df[['INSTAP_WERK', 'UITSTAP_WERK']] = df[['INSTAP_WERK', 'UITSTAP_WERK']]/dagen_per_type[filter_jaar]['WERK']
@@ -463,3 +479,5 @@ def bepaling_per_halte(level):
 # df_instappers_stopplace = bepaling_per_halte('STOPPLACECODE') 
 # df_instappers_quaycode = bepaling_per_halte('QUAYCODE') 
 df_per_halte_chb, df_per_halte, df_per_halte_per_concessie = bepaling_per_halte('QUAYCODE') 
+
+# %%

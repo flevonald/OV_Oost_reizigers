@@ -1,0 +1,8 @@
+LshLem - 49150040 - Lemmerkade - 49000630
+LshRin - 49150021 - Lelystad-Haven, Ringdijk - 49000670
+LlsLel - 49000390 - Lelystad, Lelycentre -  49000050
+LlsWer - 49150060 - Werkeiland - 49000600
+LshMon - 49150070 - Monnickendamstraat - 49000620
+LlsOos - 49140040 - Oostranddreef - 49000820
+LlsLar - 49110290 - Larserpoort - 49110240
+LlsPar - 49001030 - Parkhaven - 49000590
