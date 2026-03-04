@@ -15,11 +15,13 @@ YY = jaargemiddelde
 
 @author: kuinr01
 """
+#%%
+# imports
 import pandas as pd
-import os
+from pathlib import Path
 import calendar
 
-from folders import G01_folder, PMR_folder, HB_folder
+from folders import G01_folder, PMR_folder, data_folder
 #%% 
 def tel_vakantie_en_niet_vakantie_op(df):              
     for plek in ['INSTAP', 'UITSTAP']:        
@@ -68,7 +70,8 @@ def leading_zero(a):
         return '0'+a
     else:
         return a
-#%% variabelen
+#%% 
+# variabelen
 output_kolommen = ['NR_CONS_GEB', 'JAAR', 'MAAND', 'INSTAP_WERK', 'UITSTAP_WERK', 'INSTAP_ZA',
        'UITSTAP_ZA', 'INSTAP_ZO', 'UITSTAP_ZO']
 reizigerskolommen = ['INSTAP_WERK', 'UITSTAP_WERK', 'INSTAP_ZA', 'UITSTAP_ZA',
@@ -77,7 +80,7 @@ reizigerskolommen = ['INSTAP_WERK', 'UITSTAP_WERK', 'INSTAP_ZA', 'UITSTAP_ZA',
 g01_kolommen = ['DATAOWNERCODE','CONCESSIE','JAAR','MAAND','STOPPLACECODE','QUAYCODE'] + reizigerskolommen
 #in deze sheet staan de haltenummers van de stations
 stations = pd.read_excel('../Stationscodes.xlsx', dtype={'HNR':str})
-stationslijst = pd.read_excel(os.path.join(PMR_folder,'stationslijst.xlsx'))
+stationslijst = pd.read_excel(PMR_folder / 'stationslijst.xlsx')
 stationslijst = stationslijst.loc[stationslijst['Provincie'].isin(['Drenthe','Overijssel','Gelderland','Flevoland']) | stationslijst['Station'].isin(['Amersfoort Centraal'])]['Station']
 
 concessie_dict = {103:'TZUHO', 106:'TZWKA', 111:'TZWEN',113:'TENGR', 101:'AEW'}
@@ -91,7 +94,8 @@ dagen_per_type = {'2015': {'WERK':258, 'ZA':52, 'ZO':58},
                   '2021': {'WERK':256, 'ZA':52, 'ZO':57},
                   '2022': {'WERK':256, 'ZA':53, 'ZO':57},
                   '2023':{'WERK': 254, 'ZA':53,'ZO':58},
-                  '2024':{'WERK': 256, 'ZA':52,'ZO':58}}
+                  '2024':{'WERK': 256, 'ZA':52,'ZO':58},
+                  '2025':{'WERK': 255, 'ZA': 52,'ZO': 58}}
 
 dagen_per_subtype = {'2015': {'NIETVAK': {'WERK': 130, 'ZA': 28,'ZO': 31},
                            'VAK': {'WERK':124, 'ZA': 25, 'ZO': 27}},
@@ -116,7 +120,7 @@ dagen_per_subtype = {'2015': {'NIETVAK': {'WERK': 130, 'ZA': 28,'ZO': 31},
                             }
                    }
 #%% Input
-filter_jaar = '2023'
+filter_jaar = '2025'
 #%% KEOLIS / SYNTUS
 
 dtype_keolis = {'HNR':str,'JAAR':str, 'MAAND':str}
@@ -124,21 +128,20 @@ df_keolis = pd.DataFrame()
 
 filter_jaar_keolis = filter_jaar[2:4]
 
-for maandfolder in os.listdir(os.path.join(G01_folder,'KEOLIS')):
+for maandfolder in (data_folder / G01_folder / 'KEOLIS').iterdir():
     # print(jaarfolder)
-    if maandfolder.split(' ')[2][0:2] != filter_jaar_keolis:
+    if maandfolder.name.split(' ')[2][0:2] != filter_jaar_keolis:
         # print('Overgeslagen')
         continue
 
     print(maandfolder)
-    for concessiefile in os.listdir(os.path.join(G01_folder,'KEOLIS', maandfolder)):
-        if not concessiefile.split('_')[0] in str(concessie_dict.keys()):
+    for concessiefile in (data_folder / G01_folder / 'KEOLIS' / maandfolder).iterdir():
+        if not concessiefile.name.split('_')[0] in str(concessie_dict.keys()):
             continue
-        print(concessiefile)
+        print(concessiefile.name)
         
         # in de tabel staat een rij met de totalen per uurblok per lijn voor een maand
-        df_concessie = pd.read_csv(os.path.join(G01_folder,'KEOLIS', 
-                    maandfolder,concessiefile), encoding='latin-1',sep=";", dtype = dtype_keolis)
+        df_concessie = pd.read_csv(data_folder / G01_folder / 'KEOLIS' / maandfolder / concessiefile, encoding='latin-1',sep=";", dtype = dtype_keolis)
         df_concessie['HNR'] = df_concessie['HNR'].str.strip()
         
         # # vanaf 2017 zijn er pas haltenamen toegevoegd. daarom wordt gefilterd op haltenummer
@@ -166,7 +169,7 @@ for maandfolder in os.listdir(os.path.join(G01_folder,'KEOLIS')):
         
         #herverdeling onbekend
         if 'ONBEKEND' in som['HNR'].to_list():
-            som[reizigerskolommen].sum()
+            som[reizigerskolommen] = som[reizigerskolommen].astype(float)
             vermenigvuldiging = som.loc[som['HNR']=='ONBEKEND'][reizigerskolommen].sum() /som[reizigerskolommen].sum()
             som.loc[som['HNR']!='ONBEKEND',reizigerskolommen]  = som.loc[som['HNR']!='ONBEKEND',reizigerskolommen].multiply(1+vermenigvuldiging).round(1)
             som = som.loc[som['HNR']!='ONBEKEND']
@@ -180,20 +183,20 @@ df_keolis['MAAND'] = df_keolis['MAAND'].apply(leading_zero)
 
 #%% NS
 print('NS')
-ns_instappers = pd.read_excel(os.path.join(PMR_folder,"Stationsinstappers\instappers per jaar.xlsx"))
-ns_instappers = ns_instappers.loc[ns_instappers['Station'].isin(stationslijst)]
-ns_instappers = ns_instappers.set_index('Station').stack() / 2
-ns_instappers.name = 'INSTAP_WERK'
-ns_instappers = pd.DataFrame(ns_instappers).reset_index().rename(columns={'level_1':'JAAR','Station':'STATION'})
+df_ns = pd.read_excel(PMR_folder / "Stationsinstappers" / "instappers per jaar.xlsx")
+df_ns = df_ns.loc[df_ns['Station'].isin(stationslijst)]
+df_ns = df_ns.set_index('Station').stack() / 2
+df_ns.name = 'INSTAP_WERK'
+df_ns = pd.DataFrame(df_ns).reset_index().rename(columns={'level_1':'JAAR','Station':'STATION'})
 
-ns_instappers['JAAR'] = ns_instappers['JAAR'].astype(str)
-ns_instappers = ns_instappers.loc[ns_instappers['JAAR']==filter_jaar]
+df_ns['JAAR'] = df_ns['JAAR'].astype(str)
+df_ns = df_ns.loc[df_ns['JAAR']==filter_jaar]
 
-ns_instappers['UITSTAP_WERK'] = ns_instappers['INSTAP_WERK']
-ns_instappers['CONCESSIE'] = 'NS'
-ns_instappers['MAAND'] = 'YY'
-ns_instappers['UURBLOK'] = 'XX'
-ns_instappers['DATAOWNERCODE'] = 'NS'
+df_ns['UITSTAP_WERK'] = df_ns['INSTAP_WERK']
+df_ns['CONCESSIE'] = 'NS'
+df_ns['MAAND'] = 'YY'
+df_ns['UURBLOK'] = 'XX'
+df_ns['DATAOWNERCODE'] = 'NS'
 
 #%% ARRIVA  
 def O10_to_g1(arriva_hb):    
@@ -224,14 +227,14 @@ stationsdict_arr = {'Arnhem':'Arnhem Centraal',
 
 if filter_jaar in ['2020','2021','2022']:
     df_arriva = pd.DataFrame()
-    stationstabel = pd.read_excel("C:\data\O10\Stationstabel.xlsx", dtype={'[UserStopCode]':str})
+    stationstabel = pd.read_excel(data_folder / 'MIPOV' / 'O10' / 'Stationstabel.xlsx', dtype={'[UserStopCode]':str})
     
     stationsdict = stationstabel.drop_duplicates(['[UserStopAreaCode]']).set_index('[UserStopAreaCode]')['[Name]'].to_dict()
     print('ARRIVA')
     
     dtype_arr = {'jaarmaand':str}
 
-    arriva_hb = pd.read_excel(os.path.join(HB_folder,'ARRIVA-trein',f'HB Logs {filter_jaar}.xlsx'), dtype= {'MAAND':str})
+    arriva_hb = pd.read_excel(data_folder / 'MIPOV' /'HB-log' / 'ARRIVA-trein' / f'HB Logs {filter_jaar}.xlsx', dtype= {'MAAND':str})
     
     stations_niet_in_lijst = [s for s in arriva_hb['HALTE_HERKOMST'].unique() if s not in stationstabel['[UserStopAreaCode]'].to_list()]
     if len(stations_niet_in_lijst):
@@ -254,14 +257,15 @@ if filter_jaar in ['2020','2021','2022']:
         
     df_arriva['DATAOWNERCODE'] = 'ARR'
     
-#%% ARRIVA GT 2019 heeft O10 formaat
+#%% 
+# ARRIVA GT 2019 heeft O10 formaat
 if filter_jaar in ['2019']:
-    stationstabel = pd.read_excel("C:\data\O10\Stationstabel.xlsx", dtype={'[UserStopCode]':str})
+    stationstabel = pd.read_excel(data_folder / 'MIPOV' / 'O10' / 'Stationstabel.xlsx', dtype={'[UserStopCode]':str})
     
     stationsdict = stationstabel.drop_duplicates(['[UserStopAreaCode]']).set_index('[UserStopAreaCode]')['[Name]'].to_dict()
     
     if '2019' == filter_jaar:
-        df = pd.read_excel(r"C:\data\O10\201911_O10_GT.xlsx", dtype=dtype_keolis)
+        df = pd.read_excel(data_folder / 'MIPOV' / 'O10' / '201911_O10_GT.xlsx', dtype=dtype_keolis)
 
     df['CONCESSIE'] = 'GT'
     df['CI station'] = df['HALTE_HERKOMST'].map(stationsdict)
@@ -276,14 +280,17 @@ if filter_jaar in ['2019']:
     df_arriva.loc[df_arriva['LYNCODE']=='TARDO','CONCESSIE'] = 'BRENG'
     df_arriva.loc[df_arriva['LYNCODE']=='TARZE','CONCESSIE'] = 'RE19'
     df_arriva = df_arriva.reset_index()
-#%% ARRIVA G01
+#%% 
+# ARRIVA G01
 df_arriva = pd.DataFrame()
-if filter_jaar in ['2023','2024']: 
-    for g01_file in os.listdir(os.path.join(G01_folder,'Arriva')):      
-        if g01_file.split('_')[-1].split('.')[0] != filter_jaar:
+if filter_jaar in ['2023','2024','2025']: 
+    for g01_file in (data_folder / G01_folder / 'Arriva').iterdir(): 
+        if not g01_file.is_file():
+            continue
+        if g01_file.name.split('_')[-1].split('.')[0] != filter_jaar:
                   continue
         print(g01_file)
-        df_arriva = pd.concat([df_arriva, pd.read_csv(os.path.join(G01_folder,'Arriva', g01_file), dtype=dtype_keolis, sep=';')])
+        df_arriva = pd.concat([df_arriva, pd.read_csv(g01_file, dtype=dtype_keolis, sep=';')])
     print(df_arriva['NR_CONS_GEB'].unique())
     #filter op treinconcessie
     df_arriva = df_arriva.loc[df_arriva['NR_CONS_GEB'].isin([199, 100, 114, 104, 105, 103, 107,108, 299])]
@@ -300,9 +307,10 @@ if filter_jaar in ['2023','2024']:
 
     df_arriva['MAAND'] = df_arriva['MAAND'].apply(leading_zero)
 
-    df_arriva = df_arriva.loc[df_arriva[reizigerskolommen].sum(axis=1) >0 ]
+    df_arriva = df_arriva.loc[df_arriva[reizigerskolommen].sum(axis=1) > 0 ]
     
-#%% CXX v1
+#%% 
+# CXX v1
 dtype= {'Halte herkomst':str, 'Halte bestemming':str, 'Postcode herkomst':str,
        'Postcode bestemming':str, 'Haltecode herkomst':str, 'Haltecode bestemming':str,
        'Lijn':str, 'Uurblok':str, 'Ritten':float, 'Transactiewaarde (inc. btw)':str,
@@ -315,10 +323,10 @@ cxx_userstops_stations = {'40615610':'Ede Centrum',	'40615630':'Ede-Wageningen',
 df_connexxion = pd.DataFrame(columns= g01_kolommen)
 
 if int(filter_jaar) < 2023:
-    df_connexxion = pd.read_excel(os.path.join(G01_folder,f'CXX Valleilijn G01 {filter_jaar}-YY.xlsx'), header=2)
+    df_connexxion = pd.read_excel(data_folder / G01_folder / f'CXX Valleilijn G01 {filter_jaar}-YY.xlsx', header=2)
     df_connexxion.iloc[:,range(2,len(df_connexxion.columns))] = df_connexxion.iloc[:,range(2,len(df_connexxion.columns))].replace('-',0)
     
-    kopregel = pd.read_excel(os.path.join(G01_folder,f'CXX Valleilijn G01 {filter_jaar}-YY.xlsx'), header=None, nrows=1).iloc[0].to_list()
+    kopregel = pd.read_excel(data_folder / G01_folder / f'CXX Valleilijn G01 {filter_jaar}-YY.xlsx', header=None, nrows=1).iloc[0].to_list()
     
     kolommen = ['UURBLOK','STATION']
     if 'Vakantie' in kopregel:    #vakantiedagen apart
@@ -349,9 +357,10 @@ if int(filter_jaar) < 2023:
     
     df_connexxion = df_connexxion.loc[~df_connexxion['STATION'].isin(['Amersfoort, Aansluiting', 'Barneveld, Aansluiting'])]
 print("Klaar met Connexxion")
-#%% CXX v2
+#%% 
+# CXX v2
 if filter_jaar == '2023':
-    df_connexxion = pd.read_excel(os.path.join(G01_folder,f'CXX Valleilijn G01 {filter_jaar}-XX.xlsx'), dtype= {'HNR':str,'JAAR':str, 'MAAND':str})
+    df_connexxion = pd.read_excel(data_folder / G01_folder / f'CXX Valleilijn G01 {filter_jaar}-XX.xlsx', dtype= {'HNR':str,'JAAR':str, 'MAAND':str})
     df_connexxion = tel_vakantie_en_niet_vakantie_op(df_connexxion)
     
     df_connexxion = df_connexxion.loc[df_connexxion['UURBLOK']!='Totaal']
@@ -366,22 +375,24 @@ if filter_jaar == '2023':
     df_connexxion = df_connexxion.loc[~df_connexxion['STATION'].isin(['Amersfoort, Aansluiting', 'Barneveld, Aansluiting'])]
     print("Klaar met Connexxion")
     
-#%% totaal tabel
+#%% 
+# totaal tabel
 
 df_totaal = pd.DataFrame()
 df_totaal = pd.concat([df_keolis, df_arriva, df_connexxion]) # 
 df_totaal = df_totaal.sort_values(['STATION','JAAR','MAAND'])
 
-df_totaal_incl_ns = pd.concat([df_totaal,ns_instappers])
+df_totaal_incl_ns = pd.concat([df_totaal,df_ns])
 df_per_concessie = df_totaal.groupby(['DATAOWNERCODE','CONCESSIE'])[['INSTAP_WERK', 'INSTAP_ZA','INSTAP_ZO']].sum().sum(axis=1)
-#%% naar daggemiddelden
+#%% 
+# naar maandfactoren
 def jaar_totaal_naar_gemiddelde(df):
     df[['INSTAP_WERK', 'UITSTAP_WERK']] = df[['INSTAP_WERK', 'UITSTAP_WERK']]/dagen_per_type[filter_jaar]['WERK']
     df[['INSTAP_ZA', 'UITSTAP_ZA']] = df[['INSTAP_ZA', 'UITSTAP_ZA']]/dagen_per_type[filter_jaar]['ZA']
     df[['INSTAP_ZO', 'UITSTAP_ZO']] = df[['INSTAP_ZO', 'UITSTAP_ZO']]/dagen_per_type[filter_jaar]['ZO']
     return df
 
-#maandfactoren
+
 factoren = {}
 for concessie, df_group in df_totaal.groupby(['CONCESSIE']):
     if {'01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12'
@@ -397,6 +408,7 @@ else:
     print('Geen maandfactoren te bepalen')
     pass
 #%%
+#functie om jaargemiddeldes per station en concessie te berekenen, waarbij rekening wordt gehouden met verschillende manieren waarop de data aangeleverd kan zijn
 def jaargemiddeld_per_concessie(df_jaar, print_variant = None):
 
     df_jaargemiddelde_per_station_concessie = pd.DataFrame()
@@ -447,12 +459,13 @@ def jaargemiddeld_per_concessie(df_jaar, print_variant = None):
         else:
             if print_variant:  
                 print('Onbekend')
-        df_group_o[reizigerskolommen] = df_group_o[reizigerskolommen].applymap(lambda x: round(x), na_action='ignore').astype(int)
+        df_group_o[reizigerskolommen] = df_group_o[reizigerskolommen].round().astype(int)
         
         df_jaargemiddelde_per_station_concessie = pd.concat([df_jaargemiddelde_per_station_concessie, df_group_o.reset_index()])
     df_jaargemiddelde_per_station = df_jaargemiddelde_per_station_concessie.groupby(['STATION'])[reizigerskolommen].sum().reset_index()             
     return df_jaargemiddelde_per_station_concessie, df_jaargemiddelde_per_station
 #%%
+#wegschrijven
 gem_per_station_concessie, gem_per_station = jaargemiddeld_per_concessie(df_totaal,  print_variant = True)
 
 gem_per_station_concessie.to_csv(f'../Reizigers per station per concessie/Reizigers per station (cico) per concessie {filter_jaar}.csv', sep=',', decimal = '.', index=False)
