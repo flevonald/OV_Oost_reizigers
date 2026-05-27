@@ -33,6 +33,9 @@ Doetinchem De Huet,GT,364,375,296,298,222,182
 Duiven,GT,592,618,718,662,438,398
 Ede-Wageningen,GT,0,0,0,0,0,0
 Elst,GT,555,707,238,295,153,206
+Elten,GT,0,0,0,0,0,0
+Emmerich,GT,0,0,0,0,0,0
+Emmerich Praest,GT,1,1,2,2,2,2
 Gaanderen,GT,205,199,156,148,106,90
 Hemmen-Dodewaard,GT,53,51,24,21,16,15
 Kesteren,GT,278,272,111,108,65,82
@@ -117,10 +120,12 @@ Zaltbommel,NS,1636,1636,0,0,0,0
 Zutphen,NS,4992,4992,0,0,0,0
 Zwolle,NS,17413,17413,0,0,0,0
 Arnhem Centraal,RE19,113,85,71,85,42,56
+Elten,RE19,15,17,8,11,7,7
+Emmerich,RE19,14,15,19,21,8,7
 Zevenaar,RE19,64,90,66,47,45,32
-Enschede,TENGR,134,138,75,78,44,51
+Enschede,TENGR,134,138,75,79,44,51
 Enschede De Eschmarke,TENGR,20,20,5,4,3,5
-Glanerburg,TENGR,77,71,38,33,32,23
+Glanerbrug,TENGR,77,71,38,33,32,23
 Gronau,TENGR,49,50,40,42,18,18
 Delden,TZUHO,253,252,164,160,140,107
 Goor,TZUHO,636,616,294,269,235,173

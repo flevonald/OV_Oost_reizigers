@@ -6989,7 +6989,6 @@ SAN;NL:Q:40000360;IJsseloord 1;Arnhem;35,4;1,4;13,0;1,4;7,2;0,7
 SAN;NL:Q:40000370;IJsseloord 1;Arnhem;1,5;30,7;6,9;15,2;3,0;8,5
 SAN;NL:Q:40000380;Meander;Arnhem;0,9;19,8;0,0;0,0;0,0;0,0
 SAN;NL:Q:40000390;Meander;Arnhem;17,9;0,1;0,0;0,0;0,0;0,0
-SAN;NL:Q:40000500;Arnhem Centraal;Arnhem;0,0;1766,9;0,0;0,0;0,0;0,0
 SAN;NL:Q:40000510;Museum Arnhem;Arnhem;30,3;16,9;20,2;11,9;16,1;8,9
 SAN;NL:Q:40000520;Museum Arnhem;Arnhem;20,2;76,5;16,2;42,0;11,4;34,8
 SAN;NL:Q:40000530;Zwarteweg;Arnhem;19,8;62,5;10,6;37,9;6,5;25,3
@@ -6998,7 +6997,6 @@ SAN;NL:Q:40000550;Oranjestraat;Arnhem;36,2;153,4;19,1;77,0;13,4;52,8
 SAN;NL:Q:40000560;Oranjestraat;Arnhem;151,8;33,0;77,9;16,2;43,3;10,1
 SAN;NL:Q:40000570;Klingelbeekseweg;Arnhem;1,1;15,6;0,5;4,0;0,2;1,7
 SAN;NL:Q:40000580;Klingelbeekseweg;Arnhem;6,9;1,9;3,0;1,0;0,9;0,6
-SAN;NL:Q:40000590;Arnhem Centraal;Arnhem;1572,2;0,0;0,0;0,0;0,0;0,0
 SAN;NL:Q:40000600;Arnhems Buiten;Arnhem;124,2;14,9;35,0;7,9;21,7;5,5
 SAN;NL:Q:40000650;tunnel IJsseloord;Arnhem;7,7;17,8;2,2;4,7;1,1;1,3
 SAN;NL:Q:40000660;tunnel IJsseloord;Arnhem;19,4;9,5;5,3;3,2;1,7;1,2
@@ -7006,8 +7004,6 @@ SAN;NL:Q:40000670;Blankenweg;Arnhem;7,0;29,7;7,2;14,4;1,6;9,5
 SAN;NL:Q:40000680;Blankenweg;Arnhem;24,7;7,4;12,5;7,0;7,3;1,3
 SAN;NL:Q:40000690;Dr. C. Lelyweg Noord;Arnhem;14,5;29,3;6,7;19,2;4,3;10,8
 SAN;NL:Q:40000700;Dr. C. Lelyweg Noord;Arnhem;20,0;14,5;12,9;7,0;4,7;3,8
-SAN;NL:Q:40000790;Arnhem Velperpoort;Arnhem;351,7;157,9;0,0;0,0;0,0;0,0
-SAN;NL:Q:40000800;Arnhem Velperpoort;Arnhem;105,4;404,0;0,0;0,0;0,0;0,0
 SAN;NL:Q:40000970;IJsseloord 2;Arnhem;30,4;33,6;0,0;0,0;0,0;0,0
 SAN;NL:Q:40001000;Middachtensingel;Arnhem;0,3;6,0;0,0;0,0;0,0;0,0
 SAN;NL:Q:40001050;Sonsbeekweg;Arnhem;4,6;1,6;6,3;1,3;4,8;1,1
@@ -7805,8 +7801,6 @@ SAN;NL:Q:41151070;Santacker;Westervoort;55,9;4,7;45,2;4,8;29,9;1,8
 SAN;NL:Q:41151080;Santacker;Westervoort;6,4;52,7;6,0;45,8;2,1;30,3
 SAN;NL:Q:41151090;Emmerik;Westervoort;38,5;2,6;31,6;2,1;16,8;0,7
 SAN;NL:Q:41151100;Emmerik;Westervoort;2,9;35,4;2,3;29,9;0,7;18,5
-SAN;NL:Q:41151190;Westervoort;Westervoort;207,6;55,6;0,0;0,0;0,0;0,0
-SAN;NL:Q:41151200;Westervoort;Westervoort;50,7;173,3;0,0;0,0;0,0;0,0
 SAN;NL:Q:41151210;Station Westervoort;Westervoort;50,0;107,0;32,5;91,3;17,2;43,4
 SAN;NL:Q:41151220;Station Westervoort;Westervoort;194,9;142,8;81,8;32,7;39,6;12,4
 SAN;NL:Q:41152090;Heilweg;Westervoort;19,9;2,6;13,1;0,8;6,8;0,8
@@ -7939,8 +7933,6 @@ SAN;NL:Q:41250190;Schapenweide;Duiven;6,1;1,5;4,3;1,0;0,0;0,0
 SAN;NL:Q:41250200;Schapenweide;Duiven;1,9;4,7;1,3;3,2;0,0;0,0
 SAN;NL:Q:41250210;Marketing;Duiven;9,1;0,1;0,0;0,0;0,0;0,0
 SAN;NL:Q:41250220;Marketing;Duiven;0,1;10,4;0,0;0,0;0,0;0,0
-SAN;NL:Q:41250230;Duiven;Duiven;85,7;359,2;0,0;0,0;0,0;0,0
-SAN;NL:Q:41250240;Duiven;Duiven;426,1;83,9;0,0;0,0;0,0;0,0
 SAN;NL:Q:41250490;Alliander;Duiven;1,4;30,5;0,0;0,0;0,0;0,0
 SAN;NL:Q:41250530;IKEA;Duiven;1,2;26,8;0,0;0,0;0,0;0,0
 SAN;NL:Q:41250540;IKEA;Duiven;48,9;2,0;0,0;0,0;0,0;0,0
@@ -8082,8 +8074,6 @@ SAN;NL:Q:41350240;Helhoek;Duiven;0,1;0,1;0,0;0,0;0,0;0,0
 SAN;NL:Q:41350250;Schellekrans;Zevenaar;5,9;1,9;2,5;1,3;0,0;0,0
 SAN;NL:Q:41350260;Schellekrans;Zevenaar;2,3;6,4;1,4;3,1;0,0;0,0
 SAN;NL:Q:41350270;Ziekenhuis Hoofdingang;Zevenaar;0,3;3,1;0,0;0,0;0,0;0,0
-SAN;NL:Q:41350330;Zevenaar;Zevenaar;119,2;402,9;0,0;0,0;0,0;0,0
-SAN;NL:Q:41350340;Zevenaar;Zevenaar;525,8;122,3;0,0;0,0;0,0;0,0
 SAN;NL:Q:41350510;Ringbaan Oost;Zevenaar;0,3;0,0;0,0;0,0;0,0;0,0
 SAN;NL:Q:41350520;Ringbaan Oost;Zevenaar;0,0;0,3;0,0;0,0;0,0;0,0
 SAN;NL:Q:41350570;De Bem;Zevenaar;1,7;1,4;0,0;0,0;0,0;0,0
@@ -8165,10 +8155,6 @@ SAN;NL:Q:41450150;Schutterstent St. Anna;Oud-Zevenaar;1,8;0,1;1,1;0,0;0,0;0,0
 SAN;NL:Q:41450160;Schutterstent St. Anna;Oud-Zevenaar;0,4;1,5;0,1;0,5;0,0;0,0
 SAN;NL:Q:41450170;Witte Kruis;Babberich;1,5;0,1;0,7;0,0;0,0;0,0
 SAN;NL:Q:41450180;Witte Kruis;Babberich;0,1;1,5;0,0;0,7;0,0;0,0
-SAN;NL:Q:41470020;Didam;Didam;283,8;77,6;0,0;0,0;0,0;0,0
-SAN;NL:Q:41471010;Didam;Didam;78,8;250,5;0,0;0,0;0,0;0,0
-SAN;NL:Q:41490010;Wehl;Wehl;31,0;103,9;0,0;0,0;0,0;0,0
-SAN;NL:Q:41490020;Wehl;Wehl;107,6;34,6;0,0;0,0;0,0;0,0
 SAN;NL:Q:41520010;Manege;Laag-Keppel;0,2;0,0;0,1;0,0;0,2;0,0
 SAN;NL:Q:41520030;Gouden Leeuw;Laag-Keppel;2,6;0,3;0,6;0,2;0,8;0,4
 SAN;NL:Q:41520040;Gouden Leeuw;Laag-Keppel;0,3;2,1;0,1;0,5;0,4;0,7
@@ -8203,10 +8189,6 @@ SAN;NL:Q:41650160;De Bijland;Herwen;0,0;0,9;0,0;0,3;0,0;0,0
 SAN;NL:Q:41650200;Willibrordusweg;Spijk;8,0;6,1;0,0;0,0;0,0;0,0
 SAN;NL:Q:41650220;Tengnagelwaard;Spijk;0,1;5,4;0,0;0,0;0,0;0,0
 SAN;NL:Q:41650230;Tengnagelwaard;Spijk;3,5;0,0;0,0;0,0;0,0;0,0
-SAN;NL:Q:41720095;Doetinchem De Huet;Doetinchem;40,9;202,0;0,0;0,0;0,0;0,0
-SAN;NL:Q:41720105;Doetinchem De Huet;Doetinchem;215,0;35,3;0,0;0,0;0,0;0,0
-SAN;NL:Q:41720111;Doetinchem;Doetinchem;0,0;680,3;0,0;0,0;0,0;0,0
-SAN;NL:Q:41720121;Doetinchem;Doetinchem;708,8;0,0;0,0;0,0;0,0;0,0
 SAN;NL:Q:41720230;Centrum;Doetinchem;21,8;0,5;6,0;0,2;6,9;0,2
 SAN;NL:Q:41720240;Centrum;Doetinchem;0,6;31,2;0,2;10,5;0,3;11,8
 SAN;NL:Q:41721104;Station;Doetinchem;23,6;30,6;5,4;6,9;7,5;9,2

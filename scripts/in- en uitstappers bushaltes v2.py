@@ -71,8 +71,9 @@ def leading_zero(a):
         return '0'+a
     else:
         return a
-#%% Input
-filter_jaar = '2025'
+#%% 
+# Input
+filter_jaar = '2022'
 #%%
 
 dtype_g01 = {'HNR':str, 'JAAR':str, 'MAAND':str, 'LN_ID_OV_MIJ':str, 'NR_CONS_GEB':str,
@@ -365,14 +366,18 @@ for concessiefolder in (data_folder / "MIPOV" / "HB-log" / 'CXX').iterdir():
         
         #NAAR O10    
         df = df.rename(columns={'Haltecode herkomst':'HALTECODE_HERKOMST',
-               'Haltecode bestemming':'HALTECODE_BESTEMMING','Uurblok':'UURBLOK','Ritten':'RITTEN','LN_ID_OV_MIJ':'LIJN'})        
+               'Haltecode bestemming':'HALTECODE_BESTEMMING','Uurblok':'UURBLOK','Ritten':'RITTEN','Lijn':"LIJN",
+               'LN_ID_OV_MIJ':'LIJN'})
+             
         df['UURBLOK'] = df['UURBLOK'].replace(' ','')
         df['CONCESSIE'] = concessie
         df['DAGTYPE'] = dagtype
         df['JAAR'] = jaar
         df['MAAND'] = leading_zero(maand)
-    
+
+        df = df.loc[df['LIJN']!='RS32']   
         #omzetten naar G01
+
         df = O10_to_G01(df).reset_index()
     
         df['QUAYCODE'] = df['HALTECODE'].map(PSA_tabel_CXX)

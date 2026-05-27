@@ -1,12 +1,12 @@
 STATION,CONCESSIE,INSTAP_WERK,UITSTAP_WERK,INSTAP_ZA,UITSTAP_ZA,INSTAP_ZO,UITSTAP_ZO
-Amersfoort Centraal,AEW,1591,1395,841,701,593,474
-Barneveld Centrum,AEW,713,703,309,307,189,162
-Barneveld Noord,AEW,229,225,79,85,65,48
-Barneveld Zuid,AEW,193,188,82,80,45,40
-Ede Centrum,AEW,283,278,229,225,109,113
-Ede-Wageningen,AEW,657,632,379,347,234,315
-Hoevelaken,AEW,264,256,111,120,78,64
-Lunteren,AEW,208,204,145,143,83,76
+Amersfoort Centraal,AEW,1591,1394,841,700,593,473
+Barneveld Centrum,AEW,712,703,308,306,189,162
+Barneveld Noord,AEW,229,225,79,85,64,48
+Barneveld Zuid,AEW,192,188,81,80,45,39
+Ede Centrum,AEW,282,277,228,225,108,112
+Ede-Wageningen,AEW,657,632,379,346,234,314
+Hoevelaken,AEW,263,256,110,120,77,63
+Lunteren,AEW,207,204,144,143,83,76
 't Harde,NS,762,762,0,0,0,0
 Almelo,NS,4046,4046,0,0,0,0
 Almelo de Riet,NS,112,112,0,0,0,0
@@ -15,46 +15,46 @@ Almere Centrum,NS,13562,13562,0,0,0,0
 Almere Muziekwijk,NS,3210,3210,0,0,0,0
 Almere Oostvaarders,NS,2251,2251,0,0,0,0
 Almere Parkwijk,NS,1812,1812,0,0,0,0
-Almere Poort,NS,2622,2622,0,0,0,0
+Almere Poort,NS,2621,2621,0,0,0,0
 Amersfoort Centraal,NS,21855,21855,0,0,0,0
 Apeldoorn,NS,7420,7420,0,0,0,0
-Apeldoorn Osseveld,NS,634,634,0,0,0,0
+Apeldoorn Osseveld,NS,633,633,0,0,0,0
 Arnhem Centraal,NS,21838,21838,0,0,0,0
-Arnhem Presikhaaf,NS,1398,1398,0,0,0,0
+Arnhem Presikhaaf,NS,1397,1397,0,0,0,0
 Arnhem Velperpoort,NS,990,990,0,0,0,0
 Arnhem Zuid,NS,1611,1611,0,0,0,0
 Assen,NS,4284,4284,0,0,0,0
 Beilen,NS,1060,1060,0,0,0,0
 Borne,NS,169,169,0,0,0,0
 Brummen,NS,534,534,0,0,0,0
-Culemborg,NS,4468,4468,0,0,0,0
-Deventer,NS,10452,10452,0,0,0,0
+Culemborg,NS,4467,4467,0,0,0,0
+Deventer,NS,10451,10451,0,0,0,0
 Deventer Colmschate,NS,700,700,0,0,0,0
-Dieren,NS,1804,1804,0,0,0,0
+Dieren,NS,1803,1803,0,0,0,0
 Dronten,NS,1739,1739,0,0,0,0
 Ede-Wageningen,NS,9184,9184,0,0,0,0
 Elst,NS,2098,2098,0,0,0,0
 Enschede,NS,4896,4896,0,0,0,0
-Enschede Kennispark,NS,196,196,0,0,0,0
+Enschede Kennispark,NS,195,195,0,0,0,0
 Ermelo,NS,1438,1438,0,0,0,0
-Geldermalsen,NS,3248,3248,0,0,0,0
+Geldermalsen,NS,3247,3247,0,0,0,0
 Harderwijk,NS,2952,2952,0,0,0,0
-Hengelo,NS,3476,3476,0,0,0,0
+Hengelo,NS,3475,3475,0,0,0,0
 Holten,NS,691,691,0,0,0,0
-Hoogeveen,NS,2334,2334,0,0,0,0
-Kampen Zuid,NS,950,950,0,0,0,0
-Lelystad Centrum,NS,7266,7266,0,0,0,0
+Hoogeveen,NS,2333,2333,0,0,0,0
+Kampen Zuid,NS,949,949,0,0,0,0
+Lelystad Centrum,NS,7265,7265,0,0,0,0
 Meppel,NS,3171,3171,0,0,0,0
 Nijkerk,NS,1798,1798,0,0,0,0
-Nijmegen,NS,22702,22702,0,0,0,0
+Nijmegen,NS,22701,22701,0,0,0,0
 Nijmegen Dukenburg,NS,1230,1230,0,0,0,0
 Nijmegen Goffert,NS,757,757,0,0,0,0
 Nijmegen Lent,NS,690,690,0,0,0,0
 Nunspeet,NS,1330,1330,0,0,0,0
-Olst,NS,660,660,0,0,0,0
+Olst,NS,659,659,0,0,0,0
 Oosterbeek,NS,239,239,0,0,0,0
 Putten,NS,952,952,0,0,0,0
-Rheden,NS,416,416,0,0,0,0
+Rheden,NS,415,415,0,0,0,0
 Rijssen,NS,1257,1257,0,0,0,0
 Steenwijk,NS,1912,1912,0,0,0,0
 Tiel,NS,1649,1649,0,0,0,0

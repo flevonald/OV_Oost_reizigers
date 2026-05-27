@@ -27,6 +27,9 @@ Doetinchem,GT,1263,1367,1046,1112,665,595
 Doetinchem De Huet,GT,382,405,326,324,233,199
 Duiven,GT,609,641,798,730,482,454
 Elst,GT,578,694,256,304,163,228
+Elten,GT,6,6,7,7,3,3
+Emmerich,GT,8,8,17,17,5,3
+Emmerich Praest,GT,0,0,0,0,0,0
 Gaanderen,GT,225,216,192,180,119,100
 Hemmen-Dodewaard,GT,48,47,23,21,16,14
 Kesteren,GT,277,270,116,103,69,57
@@ -46,8 +49,39 @@ Winterswijk West,GT,144,159,72,77,72,61
 Zetten-Andelst,GT,288,274,165,152,107,102
 Zevenaar,GT,794,813,848,831,542,495
 Zutphen,GT,2549,2581,1272,1298,902,1161
-Arnhem Centraal,RE19,3,2,2,2,1,1
-Zevenaar,RE19,1,2,1,1,1,1
+Arnhem Centraal,RE19,59,34,39,44,19,20
+Elten,RE19,13,17,11,13,6,6
+Emmerich,RE19,9,10,19,19,4,4
+Emmerich Praest,RE19,1,1,1,1,1,1
+Zevenaar,RE19,24,45,26,20,14,14
+Enschede,TENGR,149,144,116,114,49,51
+Enschede De Eschmarke,TENGR,25,24,5,4,3,3
+Glanerbrug,TENGR,70,58,43,37,31,25
+Gronau,TENGR,79,78,83,82,25,25
+Aalten,TZUHO,0,0,0,0,0,0
+Apeldoorn,TZUHO,0,4,0,0,0,0
+Apeldoorn De Maten,TZUHO,0,1,0,0,0,0
+Arnhem Centraal,TZUHO,0,0,0,0,0,0
+Delden,TZUHO,293,296,214,214,160,133
+Doetinchem,TZUHO,0,0,0,0,0,0
+Gaanderen,TZUHO,0,0,0,0,0,0
+Goor,TZUHO,655,655,348,329,234,181
+Hengelo,TZUHO,2044,2048,1183,1218,766,934
+Hengelo Gezondheidspark,TZUHO,158,159,76,73,57,53
+Hengelo Oost,TZUHO,180,154,131,109,83,78
+Klarenbeek,TZUHO,0,0,0,0,0,0
+Lichtenvoorde-Groenlo,TZUHO,0,1,0,0,0,0
+Lochem,TZUHO,440,449,255,263,223,167
+Oldenzaal,TZUHO,813,822,419,424,351,273
+Ruurlo,TZUHO,0,1,0,0,0,0
+Terborg,TZUHO,0,0,0,0,0,0
+Varsseveld,TZUHO,0,0,0,0,0,0
+Voorst-Empe,TZUHO,0,0,0,0,0,0
+Vorden,TZUHO,0,1,0,0,0,0
+Westervoort,TZUHO,0,0,0,0,0,0
+Winterswijk,TZUHO,0,1,0,0,0,0
+Winterswijk West,TZUHO,0,0,0,0,0,0
+Zutphen,TZUHO,1121,1111,887,885,756,811
 Almelo,TZWEN,1957,2215,799,903,627,661
 Almelo de Riet,TZWEN,377,352,183,170,120,123
 Borne,TZWEN,703,720,435,437,361,297
@@ -62,3 +96,29 @@ Zwolle,TZWEN,3695,3447,2280,2136,1796,1829
 Kampen,TZWKA,1769,1731,1088,1031,673,634
 Zwolle,TZWKA,1898,1906,1162,1240,763,818
 Zwolle Stadshagen,TZWKA,622,650,378,357,278,262
+Aalten,VD,0,0,0,0,0,0
+Almelo,VD,473,478,253,281,162,211
+Apeldoorn,VD,0,0,0,0,0,0
+Arnhem Centraal,VD,0,0,0,0,0,0
+Coevorden,VD,648,661,376,369,253,215
+Daarlerveen,VD,57,54,25,21,15,13
+Dalen,VD,90,87,69,70,43,33
+Dalfsen,VD,557,561,393,394,286,225
+Delden,VD,4,5,10,9,9,7
+Emmen,VD,857,865,644,685,504,479
+Emmen Zuid,VD,326,318,190,190,164,140
+Goor,VD,10,10,11,11,8,7
+Gramsbergen,VD,114,110,96,96,54,43
+Hardenberg,VD,1256,1265,643,649,466,413
+Hengelo,VD,56,64,39,51,30,51
+Hengelo Gezondheidspark,VD,2,2,2,2,1,1
+Hengelo Oost,VD,0,0,1,1,2,1
+Lochem,VD,7,8,10,11,7,6
+Nieuw Amsterdam,VD,229,233,149,146,117,89
+Oldenzaal,VD,50,42,30,17,34,15
+Ommen,VD,745,761,468,480,374,269
+Vriezenveen,VD,169,162,71,55,38,34
+Vroomshoop,VD,202,196,93,75,55,45
+Wehl,VD,0,0,0,0,0,0
+Zutphen,VD,10,10,22,22,14,16
+Zwolle,VD,2916,2888,1857,1821,1222,1579
